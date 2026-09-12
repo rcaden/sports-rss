@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Sports News</title>
+    <link>https://rcaden.github.io/sports-rss/</link>
+    <description>Three noteworthy sports stories.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2026 16:00:00 GMT</lastBuildDate>
+    <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>First sports story headline</title>
+      <link>https://example.com/story-one</link>
+      <guid isPermaLink="false">sports-story-placeholder-1</guid>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[Summary of the first sports story.]]></description>
+      <source url="https://example.com/">Publication Name</source>
+    </item>
+
+    <item>
+      <title>Second sports story headline</title>
+      <link>https://example.com/story-two</link>
+      <guid isPermaLink="false">sports-story-placeholder-2</guid>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[Summary of the second sports story.]]></description>
+      <source url="https://example.com/">Publication Name</source>
+    </item>
+
+    <item>
+      <title>Third sports story headline</title>
+      <link>https://example.com/story-three</link>
+      <guid isPermaLink="false">sports-story-placeholder-3</guid>
+      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[Summary of the third sports story.]]></description>
+      <source url="https://example.com/">Publication Name</source>
+    </item>
+  </channel>
+</rss>

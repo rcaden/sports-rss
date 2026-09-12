@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Light News</title>
+    <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
+    <description>Positive, lighthearted and unusual current news.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2026 15:32:00 GMT</lastBuildDate>
+    <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
+    <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Celine Dion returns to the stage in Paris</title>
+      <link>https://www.reuters.com/lifestyle/its-all-coming-back-me-now-celine-dion-returns-stage-paris-2026-09-11/</link>
+      <guid isPermaLink="true">https://www.reuters.com/lifestyle/its-all-coming-back-me-now-celine-dion-returns-stage-paris-2026-09-11/</guid>
+      <pubDate>Fri, 11 Sep 2026 16:14:00 GMT</pubDate>
+      <description><![CDATA[Celine Dion returns to the stage Saturday for her first full concert in six years, opening a sold-out Paris residency after stiff person syndrome sidelined her career. Paris welcomed her with decorated metro stops, a merchandise pop-up and a giant karaoke event.]]></description>
+      <source url="https://www.reuters.com/lifestyle/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Mastodon tooth turns up in a California creek</title>
+      <link>https://apnews.com/article/fossilized-mastodon-tooth-discovery-california-f7acdd7f3a1240ed0710313e2ab87dc8</link>
+      <guid isPermaLink="true">https://apnews.com/article/fossilized-mastodon-tooth-discovery-california-f7acdd7f3a1240ed0710313e2ab87dc8</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Geomorphologist Brigid Lynch spotted a nine-inch Pacific mastodon tooth sitting half in, half out of a Bay Area creek while working on frog-habitat restoration. The unusually intact fossil, complete with crown and root, will be studied at Stanford and copied in 3D for public education.]]></description>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Costa Rican man, 119, seeks world's-oldest recognition</title>
+      <link>https://www.reuters.com/world/americas/costa-rican-man-119-seeks-recognition-worlds-oldest-person-2026-09-09/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/americas/costa-rican-man-119-seeks-recognition-worlds-oldest-person-2026-09-09/</guid>
+      <pubDate>Wed, 09 Sep 2026 12:05:00 GMT</pubDate>
+      <description><![CDATA[Jose Flores of Costa Rica is seeking recognition as the world's oldest living person at 119. The former farmworker still jokes and arm-wrestles with his granddaughter in the Nicoya Peninsula, a longevity hot spot. His family and researchers are assembling birth, baptism and other records for verification.]]></description>
+      <source url="https://www.reuters.com/world/americas/">Reuters</source>
+    </item>
+  </channel>
+</rss>

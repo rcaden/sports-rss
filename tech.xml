@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Reading</title>
+    <link>https://rcaden.github.io/sports-rss/tech.xml</link>
+    <description>Articles about software, publishing and the open web.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2026 16:05:00 GMT</lastBuildDate>
+    <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
+    <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Current turns RSS reading into a river instead of an inbox</title>
+      <link>https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Current rethinks RSS as a river instead of an inbox: items fade on schedules matched to their type, while readers can tune source speed, mute noisy feeds, follow individual voices and import OPML. The $9.99 Apple app has no subscription, and a web version is planned.]]></description>
+      <source url="https://techcrunch.com/">TechCrunch</source>
+    </item>
+
+    <item>
+      <title>WordPress launches a private site creator that runs in a browser</title>
+      <link>https://www.theverge.com/tech/893766/wordpress-browser-website-creator</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/893766/wordpress-browser-website-creator</guid>
+      <pubDate>Thu, 12 Mar 2026 15:15:00 GMT</pubDate>
+      <description><![CDATA[WordPress.org's my.WordPress.net creates private sites entirely in a browser, with no account, host or domain. Built on WordPress Playground, it stores data locally and supports experiments with themes, plugins, drafts and a personal RSS reader.]]></description>
+      <source url="https://www.theverge.com/">The Verge</source>
+    </item>
+
+    <item>
+      <title>The Ankler moves from Substack to Ben Thompson's Passport</title>
+      <link>https://www.axios.com/2026/04/28/the-ankler-substack-passport</link>
+      <guid isPermaLink="true">https://www.axios.com/2026/04/28/the-ankler-substack-passport</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The Ankler is moving its publishing operation from Substack to Passport, a subscription platform from independent publisher Ben Thompson built with Automattic. Axios reports the move will give the outlet more control over its audience, data, bundles, podcasts and events while it keeps a smaller Substack presence.]]></description>
+      <source url="https://www.axios.com/">Axios</source>
+    </item>
+  </channel>
+</rss>

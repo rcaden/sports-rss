@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Reading List</title>
+    <link>https://rcaden.github.io/sports-rss/personal.xml</link>
+    <description>Noteworthy articles from across the web.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2026 15:42:00 GMT</lastBuildDate>
+    <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
+    <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Blue Beetle will return in Superman: Man of Tomorrow</title>
+      <link>https://www.gamesradar.com/entertainment/dc-movies/blue-beetle-star-wasnt-sure-hed-return-to-dc-until-james-gunn-called-theres-never-a-guarantee-with-anything/</link>
+      <guid isPermaLink="true">https://www.gamesradar.com/entertainment/dc-movies/blue-beetle-star-wasnt-sure-hed-return-to-dc-until-james-gunn-called-theres-never-a-guarantee-with-anything/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Xolo Maridueña says James Gunn personally called to bring his Jaime Reyes incarnation of Blue Beetle into the new DC film universe. He will return in Superman: Man of Tomorrow, due July 9, 2027, alongside Superman, Lex Luthor, Supergirl, John Stewart and Maxima.]]></description>
+      <source url="https://www.gamesradar.com/">GamesRadar+</source>
+    </item>
+
+    <item>
+      <title>Hachette launches a new paperback novella line</title>
+      <link>https://www.hachettebookgroup.com/articles/union-square-co-announces-singularity-a-bold-new-novella-program-dedicated-to-high-impact-one-sitting-fiction/</link>
+      <guid isPermaLink="true">https://www.hachettebookgroup.com/articles/union-square-co-announces-singularity-a-bold-new-novella-program-dedicated-to-high-impact-one-sitting-fiction/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Hachette's Union Square & Co. has launched Singularity, a paperback novella line planning 10 to 12 short books a year. Its first slate includes a new edition of Harlan Ellison's I Have No Mouth, and I Must Scream, alongside cult favorites and new work across genres.]]></description>
+      <source url="https://www.hachettebookgroup.com/">Hachette Book Group</source>
+    </item>
+
+    <item>
+      <title>Automattic contests WP Engine's request for sanctions</title>
+      <link>https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/</link>
+      <guid isPermaLink="true">https://www.searchenginejournal.com/automattic-fires-back-at-wp-engines-motion-for-sanctions/585472/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[WP Engine is asking a federal court to sanction Automattic and Matt Mullenweg over allegedly unpreserved Signal, Telegram and WhatsApp messages. Automattic says extensive device collection and more than 225,000 produced documents show no relevant messages are missing. A hearing is set for Sept. 30.]]></description>
+      <source url="https://www.searchenginejournal.com/">Search Engine Journal</source>
+    </item>
+  </channel>
+</rss>

@@ -5,34 +5,35 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 16:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:25:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
+    <docs>http://www.rssboard.org/rss-specification</docs>
 
     <item>
-      <title>First sports story headline</title>
-      <link>https://example.com/story-one</link>
-      <guid isPermaLink="false">sports-story-placeholder-1</guid>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[Summary of the first sports story.]]></description>
-      <source url="https://example.com/">Publication Name</source>
+      <title>Ben Shelton reaches first U.S. Open final</title>
+      <link>https://www.reuters.com/sports/tennis/shelton-takes-down-tiafoe-seal-zverev-showdown-us-open-final-2026-09-12/</link>
+      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/shelton-takes-down-tiafoe-seal-zverev-showdown-us-open-final-2026-09-12/</guid>
+      <pubDate>Sat, 12 Sep 2026 15:25:00 GMT</pubDate>
+      <description><![CDATA[Ben Shelton beat Frances Tiafoe in four sets to reach his first Grand Slam final. He will face Alexander Zverev on Sunday with a chance to become the first American man to win a major singles title since Andy Roddick in 2003.]]></description>
+      <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
 
     <item>
-      <title>Second sports story headline</title>
-      <link>https://example.com/story-two</link>
-      <guid isPermaLink="false">sports-story-placeholder-2</guid>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[Summary of the second sports story.]]></description>
-      <source url="https://example.com/">Publication Name</source>
+      <title>Rays and Brewers become first teams to clinch playoff berths</title>
+      <link>https://www.reuters.com/sports/mlb-roundup-rays-brewers-become-first-teams-clinch-playoff-berths--flm-2026-09-12/</link>
+      <guid isPermaLink="true">https://www.reuters.com/sports/mlb-roundup-rays-brewers-become-first-teams-clinch-playoff-berths--flm-2026-09-12/</guid>
+      <pubDate>Sat, 12 Sep 2026 15:25:00 GMT</pubDate>
+      <description><![CDATA[Tampa Bay and Milwaukee became the first MLB clubs to secure 2026 postseason spots. Junior Caminero's walk-off homer carried the Rays past Houston, while the Brewers clinched with a 20-0 rout of Cincinnati.]]></description>
+      <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
 
     <item>
-      <title>Third sports story headline</title>
-      <link>https://example.com/story-three</link>
-      <guid isPermaLink="false">sports-story-placeholder-3</guid>
-      <pubDate>Sat, 12 Sep 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[Summary of the third sports story.]]></description>
-      <source url="https://example.com/">Publication Name</source>
+      <title>Ohio State visits Texas in early top-five showdown</title>
+      <link>https://apnews.com/article/c1ad5adbf317ecbee2c0ed668fd918cd</link>
+      <guid isPermaLink="true">https://apnews.com/article/c1ad5adbf317ecbee2c0ed668fd918cd</guid>
+      <pubDate>Sat, 12 Sep 2026 15:25:00 GMT</pubDate>
+      <description><![CDATA[No. 1 Ohio State visits No. 4 Texas Saturday night in the season's first top-five matchup. Julian Sayin and Arch Manning lead teams with national-title ambitions in a third consecutive meeting; the Buckeyes won the previous two.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
     </item>
   </channel>
 </rss>

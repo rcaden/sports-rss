@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:56:29 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>McClatchy cuts more than 90 union newsroom jobs across 17 papers</title>
+      <link>https://apnews.com/article/layoffs-miami-herald-mcclatchy-c27bcd1a875f1b788afe8b49c1f8beaf</link>
+      <guid isPermaLink="true">https://apnews.com/article/layoffs-miami-herald-mcclatchy-c27bcd1a875f1b788afe8b49c1f8beaf</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[McClatchy is eliminating more than 90 unionized journalism and media jobs across 17 newspapers, about 30% of its union workforce. The Miami Herald loses 32 positions, including El Nuevo Herald's entire writing staff, while local government and investigative beats are also being cut.]]></description>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>WordPress 7.1 arrives as developers look ahead to 7.2</title>
+      <link>https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</link>
+      <guid isPermaLink="true">https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[WordPress 7.1 is out, alongside Gutenberg 23.8 and 23.9, while the 7.2 cycle targets beta in late October and a December release. September's developer roundup also covers runnable Code Reference examples powered by Playground, declarable keyboard shortcuts, a more extensible Site Editor and continued removal of private DataViews interfaces.]]></description>
+      <source url="https://developer.wordpress.org/news/">WordPress Developer Blog</source>
+    </item>
+
+    <item>
+      <title>FOIAball tests a different model for a one-person sports newsroom</title>
+      <link>https://www.niemanlab.org/2026/09/how-one-newsletter-writer-is-building-a-subscription-business-when-paywalls-dont-really-work/</link>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/09/how-one-newsletter-writer-is-building-a-subscription-business-when-paywalls-dont-really-work/</guid>
+      <pubDate>Wed, 02 Sep 2026 13:08:00 -0400</pubDate>
+      <description><![CDATA[David Covucci's FOIAball newsletter uses public-records requests to break college-football stories for about 7,500 subscribers, 420 of them paid. The one-person publication experiments with subscriptions and institutional support while confronting a familiar problem: strict paywalls can hide the reporting most likely to persuade new readers to subscribe.]]></description>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
 
     <item>
       <title>Matt Mullenweg returns as Automattic CEO after two-day ouster</title>

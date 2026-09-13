@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:56:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>Internet Archive launches project to preserve state and local government records</title>
+      <link>https://blog.archive.org/2026/09/10/atlasimls/</link>
+      <guid isPermaLink="true">https://blog.archive.org/2026/09/10/atlasimls/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The Internet Archive's two-year ATLAS project will help 100 state and local government institutions preserve public records with Archive-It and Archive Vault. Built with the Council of State Archivists, it will also produce a shared portal, training materials and a summit devoted to keeping born-digital civic history accessible.]]></description>
+      <source url="https://blog.archive.org/">Internet Archive Blog</source>
+    </item>
+
+    <item>
+      <title>The 2026 Hugo Awards honor Harrow, El-Mohtar and Scalzi</title>
+      <link>https://www.andrewliptak.com/2026-hugo-award-winners-harrow-scalzi-el-mohtar-scifi-fantasy/</link>
+      <guid isPermaLink="true">https://www.andrewliptak.com/2026-hugo-award-winners-harrow-scalzi-el-mohtar-scifi-fantasy/</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Andrew Liptak's complete Hugo Awards rundown spotlights Alix E. Harrow's The Everlasting for Best Novel, Amal El-Mohtar's The River Has Roots for Best Novella and John Scalzi's Old Man's War for Best Series, with winners across comics, fanzines, dramatic presentations and other categories.]]></description>
+      <source url="https://www.andrewliptak.com/">Andrew Liptak</source>
+    </item>
+
+    <item>
+      <title>ServiceNow&apos;s September Creator release sharpens Studio and testing</title>
+      <link>https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068</link>
+      <guid isPermaLink="true">https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[ServiceNow's September Creator update folds the newer IDE into Studio, adds more ways to open application files there and expands automated testing with parameterized tests and test suites. It also adds domain-separation support and Build Agent improvements for developers working on Zurich and Australia releases.]]></description>
+      <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
+    </item>
 
     <item>
       <title>Blue Beetle will return in Superman: Man of Tomorrow</title>

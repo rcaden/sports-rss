@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:55:34 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>Nashville rivals unite behind naming airport for Dolly Parton</title>
+      <link>https://apnews.com/article/dolly-parton-nashville-airport-rename-238ff5f46fd295c32e2c6c0c49c92cc8</link>
+      <guid isPermaLink="true">https://apnews.com/article/dolly-parton-nashville-airport-rename-238ff5f46fd295c32e2c6c0c49c92cc8</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Tennessee Republicans and Nashville Democrats, otherwise locked in a fight over control of the city's airport, agree on one thing: it should bear Dolly Parton's name. The airport authority unanimously began the process after a petition topped 175,000 signatures. The change could make Parton the first woman honored by name at one of America's 50 busiest airports.]]></description>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Greek couple welcomes daughter from embryo frozen for 22 years</title>
+      <link>https://apnews.com/article/greece-frozen-embryo-ivf-54-years-old-ddbe9bc5f3ce803ec49fa48a8512fe9c</link>
+      <guid isPermaLink="true">https://apnews.com/article/greece-frozen-embryo-ivf-54-years-old-ddbe9bc5f3ce803ec49fa48a8512fe9c</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A 54-year-old Greek woman has given birth to a healthy daughter from an embryo frozen for 22 years. Cristina Rapti-Tzelepi and her husband named Georgia in honor of the son they lost in a road crash last October, saying the baby has brought hope and joy back to their family.]]></description>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Mercury may be shrinking faster than scientists thought</title>
+      <link>https://apnews.com/article/mercury-shrinking-planet-47b010ee65287f76565bc4859c7c09b3</link>
+      <guid isPermaLink="true">https://apnews.com/article/mercury-shrinking-planet-47b010ee65287f76565bc4859c7c09b3</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The solar system's smallest planet is doing a cosmic raisin impression. Researchers estimate Mercury's cooling interior may have reduced its diameter by as much as 14 miles, about 30% more than previously believed. The arriving BepiColombo mission should help confirm how much the little world has withered.]]></description>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
 
     <item>
       <title>Celine Dion returns to the stage in Paris</title>

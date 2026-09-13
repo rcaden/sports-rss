@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 12:55:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>Texas erases 20-point fourth-quarter deficit to stun No. 1 Ohio State</title>
+      <link>https://apnews.com/article/texas-ohio-state-football-score-b77928703d2e378f57773efb464f23c8</link>
+      <guid isPermaLink="true">https://apnews.com/article/texas-ohio-state-football-score-b77928703d2e378f57773efb464f23c8</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The anticipated top-five matchup delivered a historic result: No. 4 Texas rallied from 23-3 down entering the fourth quarter to beat No. 1 Ohio State 24-23. Arch Manning led the comeback, capped by Hollywood Smothers' 1-yard touchdown with 25 seconds left. Sportradar called it the largest fourth-quarter comeback ever against an AP No. 1.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Elena Rybakina wins her first U.S. Open title</title>
+      <link>https://apnews.com/article/us-open-womens-final-sabalenka-rybakina-521adac24c4f6350c07bdd914cd83b97</link>
+      <guid isPermaLink="true">https://apnews.com/article/us-open-womens-final-sabalenka-rybakina-521adac24c4f6350c07bdd914cd83b97</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Elena Rybakina beat Aryna Sabalenka 6-4, 5-7, 6-2 for her first U.S. Open championship and third Grand Slam title. The victory denied Sabalenka a third straight Open crown and will lift Rybakina to No. 1 in the rankings.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Barry Melrose, hockey coach and longtime broadcaster, dies at 70</title>
+      <link>https://apnews.com/article/barry-melrose-dies-9be7c1843c5f7823cb3905d483a5eacf</link>
+      <guid isPermaLink="true">https://apnews.com/article/barry-melrose-dies-9be7c1843c5f7823cb3905d483a5eacf</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Barry Melrose, who coached Wayne Gretzky's Los Angeles Kings to the 1993 Stanley Cup Final before becoming one of hockey's most recognizable broadcasters, has died at 70. The former NHL player joined ESPN in 1996 and retired in 2023 after being diagnosed with Parkinson's disease.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
 
     <item>
       <title>Ben Shelton reaches first U.S. Open final</title>

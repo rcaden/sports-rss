@@ -5,10 +5,38 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:16:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+
+
+    <item>
+      <title>Giants beat Cowboys 28-20 in John Harbaugh&apos;s debut</title>
+      <link>https://apnews.com/article/cowboys-giants-score-dc341324a5a665a01f04f2efb4d4efcc</link>
+      <guid isPermaLink="true">https://apnews.com/article/cowboys-giants-score-dc341324a5a665a01f04f2efb4d4efcc</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[John Harbaugh opened his Giants tenure with the result New York hired him to deliver: a 28-20 win over Dallas. Jaxson Dart threw two touchdown passes to Isaiah Likely and another to Devin Singletary, while Cam Skattebo scored in his return from injury.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Alexander Zverev beats Ben Shelton for U.S. Open title</title>
+      <link>https://apnews.com/article/us-open-mens-final-shelton-zverev-58fc12d28293dd33806e4d07242681d1</link>
+      <guid isPermaLink="true">https://apnews.com/article/us-open-mens-final-shelton-zverev-58fc12d28293dd33806e4d07242681d1</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[In a significant finish to Shelton's first major final, Alexander Zverev won 6-3, 7-6 (2), 5-7, 6-2 for his second Grand Slam championship. The result extends the long wait for an American men's major singles champion, which dates to Andy Roddick in 2003.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Men&apos;s tennis top 10 has no Big Three member for first time since 2002</title>
+      <link>https://apnews.com/article/djokovic-rankings-top-10-zverev-9b7e826453d6f44adef18eb106ffc913</link>
+      <guid isPermaLink="true">https://apnews.com/article/djokovic-rankings-top-10-zverev-9b7e826453d6f44adef18eb106ffc913</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Novak Djokovic fell from No. 5 to No. 12, leaving the men's top 10 without Djokovic, Roger Federer or Rafael Nadal for the first time since October 2002. Djokovic, 39, is the last of the era-defining trio still competing.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
 
     <item>
       <title>Texas erases 20-point fourth-quarter deficit to stun No. 1 Ohio State</title>

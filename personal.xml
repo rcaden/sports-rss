@@ -5,10 +5,38 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 12:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:17:08 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+
+
+    <item>
+      <title>Emily St. John Mandel expands her connected universe in Exit Party</title>
+      <link>https://apnews.com/article/5ff6546097ea5e44b71a000ac62358dd</link>
+      <guid isPermaLink="true">https://apnews.com/article/5ff6546097ea5e44b71a000ac62358dd</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Emily St. John Mandel's new novel Exit Party blends crime and science fiction in a fractured 2031 United States while bringing back characters from earlier books. The AP profile explores how her loosely linked 'Mandelverse' lets her revisit themes of identity, impermanence and finding beauty amid disorder.]]></description>
+      <source url="https://apnews.com/entertainment">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Why some 1930 works had a complicated route to the public domain</title>
+      <link>https://copyrightlately.com/public-domain-2026/</link>
+      <guid isPermaLink="true">https://copyrightlately.com/public-domain-2026/</guid>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[Aaron Moss surveys the major 1930 books, films, cartoons and songs that became free to use in 2026, then digs into the copyright math. Especially useful is his account of foreign films such as The Blue Angel, whose lapsed U.S. protection was restored by the URAA before expiring again at the end of 2025.]]></description>
+      <source url="https://copyrightlately.com/">Copyright Lately</source>
+    </item>
+
+    <item>
+      <title>St. Augustine dig uncovers first physical evidence of a British redoubt</title>
+      <link>https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</link>
+      <guid isPermaLink="true">https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</guid>
+      <pubDate>Fri, 28 Mar 2025 15:29:48 GMT</pubDate>
+      <description><![CDATA[Archaeologists in Lincolnville found a 15-foot-wide dry moat from a British military redoubt built in 1781. It is the first of St. Augustine's seven mapped British outposts to be confirmed archaeologically, illuminating the city's often-overlooked 1763-1783 period under British rule.]]></description>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
 
     <item>
       <title>Internet Archive launches project to preserve state and local government records</title>

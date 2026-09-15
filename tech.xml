@@ -5,11 +5,35 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:53:05 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>CSS-Tricks falls quiet again with its future unclear</title>
+      <link>https://vale.rocks/posts/css-tricks-in-limbo</link>
+      <guid isPermaLink="true">https://vale.rocks/posts/css-tricks-in-limbo</guid>
+      <pubDate>Tue, 15 Sep 2026 01:35:00 GMT</pubDate>
+      <description><![CDATA[Declan Chidlow traces another uncertain chapter for CSS-Tricks: after years of ownership changes and a recent revival, the venerable web-development publication has posted nothing since August 31. With no public explanation from DigitalOcean, contributors and readers are again left wondering whether a valuable open-web archive has a future.]]></description>
+      <source url="https://vale.rocks/">Vale.Rocks</source>
+    </item>
 
+    <item>
+      <title>Study finds the public is expanding, not replacing, its idea of news</title>
+      <link>https://reutersinstitute.politics.ox.ac.uk/changing-definitions-news-digital-environment-how-public-defines-news-across-six-countries</link>
+      <guid isPermaLink="true">https://reutersinstitute.politics.ox.ac.uk/changing-definitions-news-digital-environment-how-public-defines-news-across-six-countries</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A six-country Reuters Institute study finds 49% of people use a traditional definition of news, while 26% add subjects and formats such as creators, podcasts and short video without abandoning the core. Across groups, verified facts remain foundational; traditional news brands are more likely to be recognized as news and trusted.]]></description>
+      <source url="https://reutersinstitute.politics.ox.ac.uk/">Reuters Institute for the Study of Journalism</source>
+    </item>
 
+    <item>
+      <title>Supreme Court rejects mail-ballot limits before the midterms</title>
+      <link>https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-78a4fbeb48d9c5fd27d1c865529fc65f</link>
+      <guid isPermaLink="true">https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-78a4fbeb48d9c5fd27d1c865529fc65f</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The Supreme Court rejected the administration's bid to impose new mail-ballot rules with voting already underway. States may keep their established processes, which account for nearly a third of ballots cast. The majority said the restrictions were likely to fail in court; Justices Samuel Alito and Clarence Thomas dissented.]]></description>
+      <source url="https://apnews.com/politics/">Associated Press</source>
+    </item>
 
     <item>
       <title>Georgia voting-system flaw could expose secret ballots</title>

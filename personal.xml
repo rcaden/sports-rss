@@ -5,11 +5,35 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:53:05 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>GAO finds barriers to a fuller National Register of Historic Places</title>
+      <link>https://www.gao.gov/products/gao-26-107879</link>
+      <guid isPermaLink="true">https://www.gao.gov/products/gao-26-107879</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The National Register lists more than 100,000 historically significant places, but GAO found outdated guidance and criteria that can complicate nominations, especially for tribal sites. Its recommendations call for clearer public guidance, better outreach and more explanation of how sensitive locations can remain undisclosed.]]></description>
+      <source url="https://www.gao.gov/">U.S. Government Accountability Office</source>
+    </item>
 
+    <item>
+      <title>Students build 108 WordPress sites in two weeks</title>
+      <link>https://wordpress.org/news/2026/09/108-student-websites/</link>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/09/108-student-websites/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Free WordPress workshops in Bangladesh helped students build 108 sites across two campuses. The broader report also visits a Ugandan workshop that continued without electricity and a Costa Rican program where university students taught high schoolers, then published a guide others can reuse.]]></description>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
 
+    <item>
+      <title>Copyright Office marks 50 years of the 1976 Copyright Act</title>
+      <link>https://www.copyright.gov/newsnet/2026/1094.html</link>
+      <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1094.html</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A September 23 online event will revisit how the Copyright Act of 1976 was drafted, administered and amended, with participants who worked at the Copyright Office or on Capitol Hill. The 90-minute program offers an insider's view of the statute that reshaped U.S. copyright for modern media.]]></description>
+      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+    </item>
 
     <item>
       <title>Emily St. John Mandel expands her connected universe in Exit Party</title>

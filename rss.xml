@@ -5,11 +5,35 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:53:05 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Kenneth Walker powers Chiefs past Broncos in Kansas City debut</title>
+      <link>https://apnews.com/article/broncos-chiefs-score-e537fb438d7d1bc13a74e746484b745e</link>
+      <guid isPermaLink="true">https://apnews.com/article/broncos-chiefs-score-e537fb438d7d1bc13a74e746484b745e</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Kenneth Walker III ran 23 times for 173 yards and two touchdowns in his Chiefs debut, carrying Kansas City to a 31-10 win over Denver. Patrick Mahomes added two touchdown passes and a rushing score in his return from knee surgery as the Chiefs ended a three-game skid against the Broncos.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
 
+    <item>
+      <title>Kawhi Leonard returns to Toronto as Raptors-Clippers trade closes</title>
+      <link>https://apnews.com/article/raptors-clippers-kawhi-leonard-trade-9479568ca93a5bdfd6f103f9986e5293</link>
+      <guid isPermaLink="true">https://apnews.com/article/raptors-clippers-kawhi-leonard-trade-9479568ca93a5bdfd6f103f9986e5293</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Kawhi Leonard is headed back to the franchise he led to the 2019 NBA title. Toronto sent Brandon Ingram, Gradey Dick, two first-round picks, two second-rounders and a pick swap to the Clippers after the delayed deal cleared league review.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
 
+    <item>
+      <title>Judge homers as Yankees clinch record 61st postseason berth</title>
+      <link>https://apnews.com/article/yankees-clinch-judge-4cc920c5e3d3f247d7958c69f23abec3</link>
+      <guid isPermaLink="true">https://apnews.com/article/yankees-clinch-judge-4cc920c5e3d3f247d7958c69f23abec3</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Aaron Judge hit a three-run homer, his first since returning from a fractured rib that cost him more than three months, as New York beat Minnesota 8-3. The Yankees secured their ninth playoff appearance in 10 seasons and a major league-record 61st postseason berth.]]></description>
+      <source url="https://apnews.com/sports">Associated Press</source>
+    </item>
 
     <item>
       <title>Giants beat Cowboys 28-20 in John Harbaugh&apos;s debut</title>

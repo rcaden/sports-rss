@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 12:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:25:40 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Authors Guild explains settlement disputes and rights reversions</title>
+      <link>https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/</link>
+      <guid isPermaLink="true">https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The Authors Guild offers practical guidance for writers and publishers resolving allocation errors in Anthropic copyright-settlement claims. It explains how to update percentages, document reverted rights and use the 30-day dispute process, while warning claimants to avoid look-alike scam sites.]]></description>
+      <source url="https://authorsguild.org/">The Authors Guild</source>
+    </item>
+
+    <item>
+      <title>A practical guide to rebuilding old-school BBS door development</title>
+      <link>https://retroshed.us/bbs-door-dev-1/</link>
+      <guid isPermaLink="true">https://retroshed.us/bbs-door-dev-1/</guid>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+      <description><![CDATA[This hands-on introduction reconstructs development environments for BBS door programs on DOS, Windows, Linux and OS/2. It explains the old door kits, drop files, serial communications and carrier-loss handling, with links to period compilers and libraries for anyone reviving networked games from the dial-up era.]]></description>
+      <source url="https://retroshed.us/">Retro Shed</source>
+    </item>
+
+    <item>
+      <title>Criterion revisits the startling modernity of Quick Millions</title>
+      <link>https://www.criterion.com/current/posts/6540-look-back-in-rapture-il-cinema-ritrovato</link>
+      <guid isPermaLink="true">https://www.criterion.com/current/posts/6540-look-back-in-rapture-il-cinema-ritrovato</guid>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 GMT</pubDate>
+      <description><![CDATA[A dispatch from Il Cinema Ritrovato argues that Rowland Brown's restored 1931 crime film Quick Millions rewrites the usual history of the gangster picture. Its cerebral amorality, flippant humor and offbeat style make the rise and fall of a ruthless trucker feel remarkably modern.]]></description>
+      <source url="https://www.criterion.com/current/">The Criterion Collection</source>
+    </item>
+
     <item>
       <title>GAO finds barriers to a fuller National Register of Historic Places</title>
       <link>https://www.gao.gov/products/gao-26-107879</link>

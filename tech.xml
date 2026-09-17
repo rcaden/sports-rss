@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:08:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Europe proposes a social-media ban for children under 13</title>
+      <link>https://www.reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17/</guid>
+      <pubDate>Thu, 17 Sep 2026 08:11:00 GMT</pubDate>
+      <description><![CDATA[The proposed EU Kids Act would bar children under 13 from social media, put accounts for ages 13 to 15 under parental control and restrict addictive design features. Platforms could face fines of 6% of global sales, while industry critics warn that large-scale age verification could create new privacy and security risks.]]></description>
+      <source url="https://www.reuters.com/technology/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Google ordered to loosen ad-tech ties but spared a breakup</title>
+      <link>https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</guid>
+      <pubDate>Wed, 16 Sep 2026 21:56:00 GMT</pubDate>
+      <description><![CDATA[A federal judge ordered Google to separate use of its publisher ad server from its AdX exchange, open real-time bids to competing ad servers and accept six years of antitrust monitoring. The remedy stops short of the Justice Department's requested divestiture but could give independent publishers more choice in selling ads.]]></description>
+      <source url="https://www.reuters.com/technology/">Reuters</source>
+    </item>
+
+    <item>
+      <title>San Jose residents challenge a new data-center boom</title>
+      <link>https://www.reuters.com/business/silicon-valley-ai-data-center-boom-meets-local-resistance-2026-09-17/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/silicon-valley-ai-data-center-boom-meets-local-resistance-2026-09-17/</guid>
+      <pubDate>Thu, 17 Sep 2026 10:05:00 GMT</pubDate>
+      <description><![CDATA[San Jose expects each proposed data center to produce $3 million to $6 million a year in tax revenue, but neighborhood and environmental groups want fuller accounting of electricity, water, pollution and public benefits. California lawmakers have sent the governor bills on utility costs and resource transparency.]]></description>
+      <source url="https://www.reuters.com/technology/">Reuters</source>
+    </item>
+
     <item>
       <title>Wayback Machine explains access blocks and 429 errors</title>
       <link>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</link>
@@ -114,33 +141,6 @@
       <pubDate>Wed, 02 Sep 2026 13:08:00 -0400</pubDate>
       <description><![CDATA[David Covucci's FOIAball newsletter uses public-records requests to break college-football stories for about 7,500 subscribers, 420 of them paid. The one-person publication experiments with subscriptions and institutional support while confronting a familiar problem: strict paywalls can hide the reporting most likely to persuade new readers to subscribe.]]></description>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>Matt Mullenweg returns as Automattic CEO after two-day ouster</title>
-      <link>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</guid>
-      <pubDate>Fri, 11 Sep 2026 17:16:00 GMT</pubDate>
-      <description><![CDATA[Matt Mullenweg says he is back as Automattic CEO only two days after its board placed him on paid leave. WordPress executive director Mary Hubbard confirmed his return, while The Verge reports CFO and brief interim CEO Mark Davies lost Slack access. The unusually public boardroom fight matters to WordPress, Tumblr, WooCommerce, Pocket Casts and the broader open-source web.]]></description>
-      <source url="https://www.theverge.com/">The Verge</source>
-    </item>
-
-    <item>
-      <title>Former Climate.gov staff rebuild its public mission on the open web</title>
-      <link>https://www.niemanlab.org/2026/09/the-trump-administration-killed-climate-gov-a-new-website-is-resurrecting-it/</link>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/09/the-trump-administration-killed-climate-gov-a-new-website-is-resurrecting-it/</guid>
-      <pubDate>Thu, 10 Sep 2026 12:58:00 -0400</pubDate>
-      <description><![CDATA[Three former NOAA staffers have rebuilt Climate.gov's public-facing mission at nonprofit Climate.us after the federal site was dismantled in 2025. The team restored archives, hosts vanished resources such as the Fifth National Climate Assessment and raised $530,000 to keep accessible climate reporting and data on the web.]]></description>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>Static ActivityPub publishing takes an RSS-like approach</title>
-      <link>https://socialwebfoundation.org/2026/09/04/static-activitypub-publishing/</link>
-      <guid isPermaLink="true">https://socialwebfoundation.org/2026/09/04/static-activitypub-publishing/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Evan Prodromou demonstrates a read-only ActivityPub model that works more like RSS: static files that other servers poll, without queues, signatures or fanout. His FEP-b06c profile, Jekyll plugin and GitHub Pages demo aim to make federated publishing practical for independent sites and small developers.]]></description>
-      <source url="https://socialwebfoundation.org/">Social Web Foundation</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:38:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Dodgers clinch 13th NL West title in 14 seasons</title>
+      <link>https://www.reuters.com/sports/dodgers-cruise-past-reds-claim-13th-nl-west-title-14-years--fldm-2026-09-18/</link>
+      <description>The Dodgers beat Cincinnati 8-2 to secure their fifth straight division crown and 13th NL West title in 14 years. Kyle Tucker went 4-for-5 with a homer, two doubles and three RBIs as Los Angeles improved to 93-60 and kept its postseason push rolling.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-18:dodgers-nl-west</guid>
+      <source url="https://www.reuters.com/sports/dodgers-cruise-past-reds-claim-13th-nl-west-title-14-years--fldm-2026-09-18/">Reuters</source>
+    </item>
+    <item>
+      <title>Pochettino turns to youth for U.S. men's friendlies</title>
+      <link>https://www.reuters.com/sports/soccer/us-coach-pochettino-bets-youth-upcoming-friendlies-2026-09-17/</link>
+      <description>U.S. coach Mauricio Pochettino named a 28-man roster with 13 uncapped players for friendlies against Peru, Chile, Mexico and Canada, beginning the next World Cup cycle with a sharp turn toward youth. The group includes 16-year-old Cavan Sullivan, while Christian Pulisic and Folarin Balogun were left out.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-17-usmnt-youth-roster</guid>
+      <source url="https://www.reuters.com/sports/soccer/us-coach-pochettino-bets-youth-upcoming-friendlies-2026-09-17/">Reuters</source>
+    </item>
+    <item>
+      <title>WTA Finals will move to Charlotte in 2027</title>
+      <link>https://www.reuters.com/sports/tennis/wta-finals-be-held-charlotte-2027-chair-says-2026-09-16/</link>
+      <description>The season-ending WTA Finals will move to Charlotte's Spectrum Center in 2027 for at least three years. The tour plans to operate the event directly and pair it with a fan festival, aiming to turn its showcase for the top eight singles players and doubles teams into a signature women's sports event.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-16-wta-finals-charlotte</guid>
+      <source url="https://www.reuters.com/sports/tennis/wta-finals-be-held-charlotte-2027-chair-says-2026-09-16/">Reuters</source>
+    </item>
     <item>
       <title>Messi scores his 100th Inter Miami goal in cup victory</title>
       <link>https://www.reuters.com/sports/soccer/messi-scores-100th-goal-inter-miami-cameones-cup-victory-over-cruz-azul-2026-09-17/</link>
@@ -16,7 +40,6 @@
       <description><![CDATA[Lionel Messi scored his 100th goal for Inter Miami in his 115th appearance, helping the club beat Cruz Azul 2-0 for the Campeones Cup. The 39-year-old has now helped Miami win four trophies since arriving in 2023; Casemiro added the late clincher.]]></description>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>Clearlake takes full control of Chelsea as Boehly exits</title>
       <link>https://www.reuters.com/legal/transactional/former-chelsea-owners-boehly-walter-sell-holdings-clearlake-2026-09-16/</link>
@@ -25,7 +48,6 @@
       <description><![CDATA[Clearlake Capital is buying the minority stakes held by Todd Boehly and Mark Walter, ending the ownership partnership that acquired Chelsea in 2022. Boehly will step down as chairman while Clearlake assumes full control of the Premier League club; Chelsea says daily operations and strategy will continue unchanged.]]></description>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>Guardians move alone atop the AL Central</title>
       <link>https://www.reuters.com/sports/mlb-roundup-guardians-overtake-white-sox-1st-place-al-central--flm-2026-09-17/</link>
@@ -34,7 +56,6 @@
       <description><![CDATA[Cleveland took sole possession of first place in the AL Central with a 6-3 victory over the White Sox, powered by rookie Petey Halpin's three-run homer. Elsewhere in a tightening pennant race, Cincinnati delayed the Dodgers' division clincher and Texas pulled even atop the AL West.]]></description>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>Leagues and player unions seek lifetime betting bans for harassers</title>
       <link>https://apnews.com/article/d23630637dfbacd12a141a0ab334480e</link>
@@ -43,7 +64,6 @@
       <description><![CDATA[The NFL, MLB, NBA, NHL and MLS joined their player associations in asking betting regulators in 35 states and Washington to permanently bar bettors who threaten or harass players, coaches, officials or their families. Only four states currently have such rules.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Sweeping college sports bill clears a key Senate hurdle</title>
       <link>https://apnews.com/article/d4a1a9e0cd6c0a36c0cfd5cf4f87fc42</link>
@@ -52,7 +72,6 @@
       <description><![CDATA[The Senate voted 74-24 to advance a bipartisan overhaul of college sports. The bill would regulate athlete compensation, transfers and eligibility, cap revenue sharing at 22% and permit pooled television rights. Supporters call it overdue national order; critics say it would restrict athletes.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Messi called back for an Argentina farewell match</title>
       <link>https://www.reuters.com/sports/soccer/messi-called-up-by-argentina-farewell-appearance-following-international-2026-09-15/</link>
@@ -61,7 +80,6 @@
       <description><![CDATA[Lionel Messi has been summoned for a ceremonial return to Argentina's squad after retiring from international soccer last month. The 39-year-old is expected to receive a farewell in an Oct. 6 friendly against Benin at Buenos Aires' Monumental Stadium.]]></description>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>Kenneth Walker powers Chiefs past Broncos in Kansas City debut</title>
       <link>https://apnews.com/article/broncos-chiefs-score-e537fb438d7d1bc13a74e746484b745e</link>
@@ -70,7 +88,6 @@
       <description><![CDATA[Kenneth Walker III ran 23 times for 173 yards and two touchdowns in his Chiefs debut, carrying Kansas City to a 31-10 win over Denver. Patrick Mahomes added two touchdown passes and a rushing score in his return from knee surgery as the Chiefs ended a three-game skid against the Broncos.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Kawhi Leonard returns to Toronto as Raptors-Clippers trade closes</title>
       <link>https://apnews.com/article/raptors-clippers-kawhi-leonard-trade-9479568ca93a5bdfd6f103f9986e5293</link>
@@ -79,7 +96,6 @@
       <description><![CDATA[Kawhi Leonard is headed back to the franchise he led to the 2019 NBA title. Toronto sent Brandon Ingram, Gradey Dick, two first-round picks, two second-rounders and a pick swap to the Clippers after the delayed deal cleared league review.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Judge homers as Yankees clinch record 61st postseason berth</title>
       <link>https://apnews.com/article/yankees-clinch-judge-4cc920c5e3d3f247d7958c69f23abec3</link>
@@ -88,7 +104,6 @@
       <description><![CDATA[Aaron Judge hit a three-run homer, his first since returning from a fractured rib that cost him more than three months, as New York beat Minnesota 8-3. The Yankees secured their ninth playoff appearance in 10 seasons and a major league-record 61st postseason berth.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Giants beat Cowboys 28-20 in John Harbaugh&apos;s debut</title>
       <link>https://apnews.com/article/cowboys-giants-score-dc341324a5a665a01f04f2efb4d4efcc</link>
@@ -97,7 +112,6 @@
       <description><![CDATA[John Harbaugh opened his Giants tenure with the result New York hired him to deliver: a 28-20 win over Dallas. Jaxson Dart threw two touchdown passes to Isaiah Likely and another to Devin Singletary, while Cam Skattebo scored in his return from injury.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Alexander Zverev beats Ben Shelton for U.S. Open title</title>
       <link>https://apnews.com/article/us-open-mens-final-shelton-zverev-58fc12d28293dd33806e4d07242681d1</link>
@@ -106,40 +120,12 @@
       <description><![CDATA[In a significant finish to Shelton's first major final, Alexander Zverev won 6-3, 7-6 (2), 5-7, 6-2 for his second Grand Slam championship. The result extends the long wait for an American men's major singles champion, which dates to Andy Roddick in 2003.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
-
     <item>
       <title>Men&apos;s tennis top 10 has no Big Three member for first time since 2002</title>
       <link>https://apnews.com/article/djokovic-rankings-top-10-zverev-9b7e826453d6f44adef18eb106ffc913</link>
       <guid isPermaLink="true">https://apnews.com/article/djokovic-rankings-top-10-zverev-9b7e826453d6f44adef18eb106ffc913</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Novak Djokovic fell from No. 5 to No. 12, leaving the men's top 10 without Djokovic, Roger Federer or Rafael Nadal for the first time since October 2002. Djokovic, 39, is the last of the era-defining trio still competing.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Texas erases 20-point fourth-quarter deficit to stun No. 1 Ohio State</title>
-      <link>https://apnews.com/article/texas-ohio-state-football-score-b77928703d2e378f57773efb464f23c8</link>
-      <guid isPermaLink="true">https://apnews.com/article/texas-ohio-state-football-score-b77928703d2e378f57773efb464f23c8</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The anticipated top-five matchup delivered a historic result: No. 4 Texas rallied from 23-3 down entering the fourth quarter to beat No. 1 Ohio State 24-23. Arch Manning led the comeback, capped by Hollywood Smothers' 1-yard touchdown with 25 seconds left. Sportradar called it the largest fourth-quarter comeback ever against an AP No. 1.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Elena Rybakina wins her first U.S. Open title</title>
-      <link>https://apnews.com/article/us-open-womens-final-sabalenka-rybakina-521adac24c4f6350c07bdd914cd83b97</link>
-      <guid isPermaLink="true">https://apnews.com/article/us-open-womens-final-sabalenka-rybakina-521adac24c4f6350c07bdd914cd83b97</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Elena Rybakina beat Aryna Sabalenka 6-4, 5-7, 6-2 for her first U.S. Open championship and third Grand Slam title. The victory denied Sabalenka a third straight Open crown and will lift Rybakina to No. 1 in the rankings.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Barry Melrose, hockey coach and longtime broadcaster, dies at 70</title>
-      <link>https://apnews.com/article/barry-melrose-dies-9be7c1843c5f7823cb3905d483a5eacf</link>
-      <guid isPermaLink="true">https://apnews.com/article/barry-melrose-dies-9be7c1843c5f7823cb3905d483a5eacf</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Barry Melrose, who coached Wayne Gretzky's Los Angeles Kings to the 1993 Stanley Cup Final before becoming one of hockey's most recognizable broadcasters, has died at 70. The former NHL player joined ESPN in 1996 and retired in 2023 after being diagnosed with Parkinson's disease.]]></description>
       <source url="https://apnews.com/sports">Associated Press</source>
     </item>
   </channel>

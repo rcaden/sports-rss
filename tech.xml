@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:38:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Postal Service stops work on mail-voting computer system</title>
+      <link>https://apnews.com/article/995f98147fbb49fb71696be824abff95</link>
+      <description>Postmaster General David Steiner says the Postal Service has halted work on a centralized voter-verification system tied to an executive order the Supreme Court blocked. Normal 2026 election-mail procedures will continue, though the agency still plans to encourage optional envelope barcodes with lower processing fees.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-18-usps-voting-system-stopped</guid>
+      <source url="https://apnews.com/article/995f98147fbb49fb71696be824abff95">Associated Press</source>
+    </item>
+    <item>
+      <title>France steps up scrutiny of smart-glasses privacy risks</title>
+      <link>https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/</link>
+      <description>Paris prosecutors opened a criminal inquiry after reports of women being filmed without consent through smart glasses, while France's privacy regulator fields workplace complaints. Critics say the devices' small recording light is inadequate, sharpening the debate over surveillance, consent and platform responsibility.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-18-france-smart-glasses-scrutiny</guid>
+      <source url="https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/">Reuters</source>
+    </item>
+    <item>
+      <title>Senate panel advances bill against government pressure on speech</title>
+      <link>https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/</link>
+      <description>The Senate Commerce Committee voted 18-10 for a bill allowing people to sue federal employees who coerce private companies into suppressing protected speech. Backers cited pressure on broadcasters and online platforms under both recent administrations; the ACLU endorsed the measure, which still needs full congressional approval.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-16-government-speech-pressure-bill</guid>
+      <source url="https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/">Reuters</source>
+    </item>
     <item>
       <title>Europe proposes a social-media ban for children under 13</title>
       <link>https://www.reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17/</link>
@@ -16,7 +40,6 @@
       <description><![CDATA[The proposed EU Kids Act would bar children under 13 from social media, put accounts for ages 13 to 15 under parental control and restrict addictive design features. Platforms could face fines of 6% of global sales, while industry critics warn that large-scale age verification could create new privacy and security risks.]]></description>
       <source url="https://www.reuters.com/technology/">Reuters</source>
     </item>
-
     <item>
       <title>Google ordered to loosen ad-tech ties but spared a breakup</title>
       <link>https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</link>
@@ -25,7 +48,6 @@
       <description><![CDATA[A federal judge ordered Google to separate use of its publisher ad server from its AdX exchange, open real-time bids to competing ad servers and accept six years of antitrust monitoring. The remedy stops short of the Justice Department's requested divestiture but could give independent publishers more choice in selling ads.]]></description>
       <source url="https://www.reuters.com/technology/">Reuters</source>
     </item>
-
     <item>
       <title>San Jose residents challenge a new data-center boom</title>
       <link>https://www.reuters.com/business/silicon-valley-ai-data-center-boom-meets-local-resistance-2026-09-17/</link>
@@ -34,7 +56,6 @@
       <description><![CDATA[San Jose expects each proposed data center to produce $3 million to $6 million a year in tax revenue, but neighborhood and environmental groups want fuller accounting of electricity, water, pollution and public benefits. California lawmakers have sent the governor bills on utility costs and resource transparency.]]></description>
       <source url="https://www.reuters.com/technology/">Reuters</source>
     </item>
-
     <item>
       <title>Wayback Machine explains access blocks and 429 errors</title>
       <link>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</link>
@@ -43,7 +64,6 @@
       <description><![CDATA[The Internet Archive says waves of high-volume traffic forced it to tighten Wayback Machine protections, sometimes blocking real people with HTTP 429 errors. The team is refining how it separates abusive bots from ordinary users and asks anyone wrongly blocked to send browser, operating-system and IP details for review.]]></description>
       <source url="https://blog.archive.org/">Internet Archive Blogs</source>
     </item>
-
     <item>
       <title>Twenty-five years of mass surveillance face a reckoning</title>
       <link>https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</link>
@@ -52,7 +72,6 @@
       <description><![CDATA[Cindy Cohn and Bruce Schneier argue that surveillance powers expanded after 9/11 have outlived their rationale while technology has made them far more intrusive. Their case connects constitutional rights, concentrated technical power and the need to replace indiscriminate collection with targeted, accountable methods.]]></description>
       <source url="https://www.lawfaremedia.org/">Lawfare</source>
     </item>
-
     <item>
       <title>Political spoiler tactics unsettle Telegraph journalists</title>
       <link>https://www.theguardian.com/media/2026/sep/15/significant-unease-the-telegraph-reform-farage-spoiler-tactics</link>
@@ -61,7 +80,6 @@
       <description><![CDATA[Telegraph staff are debating Reform UK's use of friendly exclusives to pre-empt damaging stories after rival reporters request comment. Critics say the maneuver erodes trust and may discourage journalists from giving subjects enough time to respond, making political coverage less accurate and balanced.]]></description>
       <source url="https://www.theguardian.com/media">The Guardian</source>
     </item>
-
     <item>
       <title>CSS-Tricks falls quiet again with its future unclear</title>
       <link>https://vale.rocks/posts/css-tricks-in-limbo</link>
@@ -70,7 +88,6 @@
       <description><![CDATA[Declan Chidlow traces another uncertain chapter for CSS-Tricks: after years of ownership changes and a recent revival, the venerable web-development publication has posted nothing since August 31. With no public explanation from DigitalOcean, contributors and readers are again left wondering whether a valuable open-web archive has a future.]]></description>
       <source url="https://vale.rocks/">Vale.Rocks</source>
     </item>
-
     <item>
       <title>Study finds the public is expanding, not replacing, its idea of news</title>
       <link>https://reutersinstitute.politics.ox.ac.uk/changing-definitions-news-digital-environment-how-public-defines-news-across-six-countries</link>
@@ -79,7 +96,6 @@
       <description><![CDATA[A six-country Reuters Institute study finds 49% of people use a traditional definition of news, while 26% add subjects and formats such as creators, podcasts and short video without abandoning the core. Across groups, verified facts remain foundational; traditional news brands are more likely to be recognized as news and trusted.]]></description>
       <source url="https://reutersinstitute.politics.ox.ac.uk/">Reuters Institute for the Study of Journalism</source>
     </item>
-
     <item>
       <title>Supreme Court rejects mail-ballot limits before the midterms</title>
       <link>https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-78a4fbeb48d9c5fd27d1c865529fc65f</link>
@@ -88,7 +104,6 @@
       <description><![CDATA[The Supreme Court rejected the administration's bid to impose new mail-ballot rules with voting already underway. States may keep their established processes, which account for nearly a third of ballots cast. The majority said the restrictions were likely to fail in court; Justices Samuel Alito and Clarence Thomas dissented.]]></description>
       <source url="https://apnews.com/politics/">Associated Press</source>
     </item>
-
     <item>
       <title>Georgia voting-system flaw could expose secret ballots</title>
       <link>https://apnews.com/article/elections-secret-ballot-voting-georgia-touchscreen-machines-7338b8a6d8e4866c710ec4f05995dcbb</link>
@@ -97,7 +112,6 @@
       <description><![CDATA[Researchers say a known flaw can restore Georgia's electronic ballot records to casting order and, when combined with public records, match some voters to their choices. The weakness cannot alter votes, but advocates say it threatens ballot secrecy before November; other states using the equipment have installed a software fix.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Open-source activity data is less complete than it looks</title>
       <link>https://opensource.googleblog.com/2026/09/how-much-should-you-trust-your-oss-data.html</link>
@@ -106,7 +120,6 @@
       <description><![CDATA[Sophia Vargas and Andrew Nesbitt warn that public repositories do not automatically yield trustworthy ecosystem metrics. GHarchive may now capture as little as 20% of some GitHub event types, while APIs omit activity and identifiers vary across sources. Their practical advice: combine datasets, document gaps and handle contributor information responsibly.]]></description>
       <source url="https://opensource.googleblog.com/">Google Open Source Blog</source>
     </item>
-
     <item>
       <title>SPJ updates its Code of Ethics for the first time in 12 years</title>
       <link>https://www.pewresearch.org/newsletter/the-briefing/the-briefing-2026-09-03/</link>
@@ -114,33 +127,6 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The Society of Professional Journalists revised its Code of Ethics to reflect fast-changing technology and the growth of independent reporters outside traditional newsrooms. A new line stresses that speed, technology or medium never excuse inaccuracy or unfairness, broadening an old professional standard for today's publishing landscape.]]></description>
       <source url="https://www.pewresearch.org/">Pew Research Center</source>
-    </item>
-
-    <item>
-      <title>McClatchy cuts more than 90 union newsroom jobs across 17 papers</title>
-      <link>https://apnews.com/article/layoffs-miami-herald-mcclatchy-c27bcd1a875f1b788afe8b49c1f8beaf</link>
-      <guid isPermaLink="true">https://apnews.com/article/layoffs-miami-herald-mcclatchy-c27bcd1a875f1b788afe8b49c1f8beaf</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[McClatchy is eliminating more than 90 unionized journalism and media jobs across 17 newspapers, about 30% of its union workforce. The Miami Herald loses 32 positions, including El Nuevo Herald's entire writing staff, while local government and investigative beats are also being cut.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.1 arrives as developers look ahead to 7.2</title>
-      <link>https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</link>
-      <guid isPermaLink="true">https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[WordPress 7.1 is out, alongside Gutenberg 23.8 and 23.9, while the 7.2 cycle targets beta in late October and a December release. September's developer roundup also covers runnable Code Reference examples powered by Playground, declarable keyboard shortcuts, a more extensible Site Editor and continued removal of private DataViews interfaces.]]></description>
-      <source url="https://developer.wordpress.org/news/">WordPress Developer Blog</source>
-    </item>
-
-    <item>
-      <title>FOIAball tests a different model for a one-person sports newsroom</title>
-      <link>https://www.niemanlab.org/2026/09/how-one-newsletter-writer-is-building-a-subscription-business-when-paywalls-dont-really-work/</link>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/09/how-one-newsletter-writer-is-building-a-subscription-business-when-paywalls-dont-really-work/</guid>
-      <pubDate>Wed, 02 Sep 2026 13:08:00 -0400</pubDate>
-      <description><![CDATA[David Covucci's FOIAball newsletter uses public-records requests to break college-football stories for about 7,500 subscribers, 420 of them paid. The one-person publication experiments with subscriptions and institutional support while confronting a familiar problem: strict paywalls can hide the reporting most likely to persuade new readers to subscribe.]]></description>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:38:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Tiny wild cat becomes first new living cat species named in a century</title>
+      <link>https://www.reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17/</link>
+      <description>Scientists identified the Tilcayo, a 3-pound wild cat from Bolivia's misty Yungas forest, as a distinct species—the first new living cat species formally described in more than a century. Genetic work separated it from other tiger cats after a lineage split about 1.4 million years ago.</description>
+      <pubDate>Thu, 17 Sep 2026 15:47:11 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-17-tilcayo-cat</guid>
+      <source url="https://www.reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17/">Reuters</source>
+    </item>
+    <item>
+      <title>Romanian shelter offers humane answer to stray-dog culls</title>
+      <link>https://www.reuters.com/world/romanian-shelter-offers-an-alternative-stray-dog-culls-2026-09-17/</link>
+      <description>Smeura, one of the world's largest dog shelters, is pairing rescue and adoption with eight mobile veterinary vans that sterilize village dogs free of charge. The program performed nearly 40,000 procedures this year, while the shelter sent about 2,200 dogs to new homes last year.</description>
+      <pubDate>Thu, 17 Sep 2026 11:43:24 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-17-smeura-dog-shelter</guid>
+      <source url="https://www.reuters.com/world/romanian-shelter-offers-an-alternative-stray-dog-culls-2026-09-17/">Reuters</source>
+    </item>
+    <item>
+      <title>Aztec history codex returns to Mexico after 186 years</title>
+      <link>https://www.reuters.com/lifestyle/centuries-old-manuscript-narrating-aztec-history-returns-loan-mexico-2026-09-17/</link>
+      <description>The 16th-century Azcatitlan Codex is back in Mexico for the first time since 1840. On loan from France, the pictorial manuscript traces the Mexica migration, the founding of Tenochtitlan and the Spanish conquest. It will be displayed at Mexico's National Museum of Anthropology through December.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-17-azcatitlan-codex</guid>
+      <source url="https://www.reuters.com/lifestyle/centuries-old-manuscript-narrating-aztec-history-returns-loan-mexico-2026-09-17/">Reuters</source>
+    </item>
     <item>
       <title>Scientists take T. rex&apos;s temperature</title>
       <link>https://apnews.com/article/2ee33ab4528dc358bc4b90861aa715e4</link>
@@ -16,7 +40,6 @@
       <description><![CDATA[Chemical patterns in three fossilized teeth put the mighty predator's average body temperature at about 97 degrees Fahrenheit, close to humans and modern elephants. The new technique gives scientists another way to reconstruct dinosaur physiology — without, as one paleobiologist joked, using a thermometer.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Kindergartners learn to ride bikes in school gyms</title>
       <link>https://apnews.com/article/beba6f8895f187d10f8ae01eb873d19c</link>
@@ -25,7 +48,6 @@
       <description><![CDATA[A nonprofit program has brought balance bikes, helmets and an eight-lesson riding curriculum to nearly 2,000 U.S. elementary schools. Beginning with pedal-free gliding, the classes give more children a chance to master a classic milestone while building coordination, confidence and resilience.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>The appetizing store gets another generation</title>
       <link>https://apnews.com/article/a9f588cf6e5af3a4e2c8777a2fbc4fd4</link>
@@ -34,7 +56,6 @@
       <description><![CDATA[Once a familiar companion to the Jewish deli, appetizing stores specialized in lox, smoked fish, cream cheese and pickled vegetables. Hundreds flourished in midcentury New York before fading, but younger proprietors are reviving the tradition in cities including Philadelphia and Los Angeles.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Dolly Parton smiles across cornfields for a literary cause</title>
       <link>https://apnews.com/article/dolly-parton-death-corn-mazes-farms-a276ad26b19a82433e8014ca22a00663</link>
@@ -43,7 +64,6 @@
       <description><![CDATA[Twenty farms in roughly a dozen states and two Canadian provinces have carved giant corn mazes in Dolly Parton's likeness. The autumn attraction, planned before the singer's death in August, raises money for her Imagination Library and adds trivia, music and photo stops to the fields.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Chile eliminates dog-transmitted rabies</title>
       <link>https://apnews.com/article/chile-rabies-public-health-dogs-b01d6e95338eab23aa76145ec32939ea</link>
@@ -52,7 +72,6 @@
       <description><![CDATA[The World Health Organization has validated Chile as the first South American country to eliminate rabies passed from dogs to people. Its last such case was in 1972; officials credit more than five decades of pet vaccination, post-exposure treatment, surveillance and public education.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Knights give &#36;1.1 billion for Oregon&apos;s first women&apos;s hospital</title>
       <link>https://apnews.com/article/phil-penny-knight-oregon-womens-hospital-3dc277cdb3ae0fe418bb4795bdfcbc1c</link>
@@ -61,7 +80,6 @@
       <description><![CDATA[Phil and Penny Knight have pledged &#36;1.1 billion to Providence St. Vincent Medical Center for Oregon's first hospital devoted to women's health. The gift will support a new facility, expanded cardiovascular care, research and training, with an emphasis on coordinated care throughout a woman's life.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Girl Scouts make their first cookies for dogs</title>
       <link>https://apnews.com/article/girl-scout-cookies-dogs-allergens-sparkables-patch-pals-73f2dd05cee680950aee4f5e9db5906e</link>
@@ -70,7 +88,6 @@
       <description><![CDATA[The Girl Scouts will add dogs to cookie season in January with Patch Pals, blueberry muffin-flavored treats developed with Bark and sold online. Scouts also inspired Sparkables, an oatmeal-chocolate-chip cookie made in a facility designed to avoid nine major allergens.]]></description>
       <source url="https://apnews.com/oddities">Associated Press</source>
     </item>
-
     <item>
       <title>Romania&apos;s miles-long table sets a record for a good cause</title>
       <link>https://apnews.com/article/romania-guinness-world-record-table-pediatric-hospital-f57ec0b098ac42ff15bbb02d9ece0e6d</link>
@@ -79,7 +96,6 @@
       <description><![CDATA[About 20,000 people gathered around a 3.1-mile table made from recycled materials in Bucharest, earning a Guinness World Record. The gathering raised money for what organizers say will be Romania's first pediatric psychiatry hospital, a five-story facility planned for completion in 2027.]]></description>
       <source url="https://apnews.com/oddities">Associated Press</source>
     </item>
-
     <item>
       <title>Pope marks his birthday by restoring Vatican workers&apos; pay</title>
       <link>https://apnews.com/article/pope-leo-birthday-library-finance-043d050db96ff6a7830f215af513dd7d</link>
@@ -88,7 +104,6 @@
       <description><![CDATA[Pope Leo XIV gave Vatican employees the present on his 71st birthday: an end to pandemic-era salary cuts and frozen raises imposed in 2021. He also celebrated at the Vatican library, honoring a lifelong connection to books inspired by his mother, who was a librarian.]]></description>
       <source url="https://apnews.com/oddities">Associated Press</source>
     </item>
-
     <item>
       <title>Hungarian gravediggers compete for speed and style</title>
       <link>https://apnews.com/article/grave-digging-contest-hungary-funerals-6e8dd952bec0d1a244eb0194a397d2bf</link>
@@ -97,7 +112,6 @@
       <description><![CDATA[Nineteen two-person teams tackled sun-baked soil in a Hungarian cemetery, racing to dig regulation graves with picks and shovels. The contest promotes the skill and professionalism of a taboo-shadowed trade. Winners Róbert Nagy and László Kiss finished in 1 hour, 21 minutes and split about $640.]]></description>
       <source url="https://apnews.com/oddities">Associated Press</source>
     </item>
-
     <item>
       <title>Moto Guzzi faithful return to a reborn Lake Como home</title>
       <link>https://apnews.com/article/moto-guzzi-expanded-headquarters-f78a177ce2cd0affdd465934290b30c7</link>
@@ -106,7 +120,6 @@
       <description><![CDATA[Motorcyclists made a pilgrimage to Moto Guzzi's renovated historic factory and new museum on Lake Como as the Italian maker celebrated its 105th anniversary. Vintage machines filled the display while riders joined a grand parade through Mandello del Lario, where the company's distinctive two-cylinder bikes are still built by hand.]]></description>
       <source url="https://apnews.com/oddities">Associated Press</source>
     </item>
-
     <item>
       <title>Princess the boa constrictor wins a role at the Met</title>
       <link>https://apnews.com/article/snakes-metropolitan-opera-audition-cosi-fan-tutte-94443a44ab9e8c00cfe5165e2eaa7e13</link>
@@ -114,33 +127,6 @@
       <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Even snakes must audition at the Metropolitan Opera. Princess, a boa constrictor, won the brief but conspicuous reptilian role in the Met's Coney Island-inspired staging of Mozart's Così fan tutte, where a carnival performer plays the snake handler.]]></description>
       <source url="https://apnews.com/oddities">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Nashville rivals unite behind naming airport for Dolly Parton</title>
-      <link>https://apnews.com/article/dolly-parton-nashville-airport-rename-238ff5f46fd295c32e2c6c0c49c92cc8</link>
-      <guid isPermaLink="true">https://apnews.com/article/dolly-parton-nashville-airport-rename-238ff5f46fd295c32e2c6c0c49c92cc8</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Tennessee Republicans and Nashville Democrats, otherwise locked in a fight over control of the city's airport, agree on one thing: it should bear Dolly Parton's name. The airport authority unanimously began the process after a petition topped 175,000 signatures. The change could make Parton the first woman honored by name at one of America's 50 busiest airports.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Greek couple welcomes daughter from embryo frozen for 22 years</title>
-      <link>https://apnews.com/article/greece-frozen-embryo-ivf-54-years-old-ddbe9bc5f3ce803ec49fa48a8512fe9c</link>
-      <guid isPermaLink="true">https://apnews.com/article/greece-frozen-embryo-ivf-54-years-old-ddbe9bc5f3ce803ec49fa48a8512fe9c</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[A 54-year-old Greek woman has given birth to a healthy daughter from an embryo frozen for 22 years. Cristina Rapti-Tzelepi and her husband named Georgia in honor of the son they lost in a road crash last October, saying the baby has brought hope and joy back to their family.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Mercury may be shrinking faster than scientists thought</title>
-      <link>https://apnews.com/article/mercury-shrinking-planet-47b010ee65287f76565bc4859c7c09b3</link>
-      <guid isPermaLink="true">https://apnews.com/article/mercury-shrinking-planet-47b010ee65287f76565bc4859c7c09b3</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The solar system's smallest planet is doing a cosmic raisin impression. Researchers estimate Mercury's cooling interior may have reduced its diameter by as much as 14 miles, about 30% more than previously believed. The arriving BepiColombo mission should help confirm how much the little world has withered.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

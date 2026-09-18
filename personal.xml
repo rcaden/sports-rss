@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:38:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>A 1987 Atari newsletter binder becomes a computer-history time capsule</title>
+      <link>https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/</link>
+      <description>A surviving binder of 50 Atari user-group newsletters from August 1987 offers 700 pages of firsthand computing history: software rumors, CES discoveries, type-in code, online-service worries and the shift from 8-bit machines to the Atari ST. The Internet Archive has digitized the full collection.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-08-27-atari-newsletter-time-capsule</guid>
+      <source url="https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/">Internet Archive</source>
+    </item>
+    <item>
+      <title>St. Augustine's colonial archaeology goes online</title>
+      <link>https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/</link>
+      <description>The Florida Museum's iDigStAug portal opens St. Augustine archaeology to everyone, beginning with three colonial house sites and about 51,000 artifacts. Searchable records include finds, maps, photographs, field notes and freely available archival PDFs, with much more of the museum's million-object collection planned.</description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-03-03-idigstaug-portal</guid>
+      <source url="https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/">Florida Museum of Natural History</source>
+    </item>
+    <item>
+      <title>SPSFC 5 names its ten semifinalists</title>
+      <link>https://spsfc.space/2026/06/17/the-spsfc-5-semifinalists/</link>
+      <description>The fifth Self-Published Science Fiction Competition has advanced ten novels from its five judging teams. The slate ranges across technothrillers, first contact, space marines, virtual reality, time travel and generation ships, with links to each team's full announcement and every semifinalist book.</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-06-17-spsfc5-semifinalists</guid>
+      <source url="https://spsfc.space/2026/06/17/the-spsfc-5-semifinalists/">Self-Published Science Fiction Competition</source>
+    </item>
     <item>
       <title>Mandrake&apos;s first two weeks reveal Lee Falk as artist</title>
       <link>https://www.dailycartoonist.com/index.php/2024/06/11/june-11-1934-enter-mandrake-the-magician-a-first-and-last-entry/</link>
@@ -16,7 +40,6 @@
       <description><![CDATA[The Daily Cartoonist marks Mandrake the Magician's 1934 debut by reproducing much of the strip's first two weeks. The installment is especially useful because creator Lee Falk drew those opening strips himself before handing the artwork to Phil Davis, giving researchers a compact view of the feature's original form.]]></description>
       <source url="https://www.dailycartoonist.com/">The Daily Cartoonist</source>
     </item>
-
     <item>
       <title>BlackRock marked down its Automattic investment again</title>
       <link>https://www.therepository.email/blackrock-cuts-automattic-valuation-by-17/</link>
@@ -25,7 +48,6 @@
       <description><![CDATA[BlackRock's March 2025 filing valued its Automattic shares at $31.03 each, down 17% from December and more than 25% year over year, according to The Repository. The markdown offers one of the few outside indicators of the private WordPress company's financial trajectory, though it does not disclose revenue or cash flow.]]></description>
       <source url="https://www.therepository.email/">The Repository</source>
     </item>
-
     <item>
       <title>WordPress still powers about two-fifths of the web</title>
       <link>https://www.wpzoom.com/blog/wordpress-statistics/</link>
@@ -34,7 +56,6 @@
       <description><![CDATA[An updated statistical roundup puts WordPress at 40.7% of all websites and 58.9% of sites using a known content-management system. It also inventories more than 71,000 free plugins and 30,000 themes. The figures are a useful snapshot of the platform's reach, although methodology and changing source data deserve scrutiny.]]></description>
       <source url="https://www.wpzoom.com/">WPZOOM</source>
     </item>
-
     <item>
       <title>Authors Guild explains settlement disputes and rights reversions</title>
       <link>https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/</link>
@@ -43,7 +64,6 @@
       <description><![CDATA[The Authors Guild offers practical guidance for writers and publishers resolving allocation errors in Anthropic copyright-settlement claims. It explains how to update percentages, document reverted rights and use the 30-day dispute process, while warning claimants to avoid look-alike scam sites.]]></description>
       <source url="https://authorsguild.org/">The Authors Guild</source>
     </item>
-
     <item>
       <title>A practical guide to rebuilding old-school BBS door development</title>
       <link>https://retroshed.us/bbs-door-dev-1/</link>
@@ -52,7 +72,6 @@
       <description><![CDATA[This hands-on introduction reconstructs development environments for BBS door programs on DOS, Windows, Linux and OS/2. It explains the old door kits, drop files, serial communications and carrier-loss handling, with links to period compilers and libraries for anyone reviving networked games from the dial-up era.]]></description>
       <source url="https://retroshed.us/">Retro Shed</source>
     </item>
-
     <item>
       <title>Criterion revisits the startling modernity of Quick Millions</title>
       <link>https://www.criterion.com/current/posts/6540-look-back-in-rapture-il-cinema-ritrovato</link>
@@ -61,7 +80,6 @@
       <description><![CDATA[A dispatch from Il Cinema Ritrovato argues that Rowland Brown's restored 1931 crime film Quick Millions rewrites the usual history of the gangster picture. Its cerebral amorality, flippant humor and offbeat style make the rise and fall of a ruthless trucker feel remarkably modern.]]></description>
       <source url="https://www.criterion.com/current/">The Criterion Collection</source>
     </item>
-
     <item>
       <title>GAO finds barriers to a fuller National Register of Historic Places</title>
       <link>https://www.gao.gov/products/gao-26-107879</link>
@@ -70,7 +88,6 @@
       <description><![CDATA[The National Register lists more than 100,000 historically significant places, but GAO found outdated guidance and criteria that can complicate nominations, especially for tribal sites. Its recommendations call for clearer public guidance, better outreach and more explanation of how sensitive locations can remain undisclosed.]]></description>
       <source url="https://www.gao.gov/">U.S. Government Accountability Office</source>
     </item>
-
     <item>
       <title>Students build 108 WordPress sites in two weeks</title>
       <link>https://wordpress.org/news/2026/09/108-student-websites/</link>
@@ -79,7 +96,6 @@
       <description><![CDATA[Free WordPress workshops in Bangladesh helped students build 108 sites across two campuses. The broader report also visits a Ugandan workshop that continued without electricity and a Costa Rican program where university students taught high schoolers, then published a guide others can reuse.]]></description>
       <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
-
     <item>
       <title>Copyright Office marks 50 years of the 1976 Copyright Act</title>
       <link>https://www.copyright.gov/newsnet/2026/1094.html</link>
@@ -88,7 +104,6 @@
       <description><![CDATA[A September 23 online event will revisit how the Copyright Act of 1976 was drafted, administered and amended, with participants who worked at the Copyright Office or on Capitol Hill. The 90-minute program offers an insider's view of the statute that reshaped U.S. copyright for modern media.]]></description>
       <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
     </item>
-
     <item>
       <title>Emily St. John Mandel expands her connected universe in Exit Party</title>
       <link>https://apnews.com/article/5ff6546097ea5e44b71a000ac62358dd</link>
@@ -97,7 +112,6 @@
       <description><![CDATA[Emily St. John Mandel's new novel Exit Party blends crime and science fiction in a fractured 2031 United States while bringing back characters from earlier books. The AP profile explores how her loosely linked 'Mandelverse' lets her revisit themes of identity, impermanence and finding beauty amid disorder.]]></description>
       <source url="https://apnews.com/entertainment">Associated Press</source>
     </item>
-
     <item>
       <title>Why some 1930 works had a complicated route to the public domain</title>
       <link>https://copyrightlately.com/public-domain-2026/</link>
@@ -106,7 +120,6 @@
       <description><![CDATA[Aaron Moss surveys the major 1930 books, films, cartoons and songs that became free to use in 2026, then digs into the copyright math. Especially useful is his account of foreign films such as The Blue Angel, whose lapsed U.S. protection was restored by the URAA before expiring again at the end of 2025.]]></description>
       <source url="https://copyrightlately.com/">Copyright Lately</source>
     </item>
-
     <item>
       <title>St. Augustine dig uncovers first physical evidence of a British redoubt</title>
       <link>https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</link>
@@ -114,33 +127,6 @@
       <pubDate>Fri, 28 Mar 2025 15:29:48 GMT</pubDate>
       <description><![CDATA[Archaeologists in Lincolnville found a 15-foot-wide dry moat from a British military redoubt built in 1781. It is the first of St. Augustine's seven mapped British outposts to be confirmed archaeologically, illuminating the city's often-overlooked 1763-1783 period under British rule.]]></description>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Internet Archive launches project to preserve state and local government records</title>
-      <link>https://blog.archive.org/2026/09/10/atlasimls/</link>
-      <guid isPermaLink="true">https://blog.archive.org/2026/09/10/atlasimls/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Internet Archive's two-year ATLAS project will help 100 state and local government institutions preserve public records with Archive-It and Archive Vault. Built with the Council of State Archivists, it will also produce a shared portal, training materials and a summit devoted to keeping born-digital civic history accessible.]]></description>
-      <source url="https://blog.archive.org/">Internet Archive Blog</source>
-    </item>
-
-    <item>
-      <title>The 2026 Hugo Awards honor Harrow, El-Mohtar and Scalzi</title>
-      <link>https://www.andrewliptak.com/2026-hugo-award-winners-harrow-scalzi-el-mohtar-scifi-fantasy/</link>
-      <guid isPermaLink="true">https://www.andrewliptak.com/2026-hugo-award-winners-harrow-scalzi-el-mohtar-scifi-fantasy/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Andrew Liptak's complete Hugo Awards rundown spotlights Alix E. Harrow's The Everlasting for Best Novel, Amal El-Mohtar's The River Has Roots for Best Novella and John Scalzi's Old Man's War for Best Series, with winners across comics, fanzines, dramatic presentations and other categories.]]></description>
-      <source url="https://www.andrewliptak.com/">Andrew Liptak</source>
-    </item>
-
-    <item>
-      <title>ServiceNow&apos;s September Creator release sharpens Studio and testing</title>
-      <link>https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068</link>
-      <guid isPermaLink="true">https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[ServiceNow's September Creator update folds the newer IDE into Studio, adds more ways to open application files there and expands automated testing with parameterized tests and test suites. It also adds domain-separation support and Build Agent improvements for developers working on Zurich and Australia releases.]]></description>
-      <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:38:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:09:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Public-domain classics keep becoming bargain-bin horror movies</title>
+      <link>https://www.theguardian.com/film/2026/sep/17/winnie-the-pooh-horror-movies-copyright</link>
+      <description>A brisk, funny look at the wave of low-budget horror films built from expired copyrights, from Winnie-the-Pooh and Steamboat Willie to a zombie-flavored Wuthering Heights. It also inventories the next tempting targets, including Babar, Mrs Dalloway, The Sun Also Rises and The Age of Innocence.</description>
+      <pubDate>Thu, 17 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-17-public-domain-horror-wave</guid>
+      <source url="https://www.theguardian.com/film/2026/sep/17/winnie-the-pooh-horror-movies-copyright">The Guardian</source>
+    </item>
+    <item>
+      <title>Cory Doctorow makes the case for using an RSS reader</title>
+      <link>https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/</link>
+      <description>Doctorow argues that RSS is a rare personal choice that improves both your own internet experience and the wider web. Readers deliver posts without platform lock-in, tracking, pop-ups or algorithmic filtering, while supporting blogs, newsletters, Mastodon, Bluesky and other independent sources.</description>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2024-10-16-doctorow-rss-reader</guid>
+      <source url="https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/">Pluralistic</source>
+    </item>
+    <item>
+      <title>WordPress&apos;s plugin handbook is a practical map of extension development</title>
+      <link>https://developer.wordpress.org/plugins/</link>
+      <description>The official Plugin Developer Handbook gathers the working details of WordPress extension development in one place: hooks, settings, metadata, REST endpoints, security, privacy, scheduled events, localization, directory submission and developer tools. It is a useful reference for both new plugins and old code that needs modernization.</description>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2023-12-14-wordpress-plugin-handbook</guid>
+      <source url="https://developer.wordpress.org/plugins/">WordPress Developer Resources</source>
+    </item>
     <item>
       <title>A 1987 Atari newsletter binder becomes a computer-history time capsule</title>
       <link>https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[A September 23 online event will revisit how the Copyright Act of 1976 was drafted, administered and amended, with participants who worked at the Copyright Office or on Capitol Hill. The 90-minute program offers an insider's view of the statute that reshaped U.S. copyright for modern media.]]></description>
       <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
-    </item>
-    <item>
-      <title>Emily St. John Mandel expands her connected universe in Exit Party</title>
-      <link>https://apnews.com/article/5ff6546097ea5e44b71a000ac62358dd</link>
-      <guid isPermaLink="true">https://apnews.com/article/5ff6546097ea5e44b71a000ac62358dd</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Emily St. John Mandel's new novel Exit Party blends crime and science fiction in a fractured 2031 United States while bringing back characters from earlier books. The AP profile explores how her loosely linked 'Mandelverse' lets her revisit themes of identity, impermanence and finding beauty amid disorder.]]></description>
-      <source url="https://apnews.com/entertainment">Associated Press</source>
-    </item>
-    <item>
-      <title>Why some 1930 works had a complicated route to the public domain</title>
-      <link>https://copyrightlately.com/public-domain-2026/</link>
-      <guid isPermaLink="true">https://copyrightlately.com/public-domain-2026/</guid>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
-      <description><![CDATA[Aaron Moss surveys the major 1930 books, films, cartoons and songs that became free to use in 2026, then digs into the copyright math. Especially useful is his account of foreign films such as The Blue Angel, whose lapsed U.S. protection was restored by the URAA before expiring again at the end of 2025.]]></description>
-      <source url="https://copyrightlately.com/">Copyright Lately</source>
-    </item>
-    <item>
-      <title>St. Augustine dig uncovers first physical evidence of a British redoubt</title>
-      <link>https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</link>
-      <guid isPermaLink="true">https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</guid>
-      <pubDate>Fri, 28 Mar 2025 15:29:48 GMT</pubDate>
-      <description><![CDATA[Archaeologists in Lincolnville found a 15-foot-wide dry moat from a British military redoubt built in 1781. It is the first of St. Augustine's seven mapped British outposts to be confirmed archaeologically, illuminating the city's often-overlooked 1763-1783 period under British rule.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

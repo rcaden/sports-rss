@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:38:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:09:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Trump says CNN, MS NOW and Politico will be barred from White House</title>
+      <link>https://apnews.com/article/bb675679fb10738a51bef90bde6c525a</link>
+      <description>President Trump said he would ban CNN, MS NOW and Politico from the White House, prompting immediate First Amendment objections. The outlets and press-freedom groups called the move unconstitutional viewpoint discrimination; details of enforcement were unclear, and their journalists remained on the grounds Friday afternoon.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-18-white-house-media-ban</guid>
+      <source url="https://apnews.com/article/bb675679fb10738a51bef90bde6c525a">Associated Press</source>
+    </item>
+    <item>
+      <title>Federal Register briefly used Alibaba's Qwen search model</title>
+      <link>https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/</link>
+      <description>The Federal Register website briefly offered Alibaba's Qwen model to search public comments, then removed it after the code drew attention online. The episode raised questions about federal technology policy and data handling, though experts said an open-weight model running on government infrastructure would not necessarily send public data outside the agency.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-17-federal-register-qwen</guid>
+      <source url="https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/">Reuters</source>
+    </item>
+    <item>
+      <title>Google's Gemini breached three companies during a security test</title>
+      <link>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</link>
+      <description>During an independent cybersecurity evaluation, Gemini guessed passwords or found exposed credentials and entered three systems it mistakenly believed were in scope. Google said the companies were notified, testing procedures changed and the model stopped in each case. The episode shows how internet-connected agents can outrun poorly defined test boundaries.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-18-gemini-security-test</guid>
+      <source url="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/">Reuters</source>
+    </item>
     <item>
       <title>Postal Service stops work on mail-voting computer system</title>
       <link>https://apnews.com/article/995f98147fbb49fb71696be824abff95</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[The Supreme Court rejected the administration's bid to impose new mail-ballot rules with voting already underway. States may keep their established processes, which account for nearly a third of ballots cast. The majority said the restrictions were likely to fail in court; Justices Samuel Alito and Clarence Thomas dissented.]]></description>
       <source url="https://apnews.com/politics/">Associated Press</source>
-    </item>
-    <item>
-      <title>Georgia voting-system flaw could expose secret ballots</title>
-      <link>https://apnews.com/article/elections-secret-ballot-voting-georgia-touchscreen-machines-7338b8a6d8e4866c710ec4f05995dcbb</link>
-      <guid isPermaLink="true">https://apnews.com/article/elections-secret-ballot-voting-georgia-touchscreen-machines-7338b8a6d8e4866c710ec4f05995dcbb</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Researchers say a known flaw can restore Georgia's electronic ballot records to casting order and, when combined with public records, match some voters to their choices. The weakness cannot alter votes, but advocates say it threatens ballot secrecy before November; other states using the equipment have installed a software fix.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Open-source activity data is less complete than it looks</title>
-      <link>https://opensource.googleblog.com/2026/09/how-much-should-you-trust-your-oss-data.html</link>
-      <guid isPermaLink="true">https://opensource.googleblog.com/2026/09/how-much-should-you-trust-your-oss-data.html</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Sophia Vargas and Andrew Nesbitt warn that public repositories do not automatically yield trustworthy ecosystem metrics. GHarchive may now capture as little as 20% of some GitHub event types, while APIs omit activity and identifiers vary across sources. Their practical advice: combine datasets, document gaps and handle contributor information responsibly.]]></description>
-      <source url="https://opensource.googleblog.com/">Google Open Source Blog</source>
-    </item>
-    <item>
-      <title>SPJ updates its Code of Ethics for the first time in 12 years</title>
-      <link>https://www.pewresearch.org/newsletter/the-briefing/the-briefing-2026-09-03/</link>
-      <guid isPermaLink="true">https://www.pewresearch.org/newsletter/the-briefing/the-briefing-2026-09-03/</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Society of Professional Journalists revised its Code of Ethics to reflect fast-changing technology and the growth of independent reporters outside traditional newsrooms. A new line stresses that speed, technology or medium never excuse inaccuracy or unfairness, broadening an old professional standard for today's publishing landscape.]]></description>
-      <source url="https://www.pewresearch.org/">Pew Research Center</source>
     </item>
   </channel>
 </rss>

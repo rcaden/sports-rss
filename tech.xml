@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:19:59 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Reach plans 220 more newsroom cuts as search referrals collapse</title>
+      <link>https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google</link>
+      <description>The publisher of the Mirror and Express says Google referrals have fallen 46% year over year as answer summaries keep more users on the search page. Reach plans to cut 220 editorial jobs and close three local sites while adding 60 subscription and video roles, a stark example of how platform changes can hollow out web journalism.</description>
+      <pubDate>Wed, 16 Sep 2026 12:16:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-16-reach-newsroom-cuts-search-referrals</guid>
+      <source url="https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google">The Guardian</source>
+    </item>
+    <item>
+      <title>White House enforces its ban on three news organizations</title>
+      <link>https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/</link>
+      <description>The White House confiscated credentials from CNN, MS NOW and Politico reporters, turning President Trump's announced ban into action. The outlets called the move unconstitutional and vowed to fight it. The enforcement is a major new development in the dispute and revives legal questions raised by earlier credential cases.</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-19-white-house-enforces-news-outlet-ban</guid>
+      <source url="https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/">Reuters</source>
+    </item>
+    <item>
+      <title>Trump plans a new AI adviser and federal task force</title>
+      <link>https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/</link>
+      <description>President Trump said he will name a new White House adviser and create a federal task force for AI, but offered no details on their authority or membership. The announcement puts technology policy back inside the West Wing as Washington debates safety rules, competition with China and how much oversight developers should face.</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-19-trump-ai-adviser-task-force</guid>
+      <source url="https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/">Reuters</source>
+    </item>
     <item>
       <title>Trump says CNN, MS NOW and Politico will be barred from White House</title>
       <link>https://apnews.com/article/bb675679fb10738a51bef90bde6c525a</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 15 Sep 2026 17:09:00 GMT</pubDate>
       <description><![CDATA[Telegraph staff are debating Reform UK's use of friendly exclusives to pre-empt damaging stories after rival reporters request comment. Critics say the maneuver erodes trust and may discourage journalists from giving subjects enough time to respond, making political coverage less accurate and balanced.]]></description>
       <source url="https://www.theguardian.com/media">The Guardian</source>
-    </item>
-    <item>
-      <title>CSS-Tricks falls quiet again with its future unclear</title>
-      <link>https://vale.rocks/posts/css-tricks-in-limbo</link>
-      <guid isPermaLink="true">https://vale.rocks/posts/css-tricks-in-limbo</guid>
-      <pubDate>Tue, 15 Sep 2026 01:35:00 GMT</pubDate>
-      <description><![CDATA[Declan Chidlow traces another uncertain chapter for CSS-Tricks: after years of ownership changes and a recent revival, the venerable web-development publication has posted nothing since August 31. With no public explanation from DigitalOcean, contributors and readers are again left wondering whether a valuable open-web archive has a future.]]></description>
-      <source url="https://vale.rocks/">Vale.Rocks</source>
-    </item>
-    <item>
-      <title>Study finds the public is expanding, not replacing, its idea of news</title>
-      <link>https://reutersinstitute.politics.ox.ac.uk/changing-definitions-news-digital-environment-how-public-defines-news-across-six-countries</link>
-      <guid isPermaLink="true">https://reutersinstitute.politics.ox.ac.uk/changing-definitions-news-digital-environment-how-public-defines-news-across-six-countries</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[A six-country Reuters Institute study finds 49% of people use a traditional definition of news, while 26% add subjects and formats such as creators, podcasts and short video without abandoning the core. Across groups, verified facts remain foundational; traditional news brands are more likely to be recognized as news and trusted.]]></description>
-      <source url="https://reutersinstitute.politics.ox.ac.uk/">Reuters Institute for the Study of Journalism</source>
-    </item>
-    <item>
-      <title>Supreme Court rejects mail-ballot limits before the midterms</title>
-      <link>https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-78a4fbeb48d9c5fd27d1c865529fc65f</link>
-      <guid isPermaLink="true">https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-78a4fbeb48d9c5fd27d1c865529fc65f</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Supreme Court rejected the administration's bid to impose new mail-ballot rules with voting already underway. States may keep their established processes, which account for nearly a third of ballots cast. The majority said the restrictions were likely to fail in court; Justices Samuel Alito and Clarence Thomas dissented.]]></description>
-      <source url="https://apnews.com/politics/">Associated Press</source>
     </item>
   </channel>
 </rss>

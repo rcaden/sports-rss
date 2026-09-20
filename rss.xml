@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:19:59 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Czech Republic rallies to eliminate the U.S. from Davis Cup</title>
+      <link>https://www.reuters.com/sports/tennis/davis-cup-roundup-czech-republic-ousts-us-second-round--flm-2026-09-20/</link>
+      <description>A day after the teams split the opening singles, the Czech Republic erased a 2-1 deficit by winning both reverse singles in Prague. Jiri Lehecka beat Learner Tien and Jakub Mensik defeated Ben Shelton to eliminate the United States 3-2 and advance to November's quarterfinals in Bologna.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-20-czech-republic-eliminates-us-davis-cup</guid>
+      <source url="https://www.reuters.com/sports/tennis/davis-cup-roundup-czech-republic-ousts-us-second-round--flm-2026-09-20/">Reuters</source>
+    </item>
+    <item>
+      <title>Coventry earns its first Premier League win in 25 years</title>
+      <link>https://www.reuters.com/sports/soccer/lampards-coventry-earn-landmark-first-premier-league-win-25-years-2026-09-19/</link>
+      <description>Jay Dasilva's second-half goal gave Coventry City a 1-0 victory at Nottingham Forest, the club's first Premier League win since 2001. A late Forest equalizer was overturned by VAR, lifting Frank Lampard's promoted side off the bottom after four straight losses.</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-19-coventry-first-premier-league-win-25-years</guid>
+      <source url="https://www.reuters.com/sports/soccer/lampards-coventry-earn-landmark-first-premier-league-win-25-years-2026-09-19/">Reuters</source>
+    </item>
+    <item>
+      <title>Diamondbacks walk off the Yankees on a World Series anniversary</title>
+      <link>https://www.reuters.com/sports/baseball/pavin-smiths-pinch-hit-walk-off-homer-lifts-d-backs-over-yankees--flm-2026-09-20/</link>
+      <description>On the 25th anniversary of Arizona's 2001 World Series win over New York, pinch hitter Pavin Smith hit a two-run homer in the ninth for a 5-3 victory. The Diamondbacks ended a three-game skid and kept their faint NL wild-card hopes alive with seven games left.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-20-diamondbacks-walkoff-yankees-anniversary</guid>
+      <source url="https://www.reuters.com/sports/baseball/pavin-smiths-pinch-hit-walk-off-homer-lifts-d-backs-over-yankees--flm-2026-09-20/">Reuters</source>
+    </item>
     <item>
       <title>Braves clinch postseason berth with three two-run homers</title>
       <link>https://www.reuters.com/sports/mlb-roundup-braves-top-astros-wrap-up-postseason-berth--flm-2026-09-19/</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Lionel Messi has been summoned for a ceremonial return to Argentina's squad after retiring from international soccer last month. The 39-year-old is expected to receive a farewell in an Oct. 6 friendly against Benin at Buenos Aires' Monumental Stadium.]]></description>
       <source url="https://www.reuters.com/sports/">Reuters</source>
-    </item>
-    <item>
-      <title>Kenneth Walker powers Chiefs past Broncos in Kansas City debut</title>
-      <link>https://apnews.com/article/broncos-chiefs-score-e537fb438d7d1bc13a74e746484b745e</link>
-      <guid isPermaLink="true">https://apnews.com/article/broncos-chiefs-score-e537fb438d7d1bc13a74e746484b745e</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Kenneth Walker III ran 23 times for 173 yards and two touchdowns in his Chiefs debut, carrying Kansas City to a 31-10 win over Denver. Patrick Mahomes added two touchdown passes and a rushing score in his return from knee surgery as the Chiefs ended a three-game skid against the Broncos.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-    <item>
-      <title>Kawhi Leonard returns to Toronto as Raptors-Clippers trade closes</title>
-      <link>https://apnews.com/article/raptors-clippers-kawhi-leonard-trade-9479568ca93a5bdfd6f103f9986e5293</link>
-      <guid isPermaLink="true">https://apnews.com/article/raptors-clippers-kawhi-leonard-trade-9479568ca93a5bdfd6f103f9986e5293</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Kawhi Leonard is headed back to the franchise he led to the 2019 NBA title. Toronto sent Brandon Ingram, Gradey Dick, two first-round picks, two second-rounders and a pick swap to the Clippers after the delayed deal cleared league review.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-    <item>
-      <title>Judge homers as Yankees clinch record 61st postseason berth</title>
-      <link>https://apnews.com/article/yankees-clinch-judge-4cc920c5e3d3f247d7958c69f23abec3</link>
-      <guid isPermaLink="true">https://apnews.com/article/yankees-clinch-judge-4cc920c5e3d3f247d7958c69f23abec3</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Aaron Judge hit a three-run homer, his first since returning from a fractured rib that cost him more than three months, as New York beat Minnesota 8-3. The Yankees secured their ninth playoff appearance in 10 seasons and a major league-record 61st postseason berth.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
     </item>
   </channel>
 </rss>

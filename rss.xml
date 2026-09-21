@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:41:44 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Dak Prescott becomes Cowboys' career touchdown-pass leader</title>
+      <link>https://www.reuters.com/sports/nfl-roundup-dak-prescott-stars-jayden-daniels-injured-cowboys-win--flm-2026-09-21/</link>
+      <description>Dak Prescott threw four touchdown passes in Dallas' 37-20 win over Washington, passing Tony Romo's franchise record of 248. The victory was clouded by Commanders rookie quarterback Jayden Daniels suffering a dislocated left elbow.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-21-dak-prescott-cowboys-touchdown-record</guid>
+      <source url="https://www.reuters.com/sports/nfl-roundup-dak-prescott-stars-jayden-daniels-injured-cowboys-win--flm-2026-09-21/">Reuters</source>
+    </item>
+    <item>
+      <title>Ole Miss climbs to No. 4 after beating LSU</title>
+      <link>https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5</link>
+      <description>Ole Miss moved to No. 4 in the AP Top 25 after a 32-24 victory over LSU, reaching the September top five for a third straight season. The SEC placed 10 teams in the ranking, while Texas A&amp;M plunged from No. 9 to No. 23 after losing at home to unranked Kentucky.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-21-ole-miss-number-four-ap-poll</guid>
+      <source url="https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5">Associated Press</source>
+    </item>
+    <item>
+      <title>J.J. Spaun answers Presidents Cup snub with BMW PGA win</title>
+      <link>https://www.reuters.com/sports/golf/spaun-uses-presidents-cup-snub-win-bmw-pga-championship-2026-09-20/</link>
+      <description>J.J. Spaun birdied four of his last five holes, closed with a 67 and won the BMW PGA Championship by two shots over a group including Rory McIlroy and Adam Scott. Spaun said being passed over for a U.S. Presidents Cup captain's pick supplied extra motivation.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-20-spaun-bmw-pga-win</guid>
+      <source url="https://www.reuters.com/sports/golf/spaun-uses-presidents-cup-snub-win-bmw-pga-championship-2026-09-20/">Reuters</source>
+    </item>
     <item>
       <title>Czech Republic rallies to eliminate the U.S. from Davis Cup</title>
       <link>https://www.reuters.com/sports/tennis/davis-cup-roundup-czech-republic-ousts-us-second-round--flm-2026-09-20/</link>
@@ -102,30 +126,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/mlb-roundup-guardians-overtake-white-sox-1st-place-al-central--flm-2026-09-17/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[Cleveland took sole possession of first place in the AL Central with a 6-3 victory over the White Sox, powered by rookie Petey Halpin's three-run homer. Elsewhere in a tightening pennant race, Cincinnati delayed the Dodgers' division clincher and Texas pulled even atop the AL West.]]></description>
-      <source url="https://www.reuters.com/sports/">Reuters</source>
-    </item>
-    <item>
-      <title>Leagues and player unions seek lifetime betting bans for harassers</title>
-      <link>https://apnews.com/article/d23630637dfbacd12a141a0ab334480e</link>
-      <guid isPermaLink="true">https://apnews.com/article/d23630637dfbacd12a141a0ab334480e</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The NFL, MLB, NBA, NHL and MLS joined their player associations in asking betting regulators in 35 states and Washington to permanently bar bettors who threaten or harass players, coaches, officials or their families. Only four states currently have such rules.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-    <item>
-      <title>Sweeping college sports bill clears a key Senate hurdle</title>
-      <link>https://apnews.com/article/d4a1a9e0cd6c0a36c0cfd5cf4f87fc42</link>
-      <guid isPermaLink="true">https://apnews.com/article/d4a1a9e0cd6c0a36c0cfd5cf4f87fc42</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Senate voted 74-24 to advance a bipartisan overhaul of college sports. The bill would regulate athlete compensation, transfers and eligibility, cap revenue sharing at 22% and permit pooled television rights. Supporters call it overdue national order; critics say it would restrict athletes.]]></description>
-      <source url="https://apnews.com/sports">Associated Press</source>
-    </item>
-    <item>
-      <title>Messi called back for an Argentina farewell match</title>
-      <link>https://www.reuters.com/sports/soccer/messi-called-up-by-argentina-farewell-appearance-following-international-2026-09-15/</link>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/messi-called-up-by-argentina-farewell-appearance-following-international-2026-09-15/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Lionel Messi has been summoned for a ceremonial return to Argentina's squad after retiring from international soccer last month. The 39-year-old is expected to receive a farewell in an Oct. 6 friendly against Benin at Buenos Aires' Monumental Stadium.]]></description>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
   </channel>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:41:44 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>New laws reopen claims to Nazi-looted art in two museums</title>
+      <link>https://apnews.com/article/7abc2100abc10c55dcb6281e4e7e850c</link>
+      <description>Changes in California and federal law have revived restitution cases involving Lucas Cranach the Elder's “Adam and Eve” at the Norton Simon Museum and watercolors painted at Auschwitz by Dinah Babbitt, now held by Poland's Auschwitz-Birkenau State Museum.</description>
+      <pubDate>Sat, 19 Sep 2026 11:14:50 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-19-nazi-looted-art-new-laws</guid>
+      <source url="https://apnews.com/article/7abc2100abc10c55dcb6281e4e7e850c">Associated Press</source>
+    </item>
+    <item>
+      <title>WordPress 7.1 expands styling, media workflows and Notes</title>
+      <link>https://wordpress.org/news/2026/08/mary-lou/</link>
+      <description>WordPress 7.1 “Mary Lou” adds new styling controls, smoother media workflows and expanded Notes for collaboration. The official release overview highlights both creator-facing improvements and under-the-hood refinements, making it a useful guide before upgrading production sites.</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-08-19-wordpress-7-1-mary-lou</guid>
+      <source url="https://wordpress.org/news/2026/08/mary-lou/">WordPress News</source>
+    </item>
+    <item>
+      <title>Betty Boop, Blondie and three famous detectives enter the public domain</title>
+      <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
+      <description>The 2026 public-domain class includes the earliest Betty Boop and Blondie appearances, plus Nancy Drew, Sam Spade and Miss Marple. Works from 1930 also bring fresh reuse possibilities for Mickey Mouse cartoons, classic songs and films after their U.S. copyright terms expired.</description>
+      <pubDate>Wed, 31 Dec 2025 21:50:51 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2025-12-31-betty-boop-blondie-public-domain</guid>
+      <source url="https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1">Associated Press</source>
+    </item>
     <item>
       <title>Lucas Museum opens with comics, Star Wars and fine art under one roof</title>
       <link>https://apnews.com/article/359e58bb09f0e787cef35ed3f70f93df</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[An updated statistical roundup puts WordPress at 40.7% of all websites and 58.9% of sites using a known content-management system. It also inventories more than 71,000 free plugins and 30,000 themes. The figures are a useful snapshot of the platform's reach, although methodology and changing source data deserve scrutiny.]]></description>
       <source url="https://www.wpzoom.com/">WPZOOM</source>
-    </item>
-    <item>
-      <title>Authors Guild explains settlement disputes and rights reversions</title>
-      <link>https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/</link>
-      <guid isPermaLink="true">https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Authors Guild offers practical guidance for writers and publishers resolving allocation errors in Anthropic copyright-settlement claims. It explains how to update percentages, document reverted rights and use the 30-day dispute process, while warning claimants to avoid look-alike scam sites.]]></description>
-      <source url="https://authorsguild.org/">The Authors Guild</source>
-    </item>
-    <item>
-      <title>A practical guide to rebuilding old-school BBS door development</title>
-      <link>https://retroshed.us/bbs-door-dev-1/</link>
-      <guid isPermaLink="true">https://retroshed.us/bbs-door-dev-1/</guid>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
-      <description><![CDATA[This hands-on introduction reconstructs development environments for BBS door programs on DOS, Windows, Linux and OS/2. It explains the old door kits, drop files, serial communications and carrier-loss handling, with links to period compilers and libraries for anyone reviving networked games from the dial-up era.]]></description>
-      <source url="https://retroshed.us/">Retro Shed</source>
-    </item>
-    <item>
-      <title>Criterion revisits the startling modernity of Quick Millions</title>
-      <link>https://www.criterion.com/current/posts/6540-look-back-in-rapture-il-cinema-ritrovato</link>
-      <guid isPermaLink="true">https://www.criterion.com/current/posts/6540-look-back-in-rapture-il-cinema-ritrovato</guid>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 GMT</pubDate>
-      <description><![CDATA[A dispatch from Il Cinema Ritrovato argues that Rowland Brown's restored 1931 crime film Quick Millions rewrites the usual history of the gangster picture. Its cerebral amorality, flippant humor and offbeat style make the rise and fall of a ruthless trucker feel remarkably modern.]]></description>
-      <source url="https://www.criterion.com/current/">The Criterion Collection</source>
     </item>
   </channel>
 </rss>

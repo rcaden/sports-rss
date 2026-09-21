@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:41:44 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cybercrime feud spills into the open after a dark-web site hijacking</title>
+      <link>https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/</link>
+      <description>The ShinyHunters cybercrime group says it seized rival cl0p's dark-web leak site in a dispute over a stolen software flaw. The unusual public feud offers a glimpse into the fragile alliances and competitive economics behind ransomware operations, though Reuters could not independently verify every claim.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-dark-web-cybercrime-feud</guid>
+      <source url="https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/">Reuters</source>
+    </item>
+    <item>
+      <title>Publishers rethink audience relationships as referral traffic shrinks</title>
+      <link>https://reutersinstitute.politics.ox.ac.uk/news/five-takeaways-future-media-technology-conference-how-publishers-are-rethinking-audience</link>
+      <description>At the Future Media Technology Conference, publishers described a shift away from depending on search and social referrals. Newsrooms are investing in direct relationships through newsletters, events, communities and stronger products—a practical response to platforms sending less traffic.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-11-publishers-direct-audience-strategy</guid>
+      <source url="https://reutersinstitute.politics.ox.ac.uk/news/five-takeaways-future-media-technology-conference-how-publishers-are-rethinking-audience">Reuters Institute for the Study of Journalism</source>
+    </item>
+    <item>
+      <title>Meta challenges Ofcom's Online Safety Act classifications</title>
+      <link>https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act</link>
+      <description>Meta has appealed Ofcom's decision to classify WhatsApp and Instagram as Category 1 services under Britain's Online Safety Act. The case joins challenges from TikTok, X, Roblox and Quora over how the regulator applies duties, calculates fees and demands data from large platforms.</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-20-meta-ofcom-online-safety-challenge</guid>
+      <source url="https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act">The Guardian</source>
+    </item>
     <item>
       <title>Reach plans 220 more newsroom cuts as search referrals collapse</title>
       <link>https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 17 Sep 2026 10:05:00 GMT</pubDate>
       <description><![CDATA[San Jose expects each proposed data center to produce $3 million to $6 million a year in tax revenue, but neighborhood and environmental groups want fuller accounting of electricity, water, pollution and public benefits. California lawmakers have sent the governor bills on utility costs and resource transparency.]]></description>
       <source url="https://www.reuters.com/technology/">Reuters</source>
-    </item>
-    <item>
-      <title>Wayback Machine explains access blocks and 429 errors</title>
-      <link>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</link>
-      <guid isPermaLink="true">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[The Internet Archive says waves of high-volume traffic forced it to tighten Wayback Machine protections, sometimes blocking real people with HTTP 429 errors. The team is refining how it separates abusive bots from ordinary users and asks anyone wrongly blocked to send browser, operating-system and IP details for review.]]></description>
-      <source url="https://blog.archive.org/">Internet Archive Blogs</source>
-    </item>
-    <item>
-      <title>Twenty-five years of mass surveillance face a reckoning</title>
-      <link>https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</link>
-      <guid isPermaLink="true">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[Cindy Cohn and Bruce Schneier argue that surveillance powers expanded after 9/11 have outlived their rationale while technology has made them far more intrusive. Their case connects constitutional rights, concentrated technical power and the need to replace indiscriminate collection with targeted, accountable methods.]]></description>
-      <source url="https://www.lawfaremedia.org/">Lawfare</source>
-    </item>
-    <item>
-      <title>Political spoiler tactics unsettle Telegraph journalists</title>
-      <link>https://www.theguardian.com/media/2026/sep/15/significant-unease-the-telegraph-reform-farage-spoiler-tactics</link>
-      <guid isPermaLink="true">https://www.theguardian.com/media/2026/sep/15/significant-unease-the-telegraph-reform-farage-spoiler-tactics</guid>
-      <pubDate>Tue, 15 Sep 2026 17:09:00 GMT</pubDate>
-      <description><![CDATA[Telegraph staff are debating Reform UK's use of friendly exclusives to pre-empt damaging stories after rival reporters request comment. Critics say the maneuver erodes trust and may discourage journalists from giving subjects enough time to respond, making political coverage less accurate and balanced.]]></description>
-      <source url="https://www.theguardian.com/media">The Guardian</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Banned news organizations take the White House to court</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit</link>
+      <description>In a major development after their White House access was revoked, CNN, MS Now and Politico sued President Trump, alleging violations of the First and Fifth Amendments. They are seeking an emergency order restoring credentials, while major television networks have condemned the ban.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-white-house-media-ban-lawsuit</guid>
+      <source url="https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit">The Guardian</source>
+    </item>
+    <item>
+      <title>Three in four Americans say AI firms are not doing enough to prevent harm</title>
+      <link>https://www.reuters.com/world/three-out-four-americans-say-ai-firms-not-doing-enough-prevent-disaster-2026-09-22/</link>
+      <description>A Reuters/Ipsos poll found 73% of U.S. adults think AI companies are not doing enough to prevent serious social harm. Only 11% viewed the technology's effect positively, while 73% said safety should take priority over keeping the United States ahead of China.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-22-reuters-ipsos-ai-safety-poll</guid>
+      <source url="https://www.reuters.com/world/three-out-four-americans-say-ai-firms-not-doing-enough-prevent-disaster-2026-09-22/">Reuters</source>
+    </item>
+    <item>
+      <title>Auditors say poor information sharing weakens Europe's cyber defenses</title>
+      <link>https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/</link>
+      <description>The European Court of Auditors says national authorities still fail to share timely, useful details during major cyber incidents despite €1.4 billion in EU spending. Its report cites a ransomware attack that disrupted several airports without any affected country alerting the EU cybersecurity agency.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-eu-cyber-defense-data-sharing</guid>
+      <source url="https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/">Reuters</source>
+    </item>
     <item>
       <title>Cybercrime feud spills into the open after a dark-web site hijacking</title>
       <link>https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-16-government-speech-pressure-bill</guid>
       <source url="https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/">Reuters</source>
-    </item>
-    <item>
-      <title>Europe proposes a social-media ban for children under 13</title>
-      <link>https://www.reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/eu-commission-proposes-social-media-ban-children-under-13-2026-09-17/</guid>
-      <pubDate>Thu, 17 Sep 2026 08:11:00 GMT</pubDate>
-      <description><![CDATA[The proposed EU Kids Act would bar children under 13 from social media, put accounts for ages 13 to 15 under parental control and restrict addictive design features. Platforms could face fines of 6% of global sales, while industry critics warn that large-scale age verification could create new privacy and security risks.]]></description>
-      <source url="https://www.reuters.com/technology/">Reuters</source>
-    </item>
-    <item>
-      <title>Google ordered to loosen ad-tech ties but spared a breakup</title>
-      <link>https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</guid>
-      <pubDate>Wed, 16 Sep 2026 21:56:00 GMT</pubDate>
-      <description><![CDATA[A federal judge ordered Google to separate use of its publisher ad server from its AdX exchange, open real-time bids to competing ad servers and accept six years of antitrust monitoring. The remedy stops short of the Justice Department's requested divestiture but could give independent publishers more choice in selling ads.]]></description>
-      <source url="https://www.reuters.com/technology/">Reuters</source>
-    </item>
-    <item>
-      <title>San Jose residents challenge a new data-center boom</title>
-      <link>https://www.reuters.com/business/silicon-valley-ai-data-center-boom-meets-local-resistance-2026-09-17/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/silicon-valley-ai-data-center-boom-meets-local-resistance-2026-09-17/</guid>
-      <pubDate>Thu, 17 Sep 2026 10:05:00 GMT</pubDate>
-      <description><![CDATA[San Jose expects each proposed data center to produce $3 million to $6 million a year in tax revenue, but neighborhood and environmental groups want fuller accounting of electricity, water, pollution and public benefits. California lawmakers have sent the governor bills on utility costs and resource transparency.]]></description>
-      <source url="https://www.reuters.com/technology/">Reuters</source>
     </item>
   </channel>
 </rss>

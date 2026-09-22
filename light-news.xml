@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Singing lemurs borrow a soprano's trick to carry a tune</title>
+      <link>https://www.reuters.com/science/singing-lemurs-may-use-soprano-like-trick-project-songs-2026-09-21/</link>
+      <description>Indris in Madagascar widen their mouths as their notes rise, tuning their vocal tract much as opera singers do so songs travel through dense rainforest. Researchers studying 83 recordings say the duets mark territory and help the critically endangered lemurs keep social bonds.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-21-singing-lemurs-soprano-technique</guid>
+      <source url="https://www.reuters.com/science/singing-lemurs-may-use-soprano-like-trick-project-songs-2026-09-21/">Reuters</source>
+    </item>
+    <item>
+      <title>Mississippi's raccoon boot camp teaches orphaned kits to go wild</title>
+      <link>https://apnews.com/article/016f6332a7267497cfeaa9effe387168</link>
+      <description>At Woodside Wildlife Rescue, orphaned raccoons spend about six months learning to forage, fish, dodge predators and distrust human traps. After their woodland lessons, each class graduates with music and a blessing before the young raccoons are released into the Mississippi forest.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-21-mississippi-raccoon-boot-camp</guid>
+      <source url="https://apnews.com/article/016f6332a7267497cfeaa9effe387168">Associated Press</source>
+    </item>
+    <item>
+      <title>A five-panel artwork will soar over a dinosaur in Toronto</title>
+      <link>https://www.rom.on.ca/news-releases/rom-transforms-main-floor-space-new-artwork-french-caribbean-artist-raphael-barontini</link>
+      <description>The Royal Ontario Museum is installing Raphaël Barontini's largest work above its Futalognkosaurus. Five immense dyed and screen-printed panels weave migration, resistance and cultural exchange from images in the museum's collections. The main-floor installation opens Saturday and will be free this fall.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-21-rom-barontini-artwork-dinosaur</guid>
+      <source url="https://www.rom.on.ca/news-releases/rom-transforms-main-floor-space-new-artwork-french-caribbean-artist-raphael-barontini">Royal Ontario Museum</source>
+    </item>
     <item>
       <title>Salzburg opens a museum where von Trapp history meets Hollywood</title>
       <link>https://apnews.com/article/da925e4f37c734998b9cdc1e197360ca</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-17-azcatitlan-codex</guid>
       <source url="https://www.reuters.com/lifestyle/centuries-old-manuscript-narrating-aztec-history-returns-loan-mexico-2026-09-17/">Reuters</source>
-    </item>
-    <item>
-      <title>Scientists take T. rex&apos;s temperature</title>
-      <link>https://apnews.com/article/2ee33ab4528dc358bc4b90861aa715e4</link>
-      <guid isPermaLink="true">https://apnews.com/article/2ee33ab4528dc358bc4b90861aa715e4</guid>
-      <pubDate>Wed, 16 Sep 2026 18:02:53 GMT</pubDate>
-      <description><![CDATA[Chemical patterns in three fossilized teeth put the mighty predator's average body temperature at about 97 degrees Fahrenheit, close to humans and modern elephants. The new technique gives scientists another way to reconstruct dinosaur physiology — without, as one paleobiologist joked, using a thermometer.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Kindergartners learn to ride bikes in school gyms</title>
-      <link>https://apnews.com/article/beba6f8895f187d10f8ae01eb873d19c</link>
-      <guid isPermaLink="true">https://apnews.com/article/beba6f8895f187d10f8ae01eb873d19c</guid>
-      <pubDate>Wed, 16 Sep 2026 04:10:35 GMT</pubDate>
-      <description><![CDATA[A nonprofit program has brought balance bikes, helmets and an eight-lesson riding curriculum to nearly 2,000 U.S. elementary schools. Beginning with pedal-free gliding, the classes give more children a chance to master a classic milestone while building coordination, confidence and resilience.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>The appetizing store gets another generation</title>
-      <link>https://apnews.com/article/a9f588cf6e5af3a4e2c8777a2fbc4fd4</link>
-      <guid isPermaLink="true">https://apnews.com/article/a9f588cf6e5af3a4e2c8777a2fbc4fd4</guid>
-      <pubDate>Wed, 16 Sep 2026 15:18:43 GMT</pubDate>
-      <description><![CDATA[Once a familiar companion to the Jewish deli, appetizing stores specialized in lox, smoked fish, cream cheese and pickled vegetables. Hundreds flourished in midcentury New York before fading, but younger proprietors are reviving the tradition in cities including Philadelphia and Los Angeles.]]></description>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Matthew Stafford throws four touchdowns as Rams rout Giants</title>
+      <link>https://www.reuters.com/sports/nfl/matthew-stafford-fires-4-touchdown-passes-rams-cruise-past-giants--flm-2026-09-22/</link>
+      <description>Matthew Stafford threw for 327 yards and four touchdowns in the Rams' 28-6 win over the Giants, moving into sixth place in NFL history with 427 career touchdown passes. New York quarterback Jaxson Dart left with a suspected sprained MCL.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-22-stafford-rams-giants-four-touchdowns</guid>
+      <source url="https://www.reuters.com/sports/nfl/matthew-stafford-fires-4-touchdown-passes-rams-cruise-past-giants--flm-2026-09-22/">Reuters</source>
+    </item>
+    <item>
+      <title>Brewers set a franchise record with their 98th win</title>
+      <link>https://www.reuters.com/sports/baseball/brewers-blank-orioles-again-set-franchise-wins-record--flm-2026-09-21/</link>
+      <description>Milwaukee blanked Baltimore 3-0 to complete a sweep and set a franchise record with 98 victories. Six relievers preserved the shutout after Jacob Misiorowski worked three scoreless innings, and the Brewers moved two games ahead of the Dodgers for the National League's best record.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-21-brewers-franchise-record-98-wins</guid>
+      <source url="https://www.reuters.com/sports/baseball/brewers-blank-orioles-again-set-franchise-wins-record--flm-2026-09-21/">Reuters</source>
+    </item>
+    <item>
+      <title>Brighton hands Arsenal its heaviest defeat in three years</title>
+      <link>https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/</link>
+      <description>Brighton ended Arsenal's perfect Premier League start with a 3-0 victory, the Gunners' heaviest loss in three years. Pascal Gross, Charalampos Kostoulas and Chema Andrés scored as Brighton climbed to third, level with Arsenal and Manchester City on 12 points.</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-19-brighton-arsenal-three-nil</guid>
+      <source url="https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/">Reuters</source>
+    </item>
     <item>
       <title>Dak Prescott becomes Cowboys' career touchdown-pass leader</title>
       <link>https://www.reuters.com/sports/nfl-roundup-dak-prescott-stars-jayden-daniels-injured-cowboys-win--flm-2026-09-21/</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-16-wta-finals-charlotte</guid>
       <source url="https://www.reuters.com/sports/tennis/wta-finals-be-held-charlotte-2027-chair-says-2026-09-16/">Reuters</source>
-    </item>
-    <item>
-      <title>Messi scores his 100th Inter Miami goal in cup victory</title>
-      <link>https://www.reuters.com/sports/soccer/messi-scores-100th-goal-inter-miami-cameones-cup-victory-over-cruz-azul-2026-09-17/</link>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/messi-scores-100th-goal-inter-miami-cameones-cup-victory-over-cruz-azul-2026-09-17/</guid>
-      <pubDate>Thu, 17 Sep 2026 08:01:11 GMT</pubDate>
-      <description><![CDATA[Lionel Messi scored his 100th goal for Inter Miami in his 115th appearance, helping the club beat Cruz Azul 2-0 for the Campeones Cup. The 39-year-old has now helped Miami win four trophies since arriving in 2023; Casemiro added the late clincher.]]></description>
-      <source url="https://www.reuters.com/sports/">Reuters</source>
-    </item>
-    <item>
-      <title>Clearlake takes full control of Chelsea as Boehly exits</title>
-      <link>https://www.reuters.com/legal/transactional/former-chelsea-owners-boehly-walter-sell-holdings-clearlake-2026-09-16/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/transactional/former-chelsea-owners-boehly-walter-sell-holdings-clearlake-2026-09-16/</guid>
-      <pubDate>Wed, 16 Sep 2026 22:00:00 GMT</pubDate>
-      <description><![CDATA[Clearlake Capital is buying the minority stakes held by Todd Boehly and Mark Walter, ending the ownership partnership that acquired Chelsea in 2022. Boehly will step down as chairman while Clearlake assumes full control of the Premier League club; Chelsea says daily operations and strategy will continue unchanged.]]></description>
-      <source url="https://www.reuters.com/sports/">Reuters</source>
-    </item>
-    <item>
-      <title>Guardians move alone atop the AL Central</title>
-      <link>https://www.reuters.com/sports/mlb-roundup-guardians-overtake-white-sox-1st-place-al-central--flm-2026-09-17/</link>
-      <guid isPermaLink="true">https://www.reuters.com/sports/mlb-roundup-guardians-overtake-white-sox-1st-place-al-central--flm-2026-09-17/</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Cleveland took sole possession of first place in the AL Central with a 6-3 victory over the White Sox, powered by rookie Petey Halpin's three-run homer. Elsewhere in a tightening pennant race, Cincinnati delayed the Dodgers' division clincher and Texas pulled even atop the AL West.]]></description>
-      <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
   </channel>
 </rss>

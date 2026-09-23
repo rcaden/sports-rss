@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>UK regulator proposes search and AI choice screens for Android and Chrome</title>
+      <link>https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23/</link>
+      <description>Britain's competition watchdog wants Android and Chrome to offer users a choice of search providers, including qualifying AI assistants, during setup and again each year. The proposal also would require fair attribution of publisher content so people can reach original sources. Consultation runs through Oct. 9, with a final decision expected this year.</description>
+      <pubDate>Wed, 23 Sep 2026 09:11:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-23-uk-android-chrome-search-choice-screens</guid>
+      <source url="https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23/">Reuters</source>
+    </item>
+    <item>
+      <title>French project backs an open-source alternative for quantum-supercomputer links</title>
+      <link>https://www.reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17/</link>
+      <description>France's CEA and quantum startup Alice &amp; Bob will expand Qaptiva, largely open-source software that connects quantum processors with conventional supercomputers. The partners want developers to have alternatives to Nvidia's CUDA-Q and to avoid another single-vendor bottleneck. An Alice &amp; Bob quantum machine is due at CEA in 2027.</description>
+      <pubDate>Thu, 17 Sep 2026 07:07:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-17-qaptiva-open-source-quantum-supercomputing</guid>
+      <source url="https://www.reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17/">Reuters</source>
+    </item>
+    <item>
+      <title>U.S. proposes an AI incident alert channel with China</title>
+      <link>https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd</link>
+      <description>Treasury Secretary Scott Bessent says the U.S. proposed a notification mechanism for AI incidents that could threaten national security during talks with China. The idea is meant to reduce opacity between the two leading AI powers before a White House summit. A consultant said such a channel could become a model for other countries.</description>
+      <pubDate>Sun, 20 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-20-us-china-ai-incident-alert-channel</guid>
+      <source url="https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd">Associated Press</source>
+    </item>
     <item>
       <title>Banned news organizations take the White House to court</title>
       <link>https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-18-gemini-security-test</guid>
       <source url="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Postal Service stops work on mail-voting computer system</title>
-      <link>https://apnews.com/article/995f98147fbb49fb71696be824abff95</link>
-      <description>Postmaster General David Steiner says the Postal Service has halted work on a centralized voter-verification system tied to an executive order the Supreme Court blocked. Normal 2026 election-mail procedures will continue, though the agency still plans to encourage optional envelope barcodes with lower processing fees.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-18-usps-voting-system-stopped</guid>
-      <source url="https://apnews.com/article/995f98147fbb49fb71696be824abff95">Associated Press</source>
-    </item>
-    <item>
-      <title>France steps up scrutiny of smart-glasses privacy risks</title>
-      <link>https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/</link>
-      <description>Paris prosecutors opened a criminal inquiry after reports of women being filmed without consent through smart glasses, while France's privacy regulator fields workplace complaints. Critics say the devices' small recording light is inadequate, sharpening the debate over surveillance, consent and platform responsibility.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-18-france-smart-glasses-scrutiny</guid>
-      <source url="https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Senate panel advances bill against government pressure on speech</title>
-      <link>https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/</link>
-      <description>The Senate Commerce Committee voted 18-10 for a bill allowing people to sue federal employees who coerce private companies into suppressing protected speech. Backers cited pressure on broadcasters and online platforms under both recent administrations; the ACLU endorsed the measure, which still needs full congressional approval.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-16-government-speech-pressure-bill</guid>
-      <source url="https://www.reuters.com/world/us-senate-panel-approves-bill-bar-government-officials-pressuring-networks-free-2026-09-16/">Reuters</source>
     </item>
   </channel>
 </rss>

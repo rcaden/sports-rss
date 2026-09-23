@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>UEFA says trust in world football remains broken after FIFA investment row</title>
+      <link>https://www.reuters.com/sports/soccer/uefa-boss-ceferin-says-trust-world-football-remains-broken-after-fifa-investment-2026-09-23/</link>
+      <description>UEFA president Aleksander Ceferin says football's trust has not recovered from FIFA's abandoned plan to sell a 20% stake in its commercial rights to private investors. FIFA president Gianni Infantino has proposed an outside review of governance for major initiatives, but several federations want deeper reforms.</description>
+      <pubDate>Wed, 23 Sep 2026 09:13:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-23-uefa-fifa-investment-governance</guid>
+      <source url="https://www.reuters.com/sports/soccer/uefa-boss-ceferin-says-trust-world-football-remains-broken-after-fifa-investment-2026-09-23/">Reuters</source>
+    </item>
+    <item>
+      <title>Ri Song Gum breaks three weightlifting world records at Asian Games</title>
+      <link>https://www.reuters.com/sports/north-koreas-ri-breaks-world-records-en-route-third-asian-games-gold-2026-09-23/</link>
+      <description>North Korea's Ri Song Gum swept the women's 49-kilogram records with a 94-kilogram snatch, 121-kilogram clean-and-jerk and 215-kilogram total. The 28-year-old won her third Asian Games gold, while Tokyo Olympic silver medalist Mirabai Chanu of India took second.</description>
+      <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-23-ri-song-gum-three-world-records</guid>
+      <source url="https://www.reuters.com/sports/north-koreas-ri-breaks-world-records-en-route-third-asian-games-gold-2026-09-23/">Reuters</source>
+    </item>
+    <item>
+      <title>Lisa Leslie becomes the first Sparks player honored with an arena statue</title>
+      <link>https://apnews.com/article/lisa-leslie-statue-sparks-3e0d1642d33f2c57c567ed43e489f75e</link>
+      <description>The Los Angeles Sparks unveiled an 11-foot bronze statue of Lisa Leslie outside their arena, depicting the signature dunk that made her the first woman to dunk in a WNBA game. The three-time MVP, who led the Sparks to titles in 2001 and 2002, is the franchise's first player to receive the honor.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-22-lisa-leslie-sparks-statue</guid>
+      <source url="https://apnews.com/article/lisa-leslie-statue-sparks-3e0d1642d33f2c57c567ed43e489f75e">Associated Press</source>
+    </item>
     <item>
       <title>Matthew Stafford throws four touchdowns as Rams rout Giants</title>
       <link>https://www.reuters.com/sports/nfl/matthew-stafford-fires-4-touchdown-passes-rams-cruise-past-giants--flm-2026-09-22/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 18 Sep 2026 09:52:41 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-18-england-nations-league-squad</guid>
       <source url="https://www.reuters.com/sports/soccer/alexander-arnold-returns-england-squad-tuchel-makes-10-changes-world-cup-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Dodgers clinch 13th NL West title in 14 seasons</title>
-      <link>https://www.reuters.com/sports/dodgers-cruise-past-reds-claim-13th-nl-west-title-14-years--fldm-2026-09-18/</link>
-      <description>The Dodgers beat Cincinnati 8-2 to secure their fifth straight division crown and 13th NL West title in 14 years. Kyle Tucker went 4-for-5 with a homer, two doubles and three RBIs as Los Angeles improved to 93-60 and kept its postseason push rolling.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-18:dodgers-nl-west</guid>
-      <source url="https://www.reuters.com/sports/dodgers-cruise-past-reds-claim-13th-nl-west-title-14-years--fldm-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Pochettino turns to youth for U.S. men's friendlies</title>
-      <link>https://www.reuters.com/sports/soccer/us-coach-pochettino-bets-youth-upcoming-friendlies-2026-09-17/</link>
-      <description>U.S. coach Mauricio Pochettino named a 28-man roster with 13 uncapped players for friendlies against Peru, Chile, Mexico and Canada, beginning the next World Cup cycle with a sharp turn toward youth. The group includes 16-year-old Cavan Sullivan, while Christian Pulisic and Folarin Balogun were left out.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-17-usmnt-youth-roster</guid>
-      <source url="https://www.reuters.com/sports/soccer/us-coach-pochettino-bets-youth-upcoming-friendlies-2026-09-17/">Reuters</source>
-    </item>
-    <item>
-      <title>WTA Finals will move to Charlotte in 2027</title>
-      <link>https://www.reuters.com/sports/tennis/wta-finals-be-held-charlotte-2027-chair-says-2026-09-16/</link>
-      <description>The season-ending WTA Finals will move to Charlotte's Spectrum Center in 2027 for at least three years. The tour plans to operate the event directly and pair it with a fan festival, aiming to turn its showcase for the top eight singles players and doubles teams into a signature women's sports event.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-16-wta-finals-charlotte</guid>
-      <source url="https://www.reuters.com/sports/tennis/wta-finals-be-held-charlotte-2027-chair-says-2026-09-16/">Reuters</source>
     </item>
   </channel>
 </rss>

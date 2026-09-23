@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Major software firms pledge more support for public package registries</title>
+      <link>https://www.itpro.com/software/open-source/firms-pledge-increased-financial-support-for-public-package-registries</link>
+      <description>GitHub, Google, IBM, Microsoft and Sonatype have joined an OpenSSF pledge to help fund package registries such as Maven Central, npm and PyPI. These lightly staffed services handle trillions of downloads while facing rising security and infrastructure costs. The plan targets enterprise customers while keeping access free for developers and small organizations.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-17-public-package-registry-funding-pledge</guid>
+      <source url="https://www.itpro.com/software/open-source/firms-pledge-increased-financial-support-for-public-package-registries">IT Pro</source>
+    </item>
+    <item>
+      <title>Kim Stanley Robinson keeps returning to the hardest chapter of his climate novel</title>
+      <link>https://apnews.com/article/4477fd3ec163f39957c238601b6bf79c</link>
+      <description>Kim Stanley Robinson has discussed The Ministry for the Future in more than 600 talks, but he still will not read its harrowing opening heat-wave chapter aloud. The 74-year-old science-fiction author explains why he set the scene in India, responds to criticism of the novel and describes the persistence behind his guarded optimism.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-18-kim-stanley-robinson-climate-novel</guid>
+      <source url="https://apnews.com/article/4477fd3ec163f39957c238601b6bf79c">Associated Press</source>
+    </item>
+    <item>
+      <title>Jacksonville lands among Oxford Economics' five U.S. cities to watch</title>
+      <link>https://jaxtoday.org/2026/09/15/oxford-economics-ranks-jax-top-5-city/</link>
+      <description>Oxford Economics named Jacksonville one of five U.S. cities to watch, citing its fast growth, transportation links, business climate and expanding finance, logistics and technology sectors. The assessment also flags familiar pressures: infrastructure, housing affordability and the need for enough skilled workers to sustain the city's momentum.</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-15-jacksonville-oxford-economics-city-watch</guid>
+      <source url="https://jaxtoday.org/2026/09/15/oxford-economics-ranks-jax-top-5-city/">Jacksonville Today</source>
+    </item>
     <item>
       <title>WordPress now screens every plugin release before distribution</title>
       <link>https://make.wordpress.org/plugins/2026/09/09/automated-security-review-for-plugin-releases/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2023-12-14-wordpress-plugin-handbook</guid>
       <source url="https://developer.wordpress.org/plugins/">WordPress Developer Resources</source>
-    </item>
-    <item>
-      <title>A 1987 Atari newsletter binder becomes a computer-history time capsule</title>
-      <link>https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/</link>
-      <description>A surviving binder of 50 Atari user-group newsletters from August 1987 offers 700 pages of firsthand computing history: software rumors, CES discoveries, type-in code, online-service worries and the shift from 8-bit machines to the Atari ST. The Internet Archive has digitized the full collection.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-08-27-atari-newsletter-time-capsule</guid>
-      <source url="https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/">Internet Archive</source>
-    </item>
-    <item>
-      <title>St. Augustine's colonial archaeology goes online</title>
-      <link>https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/</link>
-      <description>The Florida Museum's iDigStAug portal opens St. Augustine archaeology to everyone, beginning with three colonial house sites and about 51,000 artifacts. Searchable records include finds, maps, photographs, field notes and freely available archival PDFs, with much more of the museum's million-object collection planned.</description>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-03-03-idigstaug-portal</guid>
-      <source url="https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/">Florida Museum of Natural History</source>
-    </item>
-    <item>
-      <title>SPSFC 5 names its ten semifinalists</title>
-      <link>https://spsfc.space/2026/06/17/the-spsfc-5-semifinalists/</link>
-      <description>The fifth Self-Published Science Fiction Competition has advanced ten novels from its five judging teams. The slate ranges across technothrillers, first contact, space marines, virtual reality, time travel and generation ships, with links to each team's full announcement and every semifinalist book.</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-06-17-spsfc5-semifinalists</guid>
-      <source url="https://spsfc.space/2026/06/17/the-spsfc-5-semifinalists/">Self-Published Science Fiction Competition</source>
     </item>
   </channel>
 </rss>

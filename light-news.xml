@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>An amateur archaeologist uncovers Germany's biggest Hadrian-era coin hoard</title>
+      <link>https://apnews.com/article/germany-roman-silver-coins-hoard-a0d3d4b13afb3595ce7c475f9a016d2c</link>
+      <description>Oliver Riedl knew he had found more than a few Roman coins when his metal detector kept beeping in a field near Cologne. Experts ultimately recovered 934 silver denarii weighing 6.8 pounds, Germany's largest hoard from Emperor Hadrian's era. The cache, likely buried for safekeeping in the second century, is now on museum display.</description>
+      <pubDate>Wed, 23 Sep 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-23-germany-roman-silver-coin-hoard</guid>
+      <source url="https://apnews.com/article/germany-roman-silver-coins-hoard-a0d3d4b13afb3595ce7c475f9a016d2c">Associated Press</source>
+    </item>
+    <item>
+      <title>Those extra reusable bags can get a useful second life</title>
+      <link>https://apnews.com/article/reusable-bags-recycling-donate-microplastics-declutter-e05dbf5444bebd1ad16db11c170900ed</link>
+      <description>The reusable bags multiplying under the sink do not need to become trash. Food pantries, shelters and reuse shops may welcome clean extras, while keeping a small set visible in the car or by the door makes actual reuse more likely. Experts say repeated use—not merely owning the bags—is what delivers the environmental benefit.</description>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-23-reusable-bags-second-life</guid>
+      <source url="https://apnews.com/article/reusable-bags-recycling-donate-microplastics-declutter-e05dbf5444bebd1ad16db11c170900ed">Associated Press</source>
+    </item>
+    <item>
+      <title>Fat Bear Week opens with 1,200-pound champion Chunk defending his crown</title>
+      <link>https://apnews.com/article/fat-bear-week-alaska-18cc2f52ee0a4ce3c1aa40961a73cea1</link>
+      <description>Online voting has begun in the 12th Fat Bear Week, where 16 brown bears from Alaska's Katmai National Park compete in a single-elimination bracket. Reigning champion Chunk, estimated at 1,200 pounds last year, faces challengers including Gully, the offspring of two-time winner Grazer. The winner will be announced Sept. 29.</description>
+      <pubDate>Tue, 22 Sep 2026 12:59:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-22-fat-bear-week-chunk</guid>
+      <source url="https://apnews.com/article/fat-bear-week-alaska-18cc2f52ee0a4ce3c1aa40961a73cea1">Associated Press</source>
+    </item>
     <item>
       <title>Singing lemurs borrow a soprano's trick to carry a tune</title>
       <link>https://www.reuters.com/science/singing-lemurs-may-use-soprano-like-trick-project-songs-2026-09-21/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 18 Sep 2026 13:15:01 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-18-american-scams-history</guid>
       <source url="https://apnews.com/article/a460251c97ac365054e469e82b1402e5">Associated Press</source>
-    </item>
-    <item>
-      <title>Tiny wild cat becomes first new living cat species named in a century</title>
-      <link>https://www.reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17/</link>
-      <description>Scientists identified the Tilcayo, a 3-pound wild cat from Bolivia's misty Yungas forest, as a distinct species—the first new living cat species formally described in more than a century. Genetic work separated it from other tiger cats after a lineage split about 1.4 million years ago.</description>
-      <pubDate>Thu, 17 Sep 2026 15:47:11 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-17-tilcayo-cat</guid>
-      <source url="https://www.reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17/">Reuters</source>
-    </item>
-    <item>
-      <title>Romanian shelter offers humane answer to stray-dog culls</title>
-      <link>https://www.reuters.com/world/romanian-shelter-offers-an-alternative-stray-dog-culls-2026-09-17/</link>
-      <description>Smeura, one of the world's largest dog shelters, is pairing rescue and adoption with eight mobile veterinary vans that sterilize village dogs free of charge. The program performed nearly 40,000 procedures this year, while the shelter sent about 2,200 dogs to new homes last year.</description>
-      <pubDate>Thu, 17 Sep 2026 11:43:24 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-17-smeura-dog-shelter</guid>
-      <source url="https://www.reuters.com/world/romanian-shelter-offers-an-alternative-stray-dog-culls-2026-09-17/">Reuters</source>
-    </item>
-    <item>
-      <title>Aztec history codex returns to Mexico after 186 years</title>
-      <link>https://www.reuters.com/lifestyle/centuries-old-manuscript-narrating-aztec-history-returns-loan-mexico-2026-09-17/</link>
-      <description>The 16th-century Azcatitlan Codex is back in Mexico for the first time since 1840. On loan from France, the pictorial manuscript traces the Mexica migration, the founding of Tenochtitlan and the Spanish conquest. It will be displayed at Mexico's National Museum of Anthropology through December.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-17-azcatitlan-codex</guid>
-      <source url="https://www.reuters.com/lifestyle/centuries-old-manuscript-narrating-aztec-history-returns-loan-mexico-2026-09-17/">Reuters</source>
     </item>
   </channel>
 </rss>

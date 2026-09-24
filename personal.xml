@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Clover Press revives Marvel Masterworks</title>
+      <link>https://www.publishersweekly.com/pw/newsbrief/index.html?record=6036</link>
+      <description>Clover Press is bringing back Marvel Masterworks with new restorations, three cover choices per volume and collectible extras. A Kickstarter launches the line with Uncanny X-Men Vol. 18, Super-Villain Team-Up Vol. 1, The Mighty Thor Vol. 25 and The Tomb of Dracula Vol. 6. Longtime Marvel editor Cory Sedlmeier remains series steward.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:personal:2026-09-23:clover-marvel-masterworks</guid>
+      <source url="https://www.publishersweekly.com/pw/newsbrief/index.html?record=6036">Publishers Weekly</source>
+    </item>
+    <item>
+      <title>Podium acquisition shows the value of indie authors</title>
+      <link>https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101308-podium-entertainment-acquired-by-private-equity-firms.html</link>
+      <description>Flexpoint Ford and Shamrock Capital acquired audiobook-focused Podium Entertainment, whose 15,000-title catalog emphasizes genre fiction and authors who began by self-publishing. Podium first drew attention by producing the audiobook of Andy Weir's The Martian. The new owners also plan an employee ownership program.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:personal:2026-09-22:podium-acquisition</guid>
+      <source url="https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101308-podium-entertainment-acquired-by-private-equity-firms.html">Publishers Weekly</source>
+    </item>
+    <item>
+      <title>Jacksonville library opens a century of newspapers online</title>
+      <link>https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</link>
+      <description>Jacksonville Public Library has expanded free online access to three local newspaper archives: the Florida Times-Union from 1883 to today, the Beaches Leader from 1963 and the Jacksonville Journal from 1901 to 1988. Cardholders can search full pages, photos, cartoons and ads—rich primary material for local history and genealogy.</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:personal:2026-08-07:jacksonville-newspaper-archives</guid>
+      <source url="https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online">Jacksonville Public Library</source>
+    </item>
     <item>
       <title>Major software firms pledge more support for public package registries</title>
       <link>https://www.itpro.com/software/open-source/firms-pledge-increased-financial-support-for-public-package-registries</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-09-18-slow-punk-archaeology-fragments</guid>
       <source url="https://mediterraneanworld.wordpress.com/">Archaeology of the Mediterranean World</source>
-    </item>
-    <item>
-      <title>Public-domain classics keep becoming bargain-bin horror movies</title>
-      <link>https://www.theguardian.com/film/2026/sep/17/winnie-the-pooh-horror-movies-copyright</link>
-      <description>A brisk, funny look at the wave of low-budget horror films built from expired copyrights, from Winnie-the-Pooh and Steamboat Willie to a zombie-flavored Wuthering Heights. It also inventories the next tempting targets, including Babar, Mrs Dalloway, The Sun Also Rises and The Age of Innocence.</description>
-      <pubDate>Thu, 17 Sep 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-17-public-domain-horror-wave</guid>
-      <source url="https://www.theguardian.com/film/2026/sep/17/winnie-the-pooh-horror-movies-copyright">The Guardian</source>
-    </item>
-    <item>
-      <title>Cory Doctorow makes the case for using an RSS reader</title>
-      <link>https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/</link>
-      <description>Doctorow argues that RSS is a rare personal choice that improves both your own internet experience and the wider web. Readers deliver posts without platform lock-in, tracking, pop-ups or algorithmic filtering, while supporting blogs, newsletters, Mastodon, Bluesky and other independent sources.</description>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2024-10-16-doctorow-rss-reader</guid>
-      <source url="https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/">Pluralistic</source>
-    </item>
-    <item>
-      <title>WordPress&apos;s plugin handbook is a practical map of extension development</title>
-      <link>https://developer.wordpress.org/plugins/</link>
-      <description>The official Plugin Developer Handbook gathers the working details of WordPress extension development in one place: hooks, settings, metadata, REST endpoints, security, privacy, scheduled events, localization, directory submission and developer tools. It is a useful reference for both new plugins and old code that needs modernization.</description>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2023-12-14-wordpress-plugin-handbook</guid>
-      <source url="https://developer.wordpress.org/plugins/">WordPress Developer Resources</source>
     </item>
   </channel>
 </rss>

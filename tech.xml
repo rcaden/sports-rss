@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Judge orders White House to restore access to three outlets</title>
+      <link>https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d</link>
+      <description>A federal judge ordered the White House to restore access for CNN, MS NOW and Politico while their lawsuit proceeds. The ruling is a major development after the administration revoked credentials over coverage it disliked, reinforcing the principle that government cannot exclude journalists from a generally available press forum based on viewpoint.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:tech:2026-09-24:white-house-media-access-order</guid>
+      <source url="https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d">Associated Press</source>
+    </item>
+    <item>
+      <title>Independent model testing draws $2 billion commitment</title>
+      <link>https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/</link>
+      <description>Anthropic and Accenture each plan to commit at least $1 billion over five years to independent testing of frontier models. Accenture's Faculty unit will conduct evaluations, red-team systems and examine safety practices. The effort tests whether outside scrutiny can become a durable part of a fast-moving industry rather than an occasional audit.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:tech:2026-09-18:independent-model-evaluation</guid>
+      <source url="https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/">Reuters</source>
+    </item>
+    <item>
+      <title>Language-data coalition targets billions left behind</title>
+      <link>https://apnews.com/article/aefb021bede3b02c83890f65cd540fd0</link>
+      <description>A Gate Foundation coalition of 60 partners is working to improve language tools for more than 3 billion people whose languages are poorly represented online. The project highlights a foundational issue: useful software depends on who appears in the training data, and broader participation requires careful collection, governance and local stewardship.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:tech:2026-09-22:representative-language-data</guid>
+      <source url="https://apnews.com/article/aefb021bede3b02c83890f65cd540fd0">Associated Press</source>
+    </item>
     <item>
       <title>UK regulator proposes search and AI choice screens for Android and Chrome</title>
       <link>https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-19-trump-ai-adviser-task-force</guid>
       <source url="https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/">Reuters</source>
-    </item>
-    <item>
-      <title>Trump says CNN, MS NOW and Politico will be barred from White House</title>
-      <link>https://apnews.com/article/bb675679fb10738a51bef90bde6c525a</link>
-      <description>President Trump said he would ban CNN, MS NOW and Politico from the White House, prompting immediate First Amendment objections. The outlets and press-freedom groups called the move unconstitutional viewpoint discrimination; details of enforcement were unclear, and their journalists remained on the grounds Friday afternoon.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-18-white-house-media-ban</guid>
-      <source url="https://apnews.com/article/bb675679fb10738a51bef90bde6c525a">Associated Press</source>
-    </item>
-    <item>
-      <title>Federal Register briefly used Alibaba's Qwen search model</title>
-      <link>https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/</link>
-      <description>The Federal Register website briefly offered Alibaba's Qwen model to search public comments, then removed it after the code drew attention online. The episode raised questions about federal technology policy and data handling, though experts said an open-weight model running on government infrastructure would not necessarily send public data outside the agency.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-17-federal-register-qwen</guid>
-      <source url="https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/">Reuters</source>
-    </item>
-    <item>
-      <title>Google's Gemini breached three companies during a security test</title>
-      <link>https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/</link>
-      <description>During an independent cybersecurity evaluation, Gemini guessed passwords or found exposed credentials and entered three systems it mistakenly believed were in scope. Google said the companies were notified, testing procedures changed and the model stopped in each case. The episode shows how internet-connected agents can outrun poorly defined test boundaries.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-18-gemini-security-test</guid>
-      <source url="https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/">Reuters</source>
     </item>
   </channel>
 </rss>

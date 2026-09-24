@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Darrell Waltrip diagnosed with brain disease, steps back</title>
+      <link>https://www.reuters.com/sports/nascar-great-darrell-waltrip-has-brain-disease--flm-2026-09-24/</link>
+      <description>NASCAR great Darrell Waltrip, 79, has been diagnosed with frontotemporal degeneration, with possible chronic traumatic encephalopathy, his family said. The three-time Cup champion and 1989 Daytona 500 winner is stepping back from public life. His family said his symptoms remain minor and asked for privacy.</description>
+      <pubDate>Thu, 24 Sep 2026 03:23:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:sports:2026-09-24:darrell-waltrip-ftd</guid>
+      <source url="https://www.reuters.com/sports/nascar-great-darrell-waltrip-has-brain-disease--flm-2026-09-24/">Reuters</source>
+    </item>
+    <item>
+      <title>Padres move atop crowded NL wild-card race</title>
+      <link>https://www.reuters.com/sports/mlb-roundup-padres-climb-top-crowded-nl-wild-card-standings--flm-2026-09-24/</link>
+      <description>Manny Machado homered and drove in three runs as San Diego beat the Dodgers 5-1, moving the Padres into the top National League wild-card spot. San Diego has won 14 of 16 and reduced its postseason magic number to one, closing in on the franchise's first run of three straight playoff appearances.</description>
+      <pubDate>Thu, 24 Sep 2026 08:24:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:sports:2026-09-24:padres-wild-card</guid>
+      <source url="https://www.reuters.com/sports/mlb-roundup-padres-climb-top-crowded-nl-wild-card-standings--flm-2026-09-24/">Reuters</source>
+    </item>
+    <item>
+      <title>Cristiano Ronaldo chases 1,000-goal milestone</title>
+      <link>https://www.reuters.com/sports/soccer/ronaldo-eyes-1000-goal-icing-cake-portugal-begin-new-era-2026-09-23/</link>
+      <description>Cristiano Ronaldo, 41, begins another Portugal cycle under new coach Jorge Jesus with 979 career goals—833 for clubs and 146 for his country. Twenty-one more would make him the first player credited with 1,000 official goals. Ronaldo says reaching it would be the "icing on the cake" as Portugal also targets the Nations League.</description>
+      <pubDate>Wed, 23 Sep 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:sports:2026-09-23:ronaldo-1000-goals</guid>
+      <source url="https://www.reuters.com/sports/soccer/ronaldo-eyes-1000-goal-icing-cake-portugal-begin-new-era-2026-09-23/">Reuters</source>
+    </item>
     <item>
       <title>UEFA says trust in world football remains broken after FIFA investment row</title>
       <link>https://www.reuters.com/sports/soccer/uefa-boss-ceferin-says-trust-world-football-remains-broken-after-fifa-investment-2026-09-23/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-20-diamondbacks-walkoff-yankees-anniversary</guid>
       <source url="https://www.reuters.com/sports/baseball/pavin-smiths-pinch-hit-walk-off-homer-lifts-d-backs-over-yankees--flm-2026-09-20/">Reuters</source>
-    </item>
-    <item>
-      <title>Braves clinch postseason berth with three two-run homers</title>
-      <link>https://www.reuters.com/sports/mlb-roundup-braves-top-astros-wrap-up-postseason-berth--flm-2026-09-19/</link>
-      <description>Atlanta secured a playoff spot by beating Houston 6-2 behind two-run homers from Michael Harris II, Ronald Acuña Jr. and Matt Olson. Tyler Mahle supplied a strong start, and the Braves cut their magic number for the NL East title to three.</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-19-braves-postseason</guid>
-      <source url="https://www.reuters.com/sports/mlb-roundup-braves-top-astros-wrap-up-postseason-berth--flm-2026-09-19/">Reuters</source>
-    </item>
-    <item>
-      <title>U.S. and Czech Republic split opening Davis Cup singles</title>
-      <link>https://www.reuters.com/sports/tennis/davis-cup-roundup-ben-shelton-falls-leaves-us-tied-with-czechs--flm-2026-09-19/</link>
-      <description>The United States ended the first day of its Davis Cup qualifier in Prague tied 1-1 with the Czech Republic. Learner Tien beat Jakub Mensik before Jiri Lehecka defeated U.S. Open finalist Ben Shelton in straight sets, leaving Saturday's doubles and reverse singles to decide the tie.</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-19-davis-cup-us-czech</guid>
-      <source url="https://www.reuters.com/sports/tennis/davis-cup-roundup-ben-shelton-falls-leaves-us-tied-with-czechs--flm-2026-09-19/">Reuters</source>
-    </item>
-    <item>
-      <title>England recalls Alexander-Arnold and Palmer for Nations League</title>
-      <link>https://www.reuters.com/sports/soccer/alexander-arnold-returns-england-squad-tuchel-makes-10-changes-world-cup-2026-09-18/</link>
-      <description>Thomas Tuchel recalled Trent Alexander-Arnold and Cole Palmer among 10 changes to England's first squad since the World Cup. England opens Nations League play against world champion Spain at Wembley on September 26 as Tuchel begins building toward a home Euro 2028.</description>
-      <pubDate>Fri, 18 Sep 2026 09:52:41 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-18-england-nations-league-squad</guid>
-      <source url="https://www.reuters.com/sports/soccer/alexander-arnold-returns-england-squad-tuchel-makes-10-changes-world-cup-2026-09-18/">Reuters</source>
     </item>
   </channel>
 </rss>

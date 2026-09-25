@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>KFC tests breakfast and table service in Texas</title>
+      <link>https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c</link>
+      <description>KFC is trying a new restaurant format in Texas with an expanded menu, breakfast choices and table service. The experiment gives the fast-food chain a sit-down twist while testing ideas that could shape future locations.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:light:2026-09-25:kfc-texas-concept</guid>
+      <source url="https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c">Associated Press</source>
+    </item>
+    <item>
+      <title>South Africans fire up 500 grills for a world record</title>
+      <link>https://apnews.com/article/record-barbecue-cookout-grill-south-africa-3f222278490a4e5cbbd2f9093cc8e815</link>
+      <description>About 3,000 South Africans gathered at a Pretoria stadium with tongs, sausages and 500 grills, hoping to break Japan's record of 2,220 people barbecuing at once. The Heritage Day attempt celebrated the country's shared love of the braai; Guinness officials were still reviewing the evidence.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:light:2026-09-24:south-africa-braai-record</guid>
+      <source url="https://apnews.com/article/record-barbecue-cookout-grill-south-africa-3f222278490a4e5cbbd2f9093cc8e815">Associated Press</source>
+    </item>
+    <item>
+      <title>Austrian yodelers turn a parking garage into the Alps</title>
+      <link>https://apnews.com/article/austria-yodeling-parking-garage-graz-e4fe9aa3b49ff9d797ca006070d52492</link>
+      <description>A group of 30 yodelers practiced in Graz's largest underground parking garage, whose long concrete corridors return echoes like an Alpine valley. The folk-music organization behind the class also takes the centuries-old tradition into canals and gas stations when the acoustics are right.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:light:2026-09-25:graz-garage-yodelers</guid>
+      <source url="https://apnews.com/article/austria-yodeling-parking-garage-graz-e4fe9aa3b49ff9d797ca006070d52492">Associated Press</source>
+    </item>
     <item>
       <title>Twin brothers make MLB umpiring history together</title>
       <link>https://apnews.com/article/baseball-twin-umpires-69264b536913b4e7cf091a7f7d52de42</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-21-queensland-bee-heist</guid>
       <source url="https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation">The Guardian</source>
-    </item>
-    <item>
-      <title>Captain America and R2-D2 light up the Lucas Museum opening</title>
-      <link>https://nypost.com/2026/09/20/us-news/captain-america-r2-d2-fly-above-lucas-museum-of-narrative-art-on-opening-night-in-dazzling-drone-light-show-photos/</link>
-      <description>A drone show sent Captain America, R2-D2, the Millennium Falcon and Shrek's dragon across the sky above the new Lucas Museum of Narrative Art in Los Angeles. George Lucas and Mellody Hobson's spaceship-shaped museum celebrated with a gala before opening its visual-storytelling collection to the public Tuesday.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-20-lucas-museum-drone-show</guid>
-      <source url="https://nypost.com/2026/09/20/us-news/captain-america-r2-d2-fly-above-lucas-museum-of-narrative-art-on-opening-night-in-dazzling-drone-light-show-photos/">New York Post</source>
-    </item>
-    <item>
-      <title>Officer climbs a lakeside tree to rescue a 23-year-old macaw</title>
-      <link>https://www.recordpatriot.com/news/article/frankfort-responders-rescue-parrot-elberta-22438799.php</link>
-      <description>Blaze, a scarlet macaw startled by a dog, spent the night high above Michigan's Elberta Beach while his owner waited below. When a ladder truck could not reach him on the steep bluff, a Frankfort police officer used ropes to climb the tree and bring the 23-year-old bird safely back down.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-20-blaze-macaw-tree-rescue</guid>
-      <source url="https://www.recordpatriot.com/news/article/frankfort-responders-rescue-parrot-elberta-22438799.php">Record Patriot</source>
-    </item>
-    <item>
-      <title>Firefighters pull an unharmed kitten from a storm drain</title>
-      <link>https://www.ctinsider.com/news/shelton/article/ct-firefighters-rescue-kitten-storm-drain-shelton-22439748.php</link>
-      <description>Firefighters in Shelton, Connecticut, freed a kitten trapped in a storm drain Friday night. The little cat emerged unharmed, and town officials are now asking the public to help locate its family.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-20-shelton-kitten-storm-drain-rescue</guid>
-      <source url="https://www.ctinsider.com/news/shelton/article/ct-firefighters-rescue-kitten-storm-drain-shelton-22439748.php">CT Insider</source>
     </item>
   </channel>
 </rss>

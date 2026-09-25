@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>WordPress 7.1.2 fixes a critical security flaw</title>
+      <link>https://wordpress.org/news/2026/09/wordpress-7-1-2-release/</link>
+      <description>WordPress 7.1.2 is a security-only release fixing one critical vulnerability. The project recommends updating sites immediately; installations that support automatic background updates should receive it without manual intervention.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:personal:2026-09-22:wordpress-7-1-2</guid>
+      <source url="https://wordpress.org/news/2026/09/wordpress-7-1-2-release/">WordPress.org</source>
+    </item>
+    <item>
+      <title>Jack Kirby's Lower East Side roots get a street and exhibition</title>
+      <link>https://nypost.com/2026/05/11/us-news/cosplaying-marvel-fans-take-over-nyc-street-as-its-renamed-for-jack-kirby-scorned-partner-of-stan-lee/</link>
+      <description>New York co-named an intersection Jack Kirby Way near the comics legend's childhood home. A free American Jewish Historical Society exhibition, open through Nov. 26, pairs the tribute with rare comics and original art tracing how the Lower East Side shaped Kirby's imagination.</description>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:personal:2026-05-11:jack-kirby-way</guid>
+      <source url="https://nypost.com/2026/05/11/us-news/cosplaying-marvel-fans-take-over-nyc-street-as-its-renamed-for-jack-kirby-scorned-partner-of-stan-lee/">New York Post</source>
+    </item>
+    <item>
+      <title>A free doorway into 11,000 classic pulp magazines</title>
+      <link>https://www.openculture.com/2023/03/the-pulp-magazine-archive.html</link>
+      <description>Open Culture tours the Pulp Magazine Archive, a huge collection of digitized science-fiction, fantasy and detective magazines. The scans preserve stories, illustrations and advertising from publishing's pulp era, making the collection useful both for casual reading and copyright archaeology.</description>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:personal:2023-03-27:pulp-magazine-archive</guid>
+      <source url="https://www.openculture.com/2023/03/the-pulp-magazine-archive.html">Open Culture</source>
+    </item>
     <item>
       <title>Clover Press revives Marvel Masterworks</title>
       <link>https://www.publishersweekly.com/pw/newsbrief/index.html?record=6036</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 31 Dec 2025 21:50:51 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2025-12-31-betty-boop-blondie-public-domain</guid>
       <source url="https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1">Associated Press</source>
-    </item>
-    <item>
-      <title>Lucas Museum opens with comics, Star Wars and fine art under one roof</title>
-      <link>https://apnews.com/article/359e58bb09f0e787cef35ed3f70f93df</link>
-      <description>After 17 years of planning, George Lucas and Mellody Hobson's $1 billion Museum of Narrative Art is opening in Los Angeles. Its deliberately broad collection puts comic and popular art beside Frida Kahlo, Diego Rivera and Banksy, with Star Wars models, a Naboo starfighter and even the dogs-playing-poker painting among the highlights.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-20-lucas-museum-narrative-art-opens</guid>
-      <source url="https://apnews.com/article/359e58bb09f0e787cef35ed3f70f93df">Associated Press</source>
-    </item>
-    <item>
-      <title>A WooCommerce plugin flaw is under active attack</title>
-      <link>https://www.techradar.com/pro/security/third-party-woocommerce-plugin-hits-wordpress-sites-with-php-backdoor-abusing-recently-patched-vulnerability</link>
-      <description>Attackers are exploiting an arbitrary file-upload flaw in the Wholesale Lead Capture Plugin for WooCommerce, which has more than 20,000 installations. The bug can permit unauthenticated PHP webshell uploads. Users should update to version 2.0.3.2 or later and inspect upload directories for unfamiliar PHP files.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-16-woocommerce-wholesale-lead-capture-flaw</guid>
-      <source url="https://www.techradar.com/pro/security/third-party-woocommerce-plugin-hits-wordpress-sites-with-php-backdoor-abusing-recently-patched-vulnerability">TechRadar</source>
-    </item>
-    <item>
-      <title>An archaeologist argues for the value of messy digital fragments</title>
-      <link>https://mediterraneanworld.wordpress.com/</link>
-      <description>William Caraher revisits “slow” and “punk” archaeology ahead of a conference on the digital, archaeological and ethical. His argument for fragments, ambiguity and incomplete records pushes back against tidy digital systems that can erase the uncertainty and human context that make historical evidence meaningful.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-18-slow-punk-archaeology-fragments</guid>
-      <source url="https://mediterraneanworld.wordpress.com/">Archaeology of the Mediterranean World</source>
     </item>
   </channel>
 </rss>

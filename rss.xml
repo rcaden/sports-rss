@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Bob Pettit, two-time NBA MVP and Hawks champion, dies at 93</title>
+      <link>https://apnews.com/article/bob-pettit-dead-nba-hawks-92bb99e3a0bb11ed885e3c219cee77e8</link>
+      <description>Bob Pettit, the first NBA player to win the league's MVP award, has died at 93. The Hall of Fame forward won a second MVP in 1959, made the All-Star team in each of his 11 seasons and powered the St. Louis Hawks past the Celtics for the 1958 championship — the franchise's only title.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:sports:2026-09-24:bob-pettit</guid>
+      <source url="https://apnews.com/article/bob-pettit-dead-nba-hawks-92bb99e3a0bb11ed885e3c219cee77e8">Associated Press</source>
+    </item>
+    <item>
+      <title>White Sox complete historic turnaround with playoff berth</title>
+      <link>https://apnews.com/article/white-sox-chicago-mlb-playoffs-a383ab7877a3e7360f713a30e77a8395</link>
+      <description>Chicago routed Kansas City 9-1 to clinch at least an AL wild card, becoming the first major-league club to reach the postseason immediately after two straight 100-loss seasons. The White Sox remain one game behind Cleveland in the AL Central with three games left against Colorado.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:sports:2026-09-24:white-sox-playoffs</guid>
+      <source url="https://apnews.com/article/white-sox-chicago-mlb-playoffs-a383ab7877a3e7360f713a30e77a8395">Associated Press</source>
+    </item>
+    <item>
+      <title>United States takes opening lead at Presidents Cup</title>
+      <link>https://apnews.com/article/presidents-cup-medinah-us-international-koivun-scheffler-e5d5ca056e10b8e2e5770d7c79c562ef</link>
+      <description>Scottie Scheffler and Sam Burns rallied to win the final fourballs match and give the U.S. a 3-2 first-day lead at Medinah. It was the ninth time in 10 Presidents Cups that the Americans won the opening session as they pursue an 11th consecutive victory in the biennial competition.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:sports:2026-09-24:presidents-cup-opening</guid>
+      <source url="https://apnews.com/article/presidents-cup-medinah-us-international-koivun-scheffler-e5d5ca056e10b8e2e5770d7c79c562ef">Associated Press</source>
+    </item>
     <item>
       <title>Darrell Waltrip diagnosed with brain disease, steps back</title>
       <link>https://www.reuters.com/sports/nascar-great-darrell-waltrip-has-brain-disease--flm-2026-09-24/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-20-spaun-bmw-pga-win</guid>
       <source url="https://www.reuters.com/sports/golf/spaun-uses-presidents-cup-snub-win-bmw-pga-championship-2026-09-20/">Reuters</source>
-    </item>
-    <item>
-      <title>Czech Republic rallies to eliminate the U.S. from Davis Cup</title>
-      <link>https://www.reuters.com/sports/tennis/davis-cup-roundup-czech-republic-ousts-us-second-round--flm-2026-09-20/</link>
-      <description>A day after the teams split the opening singles, the Czech Republic erased a 2-1 deficit by winning both reverse singles in Prague. Jiri Lehecka beat Learner Tien and Jakub Mensik defeated Ben Shelton to eliminate the United States 3-2 and advance to November's quarterfinals in Bologna.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-20-czech-republic-eliminates-us-davis-cup</guid>
-      <source url="https://www.reuters.com/sports/tennis/davis-cup-roundup-czech-republic-ousts-us-second-round--flm-2026-09-20/">Reuters</source>
-    </item>
-    <item>
-      <title>Coventry earns its first Premier League win in 25 years</title>
-      <link>https://www.reuters.com/sports/soccer/lampards-coventry-earn-landmark-first-premier-league-win-25-years-2026-09-19/</link>
-      <description>Jay Dasilva's second-half goal gave Coventry City a 1-0 victory at Nottingham Forest, the club's first Premier League win since 2001. A late Forest equalizer was overturned by VAR, lifting Frank Lampard's promoted side off the bottom after four straight losses.</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-19-coventry-first-premier-league-win-25-years</guid>
-      <source url="https://www.reuters.com/sports/soccer/lampards-coventry-earn-landmark-first-premier-league-win-25-years-2026-09-19/">Reuters</source>
-    </item>
-    <item>
-      <title>Diamondbacks walk off the Yankees on a World Series anniversary</title>
-      <link>https://www.reuters.com/sports/baseball/pavin-smiths-pinch-hit-walk-off-homer-lifts-d-backs-over-yankees--flm-2026-09-20/</link>
-      <description>On the 25th anniversary of Arizona's 2001 World Series win over New York, pinch hitter Pavin Smith hit a two-run homer in the ninth for a 5-3 victory. The Diamondbacks ended a three-game skid and kept their faint NL wild-card hopes alive with seven games left.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-20-diamondbacks-walkoff-yankees-anniversary</guid>
-      <source url="https://www.reuters.com/sports/baseball/pavin-smiths-pinch-hit-walk-off-homer-lifts-d-backs-over-yankees--flm-2026-09-20/">Reuters</source>
     </item>
   </channel>
 </rss>

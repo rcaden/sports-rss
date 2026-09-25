@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Google avoids breakup but faces new ad-tech restrictions</title>
+      <link>https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</link>
+      <description>A federal judge declined to break up Google's advertising business after finding illegal monopoly power, but ordered the company to loosen auction rules, open its ad server to rival exchanges and accept six years of oversight. The remedy matters directly to publishers that depend on the open-web ad market.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:tech:2026-09-16:google-adtech-remedy</guid>
+      <source url="https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/">Reuters</source>
+    </item>
+    <item>
+      <title>EU tests privacy-minded age checks for the web</title>
+      <link>https://www.reuters.com/legal/litigation/how-eus-age-verification-app-children-would-work-2026-09-18/</link>
+      <description>The European Commission is piloting a free, open-source age-verification app in seven countries. Its decentralized design proves that a user meets an age threshold without disclosing identity documents or biometrics to websites, an important test of whether safety rules can avoid creating a universal tracking system.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:tech:2026-09-18:eu-age-verification</guid>
+      <source url="https://www.reuters.com/legal/litigation/how-eus-age-verification-app-children-would-work-2026-09-18/">Reuters</source>
+    </item>
+    <item>
+      <title>Taxpayers funded a TV ad echoing midterm campaign themes</title>
+      <link>https://www.ksat.com/news/politics/2026/09/24/us-government-foots-bill-for-television-advertisement-featuring-trumps-midterm-messaging/</link>
+      <description>A 30-second spot airing on Fox News and Newsmax carried presidential imagery and themes used by Republican candidates but disclosed that the U.S. government paid for it. Lawmakers from both parties questioned the use of public money, while the White House called the ad educational and patriotic.</description>
+      <pubDate>Thu, 24 Sep 2026 14:51:00 GMT</pubDate>
+      <guid isPermaLink="false">acme:tech:2026-09-24:government-tv-ad</guid>
+      <source url="https://www.ksat.com/news/politics/2026/09/24/us-government-foots-bill-for-television-advertisement-featuring-trumps-midterm-messaging/">Associated Press</source>
+    </item>
     <item>
       <title>Judge orders White House to restore access to three outlets</title>
       <link>https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-20-meta-ofcom-online-safety-challenge</guid>
       <source url="https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act">The Guardian</source>
-    </item>
-    <item>
-      <title>Reach plans 220 more newsroom cuts as search referrals collapse</title>
-      <link>https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google</link>
-      <description>The publisher of the Mirror and Express says Google referrals have fallen 46% year over year as answer summaries keep more users on the search page. Reach plans to cut 220 editorial jobs and close three local sites while adding 60 subscription and video roles, a stark example of how platform changes can hollow out web journalism.</description>
-      <pubDate>Wed, 16 Sep 2026 12:16:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-16-reach-newsroom-cuts-search-referrals</guid>
-      <source url="https://www.theguardian.com/business/2026/sep/16/mirror-publisher-reach-cuts-editorial-jobs-ai-summaries-google">The Guardian</source>
-    </item>
-    <item>
-      <title>White House enforces its ban on three news organizations</title>
-      <link>https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/</link>
-      <description>The White House confiscated credentials from CNN, MS NOW and Politico reporters, turning President Trump's announced ban into action. The outlets called the move unconstitutional and vowed to fight it. The enforcement is a major new development in the dispute and revives legal questions raised by earlier credential cases.</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-19-white-house-enforces-news-outlet-ban</guid>
-      <source url="https://www.reuters.com/world/white-house-turns-away-cnn-ms-now-politico-reporters-after-trump-announces-ban-2026-09-19/">Reuters</source>
-    </item>
-    <item>
-      <title>Trump plans a new AI adviser and federal task force</title>
-      <link>https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/</link>
-      <description>President Trump said he will name a new White House adviser and create a federal task force for AI, but offered no details on their authority or membership. The announcement puts technology policy back inside the West Wing as Washington debates safety rules, competition with China and how much oversight developers should face.</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-19-trump-ai-adviser-task-force</guid>
-      <source url="https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/">Reuters</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>The webhooks family tree begins with rssCloud and weblog pings</title>
+      <link>https://repost.sh/blog/who-invented-webhooks</link>
+      <description>Quentin Mousset traces webhooks to blog-era protocols: rssCloud in 2000, weblogs.com pings in 2001, and TrackBack and Pingback in 2002. The article carefully separates surviving evidence from uncertain lore, including a lost 2006 “Web hooks” post, while following the same HTTP callback pattern through WebSub and today&apos;s agent protocols.</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-08-03-webhooks-rsscloud-history</guid>
+      <source url="https://repost.sh/blog/who-invented-webhooks">Repost</source>
+    </item>
+    <item>
+      <title>Untangling Blue Beetle&apos;s public-domain claims</title>
+      <link>https://buttondown.com/DavidMariotte/archive/to-enter-the-public-domain/</link>
+      <description>Comics editor David Mariotte examines why public-domain claims around Blue Beetle require more than finding old issues without notices. He distinguishes Dan Garret from DC&apos;s later Dan Garrett and Ted Kord versions, considers Charlton&apos;s 1983 sale to DC, and separates copyright in particular stories from character elements and trademarks.</description>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2024-01-13-blue-beetle-public-domain</guid>
+      <source url="https://buttondown.com/DavidMariotte/archive/to-enter-the-public-domain/">David Mariotte&apos;s Bots &amp; Bits</source>
+    </item>
+    <item>
+      <title>WordPress takes the lead at the Open Website Alliance</title>
+      <link>https://wordpress.org/news/2026/09/owa-president/</link>
+      <description>WordPress Foundation executive director Mary Hubbard has become president of the Open Website Alliance, a rotating role among WordPress, Drupal, Joomla and TYPO3. The group advocates for open-source publishing and shares practices across projects, including work on European security rules affecting community-built content-management systems.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-21-wordpress-open-website-alliance</guid>
+      <source url="https://wordpress.org/news/2026/09/owa-president/">WordPress News</source>
+    </item>
     <item>
       <title>WordPress 7.1.2 fixes a critical security flaw</title>
       <link>https://wordpress.org/news/2026/09/wordpress-7-1-2-release/</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2024-06-03-home-cooked-software-barefoot-developers</guid>
       <source url="https://maggieappleton.com/home-cooked-software">Maggie Appleton</source>
-    </item>
-    <item>
-      <title>New laws reopen claims to Nazi-looted art in two museums</title>
-      <link>https://apnews.com/article/7abc2100abc10c55dcb6281e4e7e850c</link>
-      <description>Changes in California and federal law have revived restitution cases involving Lucas Cranach the Elder's “Adam and Eve” at the Norton Simon Museum and watercolors painted at Auschwitz by Dinah Babbitt, now held by Poland's Auschwitz-Birkenau State Museum.</description>
-      <pubDate>Sat, 19 Sep 2026 11:14:50 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-19-nazi-looted-art-new-laws</guid>
-      <source url="https://apnews.com/article/7abc2100abc10c55dcb6281e4e7e850c">Associated Press</source>
-    </item>
-    <item>
-      <title>WordPress 7.1 expands styling, media workflows and Notes</title>
-      <link>https://wordpress.org/news/2026/08/mary-lou/</link>
-      <description>WordPress 7.1 “Mary Lou” adds new styling controls, smoother media workflows and expanded Notes for collaboration. The official release overview highlights both creator-facing improvements and under-the-hood refinements, making it a useful guide before upgrading production sites.</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-08-19-wordpress-7-1-mary-lou</guid>
-      <source url="https://wordpress.org/news/2026/08/mary-lou/">WordPress News</source>
-    </item>
-    <item>
-      <title>Betty Boop, Blondie and three famous detectives enter the public domain</title>
-      <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
-      <description>The 2026 public-domain class includes the earliest Betty Boop and Blondie appearances, plus Nancy Drew, Sam Spade and Miss Marple. Works from 1930 also bring fresh reuse possibilities for Mickey Mouse cartoons, classic songs and films after their U.S. copyright terms expired.</description>
-      <pubDate>Wed, 31 Dec 2025 21:50:51 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2025-12-31-betty-boop-blondie-public-domain</guid>
-      <source url="https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1">Associated Press</source>
     </item>
   </channel>
 </rss>

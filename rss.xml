@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Stephen Curry agrees to two-year, $116 million Warriors extension</title>
+      <link>https://apnews.com/article/warriors-stephen-curry-contract-extension-d7fa9a41fd7ee85ceff2adc4549a47bb</link>
+      <description>Stephen Curry agreed to a two-year, $116 million extension that would keep him with Golden State through 2028-29, his 20th NBA season. The Associated Press says the 38-year-old accepted less than the maximum available. If he stays, Curry could join Dirk Nowitzki, Kobe Bryant and Udonis Haslem as players spending at least 20 seasons with one franchise.</description>
+      <pubDate>Sat, 26 Sep 2026 02:44:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-25-stephen-curry-extension</guid>
+      <source url="https://apnews.com/article/warriors-stephen-curry-contract-extension-d7fa9a41fd7ee85ceff2adc4549a47bb">Associated Press</source>
+    </item>
+    <item>
+      <title>International team sweeps foursomes to take 7-3 Presidents Cup lead</title>
+      <link>https://apnews.com/article/presidents-cup-medinah-international-europe-26a005605ec2a9adfc8f0b49ff310ff6</link>
+      <description>A day after the U.S. opened with a 3-2 lead, the International team delivered a major reversal by sweeping all five Friday foursomes matches at Medinah. The Americans now trail 7-3, their worst two-session deficit since 1998—the only Presidents Cup won by the Internationals.</description>
+      <pubDate>Sat, 26 Sep 2026 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-25-presidents-cup-foursomes-sweep</guid>
+      <source url="https://apnews.com/article/presidents-cup-medinah-international-europe-26a005605ec2a9adfc8f0b49ff310ff6">Associated Press</source>
+    </item>
+    <item>
+      <title>Macklin Celebrini becomes youngest captain in Sharks history</title>
+      <link>https://apnews.com/article/sharks-captain-macklin-celebrini-c3d16b053f4acb038c165ad00b1e168e</link>
+      <description>San Jose named 20-year-old Macklin Celebrini its 11th full-time captain, making him the youngest captain in franchise history and the NHL&apos;s youngest current captain. Joe Thornton presented the jersey. Celebrini fills a role left vacant after Logan Couture&apos;s career-ending injury.</description>
+      <pubDate>Fri, 25 Sep 2026 18:11:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-25-celebrini-sharks-captain</guid>
+      <source url="https://apnews.com/article/sharks-captain-macklin-celebrini-c3d16b053f4acb038c165ad00b1e168e">Associated Press</source>
+    </item>
     <item>
       <title>Bob Pettit, two-time NBA MVP and Hawks champion, dies at 93</title>
       <link>https://apnews.com/article/bob-pettit-dead-nba-hawks-92bb99e3a0bb11ed885e3c219cee77e8</link>
@@ -103,30 +127,6 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-19-brighton-arsenal-three-nil</guid>
       <source url="https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/">Reuters</source>
-    </item>
-    <item>
-      <title>Dak Prescott becomes Cowboys' career touchdown-pass leader</title>
-      <link>https://www.reuters.com/sports/nfl-roundup-dak-prescott-stars-jayden-daniels-injured-cowboys-win--flm-2026-09-21/</link>
-      <description>Dak Prescott threw four touchdown passes in Dallas' 37-20 win over Washington, passing Tony Romo's franchise record of 248. The victory was clouded by Commanders rookie quarterback Jayden Daniels suffering a dislocated left elbow.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-21-dak-prescott-cowboys-touchdown-record</guid>
-      <source url="https://www.reuters.com/sports/nfl-roundup-dak-prescott-stars-jayden-daniels-injured-cowboys-win--flm-2026-09-21/">Reuters</source>
-    </item>
-    <item>
-      <title>Ole Miss climbs to No. 4 after beating LSU</title>
-      <link>https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5</link>
-      <description>Ole Miss moved to No. 4 in the AP Top 25 after a 32-24 victory over LSU, reaching the September top five for a third straight season. The SEC placed 10 teams in the ranking, while Texas A&amp;M plunged from No. 9 to No. 23 after losing at home to unranked Kentucky.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-21-ole-miss-number-four-ap-poll</guid>
-      <source url="https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5">Associated Press</source>
-    </item>
-    <item>
-      <title>J.J. Spaun answers Presidents Cup snub with BMW PGA win</title>
-      <link>https://www.reuters.com/sports/golf/spaun-uses-presidents-cup-snub-win-bmw-pga-championship-2026-09-20/</link>
-      <description>J.J. Spaun birdied four of his last five holes, closed with a 67 and won the BMW PGA Championship by two shots over a group including Rory McIlroy and Adam Scott. Spaun said being passed over for a U.S. Presidents Cup captain's pick supplied extra motivation.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-20-spaun-bmw-pga-win</guid>
-      <source url="https://www.reuters.com/sports/golf/spaun-uses-presidents-cup-snub-win-bmw-pga-championship-2026-09-20/">Reuters</source>
     </item>
   </channel>
 </rss>

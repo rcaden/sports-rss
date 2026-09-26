@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Dolly Parton Day brings parades, pink lights and book drives</title>
+      <link>https://apnews.com/article/dolly-parton-day-925-1741a56d5a32ed562c465352ee9e2f40</link>
+      <description>Communities marked Sept. 25—a wink at “9 to 5”—as Dolly Parton Day with parades, karaoke, pink-lit landmarks and book drives. Nashville decorated downtown, New Orleans staged a parade and San Francisco held a celebration, while donations supported Parton&apos;s Imagination Library literacy program.</description>
+      <pubDate>Fri, 25 Sep 2026 04:01:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-25-dolly-parton-day</guid>
+      <source url="https://apnews.com/article/dolly-parton-day-925-1741a56d5a32ed562c465352ee9e2f40">Associated Press</source>
+    </item>
+    <item>
+      <title>Prague Zoo&apos;s cheetah quintuplets are lively after a rough start</title>
+      <link>https://apnews.com/article/prague-zoo-cheetah-cubs-quintuplets-ac7926bdf6e450eccc63fe62cab6811f</link>
+      <description>Five cheetah cubs at Prague Zoo are lively and healthy after surviving torrential rain and their mother&apos;s intestinal infection. Daenerys, a first-time mother, sheltered the four males and one female and licked rain from their fur. With fewer than 7,000 cheetahs in the wild, every cub matters.</description>
+      <pubDate>Fri, 25 Sep 2026 12:37:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-25-prague-cheetah-quintuplets</guid>
+      <source url="https://apnews.com/article/prague-zoo-cheetah-cubs-quintuplets-ac7926bdf6e450eccc63fe62cab6811f">Associated Press</source>
+    </item>
+    <item>
+      <title>Caribbean and Bermudian words join the Oxford English Dictionary</title>
+      <link>https://apnews.com/article/caribbean-oxford-dictionary-bermuda-new-words-40fdbf5164aa5c2cc3661126e1080ae2</link>
+      <description>More than a dozen words long used in Bermuda and the Caribbean received official recognition from the Oxford English Dictionary. Additions include “bimpert,” a Bermudian term for a foolish person; “Trinbagonian,” for someone from Trinidad and Tobago; and “canboulay,” rooted in 19th-century emancipation celebrations.</description>
+      <pubDate>Wed, 23 Sep 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-23-caribbean-oed-words</guid>
+      <source url="https://apnews.com/article/caribbean-oxford-dictionary-bermuda-new-words-40fdbf5164aa5c2cc3661126e1080ae2">Associated Press</source>
+    </item>
     <item>
       <title>KFC tests breakfast and table service in Texas</title>
       <link>https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-21-rom-barontini-artwork-dinosaur</guid>
       <source url="https://www.rom.on.ca/news-releases/rom-transforms-main-floor-space-new-artwork-french-caribbean-artist-raphael-barontini">Royal Ontario Museum</source>
-    </item>
-    <item>
-      <title>Salzburg opens a museum where von Trapp history meets Hollywood</title>
-      <link>https://apnews.com/article/da925e4f37c734998b9cdc1e197360ca</link>
-      <description>A new Sound of Music museum at Salzburg's Hellbrunn Palace pairs the real von Trapp family's story with the movie that made it famous. Its 450 objects include costumes, props and recordings, while the nearby gazebo gives visitors a familiar place to sing along.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-21-sound-of-music-salzburg-museum</guid>
-      <source url="https://apnews.com/article/da925e4f37c734998b9cdc1e197360ca">Associated Press</source>
-    </item>
-    <item>
-      <title>The equinox arrives Wednesday, but equal day and night come later</title>
-      <link>https://www.theguardian.com/science/2026/sep/21/starwatch-autumnal-equinox-northern-hemisphere-spring-south</link>
-      <description>The September equinox falls Wednesday at 1:05 a.m. British time, beginning astronomical autumn in the north and spring in the south. Day and night will not be precisely equal, because the sun is a disc and Earth's atmosphere bends its light; Britain's “equilux” follows Friday.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-21-autumnal-equinox-equilux</guid>
-      <source url="https://www.theguardian.com/science/2026/sep/21/starwatch-autumnal-equinox-northern-hemisphere-spring-south">The Guardian</source>
-    </item>
-    <item>
-      <title>A sophisticated heist makes off with more than 800,000 bees</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation</link>
-      <description>Thieves stole 44 bee colonies—more than 800,000 bees—from several properties in far north Queensland. Investigators say the careful removal of brood boxes points to experienced beekeepers, and suspect the colonies may be headed for avocado orchards as pollination season begins.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-21-queensland-bee-heist</guid>
-      <source url="https://www.theguardian.com/australia-news/2026/sep/21/more-than-800000-bees-stolen-across-far-north-queensland-in-sophisticated-operation">The Guardian</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>New York and Polymarket trade lawsuits over prediction markets</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/</link>
+      <description>New York sued to stop Polymarket from operating as an unlicensed gambling business, arguing that sports and election contracts expose users—including people under 21—to gambling risks. Polymarket answered with a federal suit, saying its exchange falls under federal commodities oversight. The clash tests whether states may regulate prediction markets as gambling.</description>
+      <pubDate>Thu, 24 Sep 2026 19:07:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-24-new-york-polymarket-lawsuits</guid>
+      <source url="https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/">Ars Technica</source>
+    </item>
+    <item>
+      <title>WordPress takes the lead at the Open Website Alliance</title>
+      <link>https://wordpress.org/news/2026/09/owa-president/</link>
+      <description>Mary Hubbard, executive director of the WordPress Foundation, has become president of the Open Website Alliance. The rotating coalition of WordPress, Drupal, Joomla and TYPO3 advocates for open-source publishing and shares practices across projects, including work on European security rules for community-built content-management systems.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-wordpress-open-website-alliance</guid>
+      <source url="https://wordpress.org/news/2026/09/owa-president/">WordPress News</source>
+    </item>
+    <item>
+      <title>European software firms reject calls to slow model development</title>
+      <link>https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/</link>
+      <description>European software companies are resisting U.S. industry calls to slow advanced-model development, warning that a pause could entrench today&apos;s dominant vendors and deepen dependence on American technology. The dispute pits safety concerns and independent evaluation against competition, open alternatives and Europe&apos;s push for digital sovereignty.</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-18-europe-model-development-slowdown</guid>
+      <source url="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/">Reuters</source>
+    </item>
     <item>
       <title>Google avoids breakup but faces new ad-tech restrictions</title>
       <link>https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-21-eu-cyber-defense-data-sharing</guid>
       <source url="https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/">Reuters</source>
-    </item>
-    <item>
-      <title>Cybercrime feud spills into the open after a dark-web site hijacking</title>
-      <link>https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/</link>
-      <description>The ShinyHunters cybercrime group says it seized rival cl0p's dark-web leak site in a dispute over a stolen software flaw. The unusual public feud offers a glimpse into the fragile alliances and competitive economics behind ransomware operations, though Reuters could not independently verify every claim.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-dark-web-cybercrime-feud</guid>
-      <source url="https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/">Reuters</source>
-    </item>
-    <item>
-      <title>Publishers rethink audience relationships as referral traffic shrinks</title>
-      <link>https://reutersinstitute.politics.ox.ac.uk/news/five-takeaways-future-media-technology-conference-how-publishers-are-rethinking-audience</link>
-      <description>At the Future Media Technology Conference, publishers described a shift away from depending on search and social referrals. Newsrooms are investing in direct relationships through newsletters, events, communities and stronger products—a practical response to platforms sending less traffic.</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-11-publishers-direct-audience-strategy</guid>
-      <source url="https://reutersinstitute.politics.ox.ac.uk/news/five-takeaways-future-media-technology-conference-how-publishers-are-rethinking-audience">Reuters Institute for the Study of Journalism</source>
-    </item>
-    <item>
-      <title>Meta challenges Ofcom's Online Safety Act classifications</title>
-      <link>https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act</link>
-      <description>Meta has appealed Ofcom's decision to classify WhatsApp and Instagram as Category 1 services under Britain's Online Safety Act. The case joins challenges from TikTok, X, Roblox and Quora over how the regulator applies duties, calculates fees and demands data from large platforms.</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-20-meta-ofcom-online-safety-challenge</guid>
-      <source url="https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act">The Guardian</source>
     </item>
   </channel>
 </rss>

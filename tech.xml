@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:33:10 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Paramount-Warner settlement promises a news-independence board</title>
+      <link>https://apnews.com/article/1aaa7c471d8ba286ccfad92b18bc1ecf</link>
+      <description>Twelve states and the Writers Guild settled challenges to Paramount's $81 billion Warner Bros. Discovery purchase. The terms include a board monitoring editorial independence at CBS and CNN, separate cable negotiations for five years, added U.S. film investment and a worker fund. The merger still concentrates two giant news and entertainment libraries.</description>
+      <pubDate>Mon, 21 Sep 2026 17:07:38 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-paramount-warner-settlement</guid>
+      <source url="https://apnews.com/article/1aaa7c471d8ba286ccfad92b18bc1ecf">Associated Press</source>
+    </item>
+    <item>
+      <title>Texas freezes data-center permits pending grid audit</title>
+      <link>https://www.reuters.com/business/energy/texas-gov-abbott-halts-all-state-issued-permits-data-centers-until-grid-audit-is-2026-09-21/</link>
+      <description>Gov. Greg Abbott halted new state permits for Texas data centers until regulators audit their electricity, water and tax-incentive impacts. Projects seeking grid connections total more than five times the state's peak demand. The reversal shows how infrastructure costs are moving from a background concern to a direct constraint on the computing boom.</description>
+      <pubDate>Mon, 21 Sep 2026 20:53:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-texas-data-center-permits</guid>
+      <source url="https://www.reuters.com/business/energy/texas-gov-abbott-halts-all-state-issued-permits-data-centers-until-grid-audit-is-2026-09-21/">Reuters</source>
+    </item>
+    <item>
+      <title>Cybercrime feud spills into the open after rival site's takeover</title>
+      <link>https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/</link>
+      <description>Extortion group ShinyHunters says it exploited a flaw to seize rival cl0p's dark-web site, briefly replacing it with a takeover notice. Researchers told Reuters the clash appears genuine and unusually public. The feud reportedly centers on a stolen Oracle E-Business Suite exploit, showing how software vulnerabilities themselves become contested criminal assets.</description>
+      <pubDate>Mon, 21 Sep 2026 01:58:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-21-cybercrime-rival-site</guid>
+      <source url="https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/">Reuters</source>
+    </item>
     <item>
       <title>New York and Polymarket trade lawsuits over prediction markets</title>
       <link>https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 20 Sep 2026 22:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-20-us-china-ai-incident-alert-channel</guid>
       <source url="https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd">Associated Press</source>
-    </item>
-    <item>
-      <title>Banned news organizations take the White House to court</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit</link>
-      <description>In a major development after their White House access was revoked, CNN, MS Now and Politico sued President Trump, alleging violations of the First and Fifth Amendments. They are seeking an emergency order restoring credentials, while major television networks have condemned the ban.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-white-house-media-ban-lawsuit</guid>
-      <source url="https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit">The Guardian</source>
-    </item>
-    <item>
-      <title>Three in four Americans say AI firms are not doing enough to prevent harm</title>
-      <link>https://www.reuters.com/world/three-out-four-americans-say-ai-firms-not-doing-enough-prevent-disaster-2026-09-22/</link>
-      <description>A Reuters/Ipsos poll found 73% of U.S. adults think AI companies are not doing enough to prevent serious social harm. Only 11% viewed the technology's effect positively, while 73% said safety should take priority over keeping the United States ahead of China.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-22-reuters-ipsos-ai-safety-poll</guid>
-      <source url="https://www.reuters.com/world/three-out-four-americans-say-ai-firms-not-doing-enough-prevent-disaster-2026-09-22/">Reuters</source>
-    </item>
-    <item>
-      <title>Auditors say poor information sharing weakens Europe's cyber defenses</title>
-      <link>https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/</link>
-      <description>The European Court of Auditors says national authorities still fail to share timely, useful details during major cyber incidents despite €1.4 billion in EU spending. Its report cites a ransomware attack that disrupted several airports without any affected country alerting the EU cybersecurity agency.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-eu-cyber-defense-data-sharing</guid>
-      <source url="https://www.reuters.com/legal/government/poor-data-sharing-undermining-eu-cyber-defences-auditors-say-2026-09-21/">Reuters</source>
     </item>
   </channel>
 </rss>

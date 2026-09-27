@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:33:10 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Justin Verlander closes 21-year career with a family moment</title>
+      <link>https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/</link>
+      <description>Justin Verlander finished what he says will be his final major-league start, then watched 7-year-old daughter Genevieve sprint to the mound for a hug. The 43-year-old, a three-time Cy Young winner and 2017 World Series champion, walked off hand-in-hand with her after 21 seasons.</description>
+      <pubDate>Sat, 26 Sep 2026 20:13:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-26-verlander-final-start</guid>
+      <source url="https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/">Associated Press</source>
+    </item>
+    <item>
+      <title>No. 21 Florida knocks off No. 4 Ole Miss, 52-28</title>
+      <link>https://www.news4jax.com/sports/2026/09/26/jadan-baugh-and-no-21-florida-run-roughshod-over-4th-ranked-ole-miss-52-28/</link>
+      <description>Jadan Baugh powered Florida's 52-28 upset of fourth-ranked Ole Miss as the Gators turned a marquee SEC matchup into a statement win. Florida's ground game repeatedly broke through a defense that entered the weekend with national-title ambitions, reshaping the early conference race.</description>
+      <pubDate>Sat, 26 Sep 2026 23:35:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-26-florida-ole-miss</guid>
+      <source url="https://www.news4jax.com/sports/2026/09/26/jadan-baugh-and-no-21-florida-run-roughshod-over-4th-ranked-ole-miss-52-28/">Associated Press</source>
+    </item>
+    <item>
+      <title>U.S. trims Presidents Cup deficit, trails by three entering singles</title>
+      <link>https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-saturday-results-us-chips-away-at-international-team-lead-trails-by-3-heading-into-sunday-130236876.html</link>
+      <description>A day after the International side swept Friday foursomes, the U.S. answered on Saturday and cut the Presidents Cup margin to 10½-7½. That significant shift leaves the Americans within three points before Sunday's 12 singles matches at Medinah, keeping a comeback—and the International team's bid to end a long drought—alive.</description>
+      <pubDate>Sat, 26 Sep 2026 23:30:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-26-presidents-cup-saturday</guid>
+      <source url="https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-saturday-results-us-chips-away-at-international-team-lead-trails-by-3-heading-into-sunday-130236876.html">Yahoo Sports</source>
+    </item>
     <item>
       <title>Stephen Curry agrees to two-year, $116 million Warriors extension</title>
       <link>https://apnews.com/article/warriors-stephen-curry-contract-extension-d7fa9a41fd7ee85ceff2adc4549a47bb</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-22-lisa-leslie-sparks-statue</guid>
       <source url="https://apnews.com/article/lisa-leslie-statue-sparks-3e0d1642d33f2c57c567ed43e489f75e">Associated Press</source>
-    </item>
-    <item>
-      <title>Matthew Stafford throws four touchdowns as Rams rout Giants</title>
-      <link>https://www.reuters.com/sports/nfl/matthew-stafford-fires-4-touchdown-passes-rams-cruise-past-giants--flm-2026-09-22/</link>
-      <description>Matthew Stafford threw for 327 yards and four touchdowns in the Rams' 28-6 win over the Giants, moving into sixth place in NFL history with 427 career touchdown passes. New York quarterback Jaxson Dart left with a suspected sprained MCL.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-22-stafford-rams-giants-four-touchdowns</guid>
-      <source url="https://www.reuters.com/sports/nfl/matthew-stafford-fires-4-touchdown-passes-rams-cruise-past-giants--flm-2026-09-22/">Reuters</source>
-    </item>
-    <item>
-      <title>Brewers set a franchise record with their 98th win</title>
-      <link>https://www.reuters.com/sports/baseball/brewers-blank-orioles-again-set-franchise-wins-record--flm-2026-09-21/</link>
-      <description>Milwaukee blanked Baltimore 3-0 to complete a sweep and set a franchise record with 98 victories. Six relievers preserved the shutout after Jacob Misiorowski worked three scoreless innings, and the Brewers moved two games ahead of the Dodgers for the National League's best record.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-21-brewers-franchise-record-98-wins</guid>
-      <source url="https://www.reuters.com/sports/baseball/brewers-blank-orioles-again-set-franchise-wins-record--flm-2026-09-21/">Reuters</source>
-    </item>
-    <item>
-      <title>Brighton hands Arsenal its heaviest defeat in three years</title>
-      <link>https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/</link>
-      <description>Brighton ended Arsenal's perfect Premier League start with a 3-0 victory, the Gunners' heaviest loss in three years. Pascal Gross, Charalampos Kostoulas and Chema Andrés scored as Brighton climbed to third, level with Arsenal and Manchester City on 12 points.</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-19-brighton-arsenal-three-nil</guid>
-      <source url="https://www.reuters.com/sports/soccer/wrapup-soccer-manzambi-jackson-buendia-fire-villa-first-win-spurs-misery-deepens-2026-09-19/">Reuters</source>
     </item>
   </channel>
 </rss>

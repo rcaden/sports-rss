@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 12:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:33:10 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Betty Boop, Blondie and three classic detectives enter the public domain</title>
+      <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
+      <description>Works first published in 1930 are now free of U.S. copyright, including early Betty Boop and Blondie appearances, nine Mickey Mouse cartoons and the book debuts of Nancy Drew, Sam Spade and Miss Marple. The annual release offers a rich field for copyright archaeology, preservation and new editions—while later character elements can remain protected.</description>
+      <pubDate>Wed, 31 Dec 2025 21:50:51 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2025-12-31-public-domain-1930</guid>
+      <source url="https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1">Associated Press</source>
+    </item>
+    <item>
+      <title>Russian strikes put Ukraine's independent publishers at risk</title>
+      <link>https://apnews.com/article/e21969668deaf1a93e092d183c42b7d1</link>
+      <description>Russian attacks have destroyed more than 13 million Ukrainian books and crucial printing infrastructure, including eight million books at publisher Ranok's warehouse. Small presses and debut authors are especially exposed, making proposed grants, state purchases and war-risk insurance consequential for literary diversity and cultural survival.</description>
+      <pubDate>Mon, 21 Sep 2026 04:35:03 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-21-ukraine-publishing</guid>
+      <source url="https://apnews.com/article/e21969668deaf1a93e092d183c42b7d1">Associated Press</source>
+    </item>
+    <item>
+      <title>What WordPress's release scanning catches—and what it cannot</title>
+      <link>https://instawp.com/wordpress-plugin-security-best-practices/</link>
+      <description>WordPress.org now scans each plugin and theme release during a cooldown and blocks high-risk updates before distribution. This practical guide explains the boundary that matters: the gate can examine a new release, but it cannot protect an already installed vulnerable or compromised plugin. It then maps the remaining site-owner defenses.</description>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-11-wordpress-release-scanning</guid>
+      <source url="https://instawp.com/wordpress-plugin-security-best-practices/">InstaWP</source>
+    </item>
     <item>
       <title>The webhooks family tree begins with rssCloud and weblog pings</title>
       <link>https://repost.sh/blog/who-invented-webhooks</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-09-15-jacksonville-oxford-economics-city-watch</guid>
       <source url="https://jaxtoday.org/2026/09/15/oxford-economics-ranks-jax-top-5-city/">Jacksonville Today</source>
-    </item>
-    <item>
-      <title>WordPress now screens every plugin release before distribution</title>
-      <link>https://make.wordpress.org/plugins/2026/09/09/automated-security-review-for-plugin-releases/</link>
-      <description>Every WordPress.org plugin and theme release now waits through a six-hour cooldown while several models and Jetpack Scan check its changes. High-risk releases are blocked and committers receive the findings. The system already stopped a backdoored update from reaching about 20,000 installations.</description>
-      <pubDate>Wed, 09 Sep 2026 14:54:29 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-09-wordpress-plugin-release-security-review</guid>
-      <source url="https://make.wordpress.org/plugins/2026/09/09/automated-security-review-for-plugin-releases/">Make WordPress</source>
-    </item>
-    <item>
-      <title>EU vulnerability reporting is now live for digital products</title>
-      <link>https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp</link>
-      <description>Manufacturers must now use ENISA's Single Reporting Platform to report actively exploited vulnerabilities and severe incidents under the Cyber Resilience Act. The clock is tight: an early warning is due within 24 hours and a fuller notice within 72. Open-source software stewards join the rules in December 2027.</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-11-eu-cyber-resilience-reporting-platform</guid>
-      <source url="https://www.enisa.europa.eu/topics/product-security/single-reporting-platform-srp">European Union Agency for Cybersecurity</source>
-    </item>
-    <item>
-      <title>The case for home-cooked software and barefoot developers</title>
-      <link>https://maggieappleton.com/home-cooked-software</link>
-      <description>Maggie Appleton imagines small, inexpensive programs built for a person, family or community rather than a mass market. Her essay connects that “home-cooked” model to local-first software, arguing that ownership, privacy and control matter when people build tools for needs too narrow to interest a large company.</description>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2024-06-03-home-cooked-software-barefoot-developers</guid>
-      <source url="https://maggieappleton.com/home-cooked-software">Maggie Appleton</source>
     </item>
   </channel>
 </rss>

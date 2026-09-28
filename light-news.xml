@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 12:33:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:48:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>The MTV VMAs turn into a night for the record books</title>
+      <link>https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa</link>
+      <description>After yesterday's preview, the awards delivered a women-led sweep: Madonna won seven times, while Taylor Swift took video of the year and the inaugural Artist Director honor, passing Beyoncé with 31 career VMAs. Nirvana received the Video Vanguard award.</description>
+      <pubDate>Mon, 28 Sep 2026 03:47:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-27-vmas-winners</guid>
+      <source url="https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa">The Guardian</source>
+    </item>
+    <item>
+      <title>John Wilson builds a micro-movie revolution</title>
+      <link>https://apnews.com/article/72e6d9b2dd3f4b4e5f5e0f75ca830bd6</link>
+      <description>Documentarian John Wilson turned street-level curiosity into an unlikely cinema success. His debut feature, “The History of Concrete,” sold nearly every seat at its one-theater opening, while the 42-seat Low Cinema he co-founded in Queens gives eclectic 16mm films a tiny but lively home.</description>
+      <pubDate>Tue, 22 Sep 2026 17:23:57 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-22-john-wilson-micro-cinema</guid>
+      <source url="https://apnews.com/article/72e6d9b2dd3f4b4e5f5e0f75ca830bd6">Associated Press</source>
+    </item>
+    <item>
+      <title>Betsy Ross brings a T-shirt cannon to America at 250</title>
+      <link>https://apnews.com/article/america-250-reenactors-philadelphia-d79d8de88541f69a4dc6e8dd22fbfe07</link>
+      <description>Philadelphia's first-person history interpreters nearly doubled their cast to about 60 for the nation's 250th birthday. Their thoroughly researched portrayals range from Ben Franklin and Betsy Ross—occasionally armed with a T-shirt cannon—to overlooked women, immigrants and Black residents of the founding era.</description>
+      <pubDate>Wed, 16 Sep 2026 13:11:46 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-16-philadelphia-history-interpreters</guid>
+      <source url="https://apnews.com/article/america-250-reenactors-philadelphia-d79d8de88541f69a4dc6e8dd22fbfe07">Associated Press</source>
+    </item>
     <item>
       <title>Long Island 'Catman' frees Lola after five days behind a wall</title>
       <link>https://ny1.com/nyc/all-boroughs/ap-top-news/2026/09/24/catman-to-the-rescue-as-man-pulls-stuck-long-island-pet-to-safety-after-long-ordeal</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">acme:light:2026-09-24:joe-macken-nyc-model</guid>
       <source url="https://apnews.com/article/viral-nyc-balsa-wood-map-model-exhibit-7e05bdf80bfb09a227e32f91d72bda19">Associated Press</source>
-    </item>
-    <item>
-      <title>An amateur archaeologist uncovers Germany's biggest Hadrian-era coin hoard</title>
-      <link>https://apnews.com/article/germany-roman-silver-coins-hoard-a0d3d4b13afb3595ce7c475f9a016d2c</link>
-      <description>Oliver Riedl knew he had found more than a few Roman coins when his metal detector kept beeping in a field near Cologne. Experts ultimately recovered 934 silver denarii weighing 6.8 pounds, Germany's largest hoard from Emperor Hadrian's era. The cache, likely buried for safekeeping in the second century, is now on museum display.</description>
-      <pubDate>Wed, 23 Sep 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-23-germany-roman-silver-coin-hoard</guid>
-      <source url="https://apnews.com/article/germany-roman-silver-coins-hoard-a0d3d4b13afb3595ce7c475f9a016d2c">Associated Press</source>
-    </item>
-    <item>
-      <title>Those extra reusable bags can get a useful second life</title>
-      <link>https://apnews.com/article/reusable-bags-recycling-donate-microplastics-declutter-e05dbf5444bebd1ad16db11c170900ed</link>
-      <description>The reusable bags multiplying under the sink do not need to become trash. Food pantries, shelters and reuse shops may welcome clean extras, while keeping a small set visible in the car or by the door makes actual reuse more likely. Experts say repeated use—not merely owning the bags—is what delivers the environmental benefit.</description>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-23-reusable-bags-second-life</guid>
-      <source url="https://apnews.com/article/reusable-bags-recycling-donate-microplastics-declutter-e05dbf5444bebd1ad16db11c170900ed">Associated Press</source>
-    </item>
-    <item>
-      <title>Fat Bear Week opens with 1,200-pound champion Chunk defending his crown</title>
-      <link>https://apnews.com/article/fat-bear-week-alaska-18cc2f52ee0a4ce3c1aa40961a73cea1</link>
-      <description>Online voting has begun in the 12th Fat Bear Week, where 16 brown bears from Alaska's Katmai National Park compete in a single-elimination bracket. Reigning champion Chunk, estimated at 1,200 pounds last year, faces challengers including Gully, the offspring of two-time winner Grazer. The winner will be announced Sept. 29.</description>
-      <pubDate>Tue, 22 Sep 2026 12:59:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-22-fat-bear-week-chunk</guid>
-      <source url="https://apnews.com/article/fat-bear-week-alaska-18cc2f52ee0a4ce3c1aa40961a73cea1">Associated Press</source>
     </item>
   </channel>
 </rss>

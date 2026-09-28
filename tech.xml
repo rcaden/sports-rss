@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 12:33:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:48:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nvidia releases open tools to contain rogue software agents</title>
+      <link>https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/</link>
+      <description>Nvidia released OpenShell and Sentry, an openly developed security stack designed to contain software agents and cut them off when they try to escape. The company says the approach could have stopped this summer's Hugging Face breach and is working with Arm, Intel and dozens of partners.</description>
+      <pubDate>Mon, 28 Sep 2026 09:01:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-28-nvidia-agent-containment</guid>
+      <source url="https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/">Reuters</source>
+    </item>
+    <item>
+      <title>FTC chair says developers remain responsible for software agents</title>
+      <link>https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/</link>
+      <description>FTC Chair Andrew Ferguson rejected treating software agents as independent legal actors, arguing that companies should remain liable for what their products do. His position puts old-fashioned accountability at the center of a fast-moving debate over autonomous services, fraud and consumer protection.</description>
+      <pubDate>Fri, 25 Sep 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-25-ftc-agent-liability</guid>
+      <source url="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/">Reuters</source>
+    </item>
+    <item>
+      <title>Meta's Charm aims to route around phone gatekeepers</title>
+      <link>https://www.reuters.com/business/media-telecom/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-2026-09-24/</link>
+      <description>Meta unveiled Muse Charm, a pocket-watch-size device that gives direct access to its Muse agent without opening a phone app. The move is another attempt to loosen Apple and Google's control over personal computing, but it also asks users to accept a new proprietary hardware-and-service platform.</description>
+      <pubDate>Thu, 24 Sep 2026 04:38:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-24-meta-muse-charm</guid>
+      <source url="https://www.reuters.com/business/media-telecom/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-2026-09-24/">Reuters</source>
+    </item>
     <item>
       <title>Paramount-Warner settlement promises a news-independence board</title>
       <link>https://apnews.com/article/1aaa7c471d8ba286ccfad92b18bc1ecf</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">acme:tech:2026-09-22:representative-language-data</guid>
       <source url="https://apnews.com/article/aefb021bede3b02c83890f65cd540fd0">Associated Press</source>
-    </item>
-    <item>
-      <title>UK regulator proposes search and AI choice screens for Android and Chrome</title>
-      <link>https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23/</link>
-      <description>Britain's competition watchdog wants Android and Chrome to offer users a choice of search providers, including qualifying AI assistants, during setup and again each year. The proposal also would require fair attribution of publisher content so people can reach original sources. Consultation runs through Oct. 9, with a final decision expected this year.</description>
-      <pubDate>Wed, 23 Sep 2026 09:11:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-23-uk-android-chrome-search-choice-screens</guid>
-      <source url="https://www.reuters.com/legal/litigation/uk-regulator-proposes-giving-consumers-more-search-choice-google-2026-09-23/">Reuters</source>
-    </item>
-    <item>
-      <title>French project backs an open-source alternative for quantum-supercomputer links</title>
-      <link>https://www.reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17/</link>
-      <description>France's CEA and quantum startup Alice &amp; Bob will expand Qaptiva, largely open-source software that connects quantum processors with conventional supercomputers. The partners want developers to have alternatives to Nvidia's CUDA-Q and to avoid another single-vendor bottleneck. An Alice &amp; Bob quantum machine is due at CEA in 2027.</description>
-      <pubDate>Thu, 17 Sep 2026 07:07:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-17-qaptiva-open-source-quantum-supercomputing</guid>
-      <source url="https://www.reuters.com/technology/frances-cea-alice-bob-partner-quantum-supercomputing-software-2026-09-17/">Reuters</source>
-    </item>
-    <item>
-      <title>U.S. proposes an AI incident alert channel with China</title>
-      <link>https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd</link>
-      <description>Treasury Secretary Scott Bessent says the U.S. proposed a notification mechanism for AI incidents that could threaten national security during talks with China. The idea is meant to reduce opacity between the two leading AI powers before a White House summit. A consultant said such a channel could become a model for other countries.</description>
-      <pubDate>Sun, 20 Sep 2026 22:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-20-us-china-ai-incident-alert-channel</guid>
-      <source url="https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd">Associated Press</source>
     </item>
   </channel>
 </rss>

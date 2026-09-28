@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 12:33:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:48:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>A practical roadmap to California publicity rights</title>
+      <link>https://rightofpublicityroadmap.com/state_page/california/</link>
+      <description>This state-by-state legal guide maps California's overlapping statutory and common-law publicity rights. The statute is limited to name, voice, signature, photograph and likeness; the common-law claim can reach a broader persona. Its cases and postmortem-right details make it a useful starting point when reusing public-domain film.</description>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2025-11-16-california-publicity-roadmap</guid>
+      <source url="https://rightofpublicityroadmap.com/state_page/california/">Right of Publicity Roadmap</source>
+    </item>
+    <item>
+      <title>Twenty million public-domain newspaper scans become a dataset</title>
+      <link>https://arxiv.org/abs/2308.12477</link>
+      <description>“American Stories” converts 20 million Library of Congress newspaper scans into article-level text using layout detection and optical character recognition. The openly described pipeline and dataset make historical reporting far easier to search and analyze than page images alone.</description>
+      <pubDate>Thu, 24 Aug 2023 00:24:42 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2023-08-24-american-stories-dataset</guid>
+      <source url="https://arxiv.org/abs/2308.12477">arXiv</source>
+    </item>
+    <item>
+      <title>A snapshot of electronic science-fiction fandom</title>
+      <link>https://www.wired.com/2014/03/dead-media-beat-electronic-science-fiction-fanzines/</link>
+      <description>This archival “Dead Media Beat” traces electronic science-fiction fanzines and amateur press associations, from the Fantasy Amateur Press Association's origins to EAPA's online experiments. It is a compact piece of publishing history about how fan communities adapted their mailing-and-comment culture to networks.</description>
+      <pubDate>Sat, 15 Mar 2014 22:33:02 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2014-03-15-electronic-sf-fanzines</guid>
+      <source url="https://www.wired.com/2014/03/dead-media-beat-electronic-science-fiction-fanzines/">Wired</source>
+    </item>
     <item>
       <title>Betty Boop, Blondie and three classic detectives enter the public domain</title>
       <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">acme:personal:2026-08-07:jacksonville-newspaper-archives</guid>
       <source url="https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online">Jacksonville Public Library</source>
-    </item>
-    <item>
-      <title>Major software firms pledge more support for public package registries</title>
-      <link>https://www.itpro.com/software/open-source/firms-pledge-increased-financial-support-for-public-package-registries</link>
-      <description>GitHub, Google, IBM, Microsoft and Sonatype have joined an OpenSSF pledge to help fund package registries such as Maven Central, npm and PyPI. These lightly staffed services handle trillions of downloads while facing rising security and infrastructure costs. The plan targets enterprise customers while keeping access free for developers and small organizations.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-17-public-package-registry-funding-pledge</guid>
-      <source url="https://www.itpro.com/software/open-source/firms-pledge-increased-financial-support-for-public-package-registries">IT Pro</source>
-    </item>
-    <item>
-      <title>Kim Stanley Robinson keeps returning to the hardest chapter of his climate novel</title>
-      <link>https://apnews.com/article/4477fd3ec163f39957c238601b6bf79c</link>
-      <description>Kim Stanley Robinson has discussed The Ministry for the Future in more than 600 talks, but he still will not read its harrowing opening heat-wave chapter aloud. The 74-year-old science-fiction author explains why he set the scene in India, responds to criticism of the novel and describes the persistence behind his guarded optimism.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-18-kim-stanley-robinson-climate-novel</guid>
-      <source url="https://apnews.com/article/4477fd3ec163f39957c238601b6bf79c">Associated Press</source>
-    </item>
-    <item>
-      <title>Jacksonville lands among Oxford Economics' five U.S. cities to watch</title>
-      <link>https://jaxtoday.org/2026/09/15/oxford-economics-ranks-jax-top-5-city/</link>
-      <description>Oxford Economics named Jacksonville one of five U.S. cities to watch, citing its fast growth, transportation links, business climate and expanding finance, logistics and technology sectors. The assessment also flags familiar pressures: infrastructure, housing affordability and the need for enough skilled workers to sustain the city's momentum.</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-15-jacksonville-oxford-economics-city-watch</guid>
-      <source url="https://jaxtoday.org/2026/09/15/oxford-economics-ranks-jax-top-5-city/">Jacksonville Today</source>
     </item>
   </channel>
 </rss>

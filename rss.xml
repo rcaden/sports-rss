@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Case Keenum leads Bears past Eagles in surprise start</title>
+      <link>https://www.reuters.com/sports/nfl/third-string-qb-case-keenum-guides-bears-blowout-eagles--flm-2026-09-29/</link>
+      <description>Case Keenum, making his first NFL appearance since December 2023, threw for 247 yards and two touchdowns and ran for another score as Chicago routed Philadelphia 27-7. The 38-year-old third-stringer completed 24 of 34 passes, while the Bears&apos; defense forced three turnovers.</description>
+      <pubDate>Tue, 29 Sep 2026 03:30:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-29-case-keenum-bears-eagles</guid>
+      <source url="https://www.reuters.com/sports/nfl/third-string-qb-case-keenum-guides-bears-blowout-eagles--flm-2026-09-29/">Reuters</source>
+    </item>
+    <item>
+      <title>Baseball labor standoff raises lockout risk</title>
+      <link>https://apnews.com/article/15c846433f4f9463cf6fe264f99a0589</link>
+      <description>Major League Baseball&apos;s labor standoff is moving toward a possible lockout after the collective bargaining agreement expires Dec. 1. Players say they will fight a salary cap, while owners argue the game&apos;s economics need repair—putting spring training and even Opening Day at risk.</description>
+      <pubDate>Mon, 28 Sep 2026 14:51:05 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-28-mlb-labor-lockout-risk</guid>
+      <source url="https://apnews.com/article/15c846433f4f9463cf6fe264f99a0589">Associated Press</source>
+    </item>
+    <item>
+      <title>Djokovic returns to unbeaten Beijing ground</title>
+      <link>https://www.reuters.com/sports/tennis/djokovic-says-body-feeling-good-ahead-china-open-comeback-2026-09-29/</link>
+      <description>Novak Djokovic returns at the China Open for his first match since a U.S. Open semifinal exit. The 39-year-old says his body feels good, carries a 29-0 Beijing record with six titles, and is still chasing a record 25th major championship.</description>
+      <pubDate>Tue, 29 Sep 2026 04:35:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-29-djokovic-china-open-return</guid>
+      <source url="https://www.reuters.com/sports/tennis/djokovic-says-body-feeling-good-ahead-china-open-comeback-2026-09-29/">Reuters</source>
+    </item>
     <item>
       <title>U.S. completes record Presidents Cup comeback</title>
       <link>https://sports.yahoo.com/articles/americans-rally-win-presidents-cup-014241325.html</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">acme:sports:2026-09-24:presidents-cup-opening</guid>
       <source url="https://apnews.com/article/presidents-cup-medinah-us-international-koivun-scheffler-e5d5ca056e10b8e2e5770d7c79c562ef">Associated Press</source>
-    </item>
-    <item>
-      <title>Darrell Waltrip diagnosed with brain disease, steps back</title>
-      <link>https://www.reuters.com/sports/nascar-great-darrell-waltrip-has-brain-disease--flm-2026-09-24/</link>
-      <description>NASCAR great Darrell Waltrip, 79, has been diagnosed with frontotemporal degeneration, with possible chronic traumatic encephalopathy, his family said. The three-time Cup champion and 1989 Daytona 500 winner is stepping back from public life. His family said his symptoms remain minor and asked for privacy.</description>
-      <pubDate>Thu, 24 Sep 2026 03:23:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:sports:2026-09-24:darrell-waltrip-ftd</guid>
-      <source url="https://www.reuters.com/sports/nascar-great-darrell-waltrip-has-brain-disease--flm-2026-09-24/">Reuters</source>
-    </item>
-    <item>
-      <title>Padres move atop crowded NL wild-card race</title>
-      <link>https://www.reuters.com/sports/mlb-roundup-padres-climb-top-crowded-nl-wild-card-standings--flm-2026-09-24/</link>
-      <description>Manny Machado homered and drove in three runs as San Diego beat the Dodgers 5-1, moving the Padres into the top National League wild-card spot. San Diego has won 14 of 16 and reduced its postseason magic number to one, closing in on the franchise's first run of three straight playoff appearances.</description>
-      <pubDate>Thu, 24 Sep 2026 08:24:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:sports:2026-09-24:padres-wild-card</guid>
-      <source url="https://www.reuters.com/sports/mlb-roundup-padres-climb-top-crowded-nl-wild-card-standings--flm-2026-09-24/">Reuters</source>
-    </item>
-    <item>
-      <title>Cristiano Ronaldo chases 1,000-goal milestone</title>
-      <link>https://www.reuters.com/sports/soccer/ronaldo-eyes-1000-goal-icing-cake-portugal-begin-new-era-2026-09-23/</link>
-      <description>Cristiano Ronaldo, 41, begins another Portugal cycle under new coach Jorge Jesus with 979 career goals—833 for clubs and 146 for his country. Twenty-one more would make him the first player credited with 1,000 official goals. Ronaldo says reaching it would be the "icing on the cake" as Portugal also targets the Nations League.</description>
-      <pubDate>Wed, 23 Sep 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:sports:2026-09-23:ronaldo-1000-goals</guid>
-      <source url="https://www.reuters.com/sports/soccer/ronaldo-eyes-1000-goal-icing-cake-portugal-begin-new-era-2026-09-23/">Reuters</source>
     </item>
   </channel>
 </rss>

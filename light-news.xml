@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nor&apos;easter uncovers possible 19th-century Nantucket wreck</title>
+      <link>https://apnews.com/article/7625a83bc27635633f069dfe70f3cfae</link>
+      <description>A nor&apos;easter stripped sand from Nantucket&apos;s south shore and exposed timbers that may belong to a 19th-century shipwreck. Researchers are comparing the remains with records of the Warren Sawyer, wrecked nearby in 1884, while noting that roughly 750 wrecks lie in the island&apos;s surrounding waters.</description>
+      <pubDate>Mon, 28 Sep 2026 17:05:13 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-28-nantucket-shipwreck-timbers</guid>
+      <source url="https://apnews.com/article/7625a83bc27635633f069dfe70f3cfae">Associated Press</source>
+    </item>
+    <item>
+      <title>Starship reaches orbit for the first time</title>
+      <link>https://apnews.com/article/262d3c58d56bf7a525b49115d6c5dfe8</link>
+      <description>SpaceX&apos;s Starship reached orbit for the first time, deployed 26 satellites and splashed down north of Hawaii. The company shortened the planned six-orbit flight after an engine issue, but the three-hour mission still delivered the long-sought orbital milestone.</description>
+      <pubDate>Mon, 28 Sep 2026 12:50:36 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-28-starship-first-orbit</guid>
+      <source url="https://apnews.com/article/262d3c58d56bf7a525b49115d6c5dfe8">Associated Press</source>
+    </item>
+    <item>
+      <title>English soccer match ordered replayed after rare rules mistake</title>
+      <link>https://apnews.com/article/referee-error-replay-fa-cup-e4a8c7c60664a86de8c0e8cd013b87a5</link>
+      <description>Mulbarton Wanderers&apos; 2-1 FA Cup qualifying victory over Woodford Town was voided because the referee misapplied the penalty-kick encroachment rule. England&apos;s Football Association ordered the nonleague clubs to play the entire match again Tuesday—a highly unusual do-over caused by one mistaken restart.</description>
+      <pubDate>Fri, 25 Sep 2026 17:11:23 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-25-fa-cup-referee-replay</guid>
+      <source url="https://apnews.com/article/referee-error-replay-fa-cup-e4a8c7c60664a86de8c0e8cd013b87a5">Associated Press</source>
+    </item>
     <item>
       <title>The MTV VMAs turn into a night for the record books</title>
       <link>https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">acme:light:2026-09-25:graz-garage-yodelers</guid>
       <source url="https://apnews.com/article/austria-yodeling-parking-garage-graz-e4fe9aa3b49ff9d797ca006070d52492">Associated Press</source>
-    </item>
-    <item>
-      <title>Twin brothers make MLB umpiring history together</title>
-      <link>https://apnews.com/article/baseball-twin-umpires-69264b536913b4e7cf091a7f7d52de42</link>
-      <description>Austin and Tyler Jones worked the same major league games for the first time during an Orioles-Blue Jays doubleheader in Baltimore. The twin brothers grew up playing together in South Carolina, turned to umpiring after college and reached the majors along separate paths before a rainout reshuffled the crews and reunited them on the field.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:light:2026-09-24:twin-mlb-umpires</guid>
-      <source url="https://apnews.com/article/baseball-twin-umpires-69264b536913b4e7cf091a7f7d52de42">Associated Press</source>
-    </item>
-    <item>
-      <title>Skid Row talent show puts residents center stage</title>
-      <link>https://apnews.com/article/skid-row-los-angeles-homeless-talent-show-504fe6ae106f5b6ab325416299b7a988</link>
-      <description>A dozen homeless or formerly homeless performers sang and danced at what organizers believe was Los Angeles' Skid Row's first talent show. The outdoor event gave participants a stage for original songs, movement and personal stories while neighbors gathered to cheer them on in a community better known for hardship.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:light:2026-09-23:skid-row-talent-show</guid>
-      <source url="https://apnews.com/article/skid-row-los-angeles-homeless-talent-show-504fe6ae106f5b6ab325416299b7a988">Associated Press</source>
-    </item>
-    <item>
-      <title>Truck driver's handmade New York becomes museum exhibit</title>
-      <link>https://apnews.com/article/viral-nyc-balsa-wood-map-model-exhibit-7e05bdf80bfb09a227e32f91d72bda19</link>
-      <description>Truck driver Joe Macken spent two decades building a sprawling model of New York City from balsa wood and foam board, eventually creating more than 800,000 structures. The intricate cityscape—including both the Twin Towers and One World Trade Center—is now on display at the Museum of the City of New York.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:light:2026-09-24:joe-macken-nyc-model</guid>
-      <source url="https://apnews.com/article/viral-nyc-balsa-wood-map-model-exhibit-7e05bdf80bfb09a227e32f91d72bda19">Associated Press</source>
     </item>
   </channel>
 </rss>

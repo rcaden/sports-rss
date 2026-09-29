@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Google contests EU orders to share search data with rivals</title>
+      <link>https://www.reuters.com/business/google-challenges-eu-orders-open-up-ai-search-engine-rivals-2026-09-29/</link>
+      <description>Google is challenging EU orders that would require it to give rival search services anonymized query, click and ranking data and open parts of Android and Gemini to competitors. Google cites privacy and security risks; DuckDuckGo says the Digital Markets Act includes safeguards and that access could restore competition.</description>
+      <pubDate>Tue, 29 Sep 2026 05:06:44 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-29-google-eu-search-data-challenge</guid>
+      <source url="https://www.reuters.com/business/google-challenges-eu-orders-open-up-ai-search-engine-rivals-2026-09-29/">Reuters</source>
+    </item>
+    <item>
+      <title>The flood of synthetic podcasts may be a publicity stunt</title>
+      <link>https://podnews.net/update/inception-point-pr-stunt</link>
+      <description>Podnews examines claims that one network is releasing thousands of machine-made podcast episodes. The company says it is not a publicity stunt, but its Quiet Please shows are no longer monetized and the operation has rebranded as Liquid Studios, which focuses on transforming existing content.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-29-synthetic-podcast-network</guid>
+      <source url="https://podnews.net/update/inception-point-pr-stunt">Podnews</source>
+    </item>
+    <item>
+      <title>Cloudflare&apos;s Matthew Prince proposes a new bargain for the web</title>
+      <link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
+      <description>Cloudflare CEO Matthew Prince argues that automated crawlers now account for more than half of web traffic and that publishers need tools to block, admit or charge them. He discusses micropayments, the economics of independent sites and Cloudflare&apos;s decision to release its operating-system code.</description>
+      <pubDate>Sat, 26 Sep 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-26-cloudflare-new-web-bargain</guid>
+      <source url="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising">The Verge</source>
+    </item>
     <item>
       <title>Nvidia releases open tools to contain rogue software agents</title>
       <link>https://www.reuters.com/legal/litigation/nvidia-releases-ai-safety-software-it-says-could-have-stopped-hugging-face-hack-2026-09-28/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 24 Sep 2026 14:51:00 GMT</pubDate>
       <guid isPermaLink="false">acme:tech:2026-09-24:government-tv-ad</guid>
       <source url="https://www.ksat.com/news/politics/2026/09/24/us-government-foots-bill-for-television-advertisement-featuring-trumps-midterm-messaging/">Associated Press</source>
-    </item>
-    <item>
-      <title>Judge orders White House to restore access to three outlets</title>
-      <link>https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d</link>
-      <description>A federal judge ordered the White House to restore access for CNN, MS NOW and Politico while their lawsuit proceeds. The ruling is a major development after the administration revoked credentials over coverage it disliked, reinforcing the principle that government cannot exclude journalists from a generally available press forum based on viewpoint.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:tech:2026-09-24:white-house-media-access-order</guid>
-      <source url="https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d">Associated Press</source>
-    </item>
-    <item>
-      <title>Independent model testing draws $2 billion commitment</title>
-      <link>https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/</link>
-      <description>Anthropic and Accenture each plan to commit at least $1 billion over five years to independent testing of frontier models. Accenture's Faculty unit will conduct evaluations, red-team systems and examine safety practices. The effort tests whether outside scrutiny can become a durable part of a fast-moving industry rather than an occasional audit.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:tech:2026-09-18:independent-model-evaluation</guid>
-      <source url="https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Language-data coalition targets billions left behind</title>
-      <link>https://apnews.com/article/aefb021bede3b02c83890f65cd540fd0</link>
-      <description>A Gate Foundation coalition of 60 partners is working to improve language tools for more than 3 billion people whose languages are poorly represented online. The project highlights a foundational issue: useful software depends on who appears in the training data, and broader participation requires careful collection, governance and local stewardship.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:tech:2026-09-22:representative-language-data</guid>
-      <source url="https://apnews.com/article/aefb021bede3b02c83890f65cd540fd0">Associated Press</source>
     </item>
   </channel>
 </rss>

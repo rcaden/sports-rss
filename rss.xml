@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>MLB wild-card openers deliver three routs and a Braves comeback</title>
+      <link>https://www.reuters.com/sports/mlb-roundup-austin-riley-rescues-braves-game-1-vs-phillies--flm-2026-09-30/</link>
+      <description>Austin Riley&apos;s three-run homer in the eighth lifted Atlanta over Philadelphia 5-3 in the wild-card opener. The Yankees blanked Boston 9-0 behind Cam Schlittler and Ben Rice, San Diego shut out the Cubs 8-0, and the White Sox beat Houston 6-3 for their first postseason win since the 2005 World Series.</description>
+      <pubDate>Wed, 30 Sep 2026 06:09:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-30-mlb-wild-card-openers</guid>
+      <source url="https://www.reuters.com/sports/mlb-roundup-austin-riley-rescues-braves-game-1-vs-phillies--flm-2026-09-30/">Reuters</source>
+    </item>
+    <item>
+      <title>Liberty become first No. 8 seed to oust WNBA&apos;s No. 1</title>
+      <link>https://www.nbcsports.com/wnba/news/no-8-seeded-liberty-sweep-top-seeded-lynx-87-71-in-quarterfinals-advance-to-wnba-semifinals</link>
+      <description>New York swept top-seeded Minnesota with an 87-71 win, becoming the first No. 8 seed to eliminate a No. 1 in the WNBA&apos;s 30-year history. Jonquel Jones had 21 points and 13 rebounds, Breanna Stewart scored 21, and Sabrina Ionescu added 18 as the Liberty advanced to the semifinals.</description>
+      <pubDate>Wed, 30 Sep 2026 03:31:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-30-liberty-lynx-historic-upset</guid>
+      <source url="https://www.nbcsports.com/wnba/news/no-8-seeded-liberty-sweep-top-seeded-lynx-87-71-in-quarterfinals-advance-to-wnba-semifinals">Associated Press</source>
+    </item>
+    <item>
+      <title>U.S. captain Tim Ream retires from international soccer</title>
+      <link>https://www.reuters.com/sports/soccer/united-states-captain-ream-retires-international-football-2026-09-30/</link>
+      <description>Tim Ream retired from the U.S. national team at 38 after 86 appearances across 16 years. The Charlotte FC defender won two CONCACAF Nations League titles and captained the Americans at this summer&apos;s World Cup, where they reached the round of 16 before losing to Belgium.</description>
+      <pubDate>Wed, 30 Sep 2026 03:49:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-09-30-tim-ream-international-retirement</guid>
+      <source url="https://www.reuters.com/sports/soccer/united-states-captain-ream-retires-international-football-2026-09-30/">Reuters</source>
+    </item>
     <item>
       <title>Case Keenum leads Bears past Eagles in surprise start</title>
       <link>https://www.reuters.com/sports/nfl/third-string-qb-case-keenum-guides-bears-blowout-eagles--flm-2026-09-29/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 25 Sep 2026 18:11:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-25-celebrini-sharks-captain</guid>
       <source url="https://apnews.com/article/sharks-captain-macklin-celebrini-c3d16b053f4acb038c165ad00b1e168e">Associated Press</source>
-    </item>
-    <item>
-      <title>Bob Pettit, two-time NBA MVP and Hawks champion, dies at 93</title>
-      <link>https://apnews.com/article/bob-pettit-dead-nba-hawks-92bb99e3a0bb11ed885e3c219cee77e8</link>
-      <description>Bob Pettit, the first NBA player to win the league's MVP award, has died at 93. The Hall of Fame forward won a second MVP in 1959, made the All-Star team in each of his 11 seasons and powered the St. Louis Hawks past the Celtics for the 1958 championship — the franchise's only title.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:sports:2026-09-24:bob-pettit</guid>
-      <source url="https://apnews.com/article/bob-pettit-dead-nba-hawks-92bb99e3a0bb11ed885e3c219cee77e8">Associated Press</source>
-    </item>
-    <item>
-      <title>White Sox complete historic turnaround with playoff berth</title>
-      <link>https://apnews.com/article/white-sox-chicago-mlb-playoffs-a383ab7877a3e7360f713a30e77a8395</link>
-      <description>Chicago routed Kansas City 9-1 to clinch at least an AL wild card, becoming the first major-league club to reach the postseason immediately after two straight 100-loss seasons. The White Sox remain one game behind Cleveland in the AL Central with three games left against Colorado.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:sports:2026-09-24:white-sox-playoffs</guid>
-      <source url="https://apnews.com/article/white-sox-chicago-mlb-playoffs-a383ab7877a3e7360f713a30e77a8395">Associated Press</source>
-    </item>
-    <item>
-      <title>United States takes opening lead at Presidents Cup</title>
-      <link>https://apnews.com/article/presidents-cup-medinah-us-international-koivun-scheffler-e5d5ca056e10b8e2e5770d7c79c562ef</link>
-      <description>Scottie Scheffler and Sam Burns rallied to win the final fourballs match and give the U.S. a 3-2 first-day lead at Medinah. It was the ninth time in 10 Presidents Cups that the Americans won the opening session as they pursue an 11th consecutive victory in the biennial competition.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:sports:2026-09-24:presidents-cup-opening</guid>
-      <source url="https://apnews.com/article/presidents-cup-medinah-us-international-koivun-scheffler-e5d5ca056e10b8e2e5770d7c79c562ef">Associated Press</source>
     </item>
   </channel>
 </rss>

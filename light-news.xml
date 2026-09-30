@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Gentle giant Backpack wins Fat Bear Week</title>
+      <link>https://apnews.com/article/fat-bear-week-alaska-katmai-04538e13c022fcfc08344aac8eeace5e</link>
+      <description>Backpack, officially Bear 89, won Alaska&apos;s Fat Bear Week with more than 100,000 votes. The calm, nonaggressive son of former champion Holly edged Bear 910 in the online final. The annual Katmai contest celebrates brown bears building the reserves needed to survive winter hibernation.</description>
+      <pubDate>Tue, 29 Sep 2026 18:00:41 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-29-backpack-fat-bear-winner</guid>
+      <source url="https://apnews.com/article/fat-bear-week-alaska-katmai-04538e13c022fcfc08344aac8eeace5e">Associated Press</source>
+    </item>
+    <item>
+      <title>Japan takes its first national look at animal cafes</title>
+      <link>https://www.reuters.com/world/asia-pacific/japan-survey-animal-cafes-first-time-over-welfare-disease-concerns-2026-09-30/</link>
+      <description>Japan has begun its first nationwide survey of animal cafes, counting facilities and examining how animals are housed and handled. The review covers cat and dog cafes as well as exotic attractions featuring otters, owls and marmots, and could help responsible operators stand apart from businesses that put profit first.</description>
+      <pubDate>Wed, 30 Sep 2026 02:02:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-30-japan-animal-cafe-survey</guid>
+      <source url="https://www.reuters.com/world/asia-pacific/japan-survey-animal-cafes-first-time-over-welfare-disease-concerns-2026-09-30/">Reuters</source>
+    </item>
+    <item>
+      <title>Canal shark becomes Busan&apos;s newest celebrity</title>
+      <link>https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue</link>
+      <description>A 3.5-meter shark trapped in a Busan canal has drawn more than 600,000 visitors and earned the nickname Bukang-i. The city made it an honorary publicity ambassador—and a “Shafluencer”—while coast guard crews use water jets and expert guidance to coax it safely back to sea.</description>
+      <pubDate>Tue, 29 Sep 2026 06:41:16 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-09-29-busan-canal-shark</guid>
+      <source url="https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue">The Guardian</source>
+    </item>
     <item>
       <title>Nor&apos;easter uncovers possible 19th-century Nantucket wreck</title>
       <link>https://apnews.com/article/7625a83bc27635633f069dfe70f3cfae</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 23 Sep 2026 15:37:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-23-caribbean-oed-words</guid>
       <source url="https://apnews.com/article/caribbean-oxford-dictionary-bermuda-new-words-40fdbf5164aa5c2cc3661126e1080ae2">Associated Press</source>
-    </item>
-    <item>
-      <title>KFC tests breakfast and table service in Texas</title>
-      <link>https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c</link>
-      <description>KFC is trying a new restaurant format in Texas with an expanded menu, breakfast choices and table service. The experiment gives the fast-food chain a sit-down twist while testing ideas that could shape future locations.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:light:2026-09-25:kfc-texas-concept</guid>
-      <source url="https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c">Associated Press</source>
-    </item>
-    <item>
-      <title>South Africans fire up 500 grills for a world record</title>
-      <link>https://apnews.com/article/record-barbecue-cookout-grill-south-africa-3f222278490a4e5cbbd2f9093cc8e815</link>
-      <description>About 3,000 South Africans gathered at a Pretoria stadium with tongs, sausages and 500 grills, hoping to break Japan's record of 2,220 people barbecuing at once. The Heritage Day attempt celebrated the country's shared love of the braai; Guinness officials were still reviewing the evidence.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:light:2026-09-24:south-africa-braai-record</guid>
-      <source url="https://apnews.com/article/record-barbecue-cookout-grill-south-africa-3f222278490a4e5cbbd2f9093cc8e815">Associated Press</source>
-    </item>
-    <item>
-      <title>Austrian yodelers turn a parking garage into the Alps</title>
-      <link>https://apnews.com/article/austria-yodeling-parking-garage-graz-e4fe9aa3b49ff9d797ca006070d52492</link>
-      <description>A group of 30 yodelers practiced in Graz's largest underground parking garage, whose long concrete corridors return echoes like an Alpine valley. The folk-music organization behind the class also takes the centuries-old tradition into canals and gas stations when the acoustics are right.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:light:2026-09-25:graz-garage-yodelers</guid>
-      <source url="https://apnews.com/article/austria-yodeling-parking-garage-graz-e4fe9aa3b49ff9d797ca006070d52492">Associated Press</source>
     </item>
   </channel>
 </rss>

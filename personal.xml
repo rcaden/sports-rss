@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>A forgotten box yields a Golden Age comics trove</title>
+      <link>https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms</link>
+      <description>The newly surfaced Merrimack Valley Collection spent 75 to 80 years in a cardboard box. Its exceptional Golden Age books include a 9.0 Captain America Comics No. 1, a 9.4 No. 3 containing Stan Lee&apos;s first Timely work, and Batman&apos;s first nine issues—eight graded 6.5 or higher.</description>
+      <pubDate>Fri, 25 Sep 2026 04:22:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-25-merrimack-valley-comics-collection</guid>
+      <source url="https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms">The Times of India</source>
+    </item>
+    <item>
+      <title>Creative Commons meets Indigenous cultural authority</title>
+      <link>https://localcontexts.org/new-guidance-for-indigenous-collections-and-data/</link>
+      <description>A new guide from Creative Commons and Local Contexts shows museums, archives and researchers how open licenses can work alongside Traditional Knowledge and Biocultural Labels. Case studies explain how the tools add provenance, community protocols and permissions that copyright alone cannot express.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-09-09-indigenous-collections-guidance</guid>
+      <source url="https://localcontexts.org/new-guidance-for-indigenous-collections-and-data/">Local Contexts</source>
+    </item>
+    <item>
+      <title>St. Augustine dig finds its first British redoubt</title>
+      <link>https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</link>
+      <description>A 15-foot-wide dry moat found in Lincolnville is the first physical evidence of one of seven British redoubts built around St. Augustine. The 1781 fortification survived only as marks on old maps until the city&apos;s archaeology program examined the lot before home construction and recovered thousands of plant remains.</description>
+      <pubDate>Fri, 28 Mar 2025 15:29:48 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2025-03-28-st-augustine-british-redoubt</guid>
+      <source url="https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f">Associated Press</source>
+    </item>
     <item>
       <title>Search summaries can help experience-based subreddits</title>
       <link>https://arxiv.org/abs/2605.16428</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-09-21-wordpress-open-website-alliance</guid>
       <source url="https://wordpress.org/news/2026/09/owa-president/">WordPress News</source>
-    </item>
-    <item>
-      <title>WordPress 7.1.2 fixes a critical security flaw</title>
-      <link>https://wordpress.org/news/2026/09/wordpress-7-1-2-release/</link>
-      <description>WordPress 7.1.2 is a security-only release fixing one critical vulnerability. The project recommends updating sites immediately; installations that support automatic background updates should receive it without manual intervention.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:personal:2026-09-22:wordpress-7-1-2</guid>
-      <source url="https://wordpress.org/news/2026/09/wordpress-7-1-2-release/">WordPress.org</source>
-    </item>
-    <item>
-      <title>Jack Kirby's Lower East Side roots get a street and exhibition</title>
-      <link>https://nypost.com/2026/05/11/us-news/cosplaying-marvel-fans-take-over-nyc-street-as-its-renamed-for-jack-kirby-scorned-partner-of-stan-lee/</link>
-      <description>New York co-named an intersection Jack Kirby Way near the comics legend's childhood home. A free American Jewish Historical Society exhibition, open through Nov. 26, pairs the tribute with rare comics and original art tracing how the Lower East Side shaped Kirby's imagination.</description>
-      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:personal:2026-05-11:jack-kirby-way</guid>
-      <source url="https://nypost.com/2026/05/11/us-news/cosplaying-marvel-fans-take-over-nyc-street-as-its-renamed-for-jack-kirby-scorned-partner-of-stan-lee/">New York Post</source>
-    </item>
-    <item>
-      <title>A free doorway into 11,000 classic pulp magazines</title>
-      <link>https://www.openculture.com/2023/03/the-pulp-magazine-archive.html</link>
-      <description>Open Culture tours the Pulp Magazine Archive, a huge collection of digitized science-fiction, fantasy and detective magazines. The scans preserve stories, illustrations and advertising from publishing's pulp era, making the collection useful both for casual reading and copyright archaeology.</description>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:personal:2023-03-27:pulp-magazine-archive</guid>
-      <source url="https://www.openculture.com/2023/03/the-pulp-magazine-archive.html">Open Culture</source>
     </item>
   </channel>
 </rss>

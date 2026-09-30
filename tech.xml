@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Threats force an Amazon newsroom out of election coverage</title>
+      <link>https://www.theguardian.com/world/2026/sep/30/brazil-newspaper-threats-tapajos-de-fato</link>
+      <description>Independent Brazilian site Tapajós de Fato says threats against its journalists and families have forced it to stop covering the Oct. 4 election. The Amazon newsroom will keep reporting on environmental issues, but press-freedom groups call the decision a serious example of intimidation depriving communities of essential reporting.</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-30-brazil-newsroom-election-threats</guid>
+      <source url="https://www.theguardian.com/world/2026/sep/30/brazil-newspaper-threats-tapajos-de-fato">The Guardian</source>
+    </item>
+    <item>
+      <title>DeepSeek and Huawei open-source an alternative chip stack</title>
+      <link>https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/</link>
+      <description>DeepSeek and Huawei are releasing compute and communication libraries for Huawei&apos;s Ascend processors as they build an alternative to Nvidia&apos;s software ecosystem. Their work includes TileLang, a high-level open-source language designed to simplify chip programming while retaining access to hardware performance.</description>
+      <pubDate>Wed, 30 Sep 2026 03:03:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-30-deepseek-huawei-open-chip-stack</guid>
+      <source url="https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/">Reuters</source>
+    </item>
+    <item>
+      <title>Publishers press Washington for a Bad Bots law</title>
+      <link>https://www.axios.com/newsletters/axios-media-trends-732c0680-bc1b-11f1-8d84-7d2728ee861b</link>
+      <description>The News/Media Alliance brought more than 300 executives to Washington, arguing that journalism is critical infrastructure and backing a Bad Bots bill against unauthorized scraping. Axios also reports shrinking antitrust staffs at the Justice Department and FTC and publishers&apos; claim that the administration is taking sides in copyright litigation.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-09-30-publishers-bad-bots-law</guid>
+      <source url="https://www.axios.com/newsletters/axios-media-trends-732c0680-bc1b-11f1-8d84-7d2728ee861b">Axios</source>
+    </item>
     <item>
       <title>Google contests EU orders to share search data with rivals</title>
       <link>https://www.reuters.com/business/google-challenges-eu-orders-open-up-ai-search-engine-rivals-2026-09-29/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-18-europe-model-development-slowdown</guid>
       <source url="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Google avoids breakup but faces new ad-tech restrictions</title>
-      <link>https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/</link>
-      <description>A federal judge declined to break up Google's advertising business after finding illegal monopoly power, but ordered the company to loosen auction rules, open its ad server to rival exchanges and accept six years of oversight. The remedy matters directly to publishers that depend on the open-web ad market.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:tech:2026-09-16:google-adtech-remedy</guid>
-      <source url="https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/">Reuters</source>
-    </item>
-    <item>
-      <title>EU tests privacy-minded age checks for the web</title>
-      <link>https://www.reuters.com/legal/litigation/how-eus-age-verification-app-children-would-work-2026-09-18/</link>
-      <description>The European Commission is piloting a free, open-source age-verification app in seven countries. Its decentralized design proves that a user meets an age threshold without disclosing identity documents or biometrics to websites, an important test of whether safety rules can avoid creating a universal tracking system.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:tech:2026-09-18:eu-age-verification</guid>
-      <source url="https://www.reuters.com/legal/litigation/how-eus-age-verification-app-children-would-work-2026-09-18/">Reuters</source>
-    </item>
-    <item>
-      <title>Taxpayers funded a TV ad echoing midterm campaign themes</title>
-      <link>https://www.ksat.com/news/politics/2026/09/24/us-government-foots-bill-for-television-advertisement-featuring-trumps-midterm-messaging/</link>
-      <description>A 30-second spot airing on Fox News and Newsmax carried presidential imagery and themes used by Republican candidates but disclosed that the U.S. government paid for it. Lawmakers from both parties questioned the use of public money, while the White House called the ad educational and patriotic.</description>
-      <pubDate>Thu, 24 Sep 2026 14:51:00 GMT</pubDate>
-      <guid isPermaLink="false">acme:tech:2026-09-24:government-tv-ad</guid>
-      <source url="https://www.ksat.com/news/politics/2026/09/24/us-government-foots-bill-for-television-advertisement-featuring-trumps-midterm-messaging/">Associated Press</source>
     </item>
   </channel>
 </rss>

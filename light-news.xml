@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NASA invites the public to hunt for overlapping galaxies</title>
+      <link>https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</link>
+      <description>NASA&apos;s new Overlap Zoo turns a cosmic coincidence into a citizen-science project. Volunteers can inspect telescope images, verify pairs of galaxies that line up from Earth, and trace their outlines. The resulting catalog will help astronomers map otherwise elusive dust and improve distance estimates.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-01-overlap-zoo-galaxies</guid>
+      <source url="https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/">NASA Science</source>
+    </item>
+    <item>
+      <title>Space agencies begin planning a garden for the Moon</title>
+      <link>https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/</link>
+      <description>NASA and partners in Canada and Germany will design an Earth-based test bed for growing crops under Moon-like conditions. A future lunar garden could give crews fresh food while absorbing carbon dioxide, producing oxygen and recycling water—putting a practical spin on the old dream of farming beyond Earth.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-01-moon-space-crops</guid>
+      <source url="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/">NASA Science</source>
+    </item>
+    <item>
+      <title>Scientists map possible refuges for endangered tropical frogs</title>
+      <link>https://nationalzoo.si.edu/news/research-climate-refuges-may-be-key-restoring-amphibians</link>
+      <description>Smithsonian researchers identified places in Panama where vulnerable frogs may be able to persist despite a deadly fungal disease. The work points toward climate refuges that could guide reintroduction efforts, offering a hopeful, more targeted strategy for restoring amphibian populations.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-01-frog-climate-refuges</guid>
+      <source url="https://nationalzoo.si.edu/news/research-climate-refuges-may-be-key-restoring-amphibians">Smithsonian&apos;s National Zoo</source>
+    </item>
     <item>
       <title>Gentle giant Backpack wins Fat Bear Week</title>
       <link>https://apnews.com/article/fat-bear-week-alaska-katmai-04538e13c022fcfc08344aac8eeace5e</link>
@@ -103,30 +127,6 @@
       <pubDate>Sat, 26 Sep 2026 20:13:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-26-verlander-daughter-hug</guid>
       <source url="https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/">Associated Press</source>
-    </item>
-    <item>
-      <title>Dolly Parton Day brings parades, pink lights and book drives</title>
-      <link>https://apnews.com/article/dolly-parton-day-925-1741a56d5a32ed562c465352ee9e2f40</link>
-      <description>Communities marked Sept. 25—a wink at “9 to 5”—as Dolly Parton Day with parades, karaoke, pink-lit landmarks and book drives. Nashville decorated downtown, New Orleans staged a parade and San Francisco held a celebration, while donations supported Parton&apos;s Imagination Library literacy program.</description>
-      <pubDate>Fri, 25 Sep 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-25-dolly-parton-day</guid>
-      <source url="https://apnews.com/article/dolly-parton-day-925-1741a56d5a32ed562c465352ee9e2f40">Associated Press</source>
-    </item>
-    <item>
-      <title>Prague Zoo&apos;s cheetah quintuplets are lively after a rough start</title>
-      <link>https://apnews.com/article/prague-zoo-cheetah-cubs-quintuplets-ac7926bdf6e450eccc63fe62cab6811f</link>
-      <description>Five cheetah cubs at Prague Zoo are lively and healthy after surviving torrential rain and their mother&apos;s intestinal infection. Daenerys, a first-time mother, sheltered the four males and one female and licked rain from their fur. With fewer than 7,000 cheetahs in the wild, every cub matters.</description>
-      <pubDate>Fri, 25 Sep 2026 12:37:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-25-prague-cheetah-quintuplets</guid>
-      <source url="https://apnews.com/article/prague-zoo-cheetah-cubs-quintuplets-ac7926bdf6e450eccc63fe62cab6811f">Associated Press</source>
-    </item>
-    <item>
-      <title>Caribbean and Bermudian words join the Oxford English Dictionary</title>
-      <link>https://apnews.com/article/caribbean-oxford-dictionary-bermuda-new-words-40fdbf5164aa5c2cc3661126e1080ae2</link>
-      <description>More than a dozen words long used in Bermuda and the Caribbean received official recognition from the Oxford English Dictionary. Additions include “bimpert,” a Bermudian term for a foolish person; “Trinbagonian,” for someone from Trinidad and Tobago; and “canboulay,” rooted in 19th-century emancipation celebrations.</description>
-      <pubDate>Wed, 23 Sep 2026 15:37:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-23-caribbean-oed-words</guid>
-      <source url="https://apnews.com/article/caribbean-oxford-dictionary-bermuda-new-words-40fdbf5164aa5c2cc3661126e1080ae2">Associated Press</source>
     </item>
   </channel>
 </rss>

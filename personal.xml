@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>WordPress developer roundup previews 7.2 and the latest Gutenberg changes</title>
+      <link>https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</link>
+      <description>WordPress&apos;s September developer roundup covers changes in Gutenberg 23.8 and 23.9, practical tooling updates and the road to WordPress 7.2. Beta 1 is planned for late October and the final release for December, making this a useful early map of what plugin and theme developers should test.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-01-wordpress-developer-september</guid>
+      <source url="https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/">WordPress Developer Blog</source>
+    </item>
+    <item>
+      <title>Long-hidden Golden Age comic collection comes to auction</title>
+      <link>https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms</link>
+      <description>The newly surfaced Merrimack Valley Collection preserved major Golden Age comics for roughly 75 to 80 years. Its highlights include high-grade copies of Captain America Comics Nos. 1 and 3 and Batman&apos;s first nine issues—a rare original-owner time capsule from the formative superhero era.</description>
+      <pubDate>Thu, 24 Sep 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-01-merrimack-comics-collection</guid>
+      <source url="https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms">The Times of India</source>
+    </item>
+    <item>
+      <title>ServiceNow folds its development environment into Studio</title>
+      <link>https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068</link>
+      <description>ServiceNow&apos;s September Creator update removes manual upgrades for its coding assistant and folds the ServiceNow IDE into Studio. The release also outlines features arriving with Brazil Early Availability, providing a concise look at how the platform&apos;s everyday development workflow is changing.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-01-servicenow-creator-update</guid>
+      <source url="https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068">ServiceNow Community</source>
+    </item>
     <item>
       <title>A forgotten box yields a Golden Age comics trove</title>
       <link>https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-09-11-wordpress-release-scanning</guid>
       <source url="https://instawp.com/wordpress-plugin-security-best-practices/">InstaWP</source>
-    </item>
-    <item>
-      <title>The webhooks family tree begins with rssCloud and weblog pings</title>
-      <link>https://repost.sh/blog/who-invented-webhooks</link>
-      <description>Quentin Mousset traces webhooks to blog-era protocols: rssCloud in 2000, weblogs.com pings in 2001, and TrackBack and Pingback in 2002. The article carefully separates surviving evidence from uncertain lore, including a lost 2006 “Web hooks” post, while following the same HTTP callback pattern through WebSub and today&apos;s agent protocols.</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-08-03-webhooks-rsscloud-history</guid>
-      <source url="https://repost.sh/blog/who-invented-webhooks">Repost</source>
-    </item>
-    <item>
-      <title>Untangling Blue Beetle&apos;s public-domain claims</title>
-      <link>https://buttondown.com/DavidMariotte/archive/to-enter-the-public-domain/</link>
-      <description>Comics editor David Mariotte examines why public-domain claims around Blue Beetle require more than finding old issues without notices. He distinguishes Dan Garret from DC&apos;s later Dan Garrett and Ted Kord versions, considers Charlton&apos;s 1983 sale to DC, and separates copyright in particular stories from character elements and trademarks.</description>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2024-01-13-blue-beetle-public-domain</guid>
-      <source url="https://buttondown.com/DavidMariotte/archive/to-enter-the-public-domain/">David Mariotte&apos;s Bots &amp; Bits</source>
-    </item>
-    <item>
-      <title>WordPress takes the lead at the Open Website Alliance</title>
-      <link>https://wordpress.org/news/2026/09/owa-president/</link>
-      <description>WordPress Foundation executive director Mary Hubbard has become president of the Open Website Alliance, a rotating role among WordPress, Drupal, Joomla and TYPO3. The group advocates for open-source publishing and shares practices across projects, including work on European security rules affecting community-built content-management systems.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-21-wordpress-open-website-alliance</guid>
-      <source url="https://wordpress.org/news/2026/09/owa-president/">WordPress News</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>W3C pilots direct support for open-source web projects</title>
+      <link>https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/</link>
+      <description>The World Wide Web Consortium has begun a pilot program to support open-source projects that implement web standards. The effort is meant to strengthen collaboration around web technology, speed adoption and improve interoperability—exactly the connective tissue the open web needs but rarely funds well.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-01-w3c-open-source-pilot</guid>
+      <source url="https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/">W3C</source>
+    </item>
+    <item>
+      <title>Eclipse launches vendor-neutral software sovereignty initiative</title>
+      <link>https://markets.businessinsider.com/news/stocks/eclipse-foundation-launches-the-sovereign-ai-foundation-1036584863</link>
+      <description>The Eclipse Foundation has formed a vendor-neutral initiative to help organizations map technology dependencies, evaluate open-source alternatives and make more deliberate infrastructure choices. The practical goal is reduced lock-in and greater control over critical software stacks.</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-01-eclipse-sovereign-foundation</guid>
+      <source url="https://markets.businessinsider.com/news/stocks/eclipse-foundation-launches-the-sovereign-ai-foundation-1036584863">Business Insider Markets</source>
+    </item>
+    <item>
+      <title>World News Day essay calls for journalism to rebuild trust together</title>
+      <link>https://www.washingtonpost.com/press-freedom-desk/2026/09/28/world-news-day-2026/</link>
+      <description>Daily Maverick co-founder Branko Brkic argues that news organizations must stop treating one another as the main competition, acknowledge how monopoly-era habits alienated communities and cooperate against disinformation and platform power. His prescription joins media criticism to a concrete democratic mission.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-01-world-news-day-journalism</guid>
+      <source url="https://www.washingtonpost.com/press-freedom-desk/2026/09/28/world-news-day-2026/">The Washington Post</source>
+    </item>
     <item>
       <title>Threats force an Amazon newsroom out of election coverage</title>
       <link>https://www.theguardian.com/world/2026/sep/30/brazil-newspaper-threats-tapajos-de-fato</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 21 Sep 2026 01:58:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-21-cybercrime-rival-site</guid>
       <source url="https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/">Reuters</source>
-    </item>
-    <item>
-      <title>New York and Polymarket trade lawsuits over prediction markets</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/</link>
-      <description>New York sued to stop Polymarket from operating as an unlicensed gambling business, arguing that sports and election contracts expose users—including people under 21—to gambling risks. Polymarket answered with a federal suit, saying its exchange falls under federal commodities oversight. The clash tests whether states may regulate prediction markets as gambling.</description>
-      <pubDate>Thu, 24 Sep 2026 19:07:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-24-new-york-polymarket-lawsuits</guid>
-      <source url="https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/">Ars Technica</source>
-    </item>
-    <item>
-      <title>WordPress takes the lead at the Open Website Alliance</title>
-      <link>https://wordpress.org/news/2026/09/owa-president/</link>
-      <description>Mary Hubbard, executive director of the WordPress Foundation, has become president of the Open Website Alliance. The rotating coalition of WordPress, Drupal, Joomla and TYPO3 advocates for open-source publishing and shares practices across projects, including work on European security rules for community-built content-management systems.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-wordpress-open-website-alliance</guid>
-      <source url="https://wordpress.org/news/2026/09/owa-president/">WordPress News</source>
-    </item>
-    <item>
-      <title>European software firms reject calls to slow model development</title>
-      <link>https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/</link>
-      <description>European software companies are resisting U.S. industry calls to slow advanced-model development, warning that a pause could entrench today&apos;s dominant vendors and deepen dependence on American technology. The dispute pits safety concerns and independent evaluation against competition, open alternatives and Europe&apos;s push for digital sovereignty.</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-18-europe-model-development-slowdown</guid>
-      <source url="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/">Reuters</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Yankees, White Sox and Padres sweep into division series</title>
+      <link>https://www.reuters.com/sports/mlb-roundup-yankees-white-sox-padres-complete-wild-card-sweeps--flm-2026-10-01/</link>
+      <description>Three wild-card series ended in two-game sweeps. The Yankees routed Boston 9-2, the White Sox beat Houston 7-3 for their first postseason series victory since 2005, and the Padres topped the Cubs 4-1. Philadelphia forced a decisive Game 3 with a 10-inning win over Atlanta.</description>
+      <pubDate>Thu, 01 Oct 2026 06:20:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-01-mlb-wild-card-sweeps</guid>
+      <source url="https://www.reuters.com/sports/mlb-roundup-yankees-white-sox-padres-complete-wild-card-sweeps--flm-2026-10-01/">Reuters</source>
+    </item>
+    <item>
+      <title>Senate sends sweeping college-sports bill to the House</title>
+      <link>https://apnews.com/article/a63e3f4e0be41fb95062b2bc5e646f9f</link>
+      <description>The Senate passed the Protect College Sports Act 77-22, proposing national rules for athlete compensation and transfers, new scholarship and health protections, and limited antitrust protection for the NCAA. The measure faces an uncertain path in a House that is out until after the midterm elections.</description>
+      <pubDate>Mon, 28 Sep 2026 16:12:01 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-01-college-sports-bill-senate</guid>
+      <source url="https://apnews.com/article/a63e3f4e0be41fb95062b2bc5e646f9f">Associated Press</source>
+    </item>
+    <item>
+      <title>NFL tells Rams a decisive pass-interference flag was wrong</title>
+      <link>https://www.reuters.com/sports/rams-coach-sean-mcvay-nfl-admitted-error-game-deciding-dpi-call--flm-2026-10-01/</link>
+      <description>Sean McVay said the NFL acknowledged that Rams cornerback Josh Wallace should not have been flagged late against Denver. The penalty erased an interception and gave the Broncos a first down; Bo Nix scored the winning touchdown six plays later. The admission sharpens the perennial debate over reviewable judgment calls.</description>
+      <pubDate>Thu, 01 Oct 2026 02:11:56 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-01-rams-dpi-error</guid>
+      <source url="https://www.reuters.com/sports/rams-coach-sean-mcvay-nfl-admitted-error-game-deciding-dpi-call--flm-2026-10-01/">Reuters</source>
+    </item>
     <item>
       <title>MLB wild-card openers deliver three routs and a Braves comeback</title>
       <link>https://www.reuters.com/sports/mlb-roundup-austin-riley-rescues-braves-game-1-vs-phillies--flm-2026-09-30/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sat, 26 Sep 2026 23:30:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-26-presidents-cup-saturday</guid>
       <source url="https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-saturday-results-us-chips-away-at-international-team-lead-trails-by-3-heading-into-sunday-130236876.html">Yahoo Sports</source>
-    </item>
-    <item>
-      <title>Stephen Curry agrees to two-year, $116 million Warriors extension</title>
-      <link>https://apnews.com/article/warriors-stephen-curry-contract-extension-d7fa9a41fd7ee85ceff2adc4549a47bb</link>
-      <description>Stephen Curry agreed to a two-year, $116 million extension that would keep him with Golden State through 2028-29, his 20th NBA season. The Associated Press says the 38-year-old accepted less than the maximum available. If he stays, Curry could join Dirk Nowitzki, Kobe Bryant and Udonis Haslem as players spending at least 20 seasons with one franchise.</description>
-      <pubDate>Sat, 26 Sep 2026 02:44:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-25-stephen-curry-extension</guid>
-      <source url="https://apnews.com/article/warriors-stephen-curry-contract-extension-d7fa9a41fd7ee85ceff2adc4549a47bb">Associated Press</source>
-    </item>
-    <item>
-      <title>International team sweeps foursomes to take 7-3 Presidents Cup lead</title>
-      <link>https://apnews.com/article/presidents-cup-medinah-international-europe-26a005605ec2a9adfc8f0b49ff310ff6</link>
-      <description>A day after the U.S. opened with a 3-2 lead, the International team delivered a major reversal by sweeping all five Friday foursomes matches at Medinah. The Americans now trail 7-3, their worst two-session deficit since 1998—the only Presidents Cup won by the Internationals.</description>
-      <pubDate>Sat, 26 Sep 2026 00:35:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-25-presidents-cup-foursomes-sweep</guid>
-      <source url="https://apnews.com/article/presidents-cup-medinah-international-europe-26a005605ec2a9adfc8f0b49ff310ff6">Associated Press</source>
-    </item>
-    <item>
-      <title>Macklin Celebrini becomes youngest captain in Sharks history</title>
-      <link>https://apnews.com/article/sharks-captain-macklin-celebrini-c3d16b053f4acb038c165ad00b1e168e</link>
-      <description>San Jose named 20-year-old Macklin Celebrini its 11th full-time captain, making him the youngest captain in franchise history and the NHL&apos;s youngest current captain. Joe Thornton presented the jersey. Celebrini fills a role left vacant after Logan Couture&apos;s career-ending injury.</description>
-      <pubDate>Fri, 25 Sep 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-25-celebrini-sharks-captain</guid>
-      <source url="https://apnews.com/article/sharks-captain-macklin-celebrini-c3d16b053f4acb038c165ad00b1e168e">Associated Press</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:28:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Braves win decisive wild-card game and advance</title>
+      <link>https://www.reuters.com/sports/three-homers-send-braves-past-phillies-into-nlds-matchup-with-dodgers--fldm-2026-10-02/</link>
+      <description>Atlanta beat Philadelphia 6-2 in the deciding third game of their wild-card series, a significant follow-up to Thursday’s opening-round results. Michael Harris II hit a three-run homer in the first inning, while Ozzie Albies and Matt Olson also went deep. The Braves now face the Dodgers after their first winner-take-all postseason victory since 1996.</description>
+      <pubDate>Fri, 02 Oct 2026 06:38:37 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-02-braves-wild-card-game-three</guid>
+    </item>
+    <item>
+      <title>Manchester City appeals Premier League financial ruling</title>
+      <link>https://www.reuters.com/sports/soccer/man-city-appeal-premier-league-financial-ruling-2026-10-02/</link>
+      <description>Manchester City has appealed a ruling that found serious breaches of Premier League financial rules, including sham sponsorship contracts that allegedly inflated revenue and reduced costs by more than £900 million. An independent appeal board will review the case. Potential sanctions discussed include points deductions, relegation and removal of titles.</description>
+      <pubDate>Fri, 02 Oct 2026 10:58:56 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-02-man-city-appeal</guid>
+    </item>
+    <item>
+      <title>Cowboys acquire Joey Porter Jr. from Steelers</title>
+      <link>https://www.reuters.com/sports/cowboys-acquire-cb-joey-porter-jr-trade-with-steelers--flm-2026-10-01/</link>
+      <description>Dallas acquired cornerback Joey Porter Jr. after his contract talks with Pittsburgh reached an impasse. The Steelers receive a 2027 sixth-round pick and a 2028 second-rounder, according to reports. Porter, a 2023 second-round selection and son of the longtime Steelers linebacker, gives a struggling Cowboys secondary an immediate reinforcement.</description>
+      <pubDate>Thu, 01 Oct 2026 09:23:09 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-02-cowboys-porter-trade</guid>
+    </item>
     <item>
       <title>Yankees, White Sox and Padres sweep into division series</title>
       <link>https://www.reuters.com/sports/mlb-roundup-yankees-white-sox-padres-complete-wild-card-sweeps--flm-2026-10-01/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 27 Sep 2026 22:48:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-27-astros-al-west-500</guid>
       <source url="https://sports.yahoo.com/articles/astros-win-al-west-81-224828551.html">Associated Press</source>
-    </item>
-    <item>
-      <title>Justin Verlander closes 21-year career with a family moment</title>
-      <link>https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/</link>
-      <description>Justin Verlander finished what he says will be his final major-league start, then watched 7-year-old daughter Genevieve sprint to the mound for a hug. The 43-year-old, a three-time Cy Young winner and 2017 World Series champion, walked off hand-in-hand with her after 21 seasons.</description>
-      <pubDate>Sat, 26 Sep 2026 20:13:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-26-verlander-final-start</guid>
-      <source url="https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/">Associated Press</source>
-    </item>
-    <item>
-      <title>No. 21 Florida knocks off No. 4 Ole Miss, 52-28</title>
-      <link>https://www.news4jax.com/sports/2026/09/26/jadan-baugh-and-no-21-florida-run-roughshod-over-4th-ranked-ole-miss-52-28/</link>
-      <description>Jadan Baugh powered Florida's 52-28 upset of fourth-ranked Ole Miss as the Gators turned a marquee SEC matchup into a statement win. Florida's ground game repeatedly broke through a defense that entered the weekend with national-title ambitions, reshaping the early conference race.</description>
-      <pubDate>Sat, 26 Sep 2026 23:35:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-26-florida-ole-miss</guid>
-      <source url="https://www.news4jax.com/sports/2026/09/26/jadan-baugh-and-no-21-florida-run-roughshod-over-4th-ranked-ole-miss-52-28/">Associated Press</source>
-    </item>
-    <item>
-      <title>U.S. trims Presidents Cup deficit, trails by three entering singles</title>
-      <link>https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-saturday-results-us-chips-away-at-international-team-lead-trails-by-3-heading-into-sunday-130236876.html</link>
-      <description>A day after the International side swept Friday foursomes, the U.S. answered on Saturday and cut the Presidents Cup margin to 10½-7½. That significant shift leaves the Americans within three points before Sunday's 12 singles matches at Medinah, keeping a comeback—and the International team's bid to end a long drought—alive.</description>
-      <pubDate>Sat, 26 Sep 2026 23:30:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-26-presidents-cup-saturday</guid>
-      <source url="https://sports.yahoo.com/golf/breaking-news/article/presidents-cup-saturday-results-us-chips-away-at-international-team-lead-trails-by-3-heading-into-sunday-130236876.html">Yahoo Sports</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:28:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Garry Kitchen’s GameMaker lives again in a browser</title>
+      <link>https://gmc64.com/</link>
+      <description>GMC64 is a faithful browser recreation of Garry Kitchen’s 1985 Commodore 64 game-development system. The open-source project accepts original disk images and preserves its sprite, scene, sound and scripting workflow without requiring an emulator—a useful example of keeping a software-creation tool usable rather than merely archived.</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://gmc64.com/">GMC64</source>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-02-gmc64-browser-recreation</guid>
+    </item>
+    <item>
+      <title>What Ireland’s artists’ tax exemption does not cover</title>
+      <link>https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/income-and-employment/artists-exemption/prsi-vat-usc-and-the-high-earners-restriction.aspx</link>
+      <description>Ireland’s official guidance clarifies an important limit on its artists’ exemption: qualifying creative income may escape Income Tax, but not PRSI, VAT or the Universal Social Charge. The exemption also remains subject to the High Earners Restriction. It is a useful corrective to the shorthand claim that writers in Ireland simply pay no tax.</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.revenue.ie/">Irish Tax and Customs</source>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-02-ireland-artists-tax-exemption</guid>
+    </item>
+    <item>
+      <title>How Charlton’s Action Heroes became part of DC history</title>
+      <link>https://www.gamesradar.com/entertainment/dc-tv-shows/charlton-comics-heroes-explained/</link>
+      <description>A compact guide traces the Charlton Action Heroes—including Ted Kord’s Blue Beetle, Captain Atom, the Question and Peacemaker—from their distinctive 1960s stories through DC’s acquisition and their indirect transformation into Watchmen. It is a useful map of why this small publisher’s characters continue to echo through modern comics and television.</description>
+      <pubDate>Thu, 25 Sep 2025 22:19:12 GMT</pubDate>
+      <source url="https://www.gamesradar.com/">GamesRadar+</source>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-02-charlton-heroes-ted-kord</guid>
+    </item>
     <item>
       <title>WordPress developer roundup previews 7.2 and the latest Gutenberg changes</title>
       <link>https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sat, 15 Mar 2014 22:33:02 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2014-03-15-electronic-sf-fanzines</guid>
       <source url="https://www.wired.com/2014/03/dead-media-beat-electronic-science-fiction-fanzines/">Wired</source>
-    </item>
-    <item>
-      <title>Betty Boop, Blondie and three classic detectives enter the public domain</title>
-      <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
-      <description>Works first published in 1930 are now free of U.S. copyright, including early Betty Boop and Blondie appearances, nine Mickey Mouse cartoons and the book debuts of Nancy Drew, Sam Spade and Miss Marple. The annual release offers a rich field for copyright archaeology, preservation and new editions—while later character elements can remain protected.</description>
-      <pubDate>Wed, 31 Dec 2025 21:50:51 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2025-12-31-public-domain-1930</guid>
-      <source url="https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1">Associated Press</source>
-    </item>
-    <item>
-      <title>Russian strikes put Ukraine's independent publishers at risk</title>
-      <link>https://apnews.com/article/e21969668deaf1a93e092d183c42b7d1</link>
-      <description>Russian attacks have destroyed more than 13 million Ukrainian books and crucial printing infrastructure, including eight million books at publisher Ranok's warehouse. Small presses and debut authors are especially exposed, making proposed grants, state purchases and war-risk insurance consequential for literary diversity and cultural survival.</description>
-      <pubDate>Mon, 21 Sep 2026 04:35:03 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-21-ukraine-publishing</guid>
-      <source url="https://apnews.com/article/e21969668deaf1a93e092d183c42b7d1">Associated Press</source>
-    </item>
-    <item>
-      <title>What WordPress's release scanning catches—and what it cannot</title>
-      <link>https://instawp.com/wordpress-plugin-security-best-practices/</link>
-      <description>WordPress.org now scans each plugin and theme release during a cooldown and blocks high-risk updates before distribution. This practical guide explains the boundary that matters: the gate can examine a new release, but it cannot protect an already installed vulnerable or compromised plugin. It then maps the remaining site-owner defenses.</description>
-      <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-11-wordpress-release-scanning</guid>
-      <source url="https://instawp.com/wordpress-plugin-security-best-practices/">InstaWP</source>
     </item>
   </channel>
 </rss>

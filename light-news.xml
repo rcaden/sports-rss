@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:28:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Harvest Moon rises beside an erupting Mount Etna</title>
+      <link>https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/</link>
+      <description>A striking composite made near Nicosia, Sicily, captures the Harvest Moon rising at sunset while Mount Etna sends ash and gas into the sky. The scene also includes the Belt of Venus, the pinkish band caused by sunlight scattering through Earth’s atmosphere above the planet’s shadow.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://science.nasa.gov/">NASA Science</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-02-harvest-moon-etna</guid>
+    </item>
+    <item>
+      <title>Satellite finds a farming island amid vast wetlands</title>
+      <link>https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/</link>
+      <description>Landsat images show a tidy patchwork of fields around The Pas, Manitoba, surrounded by the sprawling Saskatchewan River Delta. The northern farming enclave turns from green to brown across the 2026 growing season, making human geometry stand out vividly against one of North America’s largest inland freshwater deltas.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://science.nasa.gov/earth/earth-observatory/">NASA Earth Observatory</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-02-saskatchewan-agricultural-island</guid>
+    </item>
+    <item>
+      <title>Scientists identify a new wild cat species in Bolivia</title>
+      <link>https://www.reuters.com/business/environment/new-cat-species-identified-bolivia-first-over-century-2026-09-17/</link>
+      <description>Researchers have identified the Bolivian tiger cat, Leopardus tilcayo, as a distinct species—the first newly recognized living cat species in more than a century. Evidence so far consists of two observed animals and a handful of camera-trap records, adding an elusive new branch to the feline family tree.</description>
+      <pubDate>Thu, 17 Sep 2026 15:47:11 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-02-bolivia-new-cat-species</guid>
+    </item>
     <item>
       <title>NASA invites the public to hunt for overlapping galaxies</title>
       <link>https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 16 Sep 2026 13:11:46 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-16-philadelphia-history-interpreters</guid>
       <source url="https://apnews.com/article/america-250-reenactors-philadelphia-d79d8de88541f69a4dc6e8dd22fbfe07">Associated Press</source>
-    </item>
-    <item>
-      <title>Long Island 'Catman' frees Lola after five days behind a wall</title>
-      <link>https://ny1.com/nyc/all-boroughs/ap-top-news/2026/09/24/catman-to-the-rescue-as-man-pulls-stuck-long-island-pet-to-safety-after-long-ordeal</link>
-      <description>John DeBacker, wearing his 'Catman' shirt, helped cut a careful opening in a Long Island wall and pulled out Lola, a cat trapped there for about five days—likely upside down. After an endoscopic camera, a saw and a quieter drill guided the rescue, Lola returned to her family and received veterinary care.</description>
-      <pubDate>Thu, 24 Sep 2026 18:55:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-24-catman-lola-rescue</guid>
-      <source url="https://ny1.com/nyc/all-boroughs/ap-top-news/2026/09/24/catman-to-the-rescue-as-man-pulls-stuck-long-island-pet-to-safety-after-long-ordeal">Associated Press</source>
-    </item>
-    <item>
-      <title>Taylor Swift poised to become the VMAs' most awarded artist</title>
-      <link>https://apnews.com/article/711f84857a0d65730696adf0ebdfa9a8</link>
-      <description>Taylor Swift will receive the first Artist Director Honors at Sunday's MTV Video Music Awards, moving her past Beyoncé as the ceremony's most awarded artist. The nostalgia-heavy show also promises Madonna's first VMA performance in 23 years, a Video Vanguard honor for Nirvana and Snoop Dogg as host.</description>
-      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-22-vma-preview</guid>
-      <source url="https://apnews.com/article/711f84857a0d65730696adf0ebdfa9a8">Associated Press</source>
-    </item>
-    <item>
-      <title>Justin Verlander's last start ends with a hug from his daughter</title>
-      <link>https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/</link>
-      <description>When Justin Verlander's final big-league start ended, his 7-year-old daughter Genevieve sprinted onto the field and into his arms. The 43-year-old, closing a 21-season career with three Cy Young Awards and a World Series title, left the mound hand-in-hand with her.</description>
-      <pubDate>Sat, 26 Sep 2026 20:13:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-26-verlander-daughter-hug</guid>
-      <source url="https://www.news4jax.com/sports/2026/09/26/verlander-leaves-final-start-of-21-year-career-as-7-year-old-daughter-sprints-to-the-mound-for-hug/">Associated Press</source>
     </item>
   </channel>
 </rss>

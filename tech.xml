@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:28:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Reddit sets November date to shut down RSS feeds</title>
+      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
+      <description>Reddit says its RSS feeds will stop Nov. 13 and its public API will close in March 2027, citing scraping and abusive traffic. Moderators get a Devvit relay option, but outside feed-reader users get no replacement. The decision turns a major body of public conversation into licensed platform data and removes another open-web access point.</description>
+      <pubDate>Wed, 30 Sep 2026 17:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/">TechCrunch</source>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-02-reddit-rss-shutdown</guid>
+    </item>
+    <item>
+      <title>Social media’s democratic reputation declines worldwide</title>
+      <link>https://www.pewresearch.org/global/2026/10/01/americans-are-negative-about-social-medias-impact-on-democracy-and-the-rest-of-the-world-is-catching-up/</link>
+      <description>Pew finds 64% of Americans believe social media has harmed democracy, while negative assessments have risen in 16 of 26 countries surveyed in both 2022 and 2026. The Netherlands now records the bleakest view at 70%. The international shift suggests the platform-governance debate is no longer chiefly an American argument.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.pewresearch.org/">Pew Research Center</source>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-02-social-media-democracy-survey</guid>
+    </item>
+    <item>
+      <title>Voting-machine suspicions spread across federal agencies</title>
+      <link>https://www.reuters.com/investigations/how-trumps-obsession-with-rigged-voting-machines-spread-across-us-government-2026-10-02/</link>
+      <description>A Reuters investigation reconstructs how a probe of Puerto Rico voting machines expanded across federal agencies before the midterms. Officials found no evidence that hackers altered votes, but the inquiry widened anyway. Interviews with more than two dozen people show how unsupported suspicions became a government-wide effort with consequences for election trust.</description>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-02-voting-machine-investigation</guid>
+    </item>
     <item>
       <title>W3C pilots direct support for open-source web projects</title>
       <link>https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 24 Sep 2026 04:38:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-24-meta-muse-charm</guid>
       <source url="https://www.reuters.com/business/media-telecom/metas-charm-gadget-carries-ceo-zuckerbergs-big-ai-ambitions-2026-09-24/">Reuters</source>
-    </item>
-    <item>
-      <title>Paramount-Warner settlement promises a news-independence board</title>
-      <link>https://apnews.com/article/1aaa7c471d8ba286ccfad92b18bc1ecf</link>
-      <description>Twelve states and the Writers Guild settled challenges to Paramount's $81 billion Warner Bros. Discovery purchase. The terms include a board monitoring editorial independence at CBS and CNN, separate cable negotiations for five years, added U.S. film investment and a worker fund. The merger still concentrates two giant news and entertainment libraries.</description>
-      <pubDate>Mon, 21 Sep 2026 17:07:38 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-paramount-warner-settlement</guid>
-      <source url="https://apnews.com/article/1aaa7c471d8ba286ccfad92b18bc1ecf">Associated Press</source>
-    </item>
-    <item>
-      <title>Texas freezes data-center permits pending grid audit</title>
-      <link>https://www.reuters.com/business/energy/texas-gov-abbott-halts-all-state-issued-permits-data-centers-until-grid-audit-is-2026-09-21/</link>
-      <description>Gov. Greg Abbott halted new state permits for Texas data centers until regulators audit their electricity, water and tax-incentive impacts. Projects seeking grid connections total more than five times the state's peak demand. The reversal shows how infrastructure costs are moving from a background concern to a direct constraint on the computing boom.</description>
-      <pubDate>Mon, 21 Sep 2026 20:53:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-texas-data-center-permits</guid>
-      <source url="https://www.reuters.com/business/energy/texas-gov-abbott-halts-all-state-issued-permits-data-centers-until-grid-audit-is-2026-09-21/">Reuters</source>
-    </item>
-    <item>
-      <title>Cybercrime feud spills into the open after rival site's takeover</title>
-      <link>https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/</link>
-      <description>Extortion group ShinyHunters says it exploited a flaw to seize rival cl0p's dark-web site, briefly replacing it with a takeover notice. Researchers told Reuters the clash appears genuine and unusually public. The feud reportedly centers on a stolen Oracle E-Business Suite exploit, showing how software vulnerabilities themselves become contested criminal assets.</description>
-      <pubDate>Mon, 21 Sep 2026 01:58:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-21-cybercrime-rival-site</guid>
-      <source url="https://www.reuters.com/legal/government/cybercrime-feud-erupts-dark-web-notorious-group-claims-hijack-rivals-website-2026-09-21/">Reuters</source>
     </item>
   </channel>
 </rss>

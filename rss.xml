@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:44:21 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>NHL opening night brings new faces and late drama</title>
+      <link>https://www.reuters.com/sports/nhl-roundup-alex-tuch-caps-send-champ-hurricanes-2nd-straight-loss--flm-2026-10-03/</link>
+      <description>Alex Tuch scored twice in his Washington debut as the Capitals beat defending champion Carolina 5-2. Elsewhere on the NHL’s first busy Friday, Boston erased a late deficit and beat Winnipeg in overtime, the Rangers and Blues posted shutouts, and Anaheim survived after building a four-goal lead in Las Vegas.</description>
+      <pubDate>Sat, 03 Oct 2026 06:17:55 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-03-nhl-opening-friday</guid>
+    </item>
+    <item>
+      <title>Three ranked road tests headline college football Saturday</title>
+      <link>https://apnews.com/article/ncaa-college-football-62e4badd9f6d220c7a6cc7b0aff6643f</link>
+      <description>Saturday’s schedule sends No. 5 Ohio State to No. 14 Iowa, No. 7 Alabama to No. 16 Mississippi State and No. 8 Florida to No. 25 Missouri. All three ranked home teams are coming off stirring victories. No. 4 Miami also visits Clemson, while unbeaten Cincinnati tries to reach 5-0 at Arizona.</description>
+      <pubDate>Sat, 03 Oct 2026 04:18:39 GMT</pubDate>
+      <source url="https://apnews.com/">Associated Press</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-03-college-football-ranked-road-tests</guid>
+    </item>
+    <item>
+      <title>Verstappen takes first pole of season at Sepang</title>
+      <link>https://www.reuters.com/sports/formula1/verstappen-claims-first-pole-season-bahrain-gp-malaysia-2026-10-03/</link>
+      <description>Max Verstappen claimed his first Formula One pole of the season at Malaysia’s revived Sepang race, edging Lewis Hamilton in brutal heat. Isack Hadjar qualified third but drops to eighth because of a grid penalty, moving championship leader Kimi Antonelli alongside Charles Leclerc on the second row.</description>
+      <pubDate>Sat, 03 Oct 2026 09:12:40 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-03-verstappen-sepang-pole</guid>
+    </item>
     <item>
       <title>Braves win decisive wild-card game and advance</title>
       <link>https://www.reuters.com/sports/three-homers-send-braves-past-phillies-into-nlds-matchup-with-dodgers--fldm-2026-10-02/</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 29 Sep 2026 04:35:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-29-djokovic-china-open-return</guid>
       <source url="https://www.reuters.com/sports/tennis/djokovic-says-body-feeling-good-ahead-china-open-comeback-2026-09-29/">Reuters</source>
-    </item>
-    <item>
-      <title>U.S. completes record Presidents Cup comeback</title>
-      <link>https://sports.yahoo.com/articles/americans-rally-win-presidents-cup-014241325.html</link>
-      <description>In a major reversal from Saturday's three-point deficit, the United States won nine of 12 Sunday singles and halved the last match to beat the International team 17-13. The biggest singles-day rout in Presidents Cup history extended the Americans' winning streak to 11.</description>
-      <pubDate>Mon, 28 Sep 2026 01:42:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-27-presidents-cup-comeback</guid>
-      <source url="https://sports.yahoo.com/articles/americans-rally-win-presidents-cup-014241325.html">Associated Press</source>
-    </item>
-    <item>
-      <title>Ravens beat Cowboys on seven-second drive in Rio</title>
-      <link>https://www.cbsnews.com/texas/news/baltimore-ravens-dallas-cowboys-34-31-last-second-field-goal-brazil-sept-27-26/</link>
-      <description>Baltimore needed only seven seconds to steal a 34-31 win in the NFL's first regular-season game in Rio. Lamar Jackson hit Zay Flowers for 27 yards, the Ravens called timeout with one second left, and Tyler Loop made a 56-yard field goal.</description>
-      <pubDate>Mon, 28 Sep 2026 00:14:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-27-ravens-cowboys-rio</guid>
-      <source url="https://www.cbsnews.com/texas/news/baltimore-ravens-dallas-cowboys-34-31-last-second-field-goal-brazil-sept-27-26/">Associated Press</source>
-    </item>
-    <item>
-      <title>Astros take AL West with an 81-81 record</title>
-      <link>https://sports.yahoo.com/articles/astros-win-al-west-81-224828551.html</link>
-      <description>Houston routed the Athletics 9-0 to win its fifth AL West title in six years despite finishing 81-81. The Astros became the first division champion in major-league history without a winning record, an odd final twist to baseball's expanded-playoff era.</description>
-      <pubDate>Sun, 27 Sep 2026 22:48:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-27-astros-al-west-500</guid>
-      <source url="https://sports.yahoo.com/articles/astros-win-al-west-81-224828551.html">Associated Press</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:44:21 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Museum turns mushroom electricity into music</title>
+      <link>https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm</link>
+      <description>A new exhibition in Exeter translates electrical signals from woodland fungi into a soundscape. “Living Labyrinths” also includes Beatrix Potter’s overlooked mycology studies, a sculpture honoring a fungus named for her and an artist’s watercolor map of the fungal ecosystem inside her own body.</description>
+      <pubDate>Wed, 30 Sep 2026 04:00:00 GMT</pubDate>
+      <source url="https://www.theguardian.com/">The Guardian</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-03-mushroom-music-exhibit</guid>
+    </item>
+    <item>
+      <title>Comedy wildlife finalists catch animals at their funniest</title>
+      <link>https://www.smithsonianmag.com/smart-news/see-the-hilarious-animal-shenanigans-captured-in-photos-and-videos-shortlisted-for-the-2026-nikon-comedy-wildlife-awards-180989600/</link>
+      <description>The 2026 Nikon Comedy Wildlife Awards drew a record 10,000-plus entries from 112 countries. Finalists include a sneezing moose that appears to finish with a grin, a flower-wearing bird, meerkats posing for a family portrait and a young elephant receiving an ill-aimed dust bath. Winners will be announced Dec. 8.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-03-comedy-wildlife-finalists</guid>
+    </item>
+    <item>
+      <title>Tiny feathered dinosaur offers new clues about flight</title>
+      <link>https://people.com/new-feathered-dinosaur-species-discovered-from-remarkable-fossil-12150357</link>
+      <description>A remarkably complete 22-inch fossil from northeastern China has been identified as Norellraptor barsboldi, a new birdlike dinosaur species more than 100 million years old. Portions of its plumage remain preserved, including signs of asymmetrical flight feathers that may help show how flight-related traits evolved along more than one path.</description>
+      <pubDate>Fri, 02 Oct 2026 13:59:00 GMT</pubDate>
+      <source url="https://people.com/">People</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-03-feathered-dinosaur-norellraptor</guid>
+    </item>
     <item>
       <title>Harvest Moon rises beside an erupting Mount Etna</title>
       <link>https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 25 Sep 2026 17:11:23 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-25-fa-cup-referee-replay</guid>
       <source url="https://apnews.com/article/referee-error-replay-fa-cup-e4a8c7c60664a86de8c0e8cd013b87a5">Associated Press</source>
-    </item>
-    <item>
-      <title>The MTV VMAs turn into a night for the record books</title>
-      <link>https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa</link>
-      <description>After yesterday's preview, the awards delivered a women-led sweep: Madonna won seven times, while Taylor Swift took video of the year and the inaugural Artist Director honor, passing Beyoncé with 31 career VMAs. Nirvana received the Video Vanguard award.</description>
-      <pubDate>Mon, 28 Sep 2026 03:47:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-27-vmas-winners</guid>
-      <source url="https://www.theguardian.com/music/2026/sep/28/mtv-vmas-2026-taylor-swift-madonna-win-video-music-awards-sienna-spiro-lisa">The Guardian</source>
-    </item>
-    <item>
-      <title>John Wilson builds a micro-movie revolution</title>
-      <link>https://apnews.com/article/72e6d9b2dd3f4b4e5f5e0f75ca830bd6</link>
-      <description>Documentarian John Wilson turned street-level curiosity into an unlikely cinema success. His debut feature, “The History of Concrete,” sold nearly every seat at its one-theater opening, while the 42-seat Low Cinema he co-founded in Queens gives eclectic 16mm films a tiny but lively home.</description>
-      <pubDate>Tue, 22 Sep 2026 17:23:57 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-22-john-wilson-micro-cinema</guid>
-      <source url="https://apnews.com/article/72e6d9b2dd3f4b4e5f5e0f75ca830bd6">Associated Press</source>
-    </item>
-    <item>
-      <title>Betsy Ross brings a T-shirt cannon to America at 250</title>
-      <link>https://apnews.com/article/america-250-reenactors-philadelphia-d79d8de88541f69a4dc6e8dd22fbfe07</link>
-      <description>Philadelphia's first-person history interpreters nearly doubled their cast to about 60 for the nation's 250th birthday. Their thoroughly researched portrayals range from Ben Franklin and Betsy Ross—occasionally armed with a T-shirt cannon—to overlooked women, immigrants and Black residents of the founding era.</description>
-      <pubDate>Wed, 16 Sep 2026 13:11:46 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-16-philadelphia-history-interpreters</guid>
-      <source url="https://apnews.com/article/america-250-reenactors-philadelphia-d79d8de88541f69a4dc6e8dd22fbfe07">Associated Press</source>
     </item>
   </channel>
 </rss>

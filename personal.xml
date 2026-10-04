@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Duke maps the riches—and limits—of the 2026 public domain</title>
+      <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
+      <description>Duke’s annual guide catalogs works from 1930 now free to use in the U.S., including early Betty Boop, Blondie, Nancy Drew and Sam Spade, plus films, songs and art. It also explains the archaeology behind the dates: only the original 1930 versions are newly public, while later adaptations and trademarks can still impose limits.</description>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <source url="https://cspd.law.duke.edu/">Duke Center for the Study of the Public Domain</source>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-04-duke-public-domain-2026</guid>
+    </item>
+    <item>
+      <title>Apache XMLBeans 5.4.1 ships with fixes and packaging cleanup</title>
+      <link>https://xmlbeans.apache.org/</link>
+      <description>Apache has released XMLBeans 5.4.1, the Java library that binds XML schemas to generated Java types while also supporting DOM, cursors and schema reflection. The maintenance release brings bug fixes and packaging cleanup—a useful update for Java projects that still need rigorous, schema-aware XML processing.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://xmlbeans.apache.org/">Apache XMLBeans</source>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-04-apache-xmlbeans-5-4-1</guid>
+    </item>
+    <item>
+      <title>Six new voices make the 4thWrite short-story shortlist</title>
+      <link>https://www.theguardian.com/books/2026/oct/02/shortlist-4thwrite-prize-revealed</link>
+      <description>The 10th 4thWrite prize has shortlisted six unpublished writers of color whose stories range from office comedy and friendship to grief and dystopian London. The winner receives £1,000, a publishing workshop and publication in The Guardian, continuing a competition that has helped launch several writing careers.</description>
+      <pubDate>Fri, 02 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.theguardian.com/">The Guardian</source>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-04-fourthwrite-shortlist</guid>
+    </item>
     <item>
       <title>WordPress documents three ways to import site content</title>
       <link>https://developer.wordpress.org/playground/handbook/guides/import-content-with-blueprints/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 28 Mar 2025 15:29:48 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2025-03-28-st-augustine-british-redoubt</guid>
       <source url="https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f">Associated Press</source>
-    </item>
-    <item>
-      <title>Search summaries can help experience-based subreddits</title>
-      <link>https://arxiv.org/abs/2605.16428</link>
-      <description>A study of 105,012 subreddits finds that Google&apos;s static search summaries increased daily comments by 12% and active commenters by 12.4%, with the strongest gains in smaller communities centered on lived experience. More interactive search answers reduced that effect, offering a useful wrinkle for anyone building a forum around practical advice.</description>
-      <pubDate>Thu, 14 May 2026 18:07:42 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-05-14-search-summaries-subreddit-engagement</guid>
-      <source url="https://arxiv.org/abs/2605.16428">arXiv</source>
-    </item>
-    <item>
-      <title>Patricia Highsmith&apos;s hidden years writing comic books</title>
-      <link>https://paulgravett.com/articles/article/forbidden_adventures</link>
-      <description>Before her novels made her famous, Patricia Highsmith worked for American Comics Group and freelanced in comics for about six years. Paul Gravett traces recurring ideas—secret identities, menacing terrain and lurid fantasy—from those scripts into her fiction, and notes that she even applied to write Wonder Woman in 1947.</description>
-      <pubDate>Sun, 12 Aug 2012 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2012-08-12-patricia-highsmith-comics</guid>
-      <source url="https://paulgravett.com/articles/article/forbidden_adventures">Paul Gravett</source>
-    </item>
-    <item>
-      <title>Chicago comics history moves from page to gallery</title>
-      <link>https://www.axios.com/local/chicago/2026/09/24/linework-chicago-comics-ivan-brunetti-cleve-carney-museum</link>
-      <description>The new Linework: Chicago Comics and Community exhibition explores the city&apos;s role as a center for contemporary comics. Built around the Linework anthology launched in 2010, it features artists including Ivan Brunetti and Nick Drnaso, whose Sabrina became the first graphic novel longlisted for the Booker Prize.</description>
-      <pubDate>Thu, 24 Sep 2026 16:36:43 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-24-chicago-linework-comics-exhibition</guid>
-      <source url="https://www.axios.com/local/chicago/2026/09/24/linework-chicago-comics-ivan-brunetti-cleve-carney-museum">Axios</source>
     </item>
   </channel>
 </rss>

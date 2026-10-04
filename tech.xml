@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>ActivityPub draft sharpens the decentralized social web</title>
+      <link>https://w3c.github.io/activitypub/</link>
+      <description>A fresh W3C editor’s draft lays out ActivityPub’s two interoperable layers: server-to-server federation and a client-to-server API for creating, updating and deleting content. The split matters because sites can adopt either layer, then add the other to join a broader ecosystem of portable clients and decentralized publishing tools.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.w3.org/">World Wide Web Consortium</source>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-04-activitypub-editor-draft</guid>
+    </item>
+    <item>
+      <title>Firefox 157 refreshes its interface and restores Compact Mode</title>
+      <link>https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode</link>
+      <description>Mozilla’s Firefox 157 rolls out a redesign across desktop and mobile with rounded tabs, updated icons, themes and a smaller Compact Mode restored after user requests. The release is a notable investment in an independent browser engine—and a reminder that user feedback can still reverse a product decision.</description>
+      <pubDate>Tue, 29 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.theverge.com/">The Verge</source>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-04-firefox-157-redesign</guid>
+    </item>
+    <item>
+      <title>Apple’s unified EU app terms take effect</title>
+      <link>https://www.ashurstperkinscoie.com/en/insights/apple-updates-app-store-developer-terms-in-the-eu/</link>
+      <description>Apple’s new EU terms permit notarized apps through alternative marketplaces or the web and allow outside payment offers, while replacing several fees with commissions that vary by distribution and payment method. Independent developers gain more routes to users, though lawyers say questions remain about compliance with the Digital Markets Act.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.ashurstperkinscoie.com/">Ashurst Perkins Coie</source>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-04-apple-eu-unified-app-terms</guid>
+    </item>
     <item>
       <title>California creates a major employment credit for local news</title>
       <link>https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-09-30-publishers-bad-bots-law</guid>
       <source url="https://www.axios.com/newsletters/axios-media-trends-732c0680-bc1b-11f1-8d84-7d2728ee861b">Axios</source>
-    </item>
-    <item>
-      <title>Google contests EU orders to share search data with rivals</title>
-      <link>https://www.reuters.com/business/google-challenges-eu-orders-open-up-ai-search-engine-rivals-2026-09-29/</link>
-      <description>Google is challenging EU orders that would require it to give rival search services anonymized query, click and ranking data and open parts of Android and Gemini to competitors. Google cites privacy and security risks; DuckDuckGo says the Digital Markets Act includes safeguards and that access could restore competition.</description>
-      <pubDate>Tue, 29 Sep 2026 05:06:44 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-29-google-eu-search-data-challenge</guid>
-      <source url="https://www.reuters.com/business/google-challenges-eu-orders-open-up-ai-search-engine-rivals-2026-09-29/">Reuters</source>
-    </item>
-    <item>
-      <title>The flood of synthetic podcasts may be a publicity stunt</title>
-      <link>https://podnews.net/update/inception-point-pr-stunt</link>
-      <description>Podnews examines claims that one network is releasing thousands of machine-made podcast episodes. The company says it is not a publicity stunt, but its Quiet Please shows are no longer monetized and the operation has rebranded as Liquid Studios, which focuses on transforming existing content.</description>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-29-synthetic-podcast-network</guid>
-      <source url="https://podnews.net/update/inception-point-pr-stunt">Podnews</source>
-    </item>
-    <item>
-      <title>Cloudflare&apos;s Matthew Prince proposes a new bargain for the web</title>
-      <link>https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising</link>
-      <description>Cloudflare CEO Matthew Prince argues that automated crawlers now account for more than half of web traffic and that publishers need tools to block, admit or charge them. He discusses micropayments, the economics of independent sites and Cloudflare&apos;s decision to release its operating-system code.</description>
-      <pubDate>Sat, 26 Sep 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-09-26-cloudflare-new-web-bargain</guid>
-      <source url="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising">The Verge</source>
     </item>
   </channel>
 </rss>

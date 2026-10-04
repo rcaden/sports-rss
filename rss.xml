@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>No. 25 Missouri routs No. 8 Florida</title>
+      <link>https://www.reuters.com/sports/top-25-roundup-cj-carrs-5-td-day-leads-no-3-notre-dame-over-unc--flm-2026-10-03/</link>
+      <description>Missouri ended a nine-game losing streak against ranked opponents by overwhelming No. 8 Florida 45-17. The No. 25 Tigers forced four turnovers, built a 31-10 halftime lead and turned a matchup of ranked SEC teams into the weekend’s biggest top-10 upset.</description>
+      <pubDate>Sat, 03 Oct 2026 23:14:18 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-04-missouri-upsets-florida</guid>
+    </item>
+    <item>
+      <title>White Sox blank Guardians in ALDS opener</title>
+      <link>https://www.clickorlando.com/sports/2026/10/03/white-sox-beat-guardians-3-0-in-game-1-of-alds-behind-murakami-homer-3-hitter/</link>
+      <description>Chicago opened the AL Division Series with a 3-0 win in Cleveland behind Munetaka Murakami’s homer and a combined three-hitter. Grant Taylor became the first postseason pitcher since 2017 to work at least four innings and earn a save, protecting the shutout after starter Shane Smith departed.</description>
+      <pubDate>Sat, 03 Oct 2026 20:06:00 GMT</pubDate>
+      <source url="https://www.clickorlando.com/">ClickOrlando</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-04-white-sox-guardians-alds-game-one</guid>
+    </item>
+    <item>
+      <title>Verstappen wins rain-chaotic Bahrain Grand Prix in Malaysia</title>
+      <link>https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-report/10861843/</link>
+      <description>A day after taking pole, Max Verstappen converted it into his first victory of the season as heavy rain, a delayed start and a late safety car scrambled the relocated Bahrain Grand Prix at Sepang. Kimi Antonelli finished second, Lewis Hamilton third, and George Russell retired late as his title hopes faded.</description>
+      <pubDate>Sun, 04 Oct 2026 10:31:00 GMT</pubDate>
+      <source url="https://www.motorsport.com/">Motorsport.com</source>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-04-verstappen-bahrain-malaysia-win</guid>
+    </item>
     <item>
       <title>NHL opening night brings new faces and late drama</title>
       <link>https://www.reuters.com/sports/nhl-roundup-alex-tuch-caps-send-champ-hurricanes-2nd-straight-loss--flm-2026-10-03/</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 30 Sep 2026 03:49:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-09-30-tim-ream-international-retirement</guid>
       <source url="https://www.reuters.com/sports/soccer/united-states-captain-ream-retires-international-football-2026-09-30/">Reuters</source>
-    </item>
-    <item>
-      <title>Case Keenum leads Bears past Eagles in surprise start</title>
-      <link>https://www.reuters.com/sports/nfl/third-string-qb-case-keenum-guides-bears-blowout-eagles--flm-2026-09-29/</link>
-      <description>Case Keenum, making his first NFL appearance since December 2023, threw for 247 yards and two touchdowns and ran for another score as Chicago routed Philadelphia 27-7. The 38-year-old third-stringer completed 24 of 34 passes, while the Bears&apos; defense forced three turnovers.</description>
-      <pubDate>Tue, 29 Sep 2026 03:30:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-29-case-keenum-bears-eagles</guid>
-      <source url="https://www.reuters.com/sports/nfl/third-string-qb-case-keenum-guides-bears-blowout-eagles--flm-2026-09-29/">Reuters</source>
-    </item>
-    <item>
-      <title>Baseball labor standoff raises lockout risk</title>
-      <link>https://apnews.com/article/15c846433f4f9463cf6fe264f99a0589</link>
-      <description>Major League Baseball&apos;s labor standoff is moving toward a possible lockout after the collective bargaining agreement expires Dec. 1. Players say they will fight a salary cap, while owners argue the game&apos;s economics need repair—putting spring training and even Opening Day at risk.</description>
-      <pubDate>Mon, 28 Sep 2026 14:51:05 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-28-mlb-labor-lockout-risk</guid>
-      <source url="https://apnews.com/article/15c846433f4f9463cf6fe264f99a0589">Associated Press</source>
-    </item>
-    <item>
-      <title>Djokovic returns to unbeaten Beijing ground</title>
-      <link>https://www.reuters.com/sports/tennis/djokovic-says-body-feeling-good-ahead-china-open-comeback-2026-09-29/</link>
-      <description>Novak Djokovic returns at the China Open for his first match since a U.S. Open semifinal exit. The 39-year-old says his body feels good, carries a 29-0 Beijing record with six titles, and is still chasing a record 25th major championship.</description>
-      <pubDate>Tue, 29 Sep 2026 04:35:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-29-djokovic-china-open-return</guid>
-      <source url="https://www.reuters.com/sports/tennis/djokovic-says-body-feeling-good-ahead-china-open-comeback-2026-09-29/">Reuters</source>
     </item>
   </channel>
 </rss>

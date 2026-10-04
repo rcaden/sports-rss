@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Manila church fills with wagging tails for annual pet blessing</title>
+      <link>https://apnews.com/article/476938ab4e49e76c7f2b4a0eab87ed54</link>
+      <description>Dogs, cats and other companions crowded Manila’s Malate Church for a cheerful annual blessing tied to the feast of St. Francis of Assisi. Priests sprinkled holy water over pets and their people as parishes marked the patron saint of animals with one of the calendar’s most photogenic traditions.</description>
+      <pubDate>Sun, 04 Oct 2026 09:25:07 GMT</pubDate>
+      <source url="https://apnews.com/">Associated Press</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-04-manila-pet-blessing</guid>
+    </item>
+    <item>
+      <title>Steve Reich reflects on making music at 90</title>
+      <link>https://www.reuters.com/lifestyle/culture-current/</link>
+      <description>Composer Steve Reich, now 90, talks about his latest work and a creative life that helped redefine modern music. The interview finds him still composing, still revising his methods and still thinking carefully about what technology can—and cannot—contribute to human expression.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.reuters.com/">Reuters</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-04-steve-reich-at-90</guid>
+    </item>
+    <item>
+      <title>Zoo’s first porcupette gets the name Bramble</title>
+      <link>https://www.pdza.org/porcupette-named-bramble/</link>
+      <description>Visitors voted to name Point Defiance Zoo’s first porcupette “Bramble,” a nod to her prickly quills and curious nature. Born Aug. 17 to first-time parents Quillow and Nigel, the tree-climbing youngster is thriving and marks the first porcupine birth in the Tacoma zoo’s 121-year history.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://www.pdza.org/">Point Defiance Zoo &amp; Aquarium</source>
+      <guid isPermaLink="false">urn:acme:light:2026-10-04-porcupette-bramble</guid>
+    </item>
     <item>
       <title>Museum turns mushroom electricity into music</title>
       <link>https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 29 Sep 2026 06:41:16 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-09-29-busan-canal-shark</guid>
       <source url="https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue">The Guardian</source>
-    </item>
-    <item>
-      <title>Nor&apos;easter uncovers possible 19th-century Nantucket wreck</title>
-      <link>https://apnews.com/article/7625a83bc27635633f069dfe70f3cfae</link>
-      <description>A nor&apos;easter stripped sand from Nantucket&apos;s south shore and exposed timbers that may belong to a 19th-century shipwreck. Researchers are comparing the remains with records of the Warren Sawyer, wrecked nearby in 1884, while noting that roughly 750 wrecks lie in the island&apos;s surrounding waters.</description>
-      <pubDate>Mon, 28 Sep 2026 17:05:13 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-28-nantucket-shipwreck-timbers</guid>
-      <source url="https://apnews.com/article/7625a83bc27635633f069dfe70f3cfae">Associated Press</source>
-    </item>
-    <item>
-      <title>Starship reaches orbit for the first time</title>
-      <link>https://apnews.com/article/262d3c58d56bf7a525b49115d6c5dfe8</link>
-      <description>SpaceX&apos;s Starship reached orbit for the first time, deployed 26 satellites and splashed down north of Hawaii. The company shortened the planned six-orbit flight after an engine issue, but the three-hour mission still delivered the long-sought orbital milestone.</description>
-      <pubDate>Mon, 28 Sep 2026 12:50:36 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-28-starship-first-orbit</guid>
-      <source url="https://apnews.com/article/262d3c58d56bf7a525b49115d6c5dfe8">Associated Press</source>
-    </item>
-    <item>
-      <title>English soccer match ordered replayed after rare rules mistake</title>
-      <link>https://apnews.com/article/referee-error-replay-fa-cup-e4a8c7c60664a86de8c0e8cd013b87a5</link>
-      <description>Mulbarton Wanderers&apos; 2-1 FA Cup qualifying victory over Woodford Town was voided because the referee misapplied the penalty-kick encroachment rule. England&apos;s Football Association ordered the nonleague clubs to play the entire match again Tuesday—a highly unusual do-over caused by one mistaken restart.</description>
-      <pubDate>Fri, 25 Sep 2026 17:11:23 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-25-fa-cup-referee-replay</guid>
-      <source url="https://apnews.com/article/referee-error-replay-fa-cup-e4a8c7c60664a86de8c0e8cd013b87a5">Associated Press</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cowboys stun Texans with a last-minute comeback</title>
+      <link>https://www.reuters.com/sports/nfl-roundup-cowboys-last-minute-td-caps-big-2nd-half-upends-texans--flm-2026-10-04/</link>
+      <description>CeeDee Lamb caught a career-high 17 passes for 189 yards and scored the winning 12-yard touchdown with 40 seconds left as Dallas erased a 20-point deficit to beat Houston 34-30. The Cowboys scored 28 points after halftime, while the Texans fell to 0-4.</description>
+      <pubDate>Sun, 04 Oct 2026 22:35:21 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-05-cowboys-texans-comeback</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Chiefs hold off Raiders to remain the AFC’s last unbeaten team</title>
+      <link>https://www.local10.com/sports/2026/10/04/chiefs-beat-the-raiders-30-27-to-move-to-4-0-behind-patrick-mahomes-and-kenneth-walker-iii/</link>
+      <description>Patrick Mahomes threw for 225 yards and two touchdowns, while Kenneth Walker III ran for 177 yards and two scores as Kansas City beat Las Vegas 30-27. The Chiefs improved to 4-0 and became the AFC’s final unbeaten team; the Raiders took their first loss.</description>
+      <pubDate>Mon, 05 Oct 2026 00:03:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-05-chiefs-raiders-undefeated</guid>
+      <source url="https://www.local10.com/">Local 10</source>
+    </item>
+    <item>
+      <title>Valkyries take Game 1 from defending champion Aces</title>
+      <link>https://www.wnba.com/news/2026-playoffs-fever-valkyries-game-1-recap</link>
+      <description>Gabby Williams had 25 points, 11 rebounds and five assists as Golden State beat defending champion Las Vegas 71-60 in the franchise’s first WNBA semifinal game. Kiah Stokes added 14 rebounds and three blocks, and the Valkyries controlled the glass to seize a 1-0 series lead.</description>
+      <pubDate>Sun, 04 Oct 2026 23:44:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-05-valkyries-aces-game-one</guid>
+      <source url="https://www.wnba.com/">WNBA</source>
+    </item>
     <item>
       <title>No. 25 Missouri routs No. 8 Florida</title>
       <link>https://www.reuters.com/sports/top-25-roundup-cj-carrs-5-td-day-leads-no-3-notre-dame-over-unc--flm-2026-10-03/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 01 Oct 2026 02:11:56 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-10-01-rams-dpi-error</guid>
       <source url="https://www.reuters.com/sports/rams-coach-sean-mcvay-nfl-admitted-error-game-deciding-dpi-call--flm-2026-10-01/">Reuters</source>
-    </item>
-    <item>
-      <title>MLB wild-card openers deliver three routs and a Braves comeback</title>
-      <link>https://www.reuters.com/sports/mlb-roundup-austin-riley-rescues-braves-game-1-vs-phillies--flm-2026-09-30/</link>
-      <description>Austin Riley&apos;s three-run homer in the eighth lifted Atlanta over Philadelphia 5-3 in the wild-card opener. The Yankees blanked Boston 9-0 behind Cam Schlittler and Ben Rice, San Diego shut out the Cubs 8-0, and the White Sox beat Houston 6-3 for their first postseason win since the 2005 World Series.</description>
-      <pubDate>Wed, 30 Sep 2026 06:09:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-30-mlb-wild-card-openers</guid>
-      <source url="https://www.reuters.com/sports/mlb-roundup-austin-riley-rescues-braves-game-1-vs-phillies--flm-2026-09-30/">Reuters</source>
-    </item>
-    <item>
-      <title>Liberty become first No. 8 seed to oust WNBA&apos;s No. 1</title>
-      <link>https://www.nbcsports.com/wnba/news/no-8-seeded-liberty-sweep-top-seeded-lynx-87-71-in-quarterfinals-advance-to-wnba-semifinals</link>
-      <description>New York swept top-seeded Minnesota with an 87-71 win, becoming the first No. 8 seed to eliminate a No. 1 in the WNBA&apos;s 30-year history. Jonquel Jones had 21 points and 13 rebounds, Breanna Stewart scored 21, and Sabrina Ionescu added 18 as the Liberty advanced to the semifinals.</description>
-      <pubDate>Wed, 30 Sep 2026 03:31:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-30-liberty-lynx-historic-upset</guid>
-      <source url="https://www.nbcsports.com/wnba/news/no-8-seeded-liberty-sweep-top-seeded-lynx-87-71-in-quarterfinals-advance-to-wnba-semifinals">Associated Press</source>
-    </item>
-    <item>
-      <title>U.S. captain Tim Ream retires from international soccer</title>
-      <link>https://www.reuters.com/sports/soccer/united-states-captain-ream-retires-international-football-2026-09-30/</link>
-      <description>Tim Ream retired from the U.S. national team at 38 after 86 appearances across 16 years. The Charlotte FC defender won two CONCACAF Nations League titles and captained the Americans at this summer&apos;s World Cup, where they reached the round of 16 before losing to Belgium.</description>
-      <pubDate>Wed, 30 Sep 2026 03:49:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-09-30-tim-ream-international-retirement</guid>
-      <source url="https://www.reuters.com/sports/soccer/united-states-captain-ream-retires-international-football-2026-09-30/">Reuters</source>
     </item>
   </channel>
 </rss>

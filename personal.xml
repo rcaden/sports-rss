@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Minecraft Java Edition sheds its code obfuscation</title>
+      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1</link>
+      <description>Minecraft Java Edition 26.1 no longer obscures its executable code and now requires Java 25. The change should make the game easier for modders to inspect, debug and extend, although Mojang emphasizes that readable code is not the same as open-source or freely licensed code.</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-05-minecraft-java-unobfuscated</guid>
+      <source url="https://www.minecraft.net/">Minecraft</source>
+    </item>
+    <item>
+      <title>Basil Wolverton’s grotesque visions of Revelation</title>
+      <link>https://www.wired.com/2006/11/basil-wolverton/</link>
+      <description>A look at the strange religious art of Basil Wolverton, whose famously lumpy “spaghetti and meatball” cartoon style also produced stark illustrations of Revelation. The piece connects the creator of Lena the Hyena and MAD grotesques to a less familiar, deeply serious body of work.</description>
+      <pubDate>Mon, 06 Nov 2006 16:39:10 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-05-basil-wolverton-revelation</guid>
+      <source url="https://www.wired.com/">Wired</source>
+    </item>
+    <item>
+      <title>Boston opens 135 years of historic newspapers as data</title>
+      <link>https://www.bpl.org/news/boston-public-library-and-harvard-idi-release-open-dataset-from-135-years-of-historic-newspapers/</link>
+      <description>Boston Public Library and Harvard released an open dataset drawn from 1.47 million newspaper pages published from 1795 to 1930. It contains 16.3 billion words across 73 languages, plus an open-source processing pipeline that other libraries and archives can adapt.</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-05-historical-newspaper-dataset</guid>
+      <source url="https://www.bpl.org/">Boston Public Library</source>
+    </item>
     <item>
       <title>Duke maps the riches—and limits—of the 2026 public domain</title>
       <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-01-servicenow-creator-update</guid>
       <source url="https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068">ServiceNow Community</source>
-    </item>
-    <item>
-      <title>A forgotten box yields a Golden Age comics trove</title>
-      <link>https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms</link>
-      <description>The newly surfaced Merrimack Valley Collection spent 75 to 80 years in a cardboard box. Its exceptional Golden Age books include a 9.0 Captain America Comics No. 1, a 9.4 No. 3 containing Stan Lee&apos;s first Timely work, and Batman&apos;s first nine issues—eight graded 6.5 or higher.</description>
-      <pubDate>Fri, 25 Sep 2026 04:22:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-25-merrimack-valley-comics-collection</guid>
-      <source url="https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms">The Times of India</source>
-    </item>
-    <item>
-      <title>Creative Commons meets Indigenous cultural authority</title>
-      <link>https://localcontexts.org/new-guidance-for-indigenous-collections-and-data/</link>
-      <description>A new guide from Creative Commons and Local Contexts shows museums, archives and researchers how open licenses can work alongside Traditional Knowledge and Biocultural Labels. Case studies explain how the tools add provenance, community protocols and permissions that copyright alone cannot express.</description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-09-09-indigenous-collections-guidance</guid>
-      <source url="https://localcontexts.org/new-guidance-for-indigenous-collections-and-data/">Local Contexts</source>
-    </item>
-    <item>
-      <title>St. Augustine dig finds its first British redoubt</title>
-      <link>https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f</link>
-      <description>A 15-foot-wide dry moat found in Lincolnville is the first physical evidence of one of seven British redoubts built around St. Augustine. The 1781 fortification survived only as marks on old maps until the city&apos;s archaeology program examined the lot before home construction and recovered thousands of plant remains.</description>
-      <pubDate>Fri, 28 Mar 2025 15:29:48 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2025-03-28-st-augustine-british-redoubt</guid>
-      <source url="https://apnews.com/article/5dddbffbacd863c0a21c6de4f4efb02f">Associated Press</source>
     </item>
   </channel>
 </rss>

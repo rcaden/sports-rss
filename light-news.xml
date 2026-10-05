@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Three scientists win medicine Nobel for controlling cells with light</title>
+      <link>https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba</link>
+      <description>Karl Deisseroth, Peter Hegemann and Georg Nagel won the Nobel Prize in medicine for optogenetics, a method that uses light-sensitive proteins as switches inside cells. The technique lets researchers turn specific neurons on and off with light, opening new ways to study the brain.</description>
+      <pubDate>Mon, 05 Oct 2026 07:01:36 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-05-optogenetics-nobel</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>Houston Zoo welcomes a tiny parade of rare reptiles</title>
+      <link>https://www.houstonzoo.org/about/newsroom/small-arrivals-big-conservation-milestones/</link>
+      <description>Houston Zoo is celebrating several pint-sized conservation milestones, including its first-ever Hosmer’s spiny-tailed skink birth. New arrivals also include star tortoises, eyelash vipers and leaf-tailed geckos—an appropriately scaly cast for October.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-05-houston-zoo-reptile-babies</guid>
+      <source url="https://www.houstonzoo.org/">Houston Zoo</source>
+    </item>
+    <item>
+      <title>Mars, a crescent moon and a star cluster share the morning sky</title>
+      <link>https://www.space.com/stargazing/look-up-mars-meets-the-crescent-moon-on-oct-5-before-flying-through-a-swarm-of-stars</link>
+      <description>Early risers can see Mars close to a slim crescent moon before dawn on Oct. 5. The red planet is also heading toward the Beehive Cluster, a sparkling group of stars also known as M44, making binoculars especially rewarding over the next several mornings.</description>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-05-mars-moon-beehive</guid>
+      <source url="https://www.space.com/">Space.com</source>
+    </item>
     <item>
       <title>Manila church fills with wagging tails for annual pet blessing</title>
       <link>https://apnews.com/article/476938ab4e49e76c7f2b4a0eab87ed54</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-01-frog-climate-refuges</guid>
       <source url="https://nationalzoo.si.edu/news/research-climate-refuges-may-be-key-restoring-amphibians">Smithsonian&apos;s National Zoo</source>
-    </item>
-    <item>
-      <title>Gentle giant Backpack wins Fat Bear Week</title>
-      <link>https://apnews.com/article/fat-bear-week-alaska-katmai-04538e13c022fcfc08344aac8eeace5e</link>
-      <description>Backpack, officially Bear 89, won Alaska&apos;s Fat Bear Week with more than 100,000 votes. The calm, nonaggressive son of former champion Holly edged Bear 910 in the online final. The annual Katmai contest celebrates brown bears building the reserves needed to survive winter hibernation.</description>
-      <pubDate>Tue, 29 Sep 2026 18:00:41 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-29-backpack-fat-bear-winner</guid>
-      <source url="https://apnews.com/article/fat-bear-week-alaska-katmai-04538e13c022fcfc08344aac8eeace5e">Associated Press</source>
-    </item>
-    <item>
-      <title>Japan takes its first national look at animal cafes</title>
-      <link>https://www.reuters.com/world/asia-pacific/japan-survey-animal-cafes-first-time-over-welfare-disease-concerns-2026-09-30/</link>
-      <description>Japan has begun its first nationwide survey of animal cafes, counting facilities and examining how animals are housed and handled. The review covers cat and dog cafes as well as exotic attractions featuring otters, owls and marmots, and could help responsible operators stand apart from businesses that put profit first.</description>
-      <pubDate>Wed, 30 Sep 2026 02:02:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-30-japan-animal-cafe-survey</guid>
-      <source url="https://www.reuters.com/world/asia-pacific/japan-survey-animal-cafes-first-time-over-welfare-disease-concerns-2026-09-30/">Reuters</source>
-    </item>
-    <item>
-      <title>Canal shark becomes Busan&apos;s newest celebrity</title>
-      <link>https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue</link>
-      <description>A 3.5-meter shark trapped in a Busan canal has drawn more than 600,000 visitors and earned the nickname Bukang-i. The city made it an honorary publicity ambassador—and a “Shafluencer”—while coast guard crews use water jets and expert guidance to coax it safely back to sea.</description>
-      <pubDate>Tue, 29 Sep 2026 06:41:16 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-09-29-busan-canal-shark</guid>
-      <source url="https://www.theguardian.com/world/2026/sep/29/large-shark-stuck-city-canal-south-korea-rescue">The Guardian</source>
     </item>
   </channel>
 </rss>

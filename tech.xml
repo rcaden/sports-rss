@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Researchers propose a ‘militant democracy’ test for social platforms</title>
+      <link>https://www.techpolicy.press/why-social-media-platforms-should-adopt-a-militant-democracy-framework/</link>
+      <description>Daniel Kreiss and Lorcan Neill argue that social platforms need policies grounded in democratic principles when governments themselves are backsliding. Their framework rejects treating pro-democracy and anti-democratic forces as equivalent and asks platforms to protect opposition voices, elections and civil society from captured state power.</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-06-militant-platform-democracy</guid>
+      <source url="https://www.techpolicy.press/">Tech Policy Press</source>
+    </item>
+    <item>
+      <title>The reporter behind the Facebook Files meets his movie version</title>
+      <link>https://www.reuters.com/world/us/real-reporter-behind-the-social-reckoning-what-aaron-sorkins-film-gets-right-2026-10-05/</link>
+      <description>Jeff Horwitz explains how patient source cultivation led Frances Haugen to share the documents behind the Facebook Files—and what changes when that reporting becomes an Aaron Sorkin film. His account contrasts the slow, evidence-heavy work of journalism with the compressed chronology and composite characters of Hollywood.</description>
+      <pubDate>Mon, 05 Oct 2026 14:24:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-06-horwitz-social-reckoning</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>W3C maps a path toward ODRL 3.0</title>
+      <link>https://www.w3.org/news/2026/w3c-workshop-report-the-future-of-odrl/</link>
+      <description>A W3C workshop recommends a new working group for ODRL 3.0, with stronger semantics, conformance rules, tests and better usability. The larger aim is an interoperable layer for machine-readable policies spanning media, identity, provenance, contracts, finance and data spaces rather than another isolated vocabulary revision.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-06-odrl-3-workshop-report</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
     <item>
       <title>Publishers and protocol builders gather around an open-web agenda</title>
       <link>https://protocolsforpublishers.com/toronto-2026/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
       <source url="https://www.reuters.com/">Reuters</source>
       <guid isPermaLink="false">urn:acme:tech:2026-10-02-voting-machine-investigation</guid>
-    </item>
-    <item>
-      <title>W3C pilots direct support for open-source web projects</title>
-      <link>https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/</link>
-      <description>The World Wide Web Consortium has begun a pilot program to support open-source projects that implement web standards. The effort is meant to strengthen collaboration around web technology, speed adoption and improve interoperability—exactly the connective tissue the open web needs but rarely funds well.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-01-w3c-open-source-pilot</guid>
-      <source url="https://www.w3.org/blog/2026/w3c-launches-first-pilot-of-program-to-support-open-source-projects/">W3C</source>
-    </item>
-    <item>
-      <title>Eclipse launches vendor-neutral software sovereignty initiative</title>
-      <link>https://markets.businessinsider.com/news/stocks/eclipse-foundation-launches-the-sovereign-ai-foundation-1036584863</link>
-      <description>The Eclipse Foundation has formed a vendor-neutral initiative to help organizations map technology dependencies, evaluate open-source alternatives and make more deliberate infrastructure choices. The practical goal is reduced lock-in and greater control over critical software stacks.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-01-eclipse-sovereign-foundation</guid>
-      <source url="https://markets.businessinsider.com/news/stocks/eclipse-foundation-launches-the-sovereign-ai-foundation-1036584863">Business Insider Markets</source>
-    </item>
-    <item>
-      <title>World News Day essay calls for journalism to rebuild trust together</title>
-      <link>https://www.washingtonpost.com/press-freedom-desk/2026/09/28/world-news-day-2026/</link>
-      <description>Daily Maverick co-founder Branko Brkic argues that news organizations must stop treating one another as the main competition, acknowledge how monopoly-era habits alienated communities and cooperate against disinformation and platform power. His prescription joins media criticism to a concrete democratic mission.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-01-world-news-day-journalism</guid>
-      <source url="https://www.washingtonpost.com/press-freedom-desk/2026/09/28/world-news-day-2026/">The Washington Post</source>
     </item>
   </channel>
 </rss>

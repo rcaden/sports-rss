@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>A database expert gets Doom running almost entirely in SQL</title>
+      <link>https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql</link>
+      <description>Lukas Vogel rebuilt Doom’s game logic inside a Postgres-compatible database using 5,900 lines of SQL. A 1,300-line renderer spans 89 tables, while a small Python front end handles input, sound and display. The relational approach even makes multiplayer synchronization and live changes to weapons or enemies unusually natural.</description>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-06-sqldoom</guid>
+      <source url="https://www.tomshardware.com/">Tom’s Hardware</source>
+    </item>
+    <item>
+      <title>Six-year project fully decompiles Super Smash Bros. Melee</title>
+      <link>https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code</link>
+      <description>A preservation team has converted the 2001 GameCube classic into C code that compiles to a byte-for-byte match of the original executable. The result exposes the engine, physics and game mechanics for study and could support future ports and mods, though users still need legally obtained game assets.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-06-melee-decompilation</guid>
+      <source url="https://www.tomshardware.com/">Tom’s Hardware</source>
+    </item>
+    <item>
+      <title>WordPress reorganizes its core maintainers and bug gardeners</title>
+      <link>https://make.wordpress.org/core/2026/10/02/core-trac-and-github-team-spring-cleaning-southern-hemisphere-edition/</link>
+      <description>WordPress refreshed its lists of component maintainers and bug gardeners, then created GitHub teams with triage access for those contributors and experienced Gutenberg developers. The practical goal is clearer ownership and easier pull-request review, labeling and assignment across the core project.</description>
+      <pubDate>Fri, 02 Oct 2026 17:21:17 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-06-wordpress-core-team-cleanup</guid>
+      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
+    </item>
     <item>
       <title>Minecraft Java Edition sheds its code obfuscation</title>
       <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 25 Sep 2025 22:19:12 GMT</pubDate>
       <source url="https://www.gamesradar.com/">GamesRadar+</source>
       <guid isPermaLink="false">urn:acme:personal:2026-10-02-charlton-heroes-ted-kord</guid>
-    </item>
-    <item>
-      <title>WordPress developer roundup previews 7.2 and the latest Gutenberg changes</title>
-      <link>https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/</link>
-      <description>WordPress&apos;s September developer roundup covers changes in Gutenberg 23.8 and 23.9, practical tooling updates and the road to WordPress 7.2. Beta 1 is planned for late October and the final release for December, making this a useful early map of what plugin and theme developers should test.</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-01-wordpress-developer-september</guid>
-      <source url="https://developer.wordpress.org/news/2026/09/whats-new-for-developers-september-2026/">WordPress Developer Blog</source>
-    </item>
-    <item>
-      <title>Long-hidden Golden Age comic collection comes to auction</title>
-      <link>https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms</link>
-      <description>The newly surfaced Merrimack Valley Collection preserved major Golden Age comics for roughly 75 to 80 years. Its highlights include high-grade copies of Captain America Comics Nos. 1 and 3 and Batman&apos;s first nine issues—a rare original-owner time capsule from the formative superhero era.</description>
-      <pubDate>Thu, 24 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-01-merrimack-comics-collection</guid>
-      <source url="https://timesofindia.indiatimes.com/world/us/rare-captain-america-and-batman-comics-were-stored-for-75-80-years-recently-discovered-collection-heads-to-auction/articleshow/134458595.cms">The Times of India</source>
-    </item>
-    <item>
-      <title>ServiceNow folds its development environment into Studio</title>
-      <link>https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068</link>
-      <description>ServiceNow&apos;s September Creator update removes manual upgrades for its coding assistant and folds the ServiceNow IDE into Studio. The release also outlines features arriving with Brazil Early Availability, providing a concise look at how the platform&apos;s everyday development workflow is changing.</description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-01-servicenow-creator-update</guid>
-      <source url="https://www.servicenow.com/community/servicenow-otto-for-creator/what-s-new-in-servicenow-otto-for-creator-brazil-ea-release/ta-p/3596068">ServiceNow Community</source>
     </item>
   </channel>
 </rss>

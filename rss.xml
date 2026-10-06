@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falcons run over Saints in 45-24 Monday night rout</title>
+      <link>https://www.neworleanssaints.com/news/2026-nfl-week-4-atlanta-falcons-vs-new-orleans-saints-game-recap</link>
+      <description>Bijan Robinson broke a 59-yard touchdown on Atlanta’s third play and joined Brian Robinson for five rushing scores as the Falcons beat New Orleans 45-24. Atlanta moved to 2-2 and into a tie for the NFC South lead. Michael Penix Jr. completed 15 of 20 passes for 223 yards and a touchdown.</description>
+      <pubDate>Tue, 06 Oct 2026 02:29:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-06-falcons-saints-rout</guid>
+      <source url="https://www.neworleanssaints.com/">New Orleans Saints</source>
+    </item>
+    <item>
+      <title>Rays seize 2-0 ALDS lead after Yankees unravel</title>
+      <link>https://www.mlb.com/news/rays-win-alds-game-2-2026</link>
+      <description>Tampa Bay used a four-run fifth inning and pressure throughout the lineup to beat New York 5-2 and move one win from the ALCS. The Yankees committed three errors in the first inning, and the Rays later chased ace Cam Schlittler with a parade of contact, speed and aggressive baserunning.</description>
+      <pubDate>Tue, 06 Oct 2026 05:50:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-06-rays-yankees-alds-game-two</guid>
+      <source url="https://www.mlb.com/">MLB.com</source>
+    </item>
+    <item>
+      <title>White Sox rally to move within one win of the ALCS</title>
+      <link>https://www.mlb.com/whitesox/news/white-sox-win-alds-game-2-2026</link>
+      <description>Rookie Braden Montgomery’s two-run double highlighted a three-run sixth as Chicago beat Cleveland 4-3 for a 2-0 ALDS lead. The White Sox have won four straight postseason games, all on the road, and can clinch their first ALCS berth since the 2005 championship season when the series moves to Chicago.</description>
+      <pubDate>Tue, 06 Oct 2026 01:55:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-06-white-sox-guardians-alds-game-two</guid>
+      <source url="https://www.mlb.com/">MLB.com</source>
+    </item>
     <item>
       <title>Cowboys stun Texans with a last-minute comeback</title>
       <link>https://www.reuters.com/sports/nfl-roundup-cowboys-last-minute-td-caps-big-2nd-half-upends-texans--flm-2026-10-04/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 01 Oct 2026 09:23:09 GMT</pubDate>
       <source url="https://www.reuters.com/">Reuters</source>
       <guid isPermaLink="false">urn:acme:sports:2026-10-02-cowboys-porter-trade</guid>
-    </item>
-    <item>
-      <title>Yankees, White Sox and Padres sweep into division series</title>
-      <link>https://www.reuters.com/sports/mlb-roundup-yankees-white-sox-padres-complete-wild-card-sweeps--flm-2026-10-01/</link>
-      <description>Three wild-card series ended in two-game sweeps. The Yankees routed Boston 9-2, the White Sox beat Houston 7-3 for their first postseason series victory since 2005, and the Padres topped the Cubs 4-1. Philadelphia forced a decisive Game 3 with a 10-inning win over Atlanta.</description>
-      <pubDate>Thu, 01 Oct 2026 06:20:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-01-mlb-wild-card-sweeps</guid>
-      <source url="https://www.reuters.com/sports/mlb-roundup-yankees-white-sox-padres-complete-wild-card-sweeps--flm-2026-10-01/">Reuters</source>
-    </item>
-    <item>
-      <title>Senate sends sweeping college-sports bill to the House</title>
-      <link>https://apnews.com/article/a63e3f4e0be41fb95062b2bc5e646f9f</link>
-      <description>The Senate passed the Protect College Sports Act 77-22, proposing national rules for athlete compensation and transfers, new scholarship and health protections, and limited antitrust protection for the NCAA. The measure faces an uncertain path in a House that is out until after the midterm elections.</description>
-      <pubDate>Mon, 28 Sep 2026 16:12:01 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-01-college-sports-bill-senate</guid>
-      <source url="https://apnews.com/article/a63e3f4e0be41fb95062b2bc5e646f9f">Associated Press</source>
-    </item>
-    <item>
-      <title>NFL tells Rams a decisive pass-interference flag was wrong</title>
-      <link>https://www.reuters.com/sports/rams-coach-sean-mcvay-nfl-admitted-error-game-deciding-dpi-call--flm-2026-10-01/</link>
-      <description>Sean McVay said the NFL acknowledged that Rams cornerback Josh Wallace should not have been flagged late against Denver. The penalty erased an interception and gave the Broncos a first down; Bo Nix scored the winning touchdown six plays later. The admission sharpens the perennial debate over reviewable judgment calls.</description>
-      <pubDate>Thu, 01 Oct 2026 02:11:56 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-01-rams-dpi-error</guid>
-      <source url="https://www.reuters.com/sports/rams-coach-sean-mcvay-nfl-admitted-error-game-deciding-dpi-call--flm-2026-10-01/">Reuters</source>
     </item>
   </channel>
 </rss>

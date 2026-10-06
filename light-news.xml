@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Antarctic ‘ghost particle’ hunter wins the physics Nobel</title>
+      <link>https://www.reuters.com/science/francis-halzen-wins-2026-nobel-prize-physics-2026-10-06/</link>
+      <description>Francis Halzen, 82, won the Nobel Prize in Physics for turning a cubic kilometer of Antarctic ice into the IceCube observatory. Its buried sensors catch faint traces of high-energy neutrinos—elusive cosmic messengers that pass through Earth and can point scientists toward exploding stars and black holes.</description>
+      <pubDate>Tue, 06 Oct 2026 09:51:57 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-06-halzen-physics-nobel</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>The Hollywood sign has a secret wild side</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign</link>
+      <description>The closed hillside around Los Angeles’ Hollywood sign doubles as an urban wildlife refuge. Hawks sail above the letters, snakes curl at their base, bobcats roam nearby and coyotes leave tracks along the trails. Griffith Park supports about 200 bird species, 50 kinds of butterflies and 40 mammal species.</description>
+      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-06-hollywood-sign-wildlife</guid>
+      <source url="https://www.theguardian.com/">The Guardian</source>
+    </item>
+    <item>
+      <title>Snow leopard cub Sarka makes her Bronx Zoo debut</title>
+      <link>https://people.com/bronx-zoo-welcomes-adorable-new-snow-leopard-cub-member-rare-species-threatened-with-extinction-12151453</link>
+      <description>Four-month-old Sarka has passed her physical exams and vaccinations, clearing the snow leopard cub to explore the Bronx Zoo’s Himalayan Highlands with her mother, Dariga. The zoo has bred more than 80 snow leopards since 1903 and participates in a program that helps preserve the vulnerable species’ genetic diversity.</description>
+      <pubDate>Thu, 01 Oct 2026 16:18:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-06-sarka-snow-leopard-debut</guid>
+      <source url="https://people.com/">People</source>
+    </item>
     <item>
       <title>Three scientists win medicine Nobel for controlling cells with light</title>
       <link>https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 17 Sep 2026 15:47:11 GMT</pubDate>
       <source url="https://www.reuters.com/">Reuters</source>
       <guid isPermaLink="false">urn:acme:light:2026-10-02-bolivia-new-cat-species</guid>
-    </item>
-    <item>
-      <title>NASA invites the public to hunt for overlapping galaxies</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</link>
-      <description>NASA&apos;s new Overlap Zoo turns a cosmic coincidence into a citizen-science project. Volunteers can inspect telescope images, verify pairs of galaxies that line up from Earth, and trace their outlines. The resulting catalog will help astronomers map otherwise elusive dust and improve distance estimates.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-01-overlap-zoo-galaxies</guid>
-      <source url="https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/">NASA Science</source>
-    </item>
-    <item>
-      <title>Space agencies begin planning a garden for the Moon</title>
-      <link>https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/</link>
-      <description>NASA and partners in Canada and Germany will design an Earth-based test bed for growing crops under Moon-like conditions. A future lunar garden could give crews fresh food while absorbing carbon dioxide, producing oxygen and recycling water—putting a practical spin on the old dream of farming beyond Earth.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-01-moon-space-crops</guid>
-      <source url="https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/">NASA Science</source>
-    </item>
-    <item>
-      <title>Scientists map possible refuges for endangered tropical frogs</title>
-      <link>https://nationalzoo.si.edu/news/research-climate-refuges-may-be-key-restoring-amphibians</link>
-      <description>Smithsonian researchers identified places in Panama where vulnerable frogs may be able to persist despite a deadly fungal disease. The work points toward climate refuges that could guide reintroduction efforts, offering a hopeful, more targeted strategy for restoring amphibian populations.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-01-frog-climate-refuges</guid>
-      <source url="https://nationalzoo.si.edu/news/research-climate-refuges-may-be-key-restoring-amphibians">Smithsonian&apos;s National Zoo</source>
     </item>
   </channel>
 </rss>

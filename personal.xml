@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>WordPress 7.1.3 fixes seven security flaws</title>
+      <link>https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/</link>
+      <description>WordPress 7.1.3 is a maintenance and security release with seven security fixes and four bug fixes. The patched issues include stored cross-site scripting, denial of service, second-order SQL injection in WXR export and disclosure of comments on private or unpublished posts. Site owners are urged to update immediately.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-07-wordpress-7-1-3</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
+    <item>
+      <title>MacKenzie Scott’s serialized dystopia tests self-publishing</title>
+      <link>https://www.newyorker.com/books/page-turner/mackenzie-scotts-substack-novel-cant-escape-the-amazon-juggernaut</link>
+      <description>Rhoda Feng examines MacKenzie Scott’s decision to serialize a dystopian third novel on Substack rather than use a traditional publisher. The essay treats the experiment as both a possible protest against Amazon and evidence of how thoroughly Kindle-era genre fiction, direct publishing and platform economics have reshaped the novel.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-07-mackenzie-scott-substack-novel</guid>
+      <source url="https://www.newyorker.com/">The New Yorker</source>
+    </item>
+    <item>
+      <title>St. Augustine’s colonial archaeology goes online</title>
+      <link>https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/</link>
+      <description>The Florida Museum’s Interactive Digital St. Augustine database opens artifacts from colonial household sites to researchers and the public. Built with the Digital Archaeological Archive of Comparative Slavery, the project starts with three excavated lots and makes part of a million-object collection searchable online.</description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-07-idigstaug-digital-archaeology</guid>
+      <source url="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</source>
+    </item>
     <item>
       <title>A database expert gets Doom running almost entirely in SQL</title>
       <link>https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
       <guid isPermaLink="false">urn:acme:personal:2026-10-03-lucas-museum-narrative-art</guid>
-    </item>
-    <item>
-      <title>Garry Kitchen’s GameMaker lives again in a browser</title>
-      <link>https://gmc64.com/</link>
-      <description>GMC64 is a faithful browser recreation of Garry Kitchen’s 1985 Commodore 64 game-development system. The open-source project accepts original disk images and preserves its sprite, scene, sound and scripting workflow without requiring an emulator—a useful example of keeping a software-creation tool usable rather than merely archived.</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://gmc64.com/">GMC64</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-02-gmc64-browser-recreation</guid>
-    </item>
-    <item>
-      <title>What Ireland’s artists’ tax exemption does not cover</title>
-      <link>https://www.revenue.ie/en/personal-tax-credits-reliefs-and-exemptions/income-and-employment/artists-exemption/prsi-vat-usc-and-the-high-earners-restriction.aspx</link>
-      <description>Ireland’s official guidance clarifies an important limit on its artists’ exemption: qualifying creative income may escape Income Tax, but not PRSI, VAT or the Universal Social Charge. The exemption also remains subject to the High Earners Restriction. It is a useful corrective to the shorthand claim that writers in Ireland simply pay no tax.</description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.revenue.ie/">Irish Tax and Customs</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-02-ireland-artists-tax-exemption</guid>
-    </item>
-    <item>
-      <title>How Charlton’s Action Heroes became part of DC history</title>
-      <link>https://www.gamesradar.com/entertainment/dc-tv-shows/charlton-comics-heroes-explained/</link>
-      <description>A compact guide traces the Charlton Action Heroes—including Ted Kord’s Blue Beetle, Captain Atom, the Question and Peacemaker—from their distinctive 1960s stories through DC’s acquisition and their indirect transformation into Watchmen. It is a useful map of why this small publisher’s characters continue to echo through modern comics and television.</description>
-      <pubDate>Thu, 25 Sep 2025 22:19:12 GMT</pubDate>
-      <source url="https://www.gamesradar.com/">GamesRadar+</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-02-charlton-heroes-ted-kord</guid>
     </item>
   </channel>
 </rss>

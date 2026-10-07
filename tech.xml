@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Microsoft and Nvidia move coding agents onto the PC</title>
+      <link>https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/</link>
+      <description>Microsoft and Nvidia are unveiling the Surface Laptop Ultra, built around RTX Spark chips that can run coding and business agents locally instead of in the cloud. The bet revives the PC as an independent computing platform, though soaring memory costs may push the machine beyond the reach of ordinary developers.</description>
+      <pubDate>Wed, 07 Oct 2026 10:05:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-07-surface-laptop-ultra-local-agents</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Independent media needs distribution, not just good reporting</title>
+      <link>https://www.journalofdemocracy.org/articles/how-to-protect-the-media-in-eroding-democracies/</link>
+      <description>Maya Tudor argues that journalism cannot defend democracy on reporting alone. Comparing Hungary, India, Poland and Sri Lanka, she finds independent outlets also need resilient distribution, networked alliances, diverse financing and legal defenses—especially when governments and platforms can dominate how citizens encounter news.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-07-media-distribution-democracy</guid>
+      <source url="https://www.journalofdemocracy.org/">Journal of Democracy</source>
+    </item>
+    <item>
+      <title>Open-source builders put interoperable agent protocols on the agenda</title>
+      <link>https://opensource.googleblog.com/2026/10/this-week-in-open-source-for-october-2-2026.html</link>
+      <description>Google’s open-source roundup points developers toward an October summit session on how the vendor-neutral A2A and MCP protocols work together, alongside practical projects for local retrieval and transparent model inference. The common thread is familiar: useful scripting systems become more durable when their parts can interoperate.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-07-open-agent-protocols-summit</guid>
+      <source url="https://opensource.googleblog.com/">Google Open Source Blog</source>
+    </item>
     <item>
       <title>Researchers propose a ‘militant democracy’ test for social platforms</title>
       <link>https://www.techpolicy.press/why-social-media-platforms-should-adopt-a-militant-democracy-framework/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://fsfe.org/">Free Software Foundation Europe</source>
       <guid isPermaLink="false">urn:acme:tech:2026-10-03-fsfe-interoperability-report</guid>
-    </item>
-    <item>
-      <title>Reddit sets November date to shut down RSS feeds</title>
-      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
-      <description>Reddit says its RSS feeds will stop Nov. 13 and its public API will close in March 2027, citing scraping and abusive traffic. Moderators get a Devvit relay option, but outside feed-reader users get no replacement. The decision turns a major body of public conversation into licensed platform data and removes another open-web access point.</description>
-      <pubDate>Wed, 30 Sep 2026 17:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/">TechCrunch</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-02-reddit-rss-shutdown</guid>
-    </item>
-    <item>
-      <title>Social media’s democratic reputation declines worldwide</title>
-      <link>https://www.pewresearch.org/global/2026/10/01/americans-are-negative-about-social-medias-impact-on-democracy-and-the-rest-of-the-world-is-catching-up/</link>
-      <description>Pew finds 64% of Americans believe social media has harmed democracy, while negative assessments have risen in 16 of 26 countries surveyed in both 2022 and 2026. The Netherlands now records the bleakest view at 70%. The international shift suggests the platform-governance debate is no longer chiefly an American argument.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.pewresearch.org/">Pew Research Center</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-02-social-media-democracy-survey</guid>
-    </item>
-    <item>
-      <title>Voting-machine suspicions spread across federal agencies</title>
-      <link>https://www.reuters.com/investigations/how-trumps-obsession-with-rigged-voting-machines-spread-across-us-government-2026-10-02/</link>
-      <description>A Reuters investigation reconstructs how a probe of Puerto Rico voting machines expanded across federal agencies before the midterms. Officials found no evidence that hackers altered votes, but the inquiry widened anyway. Interviews with more than two dozen people show how unsupported suspicions became a government-wide effort with consequences for election trust.</description>
-      <pubDate>Fri, 02 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-02-voting-machine-investigation</guid>
     </item>
   </channel>
 </rss>

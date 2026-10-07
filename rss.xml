@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Yamamoto strikes out 10 as Dodgers regain NLDS lead</title>
+      <link>https://www.reuters.com/sports/baseball/yoshinobu-yamamoto-dodgers-take-nlds-lead-over-braves--flm-2026-10-07/</link>
+      <description>Yoshinobu Yamamoto allowed one run in seven innings and struck out a postseason-career-high 10 as Los Angeles beat Atlanta 3-1 for a 2-1 NLDS lead. Enrique Hernández and former Brave Freddie Freeman homered in the fourth; the Dodgers can clinch a third straight trip to the NLCS with one more win.</description>
+      <pubDate>Wed, 07 Oct 2026 01:21:25 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-07-dodgers-braves-nlds-game-three</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Padres stave off elimination and force Game 4</title>
+      <link>https://www.reuters.com/sports/baseball/padres-come-up-with-clutch-efforts-beat-brewers-force-game-4--flm-2026-10-07/</link>
+      <description>Jake Cronenworth broke a tie with a fifth-inning homer and Michael King earned a six-out save two days after starting as San Diego beat Milwaukee 4-3. Xander Bogaerts ended the game with a sharp double play, keeping the Padres alive and extending the Brewers’ road postseason losing streak to 12.</description>
+      <pubDate>Wed, 07 Oct 2026 05:31:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-07-padres-brewers-nlds-game-three</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>World Cup winner Pedro retires after a 20-year career</title>
+      <link>https://www.reuters.com/sports/soccer/world-cup-winner-pedro-calls-time-20-year-career-2026-10-07/</link>
+      <description>Pedro Rodríguez retired at 39 after 794 club appearances, 197 goals and 25 major trophies. The versatile forward won the 2010 World Cup and Euro 2012 with Spain, collected 20 trophies at Barcelona and later won the Premier League with Chelsea before finishing his career in Rome with Roma and Lazio.</description>
+      <pubDate>Wed, 07 Oct 2026 12:19:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-07-pedro-retires</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Falcons run over Saints in 45-24 Monday night rout</title>
       <link>https://www.neworleanssaints.com/news/2026-nfl-week-4-atlanta-falcons-vs-new-orleans-saints-game-recap</link>
@@ -103,30 +127,6 @@
       <pubDate>Sat, 03 Oct 2026 09:12:40 GMT</pubDate>
       <source url="https://www.reuters.com/">Reuters</source>
       <guid isPermaLink="false">urn:acme:sports:2026-10-03-verstappen-sepang-pole</guid>
-    </item>
-    <item>
-      <title>Braves win decisive wild-card game and advance</title>
-      <link>https://www.reuters.com/sports/three-homers-send-braves-past-phillies-into-nlds-matchup-with-dodgers--fldm-2026-10-02/</link>
-      <description>Atlanta beat Philadelphia 6-2 in the deciding third game of their wild-card series, a significant follow-up to Thursday’s opening-round results. Michael Harris II hit a three-run homer in the first inning, while Ozzie Albies and Matt Olson also went deep. The Braves now face the Dodgers after their first winner-take-all postseason victory since 1996.</description>
-      <pubDate>Fri, 02 Oct 2026 06:38:37 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-02-braves-wild-card-game-three</guid>
-    </item>
-    <item>
-      <title>Manchester City appeals Premier League financial ruling</title>
-      <link>https://www.reuters.com/sports/soccer/man-city-appeal-premier-league-financial-ruling-2026-10-02/</link>
-      <description>Manchester City has appealed a ruling that found serious breaches of Premier League financial rules, including sham sponsorship contracts that allegedly inflated revenue and reduced costs by more than £900 million. An independent appeal board will review the case. Potential sanctions discussed include points deductions, relegation and removal of titles.</description>
-      <pubDate>Fri, 02 Oct 2026 10:58:56 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-02-man-city-appeal</guid>
-    </item>
-    <item>
-      <title>Cowboys acquire Joey Porter Jr. from Steelers</title>
-      <link>https://www.reuters.com/sports/cowboys-acquire-cb-joey-porter-jr-trade-with-steelers--flm-2026-10-01/</link>
-      <description>Dallas acquired cornerback Joey Porter Jr. after his contract talks with Pittsburgh reached an impasse. The Steelers receive a 2027 sixth-round pick and a 2028 second-rounder, according to reports. Porter, a 2023 second-round selection and son of the longtime Steelers linebacker, gives a struggling Cowboys secondary an immediate reinforcement.</description>
-      <pubDate>Thu, 01 Oct 2026 09:23:09 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-02-cowboys-porter-trade</guid>
     </item>
   </channel>
 </rss>

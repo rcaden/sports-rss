@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Books may get an ‘organic’ human-authored stamp</title>
+      <link>https://www.wired.com/story/organic-literature-books-by-people-stamp-ai</link>
+      <description>British startup Books by People won approval for a thumbprint-style mark identifying human-authored books. Its process combines declarations, manuscript checks and review of drafts and research. Five publishers have joined, though critics warn that certification could wrongly cast suspicion on writers.</description>
+      <pubDate>Wed, 07 Oct 2026 08:30:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-08-organic-books-stamp</guid>
+      <source url="https://www.wired.com/">WIRED</source>
+    </item>
+    <item>
+      <title>Turkish publisher wins a second freedom-to-publish award</title>
+      <link>https://apnews.com/article/freedom-publish-turkey-avesta-kurdish-award-aap-191927d54f0e46219ddff8a3c31a73a3</link>
+      <description>The Association of American Publishers honored Avesta Publishing House for defending Kurdish literature and culture despite book bans, a burned warehouse and a website shutdown. Founded in 1995, Avesta also received the award in 2005 and has published hundreds of books on marginalized histories.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-08-avesta-freedom-award</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>Betty Boop, Blondie and classic detectives join the public domain</title>
+      <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
+      <description>The 2026 public-domain class opened U.S. reuse of works from 1930, including early Betty Boop and Blondie appearances, Nancy Drew, Sam Spade and Miss Marple. Also newly free are “The Maltese Falcon,” “As I Lay Dying,” “Animal Crackers,” “I Got Rhythm” and “Georgia on My Mind,” with later character elements still protected.</description>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-08-public-domain-1930-works</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
     <item>
       <title>WordPress 7.1.3 fixes seven security flaws</title>
       <link>https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/</link>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 02 Oct 2026 11:00:00 GMT</pubDate>
       <source url="https://www.theguardian.com/">The Guardian</source>
       <guid isPermaLink="false">urn:acme:personal:2026-10-04-fourthwrite-shortlist</guid>
-    </item>
-    <item>
-      <title>WordPress documents three ways to import site content</title>
-      <link>https://developer.wordpress.org/playground/handbook/guides/import-content-with-blueprints/</link>
-      <description>A new WordPress developer guide compares three Blueprint import methods: WXR for portable posts and terms, PHP for deterministic fixtures, and ZIP snapshots for complete sites. It explains what each method moves, shows how WXR preserves content relationships and attachments, and includes benchmarks using a 100-post test site.</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://developer.wordpress.org/">WordPress Developer Resources</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-03-wordpress-blueprint-content-imports</guid>
-    </item>
-    <item>
-      <title>LitRPG turns self-published serials into publishing blockbusters</title>
-      <link>https://www.theatlantic.com/culture/2026/09/lit-rpg-dungeon-crawler-carl-dragon-con/688825/</link>
-      <description>The rise of Dungeon Crawler Carl shows how a prolific online series can build a readership before traditional publishing arrives. Matt Dinniman’s first seven volumes were self-published online; the series has now sold 17 million copies and is headed for television. The piece explains how Royal Road became an incubator for game-shaped speculative fiction.</description>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.theatlantic.com/">The Atlantic</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-03-litrpg-self-publishing-breakout</guid>
-    </item>
-    <item>
-      <title>Lucas Museum puts popular narrative art in the gallery</title>
-      <link>https://www.smithsonianmag.com/travel/the-lucas-museum-of-narrative-art-a-new-endeavor-from-the-creator-of-star-wars-is-a-story-in-itself-180989533/</link>
-      <description>The new Lucas Museum of Narrative Art treats comics, illustration, film design and other popular visual storytelling as museum-worthy art. Its 40,000-item founding collection ranges from manga and Frank Frazetta to Beatrix Potter, movie costumes and classic painting, with more than 1,200 works displayed across 30 galleries.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-03-lucas-museum-narrative-art</guid>
     </item>
   </channel>
 </rss>

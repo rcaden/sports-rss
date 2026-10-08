@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Rays sweep Yankees and advance to the ALCS</title>
+      <link>https://www.reuters.com/sports/mlb-roundup-rays-dodgers-brewers-wrap-up-division-series--flm-2026-10-08/</link>
+      <description>Victor Mesa Jr. broke a tie with a two-run homer as Tampa Bay beat New York 4-3 to sweep the ALDS. A fan-interference review erased what initially appeared to be Anthony Volpe’s tying homer, leaving the Yankees short and sending the Rays to their third ALCS.</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:05 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-08-rays-sweep-yankees</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Brewers finish Padres and earn an NLCS rematch</title>
+      <link>https://www.reuters.com/sports/baseball/brewers-ko-padres-game-4-set-up-nlcs-rematch-vs-dodgers--flm-2026-10-08/</link>
+      <description>Milwaukee beat San Diego 3-1 in Game 4, ending a 12-game postseason road losing streak and setting up a second straight NLCS against the Dodgers. Jackson Chourio supplied the go-ahead single, while Garrett Mitchell robbed Manny Machado of a potential tying homer.</description>
+      <pubDate>Thu, 08 Oct 2026 05:30:41 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-08-brewers-nlcs-rematch</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Oilers score five in one period to stun the Ducks</title>
+      <link>https://www.reuters.com/sports/nhl-roundup-leon-draisaitl-logs-4-assists-oilers-storm-past-ducks--flm-2026-10-08/</link>
+      <description>Edmonton erased a 2-0 deficit with five unanswered second-period goals in a 5-2 win at Anaheim. Leon Draisaitl had four assists, Evan Bouchard scored twice and Connor McDavid added a goal and two assists as the Oilers improved to 3-0-1.</description>
+      <pubDate>Thu, 08 Oct 2026 06:55:06 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-08-oilers-five-goal-period</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Yamamoto strikes out 10 as Dodgers regain NLDS lead</title>
       <link>https://www.reuters.com/sports/baseball/yoshinobu-yamamoto-dodgers-take-nlds-lead-over-braves--flm-2026-10-07/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 04 Oct 2026 10:31:00 GMT</pubDate>
       <source url="https://www.motorsport.com/">Motorsport.com</source>
       <guid isPermaLink="false">urn:acme:sports:2026-10-04-verstappen-bahrain-malaysia-win</guid>
-    </item>
-    <item>
-      <title>NHL opening night brings new faces and late drama</title>
-      <link>https://www.reuters.com/sports/nhl-roundup-alex-tuch-caps-send-champ-hurricanes-2nd-straight-loss--flm-2026-10-03/</link>
-      <description>Alex Tuch scored twice in his Washington debut as the Capitals beat defending champion Carolina 5-2. Elsewhere on the NHL’s first busy Friday, Boston erased a late deficit and beat Winnipeg in overtime, the Rangers and Blues posted shutouts, and Anaheim survived after building a four-goal lead in Las Vegas.</description>
-      <pubDate>Sat, 03 Oct 2026 06:17:55 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-03-nhl-opening-friday</guid>
-    </item>
-    <item>
-      <title>Three ranked road tests headline college football Saturday</title>
-      <link>https://apnews.com/article/ncaa-college-football-62e4badd9f6d220c7a6cc7b0aff6643f</link>
-      <description>Saturday’s schedule sends No. 5 Ohio State to No. 14 Iowa, No. 7 Alabama to No. 16 Mississippi State and No. 8 Florida to No. 25 Missouri. All three ranked home teams are coming off stirring victories. No. 4 Miami also visits Clemson, while unbeaten Cincinnati tries to reach 5-0 at Arizona.</description>
-      <pubDate>Sat, 03 Oct 2026 04:18:39 GMT</pubDate>
-      <source url="https://apnews.com/">Associated Press</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-03-college-football-ranked-road-tests</guid>
-    </item>
-    <item>
-      <title>Verstappen takes first pole of season at Sepang</title>
-      <link>https://www.reuters.com/sports/formula1/verstappen-claims-first-pole-season-bahrain-gp-malaysia-2026-10-03/</link>
-      <description>Max Verstappen claimed his first Formula One pole of the season at Malaysia’s revived Sepang race, edging Lewis Hamilton in brutal heat. Isack Hadjar qualified third but drops to eighth because of a grid penalty, moving championship leader Kimi Antonelli alongside Charles Leclerc on the second row.</description>
-      <pubDate>Sat, 03 Oct 2026 09:12:40 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-03-verstappen-sepang-pole</guid>
     </item>
   </channel>
 </rss>

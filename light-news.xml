@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Owls, bees, puffins and hedgehogs are coming to British banknotes</title>
+      <link>https://www.reuters.com/business/finance/barn-owls-bees-puffins-hedgehogs-feature-uk-banknotes-2026-10-07/</link>
+      <description>Britain’s next banknote designs will feature a barn owl, buff-tailed bumblebee, Atlantic puffin and European hedgehog. Nearly 500,000 people voted in the Bank of England consultation; the bumblebee topped the poll. The wildlife will gradually replace Churchill, Austen, Turner and Turing.</description>
+      <pubDate>Wed, 07 Oct 2026 23:04:53 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-08-british-wildlife-banknotes</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Pikachu takes a tour of the International Space Station</title>
+      <link>https://www.upi.com/Odd_News/2026/10/07/Pikachu-European-Space-Agency-International-Space-Station/6211791387825/</link>
+      <description>A spacesuit-clad Pikachu plush stars in a European Space Agency video tour of the International Space Station. Astronaut Sophie Adenot uses the yellow visitor to show viewers the station’s sleeping quarters, food storage and water-recycling system.</description>
+      <pubDate>Wed, 07 Oct 2026 15:47:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-08-pikachu-space-station</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
+    <item>
+      <title>A 2,856-pound pumpkin smashes the world record</title>
+      <link>https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-heaviest-pumpkin/5121791389821/</link>
+      <description>British grower Ian Paton’s pumpkin Bagheera weighed 2,856.8 pounds, topping the previous Guinness record by more than 37 pounds. The 65-year-old said the giant fruit drank about 130 gallons of water a day; after its moment in the spotlight, it will become cattle feed.</description>
+      <pubDate>Wed, 07 Oct 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-08-record-pumpkin-bagheera</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
     <item>
       <title>Chemists who mastered molecular ‘mirror images’ win Nobel</title>
       <link>https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://www.pdza.org/">Point Defiance Zoo &amp; Aquarium</source>
       <guid isPermaLink="false">urn:acme:light:2026-10-04-porcupette-bramble</guid>
-    </item>
-    <item>
-      <title>Museum turns mushroom electricity into music</title>
-      <link>https://www.theguardian.com/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm</link>
-      <description>A new exhibition in Exeter translates electrical signals from woodland fungi into a soundscape. “Living Labyrinths” also includes Beatrix Potter’s overlooked mycology studies, a sculpture honoring a fungus named for her and an artist’s watercolor map of the fungal ecosystem inside her own body.</description>
-      <pubDate>Wed, 30 Sep 2026 04:00:00 GMT</pubDate>
-      <source url="https://www.theguardian.com/">The Guardian</source>
-      <guid isPermaLink="false">urn:acme:light:2026-10-03-mushroom-music-exhibit</guid>
-    </item>
-    <item>
-      <title>Comedy wildlife finalists catch animals at their funniest</title>
-      <link>https://www.smithsonianmag.com/smart-news/see-the-hilarious-animal-shenanigans-captured-in-photos-and-videos-shortlisted-for-the-2026-nikon-comedy-wildlife-awards-180989600/</link>
-      <description>The 2026 Nikon Comedy Wildlife Awards drew a record 10,000-plus entries from 112 countries. Finalists include a sneezing moose that appears to finish with a grin, a flower-wearing bird, meerkats posing for a family portrait and a young elephant receiving an ill-aimed dust bath. Winners will be announced Dec. 8.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
-      <guid isPermaLink="false">urn:acme:light:2026-10-03-comedy-wildlife-finalists</guid>
-    </item>
-    <item>
-      <title>Tiny feathered dinosaur offers new clues about flight</title>
-      <link>https://people.com/new-feathered-dinosaur-species-discovered-from-remarkable-fossil-12150357</link>
-      <description>A remarkably complete 22-inch fossil from northeastern China has been identified as Norellraptor barsboldi, a new birdlike dinosaur species more than 100 million years old. Portions of its plumage remain preserved, including signs of asymmetrical flight feathers that may help show how flight-related traits evolved along more than one path.</description>
-      <pubDate>Fri, 02 Oct 2026 13:59:00 GMT</pubDate>
-      <source url="https://people.com/">People</source>
-      <guid isPermaLink="false">urn:acme:light:2026-10-03-feathered-dinosaur-norellraptor</guid>
     </item>
   </channel>
 </rss>

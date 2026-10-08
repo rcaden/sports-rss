@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Satellite-to-phone rules and a spectrum auction move forward</title>
+      <link>https://www.reuters.com/business/media-telecom/us-fcc-vote-advancing-new-spectrum-auction-boost-direct-device-services-2026-10-07/</link>
+      <description>The FCC will vote Oct. 29 on advancing a spectrum auction and updating rules for phones that connect directly to satellites. The proposal would auction 25 megahertz and open another 482 megahertz for space-based coverage, as Starlink, Amazon and a carrier joint venture race to eliminate dead zones.</description>
+      <pubDate>Wed, 07 Oct 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-08-satellite-phone-spectrum</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Global survey finds deepening doubt about social media and democracy</title>
+      <link>https://www.reuters.com/legal/litigation/social-media-harms-democracy-by-spreading-rumors-survey-shows-2026-10-01/</link>
+      <description>Pew found rising concern across 26 countries that social platforms divide people and damage democracy, even as majorities still say the services inform citizens and give them a political voice. In the United States, 64% of adults said social media harms democracy.</description>
+      <pubDate>Thu, 01 Oct 2026 14:06:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-08-social-media-democracy-survey</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Press-freedom pressures rise across several countries</title>
+      <link>https://www.washingtonpost.com/press-freedom-desk/2026/10/03/press-freedom-this-week-media-outlets-battle-trumps-amid-an-already-alarming-trend/</link>
+      <description>A weekly survey of press freedom tracks U.S. news organizations fighting White House access bans, the arrest of an independent Egyptian newsroom, threats that stopped a Brazilian outlet’s election coverage and Hong Kong’s first known journalist arrest for sedition under its 2024 security law. Bulgaria, meanwhile, adopted anti-SLAPP protections.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-08-press-freedom-roundup</guid>
+      <source url="https://www.washingtonpost.com/">The Washington Post</source>
+    </item>
     <item>
       <title>Microsoft and Nvidia move coding agents onto the PC</title>
       <link>https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://www.ashurstperkinscoie.com/">Ashurst Perkins Coie</source>
       <guid isPermaLink="false">urn:acme:tech:2026-10-04-apple-eu-unified-app-terms</guid>
-    </item>
-    <item>
-      <title>California creates a major employment credit for local news</title>
-      <link>https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/</link>
-      <description>California’s new Community NEWS Act ties refundable tax credits directly to newsroom employment: $20,000 for each of the first five journalists, $15,000 for additional staff, plus credits for part-time workers and new hires. The program could direct about $40 million a year to local outlets, though critics warn wealthy chains may also benefit.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-03-california-local-news-credit</guid>
-    </item>
-    <item>
-      <title>Judge dismisses publishers’ search-summary lawsuits</title>
-      <link>https://www.reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01/</link>
-      <description>A federal judge dismissed antitrust suits from Chegg and Penske Media over Google summaries that reuse publisher material while reducing site visits. The judge said publishers had only an expectation—not an agreement—that indexing would bring traffic, while acknowledging the economic harm to online creators may be a matter for legislators.</description>
-      <pubDate>Thu, 01 Oct 2026 14:41:58 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-03-publisher-search-summary-lawsuits</guid>
-    </item>
-    <item>
-      <title>European software-freedom report puts interoperability first</title>
-      <link>https://fsfe.org/news/2026/news-20261001-01.en.html</link>
-      <description>Free Software Foundation Europe’s annual report argues that interoperability rules must work in practice, giving independent developers and free-software projects access to platform features controlled by dominant vendors. Its review also covers device neutrality, public-code campaigns, legal education and the group’s 25th anniversary.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://fsfe.org/">Free Software Foundation Europe</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-03-fsfe-interoperability-report</guid>
     </item>
   </channel>
 </rss>

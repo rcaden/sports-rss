@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Simon &amp; Schuster builds a bridge for self-published authors</title>
+      <link>https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101456-frankfurt-book-fair-2026-s-s-bets-on-self-published-authors.html</link>
+      <description>Simon &amp; Schuster is expanding its courtship of independent authors. The revived Pocket Books will serve as a home for indie writers, while the new Simon Stream imprint targets self-published fiction authors seeking traditional distribution and marketing without abandoning digital-first flexibility.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-09-simon-schuster-indie-authors</guid>
+      <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
+    </item>
+    <item>
+      <title>Four recent speculative novels span Lovecraft, alien love and haunted history</title>
+      <link>https://www.theguardian.com/books/2026/oct/09/the-best-recent-science-fiction-fantasy-and-horror-review-roundup</link>
+      <description>Lisa Tuttle reviews Victor LaValle’s response to Lovecraft, Becky Chambers’ nonlinear romance between a botanist and an alien-creature pilot, Diego Muzzio’s lighthouse gothic and Deena Helm’s haunted-house story rooted in Palestinian displacement. The roundup is concise, specific and free to read.</description>
+      <pubDate>Fri, 09 Oct 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-09-guardian-speculative-fiction-roundup</guid>
+      <source url="https://www.theguardian.com/">The Guardian</source>
+    </item>
+    <item>
+      <title>Oracle introduces lower Java subscription pricing for smaller organizations</title>
+      <link>https://blogs.oracle.com/java/new-lower-smb-pricing-and-easier-online-purchasing-of-java-se-universal-subscription</link>
+      <description>Oracle now offers standardized annual Java SE Universal Subscription pricing for organizations with fewer than 3,000 employees. The schedule starts at $100 for 10 or fewer employees, rises to $10,000 for 500, and adds $147.20 per worker from 501 through 2,999. Companies with up to 500 employees can buy online.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-09-oracle-java-smb-pricing</guid>
+      <source url="https://blogs.oracle.com/java/">Oracle Java Blog</source>
+    </item>
     <item>
       <title>Books may get an ‘organic’ human-authored stamp</title>
       <link>https://www.wired.com/story/organic-literature-books-by-people-stamp-ai</link>
@@ -103,30 +127,6 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-05-historical-newspaper-dataset</guid>
       <source url="https://www.bpl.org/">Boston Public Library</source>
-    </item>
-    <item>
-      <title>Duke maps the riches—and limits—of the 2026 public domain</title>
-      <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
-      <description>Duke’s annual guide catalogs works from 1930 now free to use in the U.S., including early Betty Boop, Blondie, Nancy Drew and Sam Spade, plus films, songs and art. It also explains the archaeology behind the dates: only the original 1930 versions are newly public, while later adaptations and trademarks can still impose limits.</description>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-      <source url="https://cspd.law.duke.edu/">Duke Center for the Study of the Public Domain</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-04-duke-public-domain-2026</guid>
-    </item>
-    <item>
-      <title>Apache XMLBeans 5.4.1 ships with fixes and packaging cleanup</title>
-      <link>https://xmlbeans.apache.org/</link>
-      <description>Apache has released XMLBeans 5.4.1, the Java library that binds XML schemas to generated Java types while also supporting DOM, cursors and schema reflection. The maintenance release brings bug fixes and packaging cleanup—a useful update for Java projects that still need rigorous, schema-aware XML processing.</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://xmlbeans.apache.org/">Apache XMLBeans</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-04-apache-xmlbeans-5-4-1</guid>
-    </item>
-    <item>
-      <title>Six new voices make the 4thWrite short-story shortlist</title>
-      <link>https://www.theguardian.com/books/2026/oct/02/shortlist-4thwrite-prize-revealed</link>
-      <description>The 10th 4thWrite prize has shortlisted six unpublished writers of color whose stories range from office comedy and friendship to grief and dystopian London. The winner receives £1,000, a publishing workshop and publication in The Guardian, continuing a competition that has helped launch several writing careers.</description>
-      <pubDate>Fri, 02 Oct 2026 11:00:00 GMT</pubDate>
-      <source url="https://www.theguardian.com/">The Guardian</source>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-04-fourthwrite-shortlist</guid>
     </item>
   </channel>
 </rss>

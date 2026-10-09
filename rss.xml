@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Guardians force a decisive Game 5 against the White Sox</title>
+      <link>https://www.reuters.com/sports/baseball/guardians-outslug-white-sox-send-alds-back-cleveland-game-5--flm-2026-10-09/</link>
+      <description>Cleveland erased another elimination threat with a 9-5 win in Chicago, powered by homers from José Ramírez and Patrick Bailey and a six-run sixth inning. The ALDS returns to Cleveland for Saturday’s Game 5, with the winner advancing to face Tampa Bay.</description>
+      <pubDate>Fri, 09 Oct 2026 04:06:57 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-09-guardians-force-game-five</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>MLB proposes 154-game season and a revamped postseason</title>
+      <link>https://www.reuters.com/sports/mlb-proposes-154-game-schedule-altered-playoff-format--flm-2026-10-08/</link>
+      <description>Major League Baseball proposed cutting the schedule from 162 to 154 games in 2029, expanding the Division Series to seven games and letting higher seeds choose playoff opponents starting in 2027. The players union said the package remains tied to MLB’s push for a salary cap.</description>
+      <pubDate>Thu, 08 Oct 2026 18:52:07 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-09-mlb-154-game-proposal</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Stankoven’s first hat trick powers Carolina’s rout</title>
+      <link>https://www.reuters.com/sports/nhl/logan-stankovens-hat-trick-leads-hurricanes-over-canucks--flm-2026-10-09/</link>
+      <description>Logan Stankoven recorded his first NHL hat trick and Andrei Svechnikov scored twice on the power play as Carolina overwhelmed Vancouver 7-2. Sean Walker added four assists, another career first, as the Hurricanes won their third straight.</description>
+      <pubDate>Fri, 09 Oct 2026 01:41:01 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-09-stankoven-first-hat-trick</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Rays sweep Yankees and advance to the ALCS</title>
       <link>https://www.reuters.com/sports/mlb-roundup-rays-dodgers-brewers-wrap-up-division-series--flm-2026-10-08/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 04 Oct 2026 23:44:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-10-05-valkyries-aces-game-one</guid>
       <source url="https://www.wnba.com/">WNBA</source>
-    </item>
-    <item>
-      <title>No. 25 Missouri routs No. 8 Florida</title>
-      <link>https://www.reuters.com/sports/top-25-roundup-cj-carrs-5-td-day-leads-no-3-notre-dame-over-unc--flm-2026-10-03/</link>
-      <description>Missouri ended a nine-game losing streak against ranked opponents by overwhelming No. 8 Florida 45-17. The No. 25 Tigers forced four turnovers, built a 31-10 halftime lead and turned a matchup of ranked SEC teams into the weekend’s biggest top-10 upset.</description>
-      <pubDate>Sat, 03 Oct 2026 23:14:18 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-04-missouri-upsets-florida</guid>
-    </item>
-    <item>
-      <title>White Sox blank Guardians in ALDS opener</title>
-      <link>https://www.clickorlando.com/sports/2026/10/03/white-sox-beat-guardians-3-0-in-game-1-of-alds-behind-murakami-homer-3-hitter/</link>
-      <description>Chicago opened the AL Division Series with a 3-0 win in Cleveland behind Munetaka Murakami’s homer and a combined three-hitter. Grant Taylor became the first postseason pitcher since 2017 to work at least four innings and earn a save, protecting the shutout after starter Shane Smith departed.</description>
-      <pubDate>Sat, 03 Oct 2026 20:06:00 GMT</pubDate>
-      <source url="https://www.clickorlando.com/">ClickOrlando</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-04-white-sox-guardians-alds-game-one</guid>
-    </item>
-    <item>
-      <title>Verstappen wins rain-chaotic Bahrain Grand Prix in Malaysia</title>
-      <link>https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-report/10861843/</link>
-      <description>A day after taking pole, Max Verstappen converted it into his first victory of the season as heavy rain, a delayed start and a late safety car scrambled the relocated Bahrain Grand Prix at Sepang. Kimi Antonelli finished second, Lewis Hamilton third, and George Russell retired late as his title hopes faded.</description>
-      <pubDate>Sun, 04 Oct 2026 10:31:00 GMT</pubDate>
-      <source url="https://www.motorsport.com/">Motorsport.com</source>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-04-verstappen-bahrain-malaysia-win</guid>
     </item>
   </channel>
 </rss>

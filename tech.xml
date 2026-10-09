@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Rappler builds its own digital commons on an open protocol</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/</link>
+      <description>Maria Ressa explains why Rappler stopped waiting for dominant platforms to protect journalism and built a community network using Matrix. The federated system links independent newsrooms, lets each govern itself and reaches readers without an engagement algorithm controlling distribution.</description>
+      <pubDate>Thu, 08 Oct 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-09-rappler-digital-commons</guid>
+      <source url="https://www.theatlantic.com/">The Atlantic</source>
+    </item>
+    <item>
+      <title>A practical path from Discord to a self-hosted Matrix server</title>
+      <link>https://hackaday.com/2026/10/08/lead-a-discord-exodus-with-a-matrix-server/</link>
+      <description>Hackaday walks through replacing a closed chat platform with Matrix, an open standard whose servers and clients can be self-hosted, extended and bridged to other services. The account also confronts the hard part of decentralized software: choosing among tools and persuading a community to move.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-09-matrix-discord-migration</guid>
+      <source url="https://hackaday.com/">Hackaday</source>
+    </item>
+    <item>
+      <title>TRACE project targets trustworthy attribution in scholarly publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/</link>
+      <description>Publishers, standards groups and libraries launched TRACE to coordinate content-exchange standards, provenance tracking and usage reporting for machine-assisted research. Its first projects address discovery and access, preserving attribution through the content lifecycle, and consistent measurement of content use.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-09-trace-attribution-standards</guid>
+      <source url="https://scholarlykitchen.sspnet.org/">The Scholarly Kitchen</source>
+    </item>
     <item>
       <title>Satellite-to-phone rules and a spectrum auction move forward</title>
       <link>https://www.reuters.com/business/media-telecom/us-fcc-vote-advancing-new-spectrum-auction-boost-direct-device-services-2026-10-07/</link>
@@ -103,30 +127,6 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-05-follow-blogs-rss-opml</guid>
       <source url="https://feeder.co/">Feeder</source>
-    </item>
-    <item>
-      <title>ActivityPub draft sharpens the decentralized social web</title>
-      <link>https://w3c.github.io/activitypub/</link>
-      <description>A fresh W3C editor’s draft lays out ActivityPub’s two interoperable layers: server-to-server federation and a client-to-server API for creating, updating and deleting content. The split matters because sites can adopt either layer, then add the other to join a broader ecosystem of portable clients and decentralized publishing tools.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.w3.org/">World Wide Web Consortium</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-04-activitypub-editor-draft</guid>
-    </item>
-    <item>
-      <title>Firefox 157 refreshes its interface and restores Compact Mode</title>
-      <link>https://www.theverge.com/tech/1001867/mozilla-firefox-157-redesign-compact-mode</link>
-      <description>Mozilla’s Firefox 157 rolls out a redesign across desktop and mobile with rounded tabs, updated icons, themes and a smaller Compact Mode restored after user requests. The release is a notable investment in an independent browser engine—and a reminder that user feedback can still reverse a product decision.</description>
-      <pubDate>Tue, 29 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/">The Verge</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-04-firefox-157-redesign</guid>
-    </item>
-    <item>
-      <title>Apple’s unified EU app terms take effect</title>
-      <link>https://www.ashurstperkinscoie.com/en/insights/apple-updates-app-store-developer-terms-in-the-eu/</link>
-      <description>Apple’s new EU terms permit notarized apps through alternative marketplaces or the web and allow outside payment offers, while replacing several fees with commissions that vary by distribution and payment method. Independent developers gain more routes to users, though lawyers say questions remain about compliance with the Digital Markets Act.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.ashurstperkinscoie.com/">Ashurst Perkins Coie</source>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-04-apple-eu-unified-app-terms</guid>
     </item>
   </channel>
 </rss>

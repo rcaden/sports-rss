@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>A class ring lost for six decades comes home</title>
+      <link>https://www.upi.com/Odd_News/2026/10/08/class-ring-sewer-Sheffield-Alabama/7991791477667/</link>
+      <description>Alabama sewer workers clearing a clog found a 1965 class ring and traced its initials to Oscar James Meredith, now 79. He had given it to his high school sweetheart, who later became his wife. The ring apparently vanished down a sink near her childhood home and still fits Meredith’s finger.</description>
+      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-09-lost-class-ring-returned</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
+    <item>
+      <title>Canadian grandmother holds a plank for five hours</title>
+      <link>https://www.upi.com/Odd_News/2026/10/08/Guinness-World-Records-abdominal-plank/1261791480174/</link>
+      <description>DonnaJean Wilde, a 61-year-old fitness enthusiast, held an abdominal plank for five hours at Utah’s Huntsman World Senior Games. The feat surpassed her own Guinness record of 4 hours, 30 minutes and 11 seconds, set in 2024.</description>
+      <pubDate>Thu, 08 Oct 2026 17:28:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-09-five-hour-plank-record</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
+    <item>
+      <title>Eight hundred dinosaurs roar for a Utah town</title>
+      <link>https://www.guinnessworldrecords.com/news/2026/10/roar-some-804-people-in-dinosaur-costumes-smash-record-and-reduce-a-town-to-tears</link>
+      <description>Vernal, Utah, set a record with 804 people gathered in dinosaur costumes, a year after narrowly missing the mark. The crowd then roared in tribute to people fighting cancer, including a young girl among them. In Vernal, organizers said, a dinosaur roar means “I love you.”</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-09-vernal-dinosaur-gathering</guid>
+      <source url="https://www.guinnessworldrecords.com/news/">Guinness World Records</source>
+    </item>
     <item>
       <title>Owls, bees, puffins and hedgehogs are coming to British banknotes</title>
       <link>https://www.reuters.com/business/finance/barn-owls-bees-puffins-hedgehogs-feature-uk-banknotes-2026-10-07/</link>
@@ -103,30 +127,6 @@
       <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-05-mars-moon-beehive</guid>
       <source url="https://www.space.com/">Space.com</source>
-    </item>
-    <item>
-      <title>Manila church fills with wagging tails for annual pet blessing</title>
-      <link>https://apnews.com/article/476938ab4e49e76c7f2b4a0eab87ed54</link>
-      <description>Dogs, cats and other companions crowded Manila’s Malate Church for a cheerful annual blessing tied to the feast of St. Francis of Assisi. Priests sprinkled holy water over pets and their people as parishes marked the patron saint of animals with one of the calendar’s most photogenic traditions.</description>
-      <pubDate>Sun, 04 Oct 2026 09:25:07 GMT</pubDate>
-      <source url="https://apnews.com/">Associated Press</source>
-      <guid isPermaLink="false">urn:acme:light:2026-10-04-manila-pet-blessing</guid>
-    </item>
-    <item>
-      <title>Steve Reich reflects on making music at 90</title>
-      <link>https://www.reuters.com/lifestyle/culture-current/</link>
-      <description>Composer Steve Reich, now 90, talks about his latest work and a creative life that helped redefine modern music. The interview finds him still composing, still revising his methods and still thinking carefully about what technology can—and cannot—contribute to human expression.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.reuters.com/">Reuters</source>
-      <guid isPermaLink="false">urn:acme:light:2026-10-04-steve-reich-at-90</guid>
-    </item>
-    <item>
-      <title>Zoo’s first porcupette gets the name Bramble</title>
-      <link>https://www.pdza.org/porcupette-named-bramble/</link>
-      <description>Visitors voted to name Point Defiance Zoo’s first porcupette “Bramble,” a nod to her prickly quills and curious nature. Born Aug. 17 to first-time parents Quillow and Nigel, the tree-climbing youngster is thriving and marks the first porcupine birth in the Tacoma zoo’s 121-year history.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://www.pdza.org/">Point Defiance Zoo &amp; Aquarium</source>
-      <guid isPermaLink="false">urn:acme:light:2026-10-04-porcupette-bramble</guid>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Shesterkin injured as Capitals cool off the Rangers</title>
+      <link>https://www.reuters.com/sports/nhl-roundup-capitals-win-rangers-g-igor-shesterkin-injured--flm-2026-10-10/</link>
+      <description>Boone Jenner broke a 1-1 tie and Washington beat New York 3-1, ending the Rangers’ four-game winning streak. The larger concern was Igor Shesterkin, who left in the second period with a lower-body injury after jamming his right skate into the post and needed help reaching the bench.</description>
+      <pubDate>Sat, 10 Oct 2026 06:21:24 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-10-capitals-rangers-shesterkin</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Jayden Daniels cleared to return for Washington</title>
+      <link>https://www.reuters.com/sports/commanders-qb-jayden-daniels-start-vs-giants--flm-2026-10-09/</link>
+      <description>Commanders coach Dan Quinn said Jayden Daniels will start Sunday against the Giants after missing two games with a dislocated left elbow. The 1-3 Commanders get their franchise quarterback back for a pivotal NFC East matchup, though Daniels will play with a brace.</description>
+      <pubDate>Fri, 09 Oct 2026 18:04:32 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-10-daniels-cleared-giants</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>NFL asks Supreme Court to settle prediction-market oversight</title>
+      <link>https://www.reuters.com/legal/government/nfl-backs-supreme-court-review-betting-oversight-case-2026-10-08/</link>
+      <description>The NFL backed New Jersey’s request for Supreme Court review of whether federal or state regulators control sports prediction markets. The league says current federal oversight lacks safeguards common in legal sports betting, including a 21-year-old minimum and bans on wagers vulnerable to manipulation.</description>
+      <pubDate>Thu, 08 Oct 2026 21:51:15 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-10-nfl-prediction-market-court</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Guardians force a decisive Game 5 against the White Sox</title>
       <link>https://www.reuters.com/sports/baseball/guardians-outslug-white-sox-send-alds-back-cleveland-game-5--flm-2026-10-09/</link>
@@ -103,30 +127,6 @@
       <pubDate>Tue, 06 Oct 2026 01:55:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-10-06-white-sox-guardians-alds-game-two</guid>
       <source url="https://www.mlb.com/">MLB.com</source>
-    </item>
-    <item>
-      <title>Cowboys stun Texans with a last-minute comeback</title>
-      <link>https://www.reuters.com/sports/nfl-roundup-cowboys-last-minute-td-caps-big-2nd-half-upends-texans--flm-2026-10-04/</link>
-      <description>CeeDee Lamb caught a career-high 17 passes for 189 yards and scored the winning 12-yard touchdown with 40 seconds left as Dallas erased a 20-point deficit to beat Houston 34-30. The Cowboys scored 28 points after halftime, while the Texans fell to 0-4.</description>
-      <pubDate>Sun, 04 Oct 2026 22:35:21 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-05-cowboys-texans-comeback</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Chiefs hold off Raiders to remain the AFC’s last unbeaten team</title>
-      <link>https://www.local10.com/sports/2026/10/04/chiefs-beat-the-raiders-30-27-to-move-to-4-0-behind-patrick-mahomes-and-kenneth-walker-iii/</link>
-      <description>Patrick Mahomes threw for 225 yards and two touchdowns, while Kenneth Walker III ran for 177 yards and two scores as Kansas City beat Las Vegas 30-27. The Chiefs improved to 4-0 and became the AFC’s final unbeaten team; the Raiders took their first loss.</description>
-      <pubDate>Mon, 05 Oct 2026 00:03:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-05-chiefs-raiders-undefeated</guid>
-      <source url="https://www.local10.com/">Local 10</source>
-    </item>
-    <item>
-      <title>Valkyries take Game 1 from defending champion Aces</title>
-      <link>https://www.wnba.com/news/2026-playoffs-fever-valkyries-game-1-recap</link>
-      <description>Gabby Williams had 25 points, 11 rebounds and five assists as Golden State beat defending champion Las Vegas 71-60 in the franchise’s first WNBA semifinal game. Kiah Stokes added 14 rebounds and three blocks, and the Valkyries controlled the glass to seize a 1-0 series lead.</description>
-      <pubDate>Sun, 04 Oct 2026 23:44:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-05-valkyries-aces-game-one</guid>
-      <source url="https://www.wnba.com/">WNBA</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nikki Null wins the fifth Self-Published Science Fiction Competition</title>
+      <link>https://file770.com/self-published-science-fiction-competition-won-by-nikki-null/</link>
+      <description>File 770 reports that Nikki Null’s Our Simulated Selves won SPSFC 5 after 124 novels passed through four elimination rounds judged by five blogger teams. The competition placed Jacob Terracina’s ab initio second and Noam Josephides’ Generations third.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-10-spsfc-five-winner</guid>
+      <source url="https://file770.com/">File 770</source>
+    </item>
+    <item>
+      <title>Duval Schools removes a graphic adaptation of 1984</title>
+      <link>https://jaxtoday.org/2026/10/08/duval-schools-books-removed/</link>
+      <description>The Duval County School Board voted 5-2 to remove Fido Nesti’s graphic adaptation of George Orwell’s 1984 from high-school libraries, overruling staff who recommended keeping it. Three novels by Jodi Picoult and Stephen King were also removed at the October meeting.</description>
+      <pubDate>Thu, 08 Oct 2026 21:21:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-10-duval-1984-graphic-novel</guid>
+      <source url="https://jaxtoday.org/">Jacksonville Today</source>
+    </item>
+    <item>
+      <title>Free SelfPubCon focuses on what comes next for indie authors</title>
+      <link>https://selfpublishingadvice.org/allis-selfpubcon-opens-october-17/</link>
+      <description>ALLi’s online SelfPubCon runs October 17–18 with free registration and downloadable schedules in U.K. and Eastern time. Jane Friedman gives the keynote, “The Indie Author’s Next Move,” and other sessions cover crowdfunding, local marketing and the future of self-publishing.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-10-selfpubcon-2026-preview</guid>
+      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
+    </item>
     <item>
       <title>Simon &amp; Schuster builds a bridge for self-published authors</title>
       <link>https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101456-frankfurt-book-fair-2026-s-s-bets-on-self-published-authors.html</link>
@@ -27,7 +51,7 @@
     <item>
       <title>Oracle introduces lower Java subscription pricing for smaller organizations</title>
       <link>https://blogs.oracle.com/java/new-lower-smb-pricing-and-easier-online-purchasing-of-java-se-universal-subscription</link>
-      <description>Oracle now offers standardized annual Java SE Universal Subscription pricing for organizations with fewer than 3,000 employees. The schedule starts at $100 for 10 or fewer employees, rises to $10,000 for 500, and adds $147.20 per worker from 501 through 2,999. Companies with up to 500 employees can buy online.</description>
+      <description>Oracle now offers standardized annual Java SE Universal Subscription pricing for organizations with fewer than 3,000 employees. The schedule starts at <docs>https://www.rssboard.org/rss-specification</docs>00 for 10 or fewer employees, rises to <docs>https://www.rssboard.org/rss-specification</docs>0,000 for 500, and adds <docs>https://www.rssboard.org/rss-specification</docs>47.20 per worker from 501 through 2,999. Companies with up to 500 employees can buy online.</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-09-oracle-java-smb-pricing</guid>
       <source url="https://blogs.oracle.com/java/">Oracle Java Blog</source>
@@ -103,30 +127,6 @@
       <pubDate>Fri, 02 Oct 2026 17:21:17 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-06-wordpress-core-team-cleanup</guid>
       <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
-    </item>
-    <item>
-      <title>Minecraft Java Edition sheds its code obfuscation</title>
-      <link>https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1</link>
-      <description>Minecraft Java Edition 26.1 no longer obscures its executable code and now requires Java 25. The change should make the game easier for modders to inspect, debug and extend, although Mojang emphasizes that readable code is not the same as open-source or freely licensed code.</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-05-minecraft-java-unobfuscated</guid>
-      <source url="https://www.minecraft.net/">Minecraft</source>
-    </item>
-    <item>
-      <title>Basil Wolverton’s grotesque visions of Revelation</title>
-      <link>https://www.wired.com/2006/11/basil-wolverton/</link>
-      <description>A look at the strange religious art of Basil Wolverton, whose famously lumpy “spaghetti and meatball” cartoon style also produced stark illustrations of Revelation. The piece connects the creator of Lena the Hyena and MAD grotesques to a less familiar, deeply serious body of work.</description>
-      <pubDate>Mon, 06 Nov 2006 16:39:10 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-05-basil-wolverton-revelation</guid>
-      <source url="https://www.wired.com/">Wired</source>
-    </item>
-    <item>
-      <title>Boston opens 135 years of historic newspapers as data</title>
-      <link>https://www.bpl.org/news/boston-public-library-and-harvard-idi-release-open-dataset-from-135-years-of-historic-newspapers/</link>
-      <description>Boston Public Library and Harvard released an open dataset drawn from 1.47 million newspaper pages published from 1795 to 1930. It contains 16.3 billion words across 73 languages, plus an open-source processing pipeline that other libraries and archives can adapt.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-05-historical-newspaper-dataset</guid>
-      <source url="https://www.bpl.org/">Boston Public Library</source>
     </item>
   </channel>
 </rss>

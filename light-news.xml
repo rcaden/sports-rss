@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Spider-Man fans swarm New York Comic Con for a record attempt</title>
+      <link>https://www.upi.com/Odd_News/2026/10/09/Guinness-World-Records-spider-man/4421791569448/</link>
+      <description>Hundreds of Marvel fans arrived at New York Comic Con dressed as Spider-Man, trying to set a Guinness World Record for the largest gathering of people wearing the superhero’s costume. The convention-floor spectacle turned a familiar comic-book crowd into a sea of red-and-blue webs.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-10-spider-man-nycc-record</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Orphaned kittens tour a Minnesota aquarium</title>
+      <link>https://www.upi.com/Odd_News/2026/10/09/Sea-Life-Aquarium-kittens/4211791564630/</link>
+      <description>More than a dozen adoptable kittens from the Bitty Kitty Brigade explored the Sea Life Aquarium at Minnesota’s Mall of America. The rescue group’s sixth annual visit gives orphaned kittens enrichment and socialization while they wait for homes—and provides an unusually adorable audience for the fish.</description>
+      <pubDate>Fri, 09 Oct 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-10-kittens-aquarium-tour</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Rescuers free an opossum dangling from a fishing hook</title>
+      <link>https://www.upi.com/Odd_News/2026/10/09/opossum-fishing-hook-tree/2001791562268/</link>
+      <description>A trail visitor spotted an opossum hanging more than 10 feet above the water from a fishing hook in a North Carolina tree. A wildlife rehabilitator climbed up, brought the animal down and removed the hook from tissue beneath its tongue. The opossum is now receiving treatment.</description>
+      <pubDate>Fri, 09 Oct 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-10-opossum-hook-rescue</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
     <item>
       <title>A class ring lost for six decades comes home</title>
       <link>https://www.upi.com/Odd_News/2026/10/08/class-ring-sewer-Sheffield-Alabama/7991791477667/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 01 Oct 2026 16:18:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-06-sarka-snow-leopard-debut</guid>
       <source url="https://people.com/">People</source>
-    </item>
-    <item>
-      <title>Three scientists win medicine Nobel for controlling cells with light</title>
-      <link>https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba</link>
-      <description>Karl Deisseroth, Peter Hegemann and Georg Nagel won the Nobel Prize in medicine for optogenetics, a method that uses light-sensitive proteins as switches inside cells. The technique lets researchers turn specific neurons on and off with light, opening new ways to study the brain.</description>
-      <pubDate>Mon, 05 Oct 2026 07:01:36 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-05-optogenetics-nobel</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Houston Zoo welcomes a tiny parade of rare reptiles</title>
-      <link>https://www.houstonzoo.org/about/newsroom/small-arrivals-big-conservation-milestones/</link>
-      <description>Houston Zoo is celebrating several pint-sized conservation milestones, including its first-ever Hosmer’s spiny-tailed skink birth. New arrivals also include star tortoises, eyelash vipers and leaf-tailed geckos—an appropriately scaly cast for October.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-05-houston-zoo-reptile-babies</guid>
-      <source url="https://www.houstonzoo.org/">Houston Zoo</source>
-    </item>
-    <item>
-      <title>Mars, a crescent moon and a star cluster share the morning sky</title>
-      <link>https://www.space.com/stargazing/look-up-mars-meets-the-crescent-moon-on-oct-5-before-flying-through-a-swarm-of-stars</link>
-      <description>Early risers can see Mars close to a slim crescent moon before dawn on Oct. 5. The red planet is also heading toward the Beehive Cluster, a sparkling group of stars also known as M44, making binoculars especially rewarding over the next several mornings.</description>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-05-mars-moon-beehive</guid>
-      <source url="https://www.space.com/">Space.com</source>
     </item>
   </channel>
 </rss>

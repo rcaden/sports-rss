@@ -5,9 +5,33 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>LoopConf trades corporate sponsors for attendee funding</title>
+      <link>https://thewpminute.com/brian-richards-on-restructuring-loopconf-ditching-corporate-sponsors-for-attendee-funded-events/</link>
+      <description>Organizer Brian Richards explains why LoopConf US is relying on early ticket sales instead of corporate sponsorship. The 2027 WordPress developer conference will cap attendance at 100–200 people, use a lightweight static site and emphasize open-source resilience and cross-platform ideas.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-10-loopconf-attendee-funded</guid>
+      <source url="https://thewpminute.com/">The WP Minute</source>
+    </item>
+    <item>
+      <title>Nieman Lab redesigns 100,000 pages without flattening them</title>
+      <link>https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</link>
+      <description>Joshua Benton details Nieman Lab’s first major redesign in years: more art-directed story layouts, rebuilt archives, improved search and new beats for platforms, creators and local news. Migrating 12,000 articles and more than 100,000 URLs also required preserving a decade of custom CSS and hand-coded publishing history.</description>
+      <pubDate>Wed, 07 Oct 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-10-nieman-lab-redesign</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+    <item>
+      <title>Open source moves to the center of Europe’s digital-sovereignty push</title>
+      <link>https://www.techradar.com/pro/security/digital-sovereignty-has-become-europes-top-priority-heres-how-open-source-is-helping-pave-the-way</link>
+      <description>At Open Source Summit Europe, Linux Foundation leaders argued that Europe’s security and sovereignty policies converge on one practical need: trustworthy software supply chains. Open source can provide auditable, reusable infrastructure while reducing dependence on a few overseas cloud and platform vendors.</description>
+      <pubDate>Thu, 08 Oct 2026 15:13:33 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-10-europe-open-source-sovereignty</guid>
+      <source url="https://www.techradar.com/">TechRadar</source>
+    </item>
     <item>
       <title>Rappler builds its own digital commons on an open protocol</title>
       <link>https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/</link>
@@ -103,30 +127,6 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-06-odrl-3-workshop-report</guid>
       <source url="https://www.w3.org/">W3C</source>
-    </item>
-    <item>
-      <title>Publishers and protocol builders gather around an open-web agenda</title>
-      <link>https://protocolsforpublishers.com/toronto-2026/</link>
-      <description>Protocols for Publishers brings independent newsrooms and protocol builders together in Toronto to discuss direct reader relationships, media provenance and systems that are harder for dominant platforms to capture. The agenda treats open protocols as practical publishing infrastructure, not an abstract ideal.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-05-protocols-for-publishers-toronto</guid>
-      <source url="https://protocolsforpublishers.com/">Protocols for Publishers</source>
-    </item>
-    <item>
-      <title>New data maps which podcast hosts shows are leaving and joining</title>
-      <link>https://podnews.net/article/hosts/changes</link>
-      <description>Podnews is tracking changes in podcast RSS domains to show where programs are moving. Its latest 30-day sample found 2,182 host changes among 547,788 recently checked podcasts, with an interactive table showing gains and losses for each service—an unusually concrete view of the open podcast market.</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-05-podcast-host-migrations</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>A practical guide to following blogs with RSS and OPML</title>
-      <link>https://feeder.co/knowledge-base/rss-basics/how-to-follow-blogs/</link>
-      <description>Feeder explains how blogs on WordPress, Substack and Medium expose RSS feeds, and how OPML import moves an entire subscription list into one reader. It is a useful current primer on reading independent sites without creating an account for every platform.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-05-follow-blogs-rss-opml</guid>
-      <source url="https://feeder.co/">Feeder</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Sloth bear named by Julia Roberts flourishes after rescue</title>
+      <link>https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/</link>
+      <description>Odum, a sloth bear rescued from forced street performances in India 17 years ago, is thriving at the Bannerghatta Bear Rescue Centre. Julia Roberts named him during a 2009 visit. Now 26, he spends his days foraging, climbing and enjoying the companionship of other rescued bears.</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-11-sloth-bear-odum</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Pilot daughter shares cockpit with dad while mom works cabin</title>
+      <link>https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/</link>
+      <description>A surprise KLM assignment gave 22-year-old co-pilot Zoë de Bruijn a flight with her father as captain and her mother serving in the cabin. The family had long joked about someday working the same trip, turning an ordinary roster change into a full-circle aviation memory.</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-11-family-klm-flight</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>£300 salvage-yard statue may be lost work by Trevi Fountain sculptor</title>
+      <link>https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/</link>
+      <description>A marble model bought for £300 at a Wiltshire salvage yard has been identified as a likely work by Pietro Bracci, the sculptor behind the Trevi Fountain&apos;s central figure. Experts believe the papal bust was a presentation model for a lost monumental bronze and estimate it could fetch £6,600 to £13,300.</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-11-bracci-statue-salvage-yard</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
     <item>
       <title>Spider-Man fans swarm New York Comic Con for a record attempt</title>
       <link>https://www.upi.com/Odd_News/2026/10/09/Guinness-World-Records-spider-man/4421791569448/</link>
@@ -16,6 +44,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-10-spider-man-nycc-record</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
+
     <item>
       <title>Orphaned kittens tour a Minnesota aquarium</title>
       <link>https://www.upi.com/Odd_News/2026/10/09/Sea-Life-Aquarium-kittens/4211791564630/</link>
@@ -24,6 +53,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-10-kittens-aquarium-tour</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
+
     <item>
       <title>Rescuers free an opossum dangling from a fishing hook</title>
       <link>https://www.upi.com/Odd_News/2026/10/09/opossum-fishing-hook-tree/2001791562268/</link>
@@ -32,6 +62,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-10-opossum-hook-rescue</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
+
     <item>
       <title>A class ring lost for six decades comes home</title>
       <link>https://www.upi.com/Odd_News/2026/10/08/class-ring-sewer-Sheffield-Alabama/7991791477667/</link>
@@ -40,6 +71,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-09-lost-class-ring-returned</guid>
       <source url="https://www.upi.com/Odd_News/">UPI</source>
     </item>
+
     <item>
       <title>Canadian grandmother holds a plank for five hours</title>
       <link>https://www.upi.com/Odd_News/2026/10/08/Guinness-World-Records-abdominal-plank/1261791480174/</link>
@@ -48,6 +80,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-09-five-hour-plank-record</guid>
       <source url="https://www.upi.com/Odd_News/">UPI</source>
     </item>
+
     <item>
       <title>Eight hundred dinosaurs roar for a Utah town</title>
       <link>https://www.guinnessworldrecords.com/news/2026/10/roar-some-804-people-in-dinosaur-costumes-smash-record-and-reduce-a-town-to-tears</link>
@@ -56,6 +89,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-09-vernal-dinosaur-gathering</guid>
       <source url="https://www.guinnessworldrecords.com/news/">Guinness World Records</source>
     </item>
+
     <item>
       <title>Owls, bees, puffins and hedgehogs are coming to British banknotes</title>
       <link>https://www.reuters.com/business/finance/barn-owls-bees-puffins-hedgehogs-feature-uk-banknotes-2026-10-07/</link>
@@ -64,6 +98,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-08-british-wildlife-banknotes</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Pikachu takes a tour of the International Space Station</title>
       <link>https://www.upi.com/Odd_News/2026/10/07/Pikachu-European-Space-Agency-International-Space-Station/6211791387825/</link>
@@ -72,6 +107,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-08-pikachu-space-station</guid>
       <source url="https://www.upi.com/Odd_News/">UPI</source>
     </item>
+
     <item>
       <title>A 2,856-pound pumpkin smashes the world record</title>
       <link>https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-heaviest-pumpkin/5121791389821/</link>
@@ -80,6 +116,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-08-record-pumpkin-bagheera</guid>
       <source url="https://www.upi.com/Odd_News/">UPI</source>
     </item>
+
     <item>
       <title>Chemists who mastered molecular ‘mirror images’ win Nobel</title>
       <link>https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/</link>
@@ -88,6 +125,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-07-kagan-soai-chemistry-nobel</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>A 50-million-year-old crocodile gets a new identity</title>
       <link>https://www.washingtonpost.com/science/2026/10/07/scientists-discovered-crocodile-they-never-knew-existed/</link>
@@ -96,6 +134,7 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-07-egypt-crocodile-species</guid>
       <source url="https://www.washingtonpost.com/">The Washington Post</source>
     </item>
+
     <item>
       <title>Meerkats get pumpkins and cauldrons for Halloween</title>
       <link>https://www.nationalzoo.si.edu/animals/news/watch-meerkats-explore-jack-o-lanterns-and-cauldrons</link>
@@ -103,30 +142,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-07-meerkat-halloween-enrichment</guid>
       <source url="https://www.nationalzoo.si.edu/">Smithsonian’s National Zoo</source>
-    </item>
-    <item>
-      <title>Antarctic ‘ghost particle’ hunter wins the physics Nobel</title>
-      <link>https://www.reuters.com/science/francis-halzen-wins-2026-nobel-prize-physics-2026-10-06/</link>
-      <description>Francis Halzen, 82, won the Nobel Prize in Physics for turning a cubic kilometer of Antarctic ice into the IceCube observatory. Its buried sensors catch faint traces of high-energy neutrinos—elusive cosmic messengers that pass through Earth and can point scientists toward exploding stars and black holes.</description>
-      <pubDate>Tue, 06 Oct 2026 09:51:57 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-06-halzen-physics-nobel</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>The Hollywood sign has a secret wild side</title>
-      <link>https://www.theguardian.com/us-news/2026/oct/05/secret-animal-world-beneath-hollywood-sign</link>
-      <description>The closed hillside around Los Angeles’ Hollywood sign doubles as an urban wildlife refuge. Hawks sail above the letters, snakes curl at their base, bobcats roam nearby and coyotes leave tracks along the trails. Griffith Park supports about 200 bird species, 50 kinds of butterflies and 40 mammal species.</description>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-06-hollywood-sign-wildlife</guid>
-      <source url="https://www.theguardian.com/">The Guardian</source>
-    </item>
-    <item>
-      <title>Snow leopard cub Sarka makes her Bronx Zoo debut</title>
-      <link>https://people.com/bronx-zoo-welcomes-adorable-new-snow-leopard-cub-member-rare-species-threatened-with-extinction-12151453</link>
-      <description>Four-month-old Sarka has passed her physical exams and vaccinations, clearing the snow leopard cub to explore the Bronx Zoo’s Himalayan Highlands with her mother, Dariga. The zoo has bred more than 80 snow leopards since 1903 and participates in a program that helps preserve the vulnerable species’ genetic diversity.</description>
-      <pubDate>Thu, 01 Oct 2026 16:18:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-06-sarka-snow-leopard-debut</guid>
-      <source url="https://people.com/">People</source>
     </item>
   </channel>
 </rss>

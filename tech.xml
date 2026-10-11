@@ -5,9 +5,38 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Justice Department probes networks over White House pool boycott</title>
+      <link>https://www.reuters.com/business/media-telecom/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-2026-10-10/</link>
+      <description>The Justice Department opened an antitrust inquiry into ABC, CBS, CNN, NBC and Fox News after the networks collectively stopped White House pool coverage when reporters from CNN, Politico and MS NOW lost credentials. The case turns a press-access dispute into a test of whether coordinated newsroom action can be treated as a commercial group boycott.</description>
+      <pubDate>Sat, 10 Oct 2026 23:10:10 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-11-doj-tv-pool-probe</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>The problem with Facebook was Facebook</title>
+      <link>https://nymag.com/intelligencer/article/the-problem-with-facebook-was-facebook.html</link>
+      <description>John Herrman argues that years of reform debates mistook Facebook&apos;s harms for correctable lapses instead of consequences of its core attention-and-data business. Recommendation systems steadily displaced social connections with optimized, unfamiliar content, while changing corporate missions offered little accountability for the platform&apos;s underlying incentives.</description>
+      <pubDate>Sat, 10 Oct 2026 09:00:03 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-11-facebook-reform-critique</guid>
+      <source url="https://nymag.com/">New York Magazine</source>
+    </item>
+
+    <item>
+      <title>Worker-owned Hell Gate tests a harder membership pitch</title>
+      <link>https://www.niemanlab.org/2026/10/subscribers-are-up-but-growth-is-down-heres-what-worker-owned-hell-gate-is-trying-next/</link>
+      <description>New York local outlet Hell Gate has about 11,000 paid subscriptions and has passed 
+    <docs>https://www.rssboard.org/rss-specification</docs> million in annual recurring revenue, but growth has slowed. The worker-owned newsroom is experimenting with occasional limits on free access, sharper membership appeals and events while keeping subscriber support central to its independence.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-11-hell-gate-membership</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+
     <item>
       <title>LoopConf trades corporate sponsors for attendee funding</title>
       <link>https://thewpminute.com/brian-richards-on-restructuring-loopconf-ditching-corporate-sponsors-for-attendee-funded-events/</link>
@@ -16,6 +45,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-10-loopconf-attendee-funded</guid>
       <source url="https://thewpminute.com/">The WP Minute</source>
     </item>
+
     <item>
       <title>Nieman Lab redesigns 100,000 pages without flattening them</title>
       <link>https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</link>
@@ -24,6 +54,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-10-nieman-lab-redesign</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
+
     <item>
       <title>Open source moves to the center of Europe’s digital-sovereignty push</title>
       <link>https://www.techradar.com/pro/security/digital-sovereignty-has-become-europes-top-priority-heres-how-open-source-is-helping-pave-the-way</link>
@@ -32,6 +63,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-10-europe-open-source-sovereignty</guid>
       <source url="https://www.techradar.com/">TechRadar</source>
     </item>
+
     <item>
       <title>Rappler builds its own digital commons on an open protocol</title>
       <link>https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/</link>
@@ -40,6 +72,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-09-rappler-digital-commons</guid>
       <source url="https://www.theatlantic.com/">The Atlantic</source>
     </item>
+
     <item>
       <title>A practical path from Discord to a self-hosted Matrix server</title>
       <link>https://hackaday.com/2026/10/08/lead-a-discord-exodus-with-a-matrix-server/</link>
@@ -48,6 +81,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-09-matrix-discord-migration</guid>
       <source url="https://hackaday.com/">Hackaday</source>
     </item>
+
     <item>
       <title>TRACE project targets trustworthy attribution in scholarly publishing</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/</link>
@@ -56,6 +90,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-09-trace-attribution-standards</guid>
       <source url="https://scholarlykitchen.sspnet.org/">The Scholarly Kitchen</source>
     </item>
+
     <item>
       <title>Satellite-to-phone rules and a spectrum auction move forward</title>
       <link>https://www.reuters.com/business/media-telecom/us-fcc-vote-advancing-new-spectrum-auction-boost-direct-device-services-2026-10-07/</link>
@@ -64,6 +99,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-08-satellite-phone-spectrum</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Global survey finds deepening doubt about social media and democracy</title>
       <link>https://www.reuters.com/legal/litigation/social-media-harms-democracy-by-spreading-rumors-survey-shows-2026-10-01/</link>
@@ -72,6 +108,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-08-social-media-democracy-survey</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Press-freedom pressures rise across several countries</title>
       <link>https://www.washingtonpost.com/press-freedom-desk/2026/10/03/press-freedom-this-week-media-outlets-battle-trumps-amid-an-already-alarming-trend/</link>
@@ -80,6 +117,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-08-press-freedom-roundup</guid>
       <source url="https://www.washingtonpost.com/">The Washington Post</source>
     </item>
+
     <item>
       <title>Microsoft and Nvidia move coding agents onto the PC</title>
       <link>https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/</link>
@@ -88,6 +126,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-07-surface-laptop-ultra-local-agents</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Independent media needs distribution, not just good reporting</title>
       <link>https://www.journalofdemocracy.org/articles/how-to-protect-the-media-in-eroding-democracies/</link>
@@ -96,6 +135,7 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-07-media-distribution-democracy</guid>
       <source url="https://www.journalofdemocracy.org/">Journal of Democracy</source>
     </item>
+
     <item>
       <title>Open-source builders put interoperable agent protocols on the agenda</title>
       <link>https://opensource.googleblog.com/2026/10/this-week-in-open-source-for-october-2-2026.html</link>
@@ -103,30 +143,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-07-open-agent-protocols-summit</guid>
       <source url="https://opensource.googleblog.com/">Google Open Source Blog</source>
-    </item>
-    <item>
-      <title>Researchers propose a ‘militant democracy’ test for social platforms</title>
-      <link>https://www.techpolicy.press/why-social-media-platforms-should-adopt-a-militant-democracy-framework/</link>
-      <description>Daniel Kreiss and Lorcan Neill argue that social platforms need policies grounded in democratic principles when governments themselves are backsliding. Their framework rejects treating pro-democracy and anti-democratic forces as equivalent and asks platforms to protect opposition voices, elections and civil society from captured state power.</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-06-militant-platform-democracy</guid>
-      <source url="https://www.techpolicy.press/">Tech Policy Press</source>
-    </item>
-    <item>
-      <title>The reporter behind the Facebook Files meets his movie version</title>
-      <link>https://www.reuters.com/world/us/real-reporter-behind-the-social-reckoning-what-aaron-sorkins-film-gets-right-2026-10-05/</link>
-      <description>Jeff Horwitz explains how patient source cultivation led Frances Haugen to share the documents behind the Facebook Files—and what changes when that reporting becomes an Aaron Sorkin film. His account contrasts the slow, evidence-heavy work of journalism with the compressed chronology and composite characters of Hollywood.</description>
-      <pubDate>Mon, 05 Oct 2026 14:24:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-06-horwitz-social-reckoning</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>W3C maps a path toward ODRL 3.0</title>
-      <link>https://www.w3.org/news/2026/w3c-workshop-report-the-future-of-odrl/</link>
-      <description>A W3C workshop recommends a new working group for ODRL 3.0, with stronger semantics, conformance rules, tests and better usability. The larger aim is an interoperable layer for machine-readable policies spanning media, identity, provenance, contracts, finance and data spaces rather than another isolated vocabulary revision.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-06-odrl-3-workshop-report</guid>
-      <source url="https://www.w3.org/">W3C</source>
     </item>
   </channel>
 </rss>

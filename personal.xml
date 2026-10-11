@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 12:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>WordPress 7.2 changes a default database session mode</title>
+      <link>https://make.wordpress.org/core/2026/10/09/no_backslash_escapes-sql-mode-is-now-turned-off-by-default-in-wordpress-7-2/</link>
+      <description>WordPress 7.2 will remove NO_BACKSLASH_ESCAPES from each database session by default, preventing escaping failures and incorrect stored data in configurations where that SQL mode is active. The change is session-only, leaves the server&apos;s global setting untouched and can be overridden through db.php.</description>
+      <pubDate>Fri, 09 Oct 2026 18:13:41 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-11-wordpress-sql-mode</guid>
+      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
+    </item>
+
+    <item>
+      <title>Written Word Media opens its 2026 indie-author survey</title>
+      <link>https://selfpublishingadvice.org/written-word-media-opens-2026-indie-author-survey/</link>
+      <description>Written Word Media has launched its annual survey of independent authors. The results are meant to map author income, publishing output and changing business practices; previous editions found a strong relationship between the size of an author&apos;s catalog and earnings. Participation is open to authors across experience levels.</description>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-11-indie-author-survey</guid>
+      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
+    </item>
+
+    <item>
+      <title>Audio-first indie publisher Podium changes owners</title>
+      <link>https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101308-podium-entertainment-acquired-by-private-equity-firms.html</link>
+      <description>Flexpoint Ford and Shamrock Capital have acquired Podium Entertainment in a deal reportedly valued above $400 million. Podium began by producing the audiobook of Andy Weir&apos;s self-published The Martian and now has more than 15,000 titles, with a strong focus on genre fiction and independent authors. Employees will retain an ownership stake.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-11-podium-acquisition</guid>
+      <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
+    </item>
+
     <item>
       <title>Nikki Null wins the fifth Self-Published Science Fiction Competition</title>
       <link>https://file770.com/self-published-science-fiction-competition-won-by-nikki-null/</link>
@@ -16,6 +44,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-10-spsfc-five-winner</guid>
       <source url="https://file770.com/">File 770</source>
     </item>
+
     <item>
       <title>Duval Schools removes a graphic adaptation of 1984</title>
       <link>https://jaxtoday.org/2026/10/08/duval-schools-books-removed/</link>
@@ -24,6 +53,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-10-duval-1984-graphic-novel</guid>
       <source url="https://jaxtoday.org/">Jacksonville Today</source>
     </item>
+
     <item>
       <title>Free SelfPubCon focuses on what comes next for indie authors</title>
       <link>https://selfpublishingadvice.org/allis-selfpubcon-opens-october-17/</link>
@@ -32,6 +62,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-10-selfpubcon-2026-preview</guid>
       <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
     </item>
+
     <item>
       <title>Simon &amp; Schuster builds a bridge for self-published authors</title>
       <link>https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101456-frankfurt-book-fair-2026-s-s-bets-on-self-published-authors.html</link>
@@ -40,6 +71,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-09-simon-schuster-indie-authors</guid>
       <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
     </item>
+
     <item>
       <title>Four recent speculative novels span Lovecraft, alien love and haunted history</title>
       <link>https://www.theguardian.com/books/2026/oct/09/the-best-recent-science-fiction-fantasy-and-horror-review-roundup</link>
@@ -48,6 +80,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-09-guardian-speculative-fiction-roundup</guid>
       <source url="https://www.theguardian.com/">The Guardian</source>
     </item>
+
     <item>
       <title>Oracle introduces lower Java subscription pricing for smaller organizations</title>
       <link>https://blogs.oracle.com/java/new-lower-smb-pricing-and-easier-online-purchasing-of-java-se-universal-subscription</link>
@@ -56,6 +89,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-09-oracle-java-smb-pricing</guid>
       <source url="https://blogs.oracle.com/java/">Oracle Java Blog</source>
     </item>
+
     <item>
       <title>Books may get an ‘organic’ human-authored stamp</title>
       <link>https://www.wired.com/story/organic-literature-books-by-people-stamp-ai</link>
@@ -64,6 +98,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-08-organic-books-stamp</guid>
       <source url="https://www.wired.com/">WIRED</source>
     </item>
+
     <item>
       <title>Turkish publisher wins a second freedom-to-publish award</title>
       <link>https://apnews.com/article/freedom-publish-turkey-avesta-kurdish-award-aap-191927d54f0e46219ddff8a3c31a73a3</link>
@@ -72,6 +107,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-08-avesta-freedom-award</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>Betty Boop, Blondie and classic detectives join the public domain</title>
       <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
@@ -80,6 +116,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-08-public-domain-1930-works</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>WordPress 7.1.3 fixes seven security flaws</title>
       <link>https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/</link>
@@ -88,6 +125,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-07-wordpress-7-1-3</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
+
     <item>
       <title>MacKenzie Scott’s serialized dystopia tests self-publishing</title>
       <link>https://www.newyorker.com/books/page-turner/mackenzie-scotts-substack-novel-cant-escape-the-amazon-juggernaut</link>
@@ -96,6 +134,7 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-07-mackenzie-scott-substack-novel</guid>
       <source url="https://www.newyorker.com/">The New Yorker</source>
     </item>
+
     <item>
       <title>St. Augustine’s colonial archaeology goes online</title>
       <link>https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/</link>
@@ -103,30 +142,6 @@
       <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-07-idigstaug-digital-archaeology</guid>
       <source url="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</source>
-    </item>
-    <item>
-      <title>A database expert gets Doom running almost entirely in SQL</title>
-      <link>https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql</link>
-      <description>Lukas Vogel rebuilt Doom’s game logic inside a Postgres-compatible database using 5,900 lines of SQL. A 1,300-line renderer spans 89 tables, while a small Python front end handles input, sound and display. The relational approach even makes multiplayer synchronization and live changes to weapons or enemies unusually natural.</description>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-06-sqldoom</guid>
-      <source url="https://www.tomshardware.com/">Tom’s Hardware</source>
-    </item>
-    <item>
-      <title>Six-year project fully decompiles Super Smash Bros. Melee</title>
-      <link>https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code</link>
-      <description>A preservation team has converted the 2001 GameCube classic into C code that compiles to a byte-for-byte match of the original executable. The result exposes the engine, physics and game mechanics for study and could support future ports and mods, though users still need legally obtained game assets.</description>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-06-melee-decompilation</guid>
-      <source url="https://www.tomshardware.com/">Tom’s Hardware</source>
-    </item>
-    <item>
-      <title>WordPress reorganizes its core maintainers and bug gardeners</title>
-      <link>https://make.wordpress.org/core/2026/10/02/core-trac-and-github-team-spring-cleaning-southern-hemisphere-edition/</link>
-      <description>WordPress refreshed its lists of component maintainers and bug gardeners, then created GitHub teams with triage access for those contributors and experienced Gutenberg developers. The practical goal is clearer ownership and easier pull-request review, labeling and assignment across the core project.</description>
-      <pubDate>Fri, 02 Oct 2026 17:21:17 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-06-wordpress-core-team-cleanup</guid>
-      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
     </item>
   </channel>
 </rss>

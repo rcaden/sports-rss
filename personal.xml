@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Copyright Office opens inquiry into music-streaming fraud</title>
+      <link>https://www.copyright.gov/newsnet/2026/1095.html</link>
+      <description>The U.S. Copyright Office is gathering evidence on fraudulent music streams, how bad actors generate them, their effects on creators and possible industry or legal responses. Initial comments are due November 23, with replies due December 21. The proceeding could shape rules for royalties and platform accountability.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-12-music-streaming-fraud-inquiry</guid>
+      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+    </item>
+
+    <item>
+      <title>Library of Congress revisits Gus Arriola&apos;s Gordo</title>
+      <link>https://blogs.loc.gov/headlinesandheroes/2026/09/gus-arriola-and-gordo/</link>
+      <description>A Library of Congress history traces Gus Arriola&apos;s Gordo, syndicated from 1941 to 1985, and its evolution from broad caricature into an informed celebration of Mexican history and culture. Arriola researched customs, language and art while using the Sunday page&apos;s design freedom to make the strip visually distinctive.</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-12-gus-arriola-gordo</guid>
+      <source url="https://blogs.loc.gov/">Library of Congress</source>
+    </item>
+
+    <item>
+      <title>A history of the many Captains Marvel</title>
+      <link>https://atomicjunkshop.com/the-captains-marvel-a-history/</link>
+      <description>This illustrated history untangles the heroes who have shared the Captain Marvel name, beginning with Fawcett&apos;s Billy Batson and following the trademark, lawsuit and publishing turns that produced Marvel&apos;s Mar-Vell, Carol Danvers and several lesser-known claimants. It is a useful map of one of comics&apos; strangest naming histories.</description>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-12-captains-marvel-history</guid>
+      <source url="https://atomicjunkshop.com/">Atomic Junk Shop</source>
+    </item>
 
     <item>
       <title>WordPress 7.2 changes a default database session mode</title>
@@ -115,33 +142,6 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-08-public-domain-1930-works</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.1.3 fixes seven security flaws</title>
-      <link>https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/</link>
-      <description>WordPress 7.1.3 is a maintenance and security release with seven security fixes and four bug fixes. The patched issues include stored cross-site scripting, denial of service, second-order SQL injection in WXR export and disclosure of comments on private or unpublished posts. Site owners are urged to update immediately.</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-07-wordpress-7-1-3</guid>
-      <source url="https://wordpress.org/news/">WordPress News</source>
-    </item>
-
-    <item>
-      <title>MacKenzie Scott’s serialized dystopia tests self-publishing</title>
-      <link>https://www.newyorker.com/books/page-turner/mackenzie-scotts-substack-novel-cant-escape-the-amazon-juggernaut</link>
-      <description>Rhoda Feng examines MacKenzie Scott’s decision to serialize a dystopian third novel on Substack rather than use a traditional publisher. The essay treats the experiment as both a possible protest against Amazon and evidence of how thoroughly Kindle-era genre fiction, direct publishing and platform economics have reshaped the novel.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-07-mackenzie-scott-substack-novel</guid>
-      <source url="https://www.newyorker.com/">The New Yorker</source>
-    </item>
-
-    <item>
-      <title>St. Augustine’s colonial archaeology goes online</title>
-      <link>https://www.floridamuseum.ufl.edu/science/archaeologists-upload-the-history-of-north-americas-oldest-colonial-city/</link>
-      <description>The Florida Museum’s Interactive Digital St. Augustine database opens artifacts from colonial household sites to researchers and the public. Built with the Digital Archaeological Archive of Comparative Slavery, the project starts with three excavated lots and makes part of a million-object collection searchable online.</description>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-07-idigstaug-digital-archaeology</guid>
-      <source url="https://www.floridamuseum.ufl.edu/">Florida Museum of Natural History</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Jaguars stun Eagles with 57-yard field goal in London</title>
+      <link>https://www.reuters.com/sports/nfl/cam-little-drills-57-yard-field-goal-jags-jolt-eagles-london--flm-2026-10-11/</link>
+      <description>Cam Little hit a 57-yard field goal as time expired to give Jacksonville a 19-17 win over Philadelphia. Ameer Abdullah set it up with a 53-yard kickoff return after the Eagles had taken the lead with eight seconds left. Trevor Lawrence threw for 331 yards and two touchdowns as the Jaguars improved to 4-1.</description>
+      <pubDate>Sun, 11 Oct 2026 17:35:30 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-12-jaguars-eagles-london</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Brewers edge Dodgers in NLCS opener</title>
+      <link>https://www.reuters.com/sports/baseball/brice-turang-homers-brewers-edge-dodgers-nlcs-opener--flm-2026-10-12/</link>
+      <description>Brice Turang homered and Milwaukee&apos;s bullpen worked 4 2/3 scoreless innings in a 2-1 victory over the defending champion Dodgers. Rookie Luis Lara drove in the winning run, and Trevor Megill escaped two ninth-inning walks. The Brewers lead the National League Championship Series 1-0.</description>
+      <pubDate>Mon, 12 Oct 2026 03:30:59 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-12-brewers-dodgers-nlcs-game-one</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Huntley leads Ravens&apos; overtime comeback</title>
+      <link>https://www.reuters.com/sports/nfl/tyler-huntley-ravens-rally-beat-falcons-ot--flm-2026-10-12/</link>
+      <description>Backup quarterback Tyler Huntley threw a touchdown with 40 seconds left, Derrick Henry ran in the tying two-point conversion and Huntley scored on Baltimore&apos;s opening overtime drive. Kyle Hamilton then intercepted Tua Tagovailoa to seal a 30-23 victory over Atlanta.</description>
+      <pubDate>Mon, 12 Oct 2026 04:18:39 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-12-ravens-falcons-overtime</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Guardians finish ALDS comeback and advance</title>
@@ -114,33 +141,6 @@
       <description>Edmonton erased a 2-0 deficit with five unanswered second-period goals in a 5-2 win at Anaheim. Leon Draisaitl had four assists, Evan Bouchard scored twice and Connor McDavid added a goal and two assists as the Oilers improved to 3-0-1.</description>
       <pubDate>Thu, 08 Oct 2026 06:55:06 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-10-08-oilers-five-goal-period</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Yamamoto strikes out 10 as Dodgers regain NLDS lead</title>
-      <link>https://www.reuters.com/sports/baseball/yoshinobu-yamamoto-dodgers-take-nlds-lead-over-braves--flm-2026-10-07/</link>
-      <description>Yoshinobu Yamamoto allowed one run in seven innings and struck out a postseason-career-high 10 as Los Angeles beat Atlanta 3-1 for a 2-1 NLDS lead. Enrique Hernández and former Brave Freddie Freeman homered in the fourth; the Dodgers can clinch a third straight trip to the NLCS with one more win.</description>
-      <pubDate>Wed, 07 Oct 2026 01:21:25 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-07-dodgers-braves-nlds-game-three</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Padres stave off elimination and force Game 4</title>
-      <link>https://www.reuters.com/sports/baseball/padres-come-up-with-clutch-efforts-beat-brewers-force-game-4--flm-2026-10-07/</link>
-      <description>Jake Cronenworth broke a tie with a fifth-inning homer and Michael King earned a six-out save two days after starting as San Diego beat Milwaukee 4-3. Xander Bogaerts ended the game with a sharp double play, keeping the Padres alive and extending the Brewers’ road postseason losing streak to 12.</description>
-      <pubDate>Wed, 07 Oct 2026 05:31:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-07-padres-brewers-nlds-game-three</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>World Cup winner Pedro retires after a 20-year career</title>
-      <link>https://www.reuters.com/sports/soccer/world-cup-winner-pedro-calls-time-20-year-career-2026-10-07/</link>
-      <description>Pedro Rodríguez retired at 39 after 794 club appearances, 197 goals and 25 major trophies. The versatile forward won the 2010 World Cup and Euro 2012 with Spain, collected 20 trophies at Barcelona and later won the Premier League with Chelsea before finishing his career in Rome with Roma and Lazio.</description>
-      <pubDate>Wed, 07 Oct 2026 12:19:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-07-pedro-retires</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

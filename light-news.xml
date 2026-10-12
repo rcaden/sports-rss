@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>East Texas family sells lakefront land for a future state park</title>
+      <link>https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/</link>
+      <description>The Pollard family sold 650 acres on Lake Palestine to the Texas Parks and Wildlife Foundation for 
+    <docs>https://www.rssboard.org/rss-specification</docs> million so the land can become a state park. The property includes pine woods, wetlands, bluffs and a working pecan orchard, with room for camping, paddling, fishing and wildlife watching.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-12-east-texas-state-park</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Aldabra&apos;s giant tortoise population reaches about 180,000</title>
+      <link>https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/</link>
+      <description>A five-year survey estimates nearly 183,000 adult and sub-adult giant tortoises now roam Aldabra Atoll in the Seychelles, up from fewer than 1,000 in the 19th century. Researchers call the rebound one of the Indian Ocean&apos;s great conservation successes while warning that drought and invasive animals remain threats.</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-12-aldabra-giant-tortoises</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Personalized walking change eases arthritic knee pain</title>
+      <link>https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/</link>
+      <description>In a year-long randomized trial, people with knee osteoarthritis who learned a personalized change in foot angle reported less pain and showed slower cartilage deterioration than a placebo group. Researchers used motion analysis to determine whether each participant should turn a foot slightly inward or outward.</description>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-12-knee-gait-study</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
 
     <item>
       <title>Sloth bear named by Julia Roberts flourishes after rescue</title>
@@ -115,33 +143,6 @@
       <pubDate>Wed, 07 Oct 2026 16:23:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-08-record-pumpkin-bagheera</guid>
       <source url="https://www.upi.com/Odd_News/">UPI</source>
-    </item>
-
-    <item>
-      <title>Chemists who mastered molecular ‘mirror images’ win Nobel</title>
-      <link>https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/</link>
-      <description>Henri Kagan, 95, and Kenso Soai, 76, won the Nobel Prize in Chemistry for discoveries that let reactions favor one of two molecular mirror images. The work solved a century-old puzzle and became crucial to making medicines, where left- and right-handed versions of the same molecule can behave very differently.</description>
-      <pubDate>Wed, 07 Oct 2026 09:51:29 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-07-kagan-soai-chemistry-nobel</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>A 50-million-year-old crocodile gets a new identity</title>
-      <link>https://www.washingtonpost.com/science/2026/10/07/scientists-discovered-crocodile-they-never-knew-existed/</link>
-      <description>CT scans and more than 300 anatomical comparisons revealed that a crocodile fossil found near Cairo had been misclassified for a century. Scientists named the newly recognized species Herugavialis cairensis, linking Egypt’s deep natural history to the Sphinx and the ancient god Heru.</description>
-      <pubDate>Wed, 07 Oct 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-07-egypt-crocodile-species</guid>
-      <source url="https://www.washingtonpost.com/">The Washington Post</source>
-    </item>
-
-    <item>
-      <title>Meerkats get pumpkins and cauldrons for Halloween</title>
-      <link>https://www.nationalzoo.si.edu/animals/news/watch-meerkats-explore-jack-o-lanterns-and-cauldrons</link>
-      <description>Seven meerkats at the Smithsonian’s National Zoo investigated jack-o’-lanterns and witches’ cauldrons prepared by their keepers. The seasonal props are more than decoration: pumpkins and other changing objects encourage the animals to forage, explore and stay engaged with their surroundings.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-07-meerkat-halloween-enrichment</guid>
-      <source url="https://www.nationalzoo.si.edu/">Smithsonian’s National Zoo</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,442 @@
     <link>https://rcaden.github.io/sports-rss/w3c.rss</link>
     <description>Reports on substantive changes in W3C GitHub repositories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:07:29 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/w3c.rss" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>SPARQL Update Examples Adopt RDF 1.2 Triple-Term Reification</title>
+      <link>https://github.com/w3c/sparql-update/commits/main/</link>
+      <description>&lt;p&gt;The SPARQL 1.2 Update draft has rewritten its INSERT and DELETE examples around RDF 1.2 triple terms. The examples now use rdf:reifies and show the equivalent reifying-triple and annotation syntaxes.&lt;/p&gt;&lt;p&gt;The revision makes explicit that recording a claim about a triple term does not assert that triple. Applications must insert or delete the asserted triple separately when that is the intended operation.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/sparql-update/commit/af1ef8a78bef1b12a224a083df3e32200b49ce47&quot;&gt;sparql-update commit af1ef8a7&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SPARQL</category>
+      <category>RDF 1.2</category>
+      <pubDate>Mon, 12 Oct 2026 06:53:18 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/sparql-update/commit/af1ef8a78bef1b12a224a083df3e32200b49ce47</guid>
+    </item>
+    <item>
+      <title>SHACL 1.2 Lets Rule Sets Act as Validation Entailments</title>
+      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
+      <description>&lt;p&gt;The SHACL 1.2 Inference Rules draft now allows a named rule set to be used as an sh:entailment value. A validation engine can therefore execute only the selected rules before validation instead of always running every rule in the shapes graph.&lt;/p&gt;&lt;p&gt;The draft distinguishes shape rules from global rules, states that neither runs automatically during ordinary validation, and requires an engine to fail when it cannot support a requested entailment regime.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/2ada6ac46278117d4ffd34f481b39f6acb8a1095&quot;&gt;data-shapes commit 2ada6ac4&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SHACL</category>
+      <category>Specification</category>
+      <pubDate>Mon, 12 Oct 2026 00:06:57 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/2ada6ac46278117d4ffd34f481b39f6acb8a1095</guid>
+    </item>
+    <item>
+      <title>SHACL 1.2 Adds a Non-Validating Code-Type Hint</title>
+      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
+      <description>&lt;p&gt;SHACL 1.2 Core now defines sh:codeType, an annotation that tells API and code generators which datatype to expose for a shape’s values. It is independent of validation constraints such as sh:datatype, sh:class, and sh:nodeKind.&lt;/p&gt;&lt;p&gt;A shape can consequently validate an IRI while asking generated code to present it as a string. The hint is language-neutral and does not change validation results.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/af518a38d55f86cdb9bf4c15bb75b4c1ebd49365&quot;&gt;data-shapes commit af518a38&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SHACL</category>
+      <category>Code Generation</category>
+      <pubDate>Sun, 11 Oct 2026 23:50:59 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/af518a38d55f86cdb9bf4c15bb75b4c1ebd49365</guid>
+    </item>
+    <item>
+      <title>SHACL 1.2 Can Mark Data Nodes as Incomplete</title>
+      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
+      <description>&lt;p&gt;SHACL 1.2 Core now defines sh:incomplete and sh:incompleteURIStart for declaring that a node intentionally has only partial data. The declaration does not alter conformance or the validation report.&lt;/p&gt;&lt;p&gt;Tools may use the annotation to present likely incompleteness-related violations differently—for example, downgrading a missing required value while data entry is unfinished. An explicit false value overrides an incomplete declaration.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/f39b1d4870c31b8c01e55dff1d8e78dbb86bbf6b&quot;&gt;data-shapes commit f39b1d48&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SHACL</category>
+      <category>Data Quality</category>
+      <pubDate>Sun, 11 Oct 2026 23:49:33 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/f39b1d4870c31b8c01e55dff1d8e78dbb86bbf6b</guid>
+    </item>
+    <item>
+      <title>YAML Vocabulary Generator Adds Fine-Grained JSON-LD Context Controls</title>
+      <link>https://github.com/w3c/yml2vocab/commits/main/</link>
+      <description>&lt;p&gt;W3C’s YAML-to-vocabulary generator now supports property-scoped contexts, clearing an inherited context, language maps, and top-level terms selected by vocabulary scope. A vocabulary range can also generate @type: @vocab in JSON-LD without affecting the RDFS output.&lt;/p&gt;&lt;p&gt;The release adds an html_class option as well. Together, the features let one YAML vocabulary definition produce more precise JSON-LD contexts and formatted documentation.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/yml2vocab/commit/db3566a980c91923728870c720fdd14cf37d478e&quot;&gt;yml2vocab commit db3566a9&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>JSON-LD</category>
+      <category>W3C Tools</category>
+      <pubDate>Sun, 11 Oct 2026 06:56:00 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/yml2vocab/commit/db3566a980c91923728870c720fdd14cf37d478e</guid>
+    </item>
+    <item>
+      <title>CSS Sizing Draft Adds a Functional stretch() Value</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Sizing Level 4 now defines stretch(length-percentage), which sizes a box so its margin box fits the supplied size. The fit-content() formula is correspondingly expressed in terms of stretch().&lt;/p&gt;&lt;p&gt;The draft also specifies fallback behavior when fit-content() creates a cyclic percentage dependency: maximum, minimum, and preferred sizing properties fall back to max-content, min-content, and fit-content respectively. This remains developing Level 4 behavior.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/50337328484f7fcdd9ab6fe9ded6011815b1707e&quot;&gt;csswg-drafts commit 50337328&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/77c733720a9bf8e4de5453a1eeb7ba6b8eb56484&quot;&gt;csswg-drafts commit 77c73372&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/062dc9481737fb64fef91e61d7488488501aa5f9&quot;&gt;csswg-drafts commit 062dc948&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Layout</category>
+      <category>Draft</category>
+      <pubDate>Sat, 10 Oct 2026 22:53:52 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/50337328484f7fcdd9ab6fe9ded6011815b1707e</guid>
+    </item>
+    <item>
+      <title>RDF 1.2 Aligns Parser Behavior for Non-Conforming Documents</title>
+      <link>https://github.com/w3c/rdf-n-quads/commits/main/</link>
+      <description>&lt;p&gt;The RDF 1.2 drafts for N-Quads, N-Triples, Turtle, TriG, and RDF/XML now consistently leave the result of parsing non-conforming input undefined. Error detection, reporting, and recovery are implementation choices because appropriate behavior depends on the surrounding API or protocol.&lt;/p&gt;&lt;p&gt;N-Quads also gains a future-proofing rule: any later incompatible syntax that reuses the media type must carry a VERSION value newer than 1.2, allowing older parsers to recognize unsupported input.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/rdf-n-quads/commit/af9193d2644bd1979f2da5dd80818dfb73d0dac6&quot;&gt;rdf-n-quads commit af9193d2&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-n-quads/commit/6873719a265e8f314fda0e7f48057e58cbcbbffc&quot;&gt;rdf-n-quads commit 6873719a&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-xml/commit/e7111c9ae6bd55aeea8098c3ffcda1ca55328bbf&quot;&gt;rdf-xml commit e7111c9a&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-n-triples/commit/96167c3fd0816baf66c4cc6cccfce1e9735b1caf&quot;&gt;rdf-n-triples commit 96167c3f&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-turtle/commit/94c6e4a5cfb4c508b1061e361531f91690338c4d&quot;&gt;rdf-turtle commit 94c6e4a5&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-trig/commit/b3579511c3a544971ed7b502eca9c6dfe0b5665f&quot;&gt;rdf-trig commit b3579511&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>RDF 1.2</category>
+      <category>Parsing</category>
+      <pubDate>Sat, 10 Oct 2026 18:35:28 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/rdf-n-quads/commit/af9193d2644bd1979f2da5dd80818dfb73d0dac6</guid>
+    </item>
+    <item>
+      <title>RDF and SPARQL Tests Expand Version, Scope, and Language-Tag Coverage</title>
+      <link>https://github.com/w3c/rdf-tests/commits/main/</link>
+      <description>&lt;p&gt;The W3C RDF test suite now checks the N-Triples 1.2 VERSION declaration, including wrong case, non-string values, and Turtle-style variants. SPARQL tests add post-query VALUES scope after GROUP BY and VALUES behavior inside GRAPH with FROM NAMED.&lt;/p&gt;&lt;p&gt;Another case confirms that STRLANG language tags compare without regard to case. The additions target parsing, dataset scoping, and literal equality edge cases that have produced implementation disagreement.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/rdf-tests/commit/42e6bb1d254bc10b3bb849e0a6872afea9ff4da3&quot;&gt;rdf-tests commit 42e6bb1d&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-tests/commit/ec2ba15e0a001431af0e56376572812fd5dd1dbc&quot;&gt;rdf-tests commit ec2ba15e&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-tests/commit/8dd12bf62f29cc95f40e419de65da4af68560b23&quot;&gt;rdf-tests commit 8dd12bf6&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/rdf-tests/commit/9382f411cf8dad71667a430baf6190520523ad91&quot;&gt;rdf-tests commit 9382f411&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>RDF 1.2</category>
+      <category>SPARQL</category>
+      <category>Testing</category>
+      <pubDate>Sat, 10 Oct 2026 09:29:33 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/rdf-tests/commit/42e6bb1d254bc10b3bb849e0a6872afea9ff4da3</guid>
+    </item>
+    <item>
+      <title>CSS Defines a Separate Parser for Style Attributes</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Syntax now defines dedicated algorithms for parsing and consuming a style attribute. Unlike a block’s contents, a style attribute has no wrapping block, does not let a closing brace terminate parsing, ignores at-rules, and treats qualified rules as syntax errors.&lt;/p&gt;&lt;p&gt;The explicit entry point gives HTML style attributes and CSSStyleDeclaration.cssText a common parsing model without conflating them with full nested rule blocks.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/64e5504c81d5292a6df2c27391f2afa75cd076d7&quot;&gt;csswg-drafts commit 64e5504c&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Parsing</category>
+      <category>Specification</category>
+      <pubDate>Fri, 09 Oct 2026 23:23:19 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/64e5504c81d5292a6df2c27391f2afa75cd076d7</guid>
+    </item>
+    <item>
+      <title>IFT Encoder Improves Multi-Script Font Segmentation</title>
+      <link>https://github.com/w3c/ift-encoder/commits/main/</link>
+      <description>&lt;p&gt;The Incremental Font Transfer encoder’s experimental auto-segmentation pipeline now supports multiple frequency profiles, groups overlapping writing scripts, and can choose a merge depth automatically. Its heuristic merger can batch compatible segments while enforcing a 20 KB patch-size ceiling.&lt;/p&gt;&lt;p&gt;Follow-up fixes cover probability caching, segment reassignment, scripts with no overlap, and an unsigned-underflow bug in Brotli binary-diff allocation. This is implementation work in the developing encoder, not a change to the IFT specification.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/ift-encoder/commit/59678059221e319bffb2dbcfb1a81227800bc45a&quot;&gt;ift-encoder commit 59678059&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/ift-encoder/commit/2443c996d2a79af0dd52e473be8d43048a601594&quot;&gt;ift-encoder commit 2443c996&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/ift-encoder/commit/74d6a4c63a02f45ca919f3c2d96570b0a808ec46&quot;&gt;ift-encoder commit 74d6a4c6&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/ift-encoder/commit/fa521403de99293575307aed2dd35145370ae017&quot;&gt;ift-encoder commit fa521403&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/ift-encoder/commit/7d695cc4a99a7138fef9212f23b255ee04b1fecd&quot;&gt;ift-encoder commit 7d695cc4&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Fonts</category>
+      <category>Incremental Font Transfer</category>
+      <category>Implementation</category>
+      <pubDate>Fri, 09 Oct 2026 19:38:53 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/ift-encoder/commit/59678059221e319bffb2dbcfb1a81227800bc45a</guid>
+    </item>
+    <item>
+      <title>CSS Animation Triggers Define Event Functions and a Range Shorthand</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;The CSS Animation Triggers draft now enumerates event functions such as click(), pointerdown(), focusin(), input(), and change(), plus keypress() with an optional key value. It also defines timeline-trigger-range as a shorthand for activation and active ranges.&lt;/p&gt;&lt;p&gt;The main timeline-trigger shorthand now incorporates that range shorthand. This is early draft work and the supported event-function set may still change.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/722481545a08478c5a33b2f3d82db4d539e1c1a9&quot;&gt;csswg-drafts commit 72248154&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/1e92195790a270406629b3bfa82603d6ffe02ea7&quot;&gt;csswg-drafts commit 1e921957&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/b4b69f6c68e8144ef502ddf3c649033a8c8fb0d4&quot;&gt;csswg-drafts commit b4b69f6c&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Web Animations</category>
+      <category>Draft</category>
+      <pubDate>Fri, 09 Oct 2026 17:20:50 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/722481545a08478c5a33b2f3d82db4d539e1c1a9</guid>
+    </item>
+    <item>
+      <title>CSS Color Publishes Sample EdgeSeeker Gamut-Mapping Pseudocode</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Color 4 now includes sample pseudocode for the EdgeSeeker gamut-mapping algorithm, including construction of its reusable lookup table and mapping of individual colors. Follow-up fixes improve numerical stability, close lookup curves correctly, and avoid remapping colors already in gamut.&lt;/p&gt;&lt;p&gt;The sample is restricted to RGB destination spaces with non-imaginary primaries, excluding spaces such as ProPhoto RGB. The detailed algorithm gives implementers a common reference for wide-gamut color conversion.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/9a923136e6543b2c4d70c8676c9f30133984a4b4&quot;&gt;csswg-drafts commit 9a923136&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/6fa56e0b1c8b10ff9c57139725483af463723889&quot;&gt;csswg-drafts commit 6fa56e0b&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/778ad60bae76b750fdc96551f0410d72fcb3f9b9&quot;&gt;csswg-drafts commit 778ad60b&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/58408a4ab588b11ade269a90e7d126fde3a8630e&quot;&gt;csswg-drafts commit 58408a4a&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/5e7e5034f3b25d452348e16aeb3929e87e4df05f&quot;&gt;csswg-drafts commit 5e7e5034&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/536e7ec9b3c9945f344d2eda6ba0ffcc93773811&quot;&gt;csswg-drafts commit 536e7ec9&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Color</category>
+      <category>Algorithms</category>
+      <pubDate>Fri, 09 Oct 2026 15:31:31 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/9a923136e6543b2c4d70c8676c9f30133984a4b4</guid>
+    </item>
+    <item>
+      <title>ActivityPub Clarifies Optional Delivery to Additional Shared Inboxes</title>
+      <link>https://github.com/w3c/activitypub/commits/gh-pages/</link>
+      <description>&lt;p&gt;ActivityPub now says a server MAY deliver a public activity to additional shared inboxes beyond those required by the normal recipient and forwarding rules. The previous wording referred ambiguously to “all known” shared inboxes.&lt;/p&gt;&lt;p&gt;The clarification preserves the optional behavior while avoiding an implication that a server should broadcast to every shared inbox it has ever discovered.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/activitypub/commit/bcbabdef1171b038aaee9ee68c508a2f16ae1d6d&quot;&gt;activitypub commit bcbabdef&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Social Web</category>
+      <category>ActivityPub</category>
+      <category>Specification</category>
+      <pubDate>Fri, 09 Oct 2026 14:11:05 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/activitypub/commit/bcbabdef1171b038aaee9ee68c508a2f16ae1d6d</guid>
+    </item>
+    <item>
+      <title>SPARQL Query Refines Logical-Not and Property-Path Definitions</title>
+      <link>https://github.com/w3c/sparql-query/commits/main/</link>
+      <description>&lt;p&gt;The SPARQL 1.2 query draft now declares sparql:logical-not as a FunctionalForm, matching its special evaluation behavior rather than treating it as an ordinary function.&lt;/p&gt;&lt;p&gt;The draft also removes redundant formulas beneath predicate property-path evaluation, leaving the normative algebra definition as the source of behavior. The cleanup reduces conflicting formal descriptions.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/sparql-query/commit/e4682c6b06d5afa759a75c22b9af9c3bc7c3793a&quot;&gt;sparql-query commit e4682c6b&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/sparql-query/commit/f0527967e4a2d947b2d5c2375660ad5a9f113655&quot;&gt;sparql-query commit f0527967&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SPARQL</category>
+      <category>Specification</category>
+      <pubDate>Fri, 09 Oct 2026 08:39:18 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/sparql-query/commit/e4682c6b06d5afa759a75c22b9af9c3bc7c3793a</guid>
+    </item>
+    <item>
+      <title>HTML Diff Tool Repairs Relative Links in Comparison Output</title>
+      <link>https://github.com/w3c/htmldiff-ui/commits/main/</link>
+      <description>&lt;p&gt;W3C’s HTML comparison tool now resolves relative links against each source document before producing a diff. Links and images no longer become relative to the diff viewer itself, where they could point to the wrong location or break.&lt;/p&gt;&lt;p&gt;The change applies base-URL handling while the source HTML is parsed, preserving meaningful navigation in generated specification comparisons.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/htmldiff-ui/commit/562f2a8115a5027955bb823d6b25c88fcade3aa1&quot;&gt;htmldiff-ui commit 562f2a81&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>W3C Tools</category>
+      <category>Publishing</category>
+      <category>HTML</category>
+      <pubDate>Fri, 09 Oct 2026 03:15:19 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/htmldiff-ui/commit/562f2a8115a5027955bb823d6b25c88fcade3aa1</guid>
+    </item>
+    <item>
+      <title>CSS Counter Styles Clarifies UA-Drawn Marker Fallbacks</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Counter Styles now allows browsers to draw the predefined symbolic markers with an image or chosen font wherever those styles are used, not only through list-style-type. When a generated glyph cannot be used inside a counter() value, the browser may fall back to the style’s string definition.&lt;/p&gt;&lt;p&gt;The draft also makes directional disclosure markers explicitly respond to both writing mode and text direction.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/d8fdab81ac7ca1cdcaf431b434d3e2901a5ba81a&quot;&gt;csswg-drafts commit d8fdab81&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Lists</category>
+      <category>Internationalization</category>
+      <pubDate>Thu, 08 Oct 2026 23:19:36 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/d8fdab81ac7ca1cdcaf431b434d3e2901a5ba81a</guid>
+    </item>
+    <item>
+      <title>CSS Experiments with a New Computed Model for Automatic Quotes</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;The CSS Generated Content draft has reworked how the quotes property carries an automatically selected language through inheritance. A provisional placeholder keyword replaces match-parent while the working group settles the final name and computed-value model.&lt;/p&gt;&lt;p&gt;The intended behavior is clearer than the temporary spelling: when the inherited value is auto, the child retains the parent’s content language so quotation marks remain consistent. This is unresolved draft work, not author-ready syntax.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/c8459c50d2c5ae258c8d238b6f3f648ddc2e41e5&quot;&gt;csswg-drafts commit c8459c50&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Internationalization</category>
+      <category>Draft</category>
+      <pubDate>Thu, 08 Oct 2026 21:36:59 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/c8459c50d2c5ae258c8d238b6f3f648ddc2e41e5</guid>
+    </item>
+    <item>
+      <title>CSS Marks Counters in Generated Alt Text as At Risk</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Generated Content Level 3 now marks the use of counters inside content alternative text as an at-risk feature. The designation means the feature may be removed before advancement if implementation experience is insufficient.&lt;/p&gt;&lt;p&gt;The specification describes itself as a rough draft not ready for implementation, so the status is a warning about stability rather than a removal from deployed CSS.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/0a43919320f69bb6f7cc224120103f63a502df51&quot;&gt;csswg-drafts commit 0a439193&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Accessibility</category>
+      <category>Draft</category>
+      <pubDate>Thu, 08 Oct 2026 21:06:20 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/0a43919320f69bb6f7cc224120103f63a502df51</guid>
+    </item>
+    <item>
+      <title>CSS Grid Renames flow-tolerance to fit-tolerance</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;The CSS Grid Level 3 draft has renamed the grid-lanes placement control flow-tolerance to fit-tolerance. The property sets the size difference below which tracks are treated as equivalent, reducing visually arbitrary backtracking during auto-placement.&lt;/p&gt;&lt;p&gt;This is a name change in developing grid-lanes syntax; implementations and examples following the draft should use fit-tolerance.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/0ff603b443557cb65f379001a8a2a04a938af4d5&quot;&gt;csswg-drafts commit 0ff603b4&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Grid</category>
+      <category>Draft</category>
+      <pubDate>Thu, 08 Oct 2026 20:58:15 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/0ff603b443557cb65f379001a8a2a04a938af4d5</guid>
+    </item>
+    <item>
+      <title>CSS Form-Control Pseudo-Elements Standardize on border-box</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;The CSS Forms draft now places box-sizing: border-box in the user-agent stylesheet for all defined form-control pseudo-elements, including checkmarks, picker icons, slider parts, field components, step controls, and placeholders.&lt;/p&gt;&lt;p&gt;Applying one sizing model across these generated parts makes their declared dimensions include borders and padding and reduces reliance on browser-specific defaults.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/0289e95a80364fb3874ec8b7b886c35440a25ace&quot;&gt;csswg-drafts commit 0289e95a&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Forms</category>
+      <category>Interoperability</category>
+      <pubDate>Thu, 08 Oct 2026 20:36:44 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/0289e95a80364fb3874ec8b7b886c35440a25ace</guid>
+    </item>
+    <item>
+      <title>Media Capture Extensions Exposes Supporting Interfaces in Workers</title>
+      <link>https://github.com/w3c/mediacapture-extensions/commits/main/</link>
+      <description>&lt;p&gt;The Media Capture Extensions draft now exposes OverconstrainedError to dedicated workers because MediaStreamTrack.applyConstraints() can reject with that type there. It likewise exposes MediaStreamTrackEvent because worker-exposed MediaStream objects fire those events.&lt;/p&gt;&lt;p&gt;The temporary partial-interface declarations keep worker behavior usable until the exposure sets can be merged into the base Media Capture specification.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/mediacapture-extensions/commit/ba7d096c900bbe2217f5ee2a2e7e6ee742a33b48&quot;&gt;mediacapture-extensions commit ba7d096c&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Media</category>
+      <category>Web Workers</category>
+      <category>Web APIs</category>
+      <pubDate>Thu, 08 Oct 2026 14:44:28 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/mediacapture-extensions/commit/ba7d096c900bbe2217f5ee2a2e7e6ee742a33b48</guid>
+    </item>
+    <item>
+      <title>WoT Adds a Draft EtherNet/IP Binding</title>
+      <link>https://github.com/w3c/wot-binding-templates/commits/main/</link>
+      <description>&lt;p&gt;The Web of Things Binding Templates repository now includes a draft EtherNet/IP binding. It defines eip: URI forms, primitive and structured tag types, byte and bit offsets, polling and timeout controls, scaling, and operations for reading, writing, and observing properties.&lt;/p&gt;&lt;p&gt;A JSON Schema and examples accompany the vocabulary. This is draft protocol-binding work intended for industrial devices, not a finalized W3C Recommendation.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/wot-binding-templates/commit/92538eb2f6dd0b2ae0deed60ec557d117c71b07b&quot;&gt;wot-binding-templates commit 92538eb2&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Web of Things</category>
+      <category>Industrial IoT</category>
+      <category>Draft</category>
+      <pubDate>Thu, 08 Oct 2026 13:55:55 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/wot-binding-templates/commit/92538eb2f6dd0b2ae0deed60ec557d117c71b07b</guid>
+    </item>
+    <item>
+      <title>SHACL-SPARQL Rules Tighten Blank-Node and Error Semantics</title>
+      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
+      <description>&lt;p&gt;The SHACL SPARQL Rules draft now defines blank nodes in rule-body triple patterns as variables, including blank nodes nested in triple terms. Repeated occurrences map to the same fresh variable.&lt;/p&gt;&lt;p&gt;Expression evaluation now propagates errors explicitly and filters out error results before effective-boolean-value testing. A rewritten well-formedness section tracks which variables are in scope after each rule element, preparing the model for aggregates.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/25aaa15a77a021b58985c3112e9669e3376ab6c8&quot;&gt;data-shapes commit 25aaa15a&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/658045bb34fc0feea22127df0ab070716fae9968&quot;&gt;data-shapes commit 658045bb&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/f5fdd1f0127df7cb2f1baf86dcdcddf612533524&quot;&gt;data-shapes commit f5fdd1f0&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SHACL</category>
+      <category>SPARQL</category>
+      <pubDate>Thu, 08 Oct 2026 08:43:18 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/25aaa15a77a021b58985c3112e9669e3376ab6c8</guid>
+    </item>
+    <item>
+      <title>CSS Line Clamping Keeps Hidden Content Accessible</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Overflow now defines clamped content as visually suppressed rather than removed from the box tree. It is not painted and does not enlarge scrollable overflow, but it remains in sequential focus navigation and the accessibility tree.&lt;/p&gt;&lt;p&gt;The draft also renames continue: auto to continue: normal, changes line-clamp’s longhand expansion, and specifies that block-ellipsis processing occurs before text-overflow ellipsing.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/1dafa60598a1d313471673f7e06a8e4c9f94646f&quot;&gt;csswg-drafts commit 1dafa605&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/1f04ca5cf2e832f4e050cd4e5a4c94a711af40ab&quot;&gt;csswg-drafts commit 1f04ca5c&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/bf9279eff11732ce0cbd236e487442333aa06af8&quot;&gt;csswg-drafts commit bf9279ef&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Accessibility</category>
+      <category>Layout</category>
+      <pubDate>Thu, 08 Oct 2026 02:45:23 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/1dafa60598a1d313471673f7e06a8e4c9f94646f</guid>
+    </item>
+    <item>
+      <title>Pointer Scrolling Promises Report Whether a Scroll Was Interrupted</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSSOM View now resolves scroll(), scrollTo(), and scrollBy() promises with a ScrollResult dictionary containing an interrupted flag. Starting another scroll on the same container resolves pending operations as interrupted; a completed operation returns false.&lt;/p&gt;&lt;p&gt;Viewport scrolling combines the layout and visual viewport results, reporting success only when both finish without interruption. Scripts can now distinguish completion from supersession instead of receiving an undefined value in either case.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/2b26877d971030cb5e59f2af620aad2c2f79c170&quot;&gt;csswg-drafts commit 2b26877d&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSSOM</category>
+      <category>Scrolling</category>
+      <category>Web APIs</category>
+      <pubDate>Wed, 07 Oct 2026 23:04:35 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/2b26877d971030cb5e59f2af620aad2c2f79c170</guid>
+    </item>
+    <item>
+      <title>WebCodecs Corrects Video-Frame Layout and Pixel-Format Rules</title>
+      <link>https://github.com/w3c/webcodecs/commits/main/</link>
+      <description>&lt;p&gt;WebCodecs now throws TypeError when a VideoFrame’s computed display width or height is zero. It also fixes allocation calculations for odd-width subsampled images, interleaved components such as NV12, and packed RGB formats.&lt;/p&gt;&lt;p&gt;Separate corrections identify the proper opaque equivalents for I422AP10, I422AP12, and I444AP12. Together, the changes prevent undersized buffers and inconsistent interpretation of high-bit-depth alpha formats.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/webcodecs/commit/7be369921f9e1a9ad3e12e8f8d4080cf98d8bf92&quot;&gt;webcodecs commit 7be36992&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/webcodecs/commit/6f4d6eb87ecb3823b6dd322ea59eb7f1fb1402a8&quot;&gt;webcodecs commit 6f4d6eb8&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/webcodecs/commit/924a4f84b912a5630971e6ac3f53d960a448e2c4&quot;&gt;webcodecs commit 924a4f84&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/webcodecs/commit/6d8e3d3672020b5b7c4c1164903b5cb26fed5b24&quot;&gt;webcodecs commit 6d8e3d36&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/webcodecs/commit/3d4b1131d8893362358c5eb73f317a80cf414c63&quot;&gt;webcodecs commit 3d4b1131&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Media</category>
+      <category>WebCodecs</category>
+      <category>Web APIs</category>
+      <pubDate>Wed, 07 Oct 2026 19:42:47 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/webcodecs/commit/7be369921f9e1a9ad3e12e8f8d4080cf98d8bf92</guid>
+    </item>
+    <item>
+      <title>CSS Extends Opacity Serialization Beyond the opacity Property</title>
+      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
+      <description>&lt;p&gt;CSS Color 4 now states that opacity-value serialization rules apply to every property that accepts that type, not only the opacity property. The draft cites shape-image-threshold as an example.&lt;/p&gt;&lt;p&gt;The clarification makes percentage and number serialization consistent wherever the shared grammar is used.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/4dd6b0d72c9dda90dc6dbe65ae3e8833a64d7446&quot;&gt;csswg-drafts commit 4dd6b0d7&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>CSS</category>
+      <category>Color</category>
+      <category>Serialization</category>
+      <pubDate>Wed, 07 Oct 2026 18:17:30 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/4dd6b0d72c9dda90dc6dbe65ae3e8833a64d7446</guid>
+    </item>
+    <item>
+      <title>Browser Testing Charter Draft Expands into Agentic Browsing</title>
+      <link>https://github.com/w3c/charter-drafts/commits/gh-pages/</link>
+      <description>&lt;p&gt;The draft Browser Testing and Tools Working Group charter now describes browser automation as useful to end users as well as test developers. Its proposed scope explicitly includes agentic browsing, where a user employs tools to drive a browser through complex tasks.&lt;/p&gt;&lt;p&gt;The draft also adds coordination with the Web Machine Learning Community Group, where WebMCP is incubated. This broadening is a charter proposal, not yet an approved expansion of the group’s mandate.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/charter-drafts/commit/bc1e0898592f68a1fc19c5d1b71625259af6503d&quot;&gt;charter-drafts commit bc1e0898&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Charter</category>
+      <category>Browser Automation</category>
+      <category>AI</category>
+      <category>Draft</category>
+      <pubDate>Wed, 07 Oct 2026 17:24:24 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/charter-drafts/commit/bc1e0898592f68a1fc19c5d1b71625259af6503d</guid>
+    </item>
+    <item>
+      <title>Draft Sustainable Web Charter Defines Guidelines and Impact Ratings</title>
+      <link>https://github.com/w3c/charter-drafts/commits/gh-pages/</link>
+      <description>&lt;p&gt;A new draft charter proposes a Sustainable Web Interest Group whose mission is to improve digital sustainability for people and the planet. Its scope covers web design and development, authoring tools, user agents, hosting, infrastructure, product strategy, and measurable impact data.&lt;/p&gt;&lt;p&gt;Proposed deliverables include maintaining the Web Sustainability Guidelines and their Impact Ratings, improving conformance targets and metrics, and producing educational material. Native-application concerns outside the Web and most hardware manufacturing are out of scope. This is an early draft, not an approved charter.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/charter-drafts/commit/7f4d6552bfad9ebb4b14f9607cbd40fd3efade72&quot;&gt;charter-drafts commit 7f4d6552&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Sustainability</category>
+      <category>Charter</category>
+      <category>Draft</category>
+      <pubDate>Wed, 07 Oct 2026 17:20:44 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/charter-drafts/commit/7f4d6552bfad9ebb4b14f9607cbd40fd3efade72</guid>
+    </item>
+    <item>
+      <title>Ask I18N Improves Code Blocks, Definitions, and Source Citations</title>
+      <link>https://github.com/w3c/ask-i18n/commits/main/</link>
+      <description>&lt;p&gt;Ask I18N’s Markdown renderer now accepts language names such as C++, C#, and objective.c, supports longer fenced blocks, escapes unclosed code, and avoids a parser hang on malformed fence information.&lt;/p&gt;&lt;p&gt;The retrieval system also indexes the internationalization navigation pages and recognizes definition questions such as “What is i18n?” Citations to those pages now use their correct public URLs.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/ask-i18n/commit/8a14b5977d4a1d20a86348d7ef86d57a123262ac&quot;&gt;ask-i18n commit 8a14b597&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/ask-i18n/commit/8bee4d0d4a41b46f27970aad13e334e4ea499e94&quot;&gt;ask-i18n commit 8bee4d0d&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Internationalization</category>
+      <category>W3C Tools</category>
+      <category>Accessibility</category>
+      <pubDate>Wed, 07 Oct 2026 12:01:59 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/ask-i18n/commit/8a14b5977d4a1d20a86348d7ef86d57a123262ac</guid>
+    </item>
+    <item>
+      <title>Trusted Types Adds Policy-Controlled Sanitizer Options</title>
+      <link>https://github.com/w3c/trusted-types/commits/main/</link>
+      <description>&lt;p&gt;The Trusted Types draft introduces TrustedHTMLParserOptions and a policy createParserOptions hook for HTML-parsing sinks. A policy can provide a reviewed Sanitizer configuration and control script execution while allowing a raw string to be parsed without first creating TrustedHTML.&lt;/p&gt;&lt;p&gt;The algorithms reject unsafe combinations in which author-supplied sanitizer settings have not been vetted. String-only sinks and XML documents still require TrustedHTML through createHTML.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/trusted-types/commit/fbe9462f94f3d8c74e00243a7428dedf4a234297&quot;&gt;trusted-types commit fbe9462f&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Security</category>
+      <category>Trusted Types</category>
+      <category>Web APIs</category>
+      <pubDate>Wed, 07 Oct 2026 10:46:08 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/trusted-types/commit/fbe9462f94f3d8c74e00243a7428dedf4a234297</guid>
+    </item>
+    <item>
+      <title>WCAG ACT Rule Removes searchbox from Name-from-Content Roles</title>
+      <link>https://github.com/w3c/wcag-act-rules/commits/main/</link>
+      <description>&lt;p&gt;The ACT rule for checking that a visible label appears in an accessible name no longer lists searchbox among roles that derive their name from content. The role does not support that naming behavior under the rule’s applicability model.&lt;/p&gt;&lt;p&gt;The correction prevents evaluators from applying the Label in Name test to search boxes on an invalid premise.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/wcag-act-rules/commit/48edc0a3bff0f381f3b199b49269361a01db6b08&quot;&gt;wcag-act-rules commit 48edc0a3&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Accessibility</category>
+      <category>WCAG</category>
+      <category>Testing</category>
+      <pubDate>Wed, 07 Oct 2026 09:43:04 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/wcag-act-rules/commit/48edc0a3bff0f381f3b199b49269361a01db6b08</guid>
+    </item>
+    <item>
+      <title>Message Resources Draft Allows Blank Lines Inside Messages</title>
+      <link>https://github.com/w3c/i18n-discuss/commits/gh-pages/</link>
+      <description>&lt;p&gt;The developing Message Resources syntax now permits empty lines inside a multi-line message value. Continuation lines may be indented or blank, and leading and trailing empty lines are trimmed from the resolved value.&lt;/p&gt;&lt;p&gt;The grammar also clarifies escaping around frontmatter-like identifiers and line whitespace. This is proposal work in the internationalization discussion repository, not a published Recommendation.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/i18n-discuss/commit/7699b9ea86fac9418cbe6d01fa85340ac2faf347&quot;&gt;i18n-discuss commit 7699b9ea&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Internationalization</category>
+      <category>Localization</category>
+      <category>Draft</category>
+      <pubDate>Wed, 07 Oct 2026 06:34:08 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/i18n-discuss/commit/7699b9ea86fac9418cbe6d01fa85340ac2faf347</guid>
+    </item>
+    <item>
+      <title>SVG List Accessors Must Preserve Object Identity</title>
+      <link>https://github.com/w3c/svgwg/commits/main/</link>
+      <description>&lt;p&gt;The SVG specification now says repeated getItem() calls for the same list index return the same object until the list changes. This applies to SVG list interfaces such as transform and length lists.&lt;/p&gt;&lt;p&gt;The identity guarantee prevents wrappers from appearing to change between reads and aligns the prose and examples with existing expectations for mutable SVG list items.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/svgwg/commit/47e645ef7cb61490e6975ddbcfa1997c9e972cc3&quot;&gt;svgwg commit 47e645ef&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>SVG</category>
+      <category>Web APIs</category>
+      <category>Specification</category>
+      <pubDate>Wed, 07 Oct 2026 04:36:19 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/svgwg/commit/47e645ef7cb61490e6975ddbcfa1997c9e972cc3</guid>
+    </item>
+    <item>
+      <title>WebTransport Response Headers Are No Longer SameObject</title>
+      <link>https://github.com/w3c/webtransport/commits/main/</link>
+      <description>&lt;p&gt;The WebTransport draft has removed the Web IDL SameObject annotation from responseHeaders. Repeated access is no longer required to return the identical Headers wrapper.&lt;/p&gt;&lt;p&gt;The header contents remain available, but implementations gain flexibility to create a fresh object rather than maintaining JavaScript object identity for the lifetime of the connection.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/webtransport/commit/7d19557f7286882dcd5bc5bdee59c022de07a3c4&quot;&gt;webtransport commit 7d19557f&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>WebTransport</category>
+      <category>HTTP</category>
+      <category>Web APIs</category>
+      <pubDate>Tue, 06 Oct 2026 21:25:52 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/webtransport/commit/7d19557f7286882dcd5bc5bdee59c022de07a3c4</guid>
+    </item>
+    <item>
+      <title>VC Render Method Renames Delivery Properties</title>
+      <link>https://github.com/w3c/vc-render-method/commits/main/</link>
+      <description>&lt;p&gt;The Verifiable Credential Render Method draft now calls the transport hint deliveryMode rather than deliveryMethod. In the same model, the static render suite replaces the earlier nfc suite name and uses a delivery mode such as nfc when a template is intended for that channel.&lt;/p&gt;&lt;p&gt;The rename separates the rendering suite from the way rendered output is delivered. This is draft vocabulary and may still evolve.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vc-render-method/commit/a22ebe02286eb0fda871799277720518567855df&quot;&gt;vc-render-method commit a22ebe02&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vc-render-method/commit/44163d4bb676c89f5be9ce1062fd5b7f26eed377&quot;&gt;vc-render-method commit 44163d4b&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Digital Identity</category>
+      <category>Verifiable Credentials</category>
+      <category>Draft</category>
+      <pubDate>Tue, 06 Oct 2026 13:54:58 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/vc-render-method/commit/a22ebe02286eb0fda871799277720518567855df</guid>
+    </item>
+    <item>
+      <title>LWS Charter Draft Sets Delivery Dates and Adds Social-Web Coordination</title>
+      <link>https://github.com/w3c/lws-wg-charter/commits/main/</link>
+      <description>&lt;p&gt;The draft Linked Web Storage Working Group charter now proposes Q1 2028 completion for the core protocol and its OpenID, SAML, and controlled-identifier authentication suites. Its timeline also names 2027 Candidate Recommendation targets and later dates for index services and the threat model.&lt;/p&gt;&lt;p&gt;The charter adds coordination with the Social Web Working Group to explore LWS use in social platforms and ActivityPub-related integration. These remain proposed dates and relationships in a draft charter.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/lws-wg-charter/commit/be11e010145de0ceae347b79c8d5239a4261da7d&quot;&gt;lws-wg-charter commit be11e010&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/lws-wg-charter/commit/4b998e6621a6431ebe524ee2e661cd8bc581ee35&quot;&gt;lws-wg-charter commit 4b998e66&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Linked Data</category>
+      <category>Charter</category>
+      <category>Draft</category>
+      <pubDate>Tue, 06 Oct 2026 13:26:28 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/lws-wg-charter/commit/be11e010145de0ceae347b79c8d5239a4261da7d</guid>
+    </item>
+    <item>
+      <title>Reffy Cleans Up Indirect CSS Values Across Specification Levels</title>
+      <link>https://github.com/w3c/reffy/commits/main/</link>
+      <description>&lt;p&gt;Reffy now follows syntax references across all crawled CSS specifications to distinguish genuinely dangling values from values that apply indirectly through another property or type. Those false warnings are removed during post-processing.&lt;/p&gt;&lt;p&gt;Its series handling also becomes conservative when a crawl has missing specification levels: extracts on both sides of a gap are retained because the tool cannot safely identify the newest applicable level.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/reffy/commit/810f7e70b044fc3a3c82853b4a1a0554761685d8&quot;&gt;reffy commit 810f7e70&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/reffy/commit/bdb7ad01638dc9d438eb391a0c976498181887d3&quot;&gt;reffy commit bdb7ad01&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>W3C Tools</category>
+      <category>CSS</category>
+      <category>Specifications</category>
+      <pubDate>Tue, 06 Oct 2026 10:15:11 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/reffy/commit/810f7e70b044fc3a3c82853b4a1a0554761685d8</guid>
+    </item>
+    <item>
+      <title>VC API Threat Model Adds QR Shoulder-Surfing Risk</title>
+      <link>https://github.com/w3c/vcalm/commits/main/</link>
+      <description>&lt;p&gt;The draft VC API Lifecycle and Management threat model now covers attackers photographing an interaction QR code and using its URL on another device. The accompanying guidance favors holder-initiated cross-device flows, which reduce the chance that a visible code grants control to an observer.&lt;/p&gt;&lt;p&gt;The API draft also warns implementers to consider interaction-URL exposure in cross-device designs. This is evolving threat-model guidance, not a claim that QR flows are universally unsafe.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vcalm/commit/274ed6b6e074f4b8cd07e0a87971f7cf50d50e00&quot;&gt;vcalm commit 274ed6b6&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vcalm/commit/5e4e15c08d8a5e045ac2713b69152cf683c1289c&quot;&gt;vcalm commit 5e4e15c0&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vcalm/commit/2e2e41bd94578edc2c8d408ceb7848395e890123&quot;&gt;vcalm commit 2e2e41bd&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Digital Identity</category>
+      <category>Security</category>
+      <category>Privacy</category>
+      <category>Draft</category>
+      <pubDate>Mon, 05 Oct 2026 22:58:05 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/vcalm/commit/274ed6b6e074f4b8cd07e0a87971f7cf50d50e00</guid>
+    </item>
+    <item>
+      <title>SHACL 1.2 Tests Declare Which Processor Features They Require</title>
+      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
+      <description>&lt;p&gt;The SHACL 1.2 test suite now defines conformance identifiers for Core, Inference Rules, Node Expressions, SPARQL validation, custom functions, and SPARQL-RL syntax and evaluation. Tests use mf:requires to identify the processor capabilities they exercise.&lt;/p&gt;&lt;p&gt;This lets implementations run the relevant subset and report support without implying conformance to SHACL features they do not implement.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/162b858054d71f777951b3908b351bc07d4e8401&quot;&gt;data-shapes commit 162b8580&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Semantic Web</category>
+      <category>SHACL</category>
+      <category>Testing</category>
+      <pubDate>Mon, 05 Oct 2026 22:50:46 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/162b858054d71f777951b3908b351bc07d4e8401</guid>
+    </item>
+    <item>
+      <title>Push API Separates Declarative Notifications from Service Workers</title>
+      <link>https://github.com/w3c/push-api/commits/gh-pages/</link>
+      <description>&lt;p&gt;The Push API now explicitly fetches resources for a declarative push notification without involving a service worker when no environment settings object exists. The notification show steps receive null in that case.&lt;/p&gt;&lt;p&gt;This keeps icons and other notification resources loadable for declarative delivery while preserving the design goal that no service worker must run.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/push-api/commit/9adf83e7de3225fb72884c54bc8c9e433819e595&quot;&gt;push-api commit 9adf83e7&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Push API</category>
+      <category>Notifications</category>
+      <category>Web APIs</category>
+      <pubDate>Mon, 05 Oct 2026 16:41:22 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/push-api/commit/9adf83e7de3225fb72884c54bc8c9e433819e595</guid>
+    </item>
+    <item>
+      <title>Linked Web Storage Switches Its Required Patch Format</title>
+      <link>https://github.com/w3c/lws-protocol/commits/main/</link>
+      <description>&lt;p&gt;The Linked Web Storage Protocol draft now requires servers to support and advertise JSON Patch for partial updates to resources and linkset metadata. JSON Merge Patch remains an optional alternative.&lt;/p&gt;&lt;p&gt;The baseline Accept-Patch value changes to application/json-patch+json, aligning required behavior with RFC 6902 and giving clients operation-based edits rather than whole-member replacement semantics.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/lws-protocol/commit/ef02548be031cb449029d09bf85fb59ce050400b&quot;&gt;lws-protocol commit ef02548b&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Linked Data</category>
+      <category>HTTP</category>
+      <category>Specification</category>
+      <pubDate>Mon, 05 Oct 2026 14:11:03 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/lws-protocol/commit/ef02548be031cb449029d09bf85fb59ce050400b</guid>
+    </item>
+    <item>
+      <title>Push API Formalizes Subscription Encryption Keys</title>
+      <link>https://github.com/w3c/push-api/commits/gh-pages/</link>
+      <description>&lt;p&gt;The Push API now defines each subscription’s P-256 ECDH key pair and authentication secret as explicit associated data. Creation and getKey() algorithms spell out how the public key and authentication secret are generated and returned.&lt;/p&gt;&lt;p&gt;PushSubscriptionJSON also replaces an open-ended keys record with a dictionary containing p256dh and auth. The tighter model aligns the Web API with RFC 8291 encryption material.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/push-api/commit/0f5bfe6c94d44a8e63660257fb50baf006a30e87&quot;&gt;push-api commit 0f5bfe6c&lt;/a&gt;.&lt;/p&gt;</description>
+      <category>Push API</category>
+      <category>Security</category>
+      <category>Cryptography</category>
+      <pubDate>Mon, 05 Oct 2026 11:40:10 GMT</pubDate>
+      <guid isPermaLink="false">github.com/w3c/push-api/commit/0f5bfe6c94d44a8e63660257fb50baf006a30e87</guid>
+    </item>
     <item>
       <title>WCAG Guidance Broadens Its View of Accidental Character-Key Shortcuts</title>
       <link>https://github.com/w3c/wcag/commits/main/</link>
@@ -77,429 +510,6 @@
       <category>Specification</category>
       <pubDate>Fri, 02 Oct 2026 14:00:53 GMT</pubDate>
       <guid isPermaLink="false">github.com/w3c/epub-specs/commit/358cb4186615ee810be1d0cefcab0d4ce9396068</guid>
-    </item>
-    <item>
-      <title>SOSA/SSN Expands Its OGC API Alignment Guidance</title>
-      <link>https://github.com/w3c/sdw-sosa-ssn/commits/gh-pages/</link>
-      <description>&lt;p&gt;The SOSA/SSN draft now includes fuller alignment material for OGC SensorThings API and OGC API – Connected Systems. The new tables map navigation attributes, entities, resources, and inverse relationships to their SOSA/SSN counterparts.&lt;/p&gt;&lt;p&gt;The draft also restores supporting sections for common modeling patterns and profiles. This is guidance in an evolving ontology specification, intended to make translation between OGC APIs and SOSA/SSN data models more explicit.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/sdw-sosa-ssn/commit/5fcb3bd341fb32834e81a750acfc9182cc4fdaab&quot;&gt;sdw-sosa-ssn commit 5fcb3bd3&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/sdw-sosa-ssn/commit/8111e32aeb40e6dab82671bec977b51584e75a2d&quot;&gt;sdw-sosa-ssn commit 8111e32a&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/sdw-sosa-ssn/commit/2a16b8026da7f65a4025ab8e1d2b5d516cc5d2da&quot;&gt;sdw-sosa-ssn commit 2a16b802&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>Geospatial</category>
-      <category>Web of Things</category>
-      <pubDate>Fri, 02 Oct 2026 00:00:54 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/sdw-sosa-ssn/commit/5fcb3bd341fb32834e81a750acfc9182cc4fdaab</guid>
-    </item>
-    <item>
-      <title>MathML Clarifies Language Selection for Spoken and Braille Intent</title>
-      <link>https://github.com/w3c/mathml/commits/main/</link>
-      <description>&lt;p&gt;The MathML draft now says intent-based speech or braille output should use the nearest xml:lang value on the expression or an ancestor. If none exists, implementations fall back to the document language and then the system language.&lt;/p&gt;&lt;p&gt;The clarification gives assistive-technology and rendering implementations a deterministic language-selection order when interpreting mathematical intent.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/mathml/commit/10fb18bbbc0e2423286053c86abce2eec53f4ba6&quot;&gt;mathml commit 10fb18bb&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>MathML</category>
-      <category>Accessibility</category>
-      <category>Internationalization</category>
-      <pubDate>Thu, 01 Oct 2026 17:29:00 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/mathml/commit/10fb18bbbc0e2423286053c86abce2eec53f4ba6</guid>
-    </item>
-    <item>
-      <title>Draft Linked Web Storage Charter Adds ODRL Coordination and a Delivery Timeline</title>
-      <link>https://github.com/w3c/lws-wg-charter/commits/main/</link>
-      <description>&lt;p&gt;The draft Linked Web Storage Working Group charter now calls for coordination with the ODRL Community Group on using the ODRL information model in the protocol. It also replaces placeholder scheduling text with a proposed sequence for Working Draft, Candidate Recommendation, and Recommendation milestones.&lt;/p&gt;&lt;p&gt;Because this is a draft charter, the scope and dates remain proposals rather than approved commitments.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/lws-wg-charter/commit/82d38ba863e2c3362080a5deefda3bb7d6159365&quot;&gt;lws-wg-charter commit 82d38ba8&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/lws-wg-charter/commit/67c033fb1dddd90ba4767e82a1cc3666460ee894&quot;&gt;lws-wg-charter commit 67c033fb&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Charter</category>
-      <category>Linked Data</category>
-      <category>Draft</category>
-      <pubDate>Thu, 01 Oct 2026 16:29:22 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/lws-wg-charter/commit/82d38ba863e2c3362080a5deefda3bb7d6159365</guid>
-    </item>
-    <item>
-      <title>WebRTC Stats Removes totalEncodedBytesTarget</title>
-      <link>https://github.com/w3c/webrtc-stats/commits/main/</link>
-      <description>&lt;p&gt;The WebRTC Statistics draft has removed totalEncodedBytesTarget from outbound RTP statistics. The counter was meant to accumulate target frame sizes but did not have sufficient implementation support.&lt;/p&gt;&lt;p&gt;Implementers and telemetry consumers should no longer expect this member in the developing stats model; targetBitrate and the remaining encoding statistics are unaffected.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/webrtc-stats/commit/eee09715dfa04af2d0bb4051e7aa39707fc8af61&quot;&gt;webrtc-stats commit eee09715&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>WebRTC</category>
-      <category>Web APIs</category>
-      <category>Specification</category>
-      <pubDate>Thu, 01 Oct 2026 14:50:26 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/webrtc-stats/commit/eee09715dfa04af2d0bb4051e7aa39707fc8af61</guid>
-    </item>
-    <item>
-      <title>DID Resolution Lets Extensions Define HTTP Status Mappings for New Errors</title>
-      <link>https://github.com/w3c/did-resolution/commits/main/</link>
-      <description>&lt;p&gt;The DID Resolution draft no longer requires every error type unknown to the core specification to map to HTTP 500. An external specification that defines an error may also define its HTTP status; otherwise the mapping is implementation-defined.&lt;/p&gt;&lt;p&gt;This gives extension specifications a way to distinguish client, authorization, and server failures without forcing unrelated errors into a generic internal-server response.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/did-resolution/commit/a5f3d89f84d5693d70a242e02974ea22c1d939bf&quot;&gt;did-resolution commit a5f3d89f&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>DID</category>
-      <category>Specification</category>
-      <pubDate>Thu, 01 Oct 2026 14:33:09 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/did-resolution/commit/a5f3d89f84d5693d70a242e02974ea22c1d939bf</guid>
-    </item>
-    <item>
-      <title>SHACL 1.2 Profiling Report States What Each Feature Must Demonstrate</title>
-      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
-      <description>&lt;p&gt;The SHACL 1.2 Profiling implementation report now describes the evidence expected for every feature, including profile declaration, imports, dependency checks, processors, validators, and profile-specific behavior.&lt;/p&gt;&lt;p&gt;The clearer criteria make implementation claims easier to compare and show what interoperability evidence will be needed as the profiling work advances.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/976ed12ad3491e1ad9725f2e4ad8b1047ff893d8&quot;&gt;data-shapes commit 976ed12a&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>SHACL</category>
-      <category>Implementation</category>
-      <pubDate>Thu, 01 Oct 2026 13:48:28 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/976ed12ad3491e1ad9725f2e4ad8b1047ff893d8</guid>
-    </item>
-    <item>
-      <title>WebDriver Restricts Integer Values to JavaScript&apos;s Safe Range</title>
-      <link>https://github.com/w3c/webdriver/commits/master/</link>
-      <description>&lt;p&gt;WebDriver now defines an Integer as a number within the inclusive JavaScript safe-integer range as well as unchanged by ToInteger. Cookie expiry validation consequently relies on that shared definition instead of repeating the upper-bound check.&lt;/p&gt;&lt;p&gt;The change prevents protocol values that cannot be represented exactly in JavaScript from being treated as valid integers and makes integer handling more consistent across commands.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/webdriver/commit/2adf728258deadcf9f2b65574dcbee6f34ba82bb&quot;&gt;webdriver commit 2adf7282&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>WebDriver</category>
-      <category>Testing</category>
-      <category>Web APIs</category>
-      <pubDate>Thu, 01 Oct 2026 13:42:45 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/webdriver/commit/2adf728258deadcf9f2b65574dcbee6f34ba82bb</guid>
-    </item>
-    <item>
-      <title>SHACL-SPARQL Rules Refine Dependencies, Imports, and Execution Semantics</title>
-      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
-      <description>&lt;p&gt;The developing SHACL 1.2 SPARQL Rules language now gives more precise definitions for data dependencies, imports, and rule expressions. It also refines the stratification contract used to reason about sound execution and updates when run-once rules are evaluated.&lt;/p&gt;&lt;p&gt;Additional wording covers triple-term templates and related grammar. These changes are part of the draft rules language and are intended to make independent implementations agree on rule ordering and results.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/4e9d3a085141d0ec6c424e7033c194935c3098fb&quot;&gt;data-shapes commit 4e9d3a08&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/e74a8cb664c00cce0dbefc404db87c658ea0b27a&quot;&gt;data-shapes commit e74a8cb6&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>SHACL</category>
-      <category>SPARQL</category>
-      <pubDate>Thu, 01 Oct 2026 12:39:23 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/4e9d3a085141d0ec6c424e7033c194935c3098fb</guid>
-    </item>
-    <item>
-      <title>YAML-LD Extended Profile Aligns with Stream Processing</title>
-      <link>https://github.com/w3c/yaml-ld/commits/main/</link>
-      <description>&lt;p&gt;The YAML-LD Extended Profile draft now follows YAML-LD 1.0&amp;apos;s stream model and removes duplicated definitions already supplied by the Basic Profile. Related tests update core-schema tag URIs and regenerate the manifest.&lt;/p&gt;&lt;p&gt;The change reduces overlap between profile layers and checks the revised behavior against the implementation-report test suite.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/yaml-ld/commit/bbbde48071246cc732a8b3f712cb9cf28fc98f72&quot;&gt;yaml-ld commit bbbde480&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/yaml-ld/commit/f13f7c7bf32a3ca264e6b2361045e8a0f2210d3b&quot;&gt;yaml-ld commit f13f7c7b&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>YAML-LD</category>
-      <category>Specification</category>
-      <pubDate>Thu, 01 Oct 2026 09:47:02 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/yaml-ld/commit/bbbde48071246cc732a8b3f712cb9cf28fc98f72</guid>
-    </item>
-    <item>
-      <title>EPUBCheck Turns Malformed Dates into Validation Errors Instead of Crashes</title>
-      <link>https://github.com/w3c/epubcheck/commits/main/</link>
-      <description>&lt;p&gt;EPUBCheck now handles a dc:date value ending in a bare decimal point as an invalid date rather than throwing an unhandled exception. Unexpected exceptions elsewhere are now reported as fatal RSC-016 errors and produce a non-clean exit status.&lt;/p&gt;&lt;p&gt;The result is more predictable command-line and API behavior: malformed books receive actionable validation output instead of appearing to terminate mysteriously.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/epubcheck/commit/0cc28fb25fdb3cc7455f029e53afe9e00d7ae607&quot;&gt;epubcheck commit 0cc28fb2&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/epubcheck/commit/33757363d046d85dd629beaf0e653e2868e70344&quot;&gt;epubcheck commit 33757363&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Publishing/EPUB</category>
-      <category>Validation</category>
-      <category>W3C Tools</category>
-      <pubDate>Thu, 01 Oct 2026 07:18:07 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/epubcheck/commit/0cc28fb25fdb3cc7455f029e53afe9e00d7ae607</guid>
-    </item>
-    <item>
-      <title>EPUBCheck Accepts Accessible Labels on Navigation Landmarks</title>
-      <link>https://github.com/w3c/epubcheck/commits/main/</link>
-      <description>&lt;p&gt;EPUBCheck&amp;apos;s navigation-document schema now allows aria-label and aria-labelledby on nav elements. It also recognizes additional valid ARIA roles, including menu, menubar, none, presentation, and tablist.&lt;/p&gt;&lt;p&gt;This stops the validator from rejecting accessibility metadata that authors use to distinguish multiple navigation landmarks for assistive-technology users.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/epubcheck/commit/30f64e908c1f6d45586629dfdadf6e75ded49862&quot;&gt;epubcheck commit 30f64e90&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Publishing/EPUB</category>
-      <category>Accessibility</category>
-      <category>Validation</category>
-      <pubDate>Thu, 01 Oct 2026 07:15:40 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/epubcheck/commit/30f64e908c1f6d45586629dfdadf6e75ded49862</guid>
-    </item>
-    <item>
-      <title>AgendaBot Makes Encrypted Password Length Less Revealing</title>
-      <link>https://github.com/w3c/AgendaBot/commits/main/</link>
-      <description>&lt;p&gt;AgendaBot now pads stored encrypted passwords with random bytes after a null delimiter instead of filling the remainder with predictable null bytes. Decryption stops at the delimiter and discards the random padding.&lt;/p&gt;&lt;p&gt;This does not replace the tool&amp;apos;s existing masking design, but it reduces the amount of password-length information visible in the padded ciphertext.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/AgendaBot/commit/57326f7861f500fc8acd09f44b4f6bf3a0308455&quot;&gt;AgendaBot commit 57326f78&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/AgendaBot/commit/f49b13c892d64f970dbf53146e191a6f2e6de546&quot;&gt;AgendaBot commit f49b13c8&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>W3C Tools</category>
-      <category>Security</category>
-      <category>Meetings</category>
-      <pubDate>Wed, 30 Sep 2026 21:25:06 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/AgendaBot/commit/57326f7861f500fc8acd09f44b4f6bf3a0308455</guid>
-    </item>
-    <item>
-      <title>CSS Color Preserves Chroma When LCH Hue Is Missing</title>
-      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
-      <description>&lt;p&gt;CSS Color 4 no longer converts an LCH or OKLCH color with a missing hue by zeroing both rectangular chroma components. The conversion now substitutes a hue of zero and computes a and b from the original chroma.&lt;/p&gt;&lt;p&gt;The previous algorithm discarded chroma and prevented accurate round-tripping between polar and rectangular color forms. The revision preserves more of the authored color state.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/9c50d377bb4ccd9f9f513a352d84fa750e6f51b1&quot;&gt;csswg-drafts commit 9c50d377&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>CSS</category>
-      <category>Color</category>
-      <category>Specification</category>
-      <pubDate>Wed, 30 Sep 2026 20:15:02 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/9c50d377bb4ccd9f9f513a352d84fa750e6f51b1</guid>
-    </item>
-    <item>
-      <title>WebExtensions Public Suffix Proposal Rejects Leading-Dot Hostnames</title>
-      <link>https://github.com/w3c/webextensions/commits/main/</link>
-      <description>&lt;p&gt;The proposed WebExtensions publicSuffix API now treats a hostname beginning with a dot as invalid instead of silently normalizing it. The proposal already rejected internal empty labels; the rule now covers the empty first label in values such as .example.net.&lt;/p&gt;&lt;p&gt;This remains a proposal rather than a finalized cross-browser API, but it gives extension authors and implementers a clearer input-validation contract.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/webextensions/commit/96f287b2825edfbdd108a5c8379991936c5a0aa9&quot;&gt;webextensions commit 96f287b2&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>WebExtensions</category>
-      <category>Web APIs</category>
-      <category>Proposal</category>
-      <pubDate>Wed, 30 Sep 2026 17:11:58 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/webextensions/commit/96f287b2825edfbdd108a5c8379991936c5a0aa9</guid>
-    </item>
-    <item>
-      <title>Verifiable Credentials Clarifies When a Document Must Be Secured</title>
-      <link>https://github.com/w3c/vc-data-model/commits/main/</link>
-      <description>&lt;p&gt;The Verifiable Credentials Data Model draft now distinguishes document conformance from securing a credential or presentation. A conforming VC or VP document is not inherently required to carry a securing mechanism, but when it is secured the mechanism must be one permitted by the specification.&lt;/p&gt;&lt;p&gt;The wording avoids treating every syntactically conforming document as already secured while retaining constraints on how security is applied.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vc-data-model/commit/69ebe41c2206e15da26473a800a405c5e4c4242f&quot;&gt;vc-data-model commit 69ebe41c&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>Security</category>
-      <category>Specification</category>
-      <pubDate>Wed, 30 Sep 2026 15:27:33 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/vc-data-model/commit/69ebe41c2206e15da26473a800a405c5e4c4242f</guid>
-    </item>
-    <item>
-      <title>Verifiable Credentials Data Integrity Fixes Two Selective-Disclosure Algorithms</title>
-      <link>https://github.com/w3c/vc-data-integrity/commits/main/</link>
-      <description>&lt;p&gt;The Verifiable Credentials Data Integrity draft corrects both the Salted Hash of Claims and Selectively Identified Claims procedures. The salted-hash flow now signs the correct list and limits salts to claims that are actually revealed; size and wording details are also tightened.&lt;/p&gt;&lt;p&gt;The selective-identification flow now filters signatures so a derived credential carries only those selected for disclosure. These changes affect draft algorithms used to minimize disclosed data.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vc-data-integrity/commit/78e7e090053cbcd897210dc7611390242513252a&quot;&gt;vc-data-integrity commit 78e7e090&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vc-data-integrity/commit/bb47d956af2af8140ac26ad112406ddfd98020a8&quot;&gt;vc-data-integrity commit bb47d956&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>Security</category>
-      <category>Cryptography</category>
-      <pubDate>Wed, 30 Sep 2026 15:16:17 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/vc-data-integrity/commit/78e7e090053cbcd897210dc7611390242513252a</guid>
-    </item>
-    <item>
-      <title>Draft Agentic Web Charter Proposes WebMCP Standardization</title>
-      <link>https://github.com/w3c/charter-drafts/commits/gh-pages/</link>
-      <description>&lt;p&gt;A new draft charter proposes an Agentic Web Working Group for standards that let AI agents interact with the Web on users&amp;apos; behalf. Its scope includes exposing site capabilities and context, representing agent identity and delegation, reporting interaction state, and expressing permissions or constraints.&lt;/p&gt;&lt;p&gt;The draft names WebMCP—JavaScript-based tools exposed by web applications to agents—as its initial normative specification. Model APIs, cryptographic primitives, crawler controls, content provenance, and bot detection are listed as out of scope. This is an early draft charter, not an approved group mandate.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/charter-drafts/commit/cbe6585420dc20061b380e182742188a0eba2d34&quot;&gt;charter-drafts commit cbe65854&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/charter-drafts/commit/6e8619ecd39ba29ee8992b47aaff763d8cbd1249&quot;&gt;charter-drafts commit 6e8619ec&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Charter</category>
-      <category>AI</category>
-      <category>Web APIs</category>
-      <category>Draft</category>
-      <pubDate>Wed, 30 Sep 2026 12:16:05 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/charter-drafts/commit/cbe6585420dc20061b380e182742188a0eba2d34</guid>
-    </item>
-    <item>
-      <title>Accessibility Maturity Model Adds Evidence for Durable Governance</title>
-      <link>https://github.com/w3c/maturity-model/commits/main/</link>
-      <description>&lt;p&gt;The W3C Accessibility Maturity Model draft now asks organizations to show that accessibility governance can survive personnel changes. New proof points include tying sponsorship to a role rather than one person, documenting decision authority and reporting lines, naming backups, and defining vacancy procedures.&lt;/p&gt;&lt;p&gt;It also calls for retention metrics and records kept in organizational systems. The emphasis shifts maturity evidence from individual advocacy toward repeatable institutional practice.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/maturity-model/commit/e275fbff897d230ac2a771b21b31162dd86ec027&quot;&gt;maturity-model commit e275fbff&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Accessibility</category>
-      <category>Governance</category>
-      <category>Guidance</category>
-      <pubDate>Wed, 30 Sep 2026 11:58:28 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/maturity-model/commit/e275fbff897d230ac2a771b21b31162dd86ec027</guid>
-    </item>
-    <item>
-      <title>SOSA/SSN Declares Missing Vocabulary Terms for OWL 2 DL</title>
-      <link>https://github.com/w3c/sdw-sosa-ssn/commits/gh-pages/</link>
-      <description>&lt;p&gt;The SOSA/SSN ontology modules now declare annotation vocabularies and other referenced terms needed for OWL 2 DL conformance. The patch also adds missing declarations such as Battery and preparedSample and repairs related imports and property use.&lt;/p&gt;&lt;p&gt;These changes matter to ontology processors: explicit declarations prevent profile violations and make reasoning behavior more predictable across the modular vocabulary.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/sdw-sosa-ssn/commit/6efa9434da92eec6fe4f8552848152e59dc47830&quot;&gt;sdw-sosa-ssn commit 6efa9434&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>Ontology</category>
-      <category>Web of Things</category>
-      <pubDate>Wed, 30 Sep 2026 11:25:07 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/sdw-sosa-ssn/commit/6efa9434da92eec6fe4f8552848152e59dc47830</guid>
-    </item>
-    <item>
-      <title>Payment Handler Removes the Obsolete Wildcard Origin Path</title>
-      <link>https://github.com/w3c/web-based-payment-handler/commits/gh-pages/</link>
-      <description>&lt;p&gt;The Web Payment Handler draft has removed algorithm text for a wildcard supported_origins value. The wildcard had already disappeared from the manifest format and from Chromium behavior, leaving the branch obsolete.&lt;/p&gt;&lt;p&gt;Payment handlers must therefore rely on explicit origin declarations under the current draft model rather than a catch-all marker.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/web-based-payment-handler/commit/3a498a6db5571f9c2c73bc7d8a2552bb8eacc9d3&quot;&gt;web-based-payment-handler commit 3a498a6d&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Payments</category>
-      <category>Web APIs</category>
-      <category>Specification</category>
-      <pubDate>Wed, 30 Sep 2026 11:19:08 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/web-based-payment-handler/commit/3a498a6db5571f9c2c73bc7d8a2552bb8eacc9d3</guid>
-    </item>
-    <item>
-      <title>Ask I18N Improves Keyboard Focus and Summarizes Active Settings</title>
-      <link>https://github.com/w3c/ask-i18n/commits/main/</link>
-      <description>&lt;p&gt;The Ask I18N service now moves keyboard focus to the answer heading after a response is generated, making the result easier to reach without retracing the page. Its settings control also summarizes the active choices in localized text.&lt;/p&gt;&lt;p&gt;These interface changes make the question-and-answer tool clearer for keyboard and assistive-technology users while preserving the existing query workflow.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/ask-i18n/commit/6360a5f0458950fd23a9b8e1586dc731855871ed&quot;&gt;ask-i18n commit 6360a5f0&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Internationalization</category>
-      <category>Accessibility</category>
-      <category>W3C Tools</category>
-      <pubDate>Wed, 30 Sep 2026 06:06:26 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/ask-i18n/commit/6360a5f0458950fd23a9b8e1586dc731855871ed</guid>
-    </item>
-    <item>
-      <title>ARIA Spinbutton Example Progressively Adopts ariaNotify</title>
-      <link>https://github.com/w3c/aria-practices/commits/main/</link>
-      <description>&lt;p&gt;The ARIA Authoring Practices quantity spinbutton example now uses ariaNotify when the browser exposes that method. On browsers without it, the example keeps its invisible live-region fallback for announcing value changes.&lt;/p&gt;&lt;p&gt;This is progressive enhancement in an example, not a normative ARIA requirement. It demonstrates how authors can adopt the newer notification API without dropping support for current assistive-technology combinations.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/aria-practices/commit/0f765e4dc33e966026114ac12a8380db1de3b787&quot;&gt;aria-practices commit 0f765e4d&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Accessibility</category>
-      <category>ARIA</category>
-      <category>Examples</category>
-      <pubDate>Wed, 30 Sep 2026 05:17:08 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/aria-practices/commit/0f765e4dc33e966026114ac12a8380db1de3b787</guid>
-    </item>
-    <item>
-      <title>SHACL Rules Require a Stable NOW() Value Across a Rule Set</title>
-      <link>https://github.com/w3c/data-shapes/commits/gh-pages/</link>
-      <description>&lt;p&gt;The SHACL-SPARQL Rules draft now requires NOW() to return the same value throughout the evaluation of a rule set. Implementations cannot obtain a different timestamp for each rule or expression in the same run.&lt;/p&gt;&lt;p&gt;That matches the stable-query-time expectation familiar from SPARQL and prevents timing differences from changing which triples a rules execution produces.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/data-shapes/commit/d556a1fc90c5d5ffdf388124cbb687cf43c5a35e&quot;&gt;data-shapes commit d556a1fc&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>SHACL</category>
-      <category>SPARQL</category>
-      <pubDate>Tue, 29 Sep 2026 23:27:10 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/data-shapes/commit/d556a1fc90c5d5ffdf388124cbb687cf43c5a35e</guid>
-    </item>
-    <item>
-      <title>VC API Draft Adds Exchange-Specific Response Data</title>
-      <link>https://github.com/w3c/vcalm/commits/main/</link>
-      <description>&lt;p&gt;The Verifiable Credentials API Lifecycle and Management draft adds ExchangeVerifiablePresentation and an exchangeData field. A response can now carry exchange-specific data that does not belong inside a verifiable credential, with a context definition and example showing the new shape.&lt;/p&gt;&lt;p&gt;This is draft API work. It gives protocol designers a typed place for transaction data without overloading the credential payload.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vcalm/commit/922ad19d1cfbe660311043d005d29e861e30d539&quot;&gt;vcalm commit 922ad19d&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vcalm/commit/29b640aecbef9facee79bd7e39c0c6ff29aaa121&quot;&gt;vcalm commit 29b640ae&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vcalm/commit/bdda148b217c43d202ebebb07b1363e67c7125f6&quot;&gt;vcalm commit bdda148b&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>Verifiable Credentials</category>
-      <category>Draft</category>
-      <pubDate>Tue, 29 Sep 2026 19:44:14 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/vcalm/commit/922ad19d1cfbe660311043d005d29e861e30d539</guid>
-    </item>
-    <item>
-      <title>WoT Thing Description Toolchain Eliminates Accepted Schema Failures</title>
-      <link>https://github.com/w3c/wot-thing-description-toolchain-tmp/commits/main/</link>
-      <description>&lt;p&gt;The experimental Thing Description LinkML toolchain has closed its accepted-failure baseline: valid W3C examples must now pass the generated schema, and generated-versus-upstream mismatches fail tests directly. Fixes cover security-scheme dispatch, form variants, multilingual string maps, context arrays, and SHACL alternatives.&lt;/p&gt;&lt;p&gt;The repository is explicitly a temporary toolchain, so this is beta infrastructure rather than a change to the published Thing Description specification. It nevertheless raises the bar for generated artifact fidelity.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/wot-thing-description-toolchain-tmp/commit/9471ee73b531b697d498b330d1d31036b5b577a7&quot;&gt;wot-thing-description-toolchain-tmp commit 9471ee73&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/wot-thing-description-toolchain-tmp/commit/f432e087afea24e871d3681215e22c5112790483&quot;&gt;wot-thing-description-toolchain-tmp commit f432e087&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Web of Things</category>
-      <category>W3C Tools</category>
-      <category>Validation</category>
-      <pubDate>Tue, 29 Sep 2026 19:36:24 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/wot-thing-description-toolchain-tmp/commit/9471ee73b531b697d498b330d1d31036b5b577a7</guid>
-    </item>
-    <item>
-      <title>CSS Adds a Wildcard Selector for Custom Highlights</title>
-      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
-      <description>&lt;p&gt;The CSS Custom Highlight API draft now defines ::highlight(*) to match every registered custom highlight whose name is a valid CSS identifier. The wildcard selector has zero specificity, letting more specific highlight rules override shared styling cleanly.&lt;/p&gt;&lt;p&gt;Names that are not valid CSS identifiers remain unmatchable, even by the wildcard. Authors can use the new selector for common highlight presentation without knowing every registered name in advance.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/568abd3523753be7373a81a35fc0df3833f568ee&quot;&gt;csswg-drafts commit 568abd35&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>CSS</category>
-      <category>Web APIs</category>
-      <category>Specification</category>
-      <pubDate>Tue, 29 Sep 2026 19:19:00 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/568abd3523753be7373a81a35fc0df3833f568ee</guid>
-    </item>
-    <item>
-      <title>Scribe Meeting Tool Adds a Command for Moving Transcript Lines</title>
-      <link>https://github.com/w3c/scribe2/commits/master/</link>
-      <description>&lt;p&gt;W3C&amp;apos;s Scribe meeting-transcript tool now supports a v// command that moves matching lines, complementing its existing substitution and editing commands. The parser also accepts text after a closing ]] link or fenced-code marker.&lt;/p&gt;&lt;p&gt;The additions give minute takers more control over reorganizing live transcripts without leaving the tool&amp;apos;s command workflow.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/scribe2/commit/f0e90b0b767c1b6f063b0694c4429e055459c4e6&quot;&gt;scribe2 commit f0e90b0b&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>W3C Tools</category>
-      <category>Meetings</category>
-      <category>Accessibility</category>
-      <pubDate>Tue, 29 Sep 2026 16:09:08 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/scribe2/commit/f0e90b0b767c1b6f063b0694c4429e055459c4e6</guid>
-    </item>
-    <item>
-      <title>VC Render Method Draft Dispatches Renderers by Suite</title>
-      <link>https://github.com/w3c/vc-render-method/commits/main/</link>
-      <description>&lt;p&gt;The Verifiable Credential Render Method draft now dispatches rendering behavior through a renderSuite value rather than the generic type field. The associated data model is renamed SuiteRenderMethod, and presentation data formerly called card or data is consistently named summary.&lt;/p&gt;&lt;p&gt;The draft change separates the credential method&amp;apos;s type from the concrete rendering suite, giving registries and implementations a clearer extension point.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vc-render-method/commit/bad7b72ae801d56da920c403b6a11058b654f2ef&quot;&gt;vc-render-method commit bad7b72a&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vc-render-method/commit/f366d67ee1632c976fea41d270452f8be5512e2e&quot;&gt;vc-render-method commit f366d67e&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/vc-render-method/commit/d00c2f111ae97794ae4a2619787c386d153cdc7d&quot;&gt;vc-render-method commit d00c2f11&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>Verifiable Credentials</category>
-      <category>Draft</category>
-      <pubDate>Tue, 29 Sep 2026 14:32:26 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/vc-render-method/commit/bad7b72ae801d56da920c403b6a11058b654f2ef</guid>
-    </item>
-    <item>
-      <title>Reffy Recognizes HTML Elements Defined in Generic Definition Tables</title>
-      <link>https://github.com/w3c/reffy/commits/main/</link>
-      <description>&lt;p&gt;Reffy, W3C&amp;apos;s specification-analysis tool, now recognizes HTML element definitions written in a generic dl.def table when the table identifies a DOM interface. This covers specifications such as HTML Ruby Extensions that do not use the usual dl.element class.&lt;/p&gt;&lt;p&gt;The filter still excludes unrelated definition tables, improving element and interface extraction without broad false positives.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/reffy/commit/f2ada9e75f71c93da5eff2f0af67e38cd209ff06&quot;&gt;reffy commit f2ada9e7&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>W3C Tools</category>
-      <category>Specifications</category>
-      <category>Web Platform</category>
-      <pubDate>Tue, 29 Sep 2026 06:04:15 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/reffy/commit/f2ada9e75f71c93da5eff2f0af67e38cd209ff06</guid>
-    </item>
-    <item>
-      <title>CSS Scroll Snap Limits Capture and Alignment to the Relevant Scroll Container</title>
-      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
-      <description>&lt;p&gt;CSS Scroll Snap now says scroll-snap-type applies only to scroll containers and that snap positions are captured by the nearest ancestor scroll container on the containing-block chain. A single-axis scroller establishes snap positions only on its scrollable axis.&lt;/p&gt;&lt;p&gt;The draft also clarifies that scroll-snap-align resolves writing modes against the nearest relevant scroll container for each axis. Together, the changes remove ambiguous behavior around nested and single-axis scrollers.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/efada14c30fe06f2382fd4c359360b11ce6007de&quot;&gt;csswg-drafts commit efada14c&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/d603df842a61e072a11cf7847c54a7ff2d46262c&quot;&gt;csswg-drafts commit d603df84&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/528b2e31b905ff8fd150ab8623a2b300503a2cca&quot;&gt;csswg-drafts commit 528b2e31&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>CSS</category>
-      <category>Scrolling</category>
-      <category>Specification</category>
-      <pubDate>Mon, 28 Sep 2026 22:49:04 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/efada14c30fe06f2382fd4c359360b11ce6007de</guid>
-    </item>
-    <item>
-      <title>JSON-LD Guidance Favors Vetted Local Contexts for Predictable Processing</title>
-      <link>https://github.com/w3c/json-ld-bp/commits/main/</link>
-      <description>&lt;p&gt;The JSON-LD Best Practices draft now compares context-resolution policies and recommends that many systems use a vetted catalog of pre-downloaded contexts. The guidance explains how network fetching can introduce availability, mutability, spoofing, privacy, load, and latency risks.&lt;/p&gt;&lt;p&gt;It also discusses HTTP caching and cases where unknown contexts still need network access. The goal is an explicit resolution policy rather than assuming every context URI must be fetched live.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/json-ld-bp/commit/2d29b78d6121ec37aff37e3ce604e08b5483584a&quot;&gt;json-ld-bp commit 2d29b78d&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>JSON-LD</category>
-      <category>Security</category>
-      <category>Privacy</category>
-      <pubDate>Mon, 28 Sep 2026 20:02:44 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/json-ld-bp/commit/2d29b78d6121ec37aff37e3ce604e08b5483584a</guid>
-    </item>
-    <item>
-      <title>CBOR-LD Rejects Suffixes That Decode to the Wrong Structure</title>
-      <link>https://github.com/w3c/cbor-ld/commits/main/</link>
-      <description>&lt;p&gt;The CBOR-LD draft now requires suffix decoding to fail with ERR_INVALID_PAYLOAD_STRUCTURE when the decoded value is not a map or array. Previously, malformed structural input could proceed without a dedicated check.&lt;/p&gt;&lt;p&gt;The explicit error gives decoders a consistent failure mode before they try to apply CBOR-LD processing rules to an incompatible payload.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/cbor-ld/commit/8c2301d2e06c107c12d3961447910846aa496989&quot;&gt;cbor-ld commit 8c2301d2&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>CBOR-LD</category>
-      <category>Validation</category>
-      <pubDate>Mon, 28 Sep 2026 15:07:06 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/cbor-ld/commit/8c2301d2e06c107c12d3961447910846aa496989</guid>
-    </item>
-    <item>
-      <title>WCAG2ICT Draft Adds AAA and European-Standard Comparisons</title>
-      <link>https://github.com/w3c/wcag2ict/commits/main/</link>
-      <description>&lt;p&gt;The WCAG2ICT draft now explains how its update differs from the 2025 Group Note, including newly incorporated Level AAA guidance. It also updates the mapping to EN 301 549 version 4.1.1 for applying WCAG success criteria to non-web documents and software.&lt;/p&gt;&lt;p&gt;These comparison sections are informative aids for policy and procurement users. The document remains draft guidance for applying WCAG outside web content.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/wcag2ict/commit/2cd5d3cc7e561449d2e456b1386ff53bae12c2b6&quot;&gt;wcag2ict commit 2cd5d3cc&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/wcag2ict/commit/283e85e30dc9cacac34edc8a7df4902944b993dd&quot;&gt;wcag2ict commit 283e85e3&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Accessibility</category>
-      <category>WCAG</category>
-      <category>Draft</category>
-      <pubDate>Mon, 28 Sep 2026 14:07:20 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/wcag2ict/commit/2cd5d3cc7e561449d2e456b1386ff53bae12c2b6</guid>
-    </item>
-    <item>
-      <title>Recognized Entities Draft Generates Security and Privacy Considerations from Threats</title>
-      <link>https://github.com/w3c/vc-recognized-entities/commits/main/</link>
-      <description>&lt;p&gt;The Recognized Entities draft now builds its security, privacy, and market-competition considerations from a structured threat model. The main document gains sections that summarize identified threats and link back to the separate model.&lt;/p&gt;&lt;p&gt;This brings the risks into the specification developers are most likely to read while keeping the detailed threat records in one place. The change concerns an evolving draft and its publication process; it does not declare the threat model complete.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vc-recognized-entities/commit/2ab49aac5b37d0eb316f9c0f4226636881747b54&quot;&gt;vc-recognized-entities commit 2ab49aac&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <pubDate>Sun, 27 Sep 2026 19:05:47 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/vc-recognized-entities/commit/2ab49aac5b37d0eb316f9c0f4226636881747b54</guid>
-    </item>
-    <item>
-      <title>Verifiable Credentials Draft Connects Security Guidance to Its Threat Model</title>
-      <link>https://github.com/w3c/vc-data-model/commits/main/</link>
-      <description>&lt;p&gt;The Verifiable Credentials Data Model draft now generates parts of its security and privacy considerations from the project&amp;apos;s structured threat model. The change adds a rendering step that brings threat summaries into the main specification.&lt;/p&gt;&lt;p&gt;That creates a more direct path from identified risks to the guidance implementers read. It also reduces the chance that the separate threat model and the main document drift apart as threats are revised. Supporting publication changes this week prepared the threat model as a W3C Draft Note; the generated sections do not by themselves change the protocol.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/vc-data-model/commit/153116328db8bd964610987b43ca9aa17dd2b649&quot;&gt;vc-data-model commit 15311632&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <category>Privacy</category>
-      <category>Security</category>
-      <pubDate>Sun, 27 Sep 2026 15:45:53 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/vc-data-model/commit/153116328db8bd964610987b43ca9aa17dd2b649</guid>
-    </item>
-    <item>
-      <title>DID Extensions Registry Deprecates Four Stale Resolution Errors</title>
-      <link>https://github.com/w3c/did-extensions/commits/main/</link>
-      <description>&lt;p&gt;The DID Extensions registry has marked four error entries as deprecated after their definitions were removed from the DID Resolution draft in January 2026. The entries remain visible, but now point readers to the older Working Draft that defined them.&lt;/p&gt;&lt;p&gt;This preserves a record for implementations that may still encounter the names while making clear that current DID Resolution work no longer defines them. The change affects the registry&amp;apos;s status and references; it does not itself change DID resolution behavior.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/did-extensions/commit/8d802b2ae6a0b0a6401af4943980e4d51825693a&quot;&gt;did-extensions commit 8d802b2a&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Digital Identity</category>
-      <pubDate>Sat, 26 Sep 2026 19:06:51 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/did-extensions/commit/8d802b2ae6a0b0a6401af4943980e4d51825693a</guid>
-    </item>
-    <item>
-      <title>W3C Publishing Tool Adds a Static-HTML Route</title>
-      <link>https://github.com/w3c/spec-prod/commits/main/</link>
-      <description>&lt;p&gt;W3C&amp;apos;s spec-prod publishing tool now accepts TOOLCHAIN: static for a source document that is already built as publishable HTML. In this mode it copies the document without running ReSpec or Bikeshed.&lt;/p&gt;&lt;p&gt;The rest of the publication pipeline still validates the output, copies relevant assets, and deploys it. That gives editors a supported route for specifications produced by other build systems, or for documents whose final HTML should be published as-is.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/spec-prod/commit/ef6582238cafaec33f2239e683ed942f12a53ce9&quot;&gt;spec-prod commit ef658223&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>W3C Tools</category>
-      <category>Publishing</category>
-      <pubDate>Sat, 26 Sep 2026 14:51:20 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/spec-prod/commit/ef6582238cafaec33f2239e683ed942f12a53ce9</guid>
-    </item>
-    <item>
-      <title>W3C String Search Draft Adds Internationalization Best Practices</title>
-      <link>https://github.com/w3c/string-search/commits/gh-pages/</link>
-      <description>&lt;p&gt;The W3C String Search draft has added concrete best practices for search sensitivity. It recommends case-insensitive matching by default using Unicode full case folding, while letting users request more exact matches, including case- and diacritic-sensitive search.&lt;/p&gt;&lt;p&gt;The new guidance also treats width variants as equivalent by default and distinguishes a search term with diacritics from one without them. It advises interfaces to reward more precise user input with more selective results. These are recommendations in a draft, aimed at making search work better across languages and scripts.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/string-search/commit/7b861f9d8758fa760986aa2ef7f96afa85645f2a&quot;&gt;string-search commit 7b861f9d&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Internationalization</category>
-      <category>Search</category>
-      <pubDate>Sat, 26 Sep 2026 11:23:45 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/string-search/commit/7b861f9d8758fa760986aa2ef7f96afa85645f2a</guid>
-    </item>
-    <item>
-      <title>WebAuthn Explores Passkey Sign-In Without a Login Form</title>
-      <link>https://github.com/w3c/webauthn/commits/main/</link>
-      <description>&lt;p&gt;A revised WebAuthn explainer proposes a way for sites to offer passkey sign-in on pages that have no login form. A site would make a conditional credentials request with uiMode set to passive, allowing the browser to show eligible credentials in a small, dedicated prompt.&lt;/p&gt;&lt;p&gt;The proposal is aimed at cases such as opening an article or storefront while signed out. If no eligible credential exists, the browser would show no prompt and the request would remain pending. The explainer also discusses showing passwords or FedCM credentials in the same browser surface. This is an explainer, not a change to the WebAuthn specification.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/webauthn/commit/21d32d45b9180ab2a04963f61c47d3c36a74356b&quot;&gt;webauthn commit 21d32d45&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>WebAuthn</category>
-      <category>Web APIs</category>
-      <category>Security</category>
-      <pubDate>Fri, 25 Sep 2026 13:26:15 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/webauthn/commit/21d32d45b9180ab2a04963f61c47d3c36a74356b</guid>
-    </item>
-    <item>
-      <title>SOSA Corrects an Inverse Property in Its Sensor Ontology</title>
-      <link>https://github.com/w3c/sdw-sosa-ssn/commits/gh-pages/</link>
-      <description>&lt;p&gt;The SOSA sensor and observation ontology now identifies sosa:isUltimateFeatureOfInterestOf as the inverse of sosa:hasUltimateFeatureOfInterest. The RDF vocabulary gains the matching owl:inverseOf statement.&lt;/p&gt;&lt;p&gt;Related fixes correct a namespace in a battery-lifetime example and use the proper property for prepared samples in an ontology extension. These are small edits with real consequences for software that reads the RDF: an incorrect inverse or property URI can produce wrong inferences.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/sdw-sosa-ssn/commit/b2db42b242f2cb97861275f4c6e58c092375ee1d&quot;&gt;sdw-sosa-ssn commit b2db42b2&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/sdw-sosa-ssn/commit/38f631f10d061a35e1c09d979366a916cab29142&quot;&gt;sdw-sosa-ssn commit 38f631f1&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Semantic Web</category>
-      <category>Web of Things</category>
-      <pubDate>Fri, 25 Sep 2026 12:51:55 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/sdw-sosa-ssn/commit/b2db42b242f2cb97861275f4c6e58c092375ee1d</guid>
-    </item>
-    <item>
-      <title>CSS View Timelines Now Require a Subject</title>
-      <link>https://github.com/w3c/csswg-drafts/commits/main/</link>
-      <description>&lt;p&gt;The CSS Scroll-driven Animations draft now requires a subject when a script constructs a ViewTimeline. The ViewTimelineOptions dictionary marks subject as required, and the constructor no longer accepts an omitted options object.&lt;/p&gt;&lt;p&gt;A view timeline measures progress as an element moves through a scrollport. Without a subject element, that calculation has no meaningful target. The change makes the Web IDL match that dependency and gives implementers a clear basis for rejecting a constructor call that omits it.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/csswg-drafts/commit/d1232f978ae92d4b4c04c9b4d5fe82cd0f5ddf86&quot;&gt;csswg-drafts commit d1232f97&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>CSS</category>
-      <category>Web Animations</category>
-      <pubDate>Fri, 25 Sep 2026 09:55:08 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/csswg-drafts/commit/d1232f978ae92d4b4c04c9b4d5fe82cd0f5ddf86</guid>
-    </item>
-    <item>
-      <title>EPUB Annotations Adds Detailed Security Guidance</title>
-      <link>https://github.com/w3c/epub-specs/commits/main/</link>
-      <description>&lt;p&gt;The developing EPUB Annotations specification now has a substantial security section instead of a placeholder.&lt;/p&gt;&lt;p&gt;The new guidance starts from the assumption that imported annotations can be hostile. Reading systems are told to treat detached files and annotations obtained from external servers as untrusted input.&lt;/p&gt;&lt;p&gt;The section addresses script injection, unsafe URI schemes, automatic loading of external resources, path traversal outside an EPUB container, denial-of-service risks from complex selectors or large data structures, and forged creator information.&lt;/p&gt;&lt;p&gt;It also reinforces an important design decision: annotation bodies are plain text. Reading systems must not interpret embedded HTML or script markup as executable content. For imported annotations, creator metadata alone is not proof of who created them.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/epub-specs/commit/bbd1bf2f98a196eaacf041fa8ed5945b0de2d8f9&quot;&gt;epub-specs commit bbd1bf2f&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Publishing/EPUB</category>
-      <category>Security</category>
-      <pubDate>Thu, 24 Sep 2026 18:21:50 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/epub-specs/commit/bbd1bf2f98a196eaacf041fa8ed5945b0de2d8f9</guid>
-    </item>
-    <item>
-      <title>EPUB Annotation Data Model Gets Simpler and More Specific</title>
-      <link>https://github.com/w3c/epub-specs/commits/main/</link>
-      <description>&lt;p&gt;Several changes this week tightened the developing EPUB Annotations data model.&lt;/p&gt;&lt;p&gt;One removed the unfinished Meta object, limited annotation targets to EPUB top-level content documents and simplified the metadata used to associate an annotation set with a publication.&lt;/p&gt;&lt;p&gt;A later revision removed commenting as an explicit annotation motivation, leaving bookmarking and highlighting. A note or comment can instead be the body of either a bookmark or highlight.&lt;/p&gt;&lt;p&gt;That revision also specifies that a missing motivation is treated as a bookmark and clarifies how selectors should distinguish a point-like bookmark from a highlighted range.&lt;/p&gt;&lt;p&gt;These are still changes to a developing specification, but they narrow the model implementers are being asked to support.&lt;/p&gt;&lt;p&gt;Changes: &lt;a href=&quot;https://github.com/w3c/epub-specs/commit/763f7b305d96421c16e7574a1299a870c7eabd9a&quot;&gt;epub-specs commit 763f7b30&lt;/a&gt;; &lt;a href=&quot;https://github.com/w3c/epub-specs/commit/e6dd274ac0afe3f4dc90d8c7c402a554a8e71c3e&quot;&gt;epub-specs commit e6dd274a&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Publishing/EPUB</category>
-      <pubDate>Thu, 24 Sep 2026 17:06:37 GMT</pubDate>
-      <guid isPermaLink="false">github.com/w3c/epub-specs/commit/763f7b305d96421c16e7574a1299a870c7eabd9a</guid>
     </item>
   </channel>
 </rss>

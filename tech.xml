@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Microsoft president calls for global rules on advanced models</title>
+      <link>https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/</link>
+      <description>Microsoft president Brad Smith said advanced computing models face fewer safety requirements than ordinary goods such as milk. He urged governments to require independent evaluation, incident reporting, emergency shutdown mechanisms and notice to people harmed by system failures, with Britain&apos;s security institute serving as one possible model.</description>
+      <pubDate>Mon, 12 Oct 2026 09:23:09 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-12-microsoft-global-model-rules</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Hungary&apos;s once-dominant newspaper returns online</title>
+      <link>https://www.reuters.com/business/media-telecom/bestselling-hungarian-newspaper-shut-down-under-orban-relaunches-online-2026-10-08/</link>
+      <description>Népszabadság, abruptly closed in 2016 after six decades in print, has relaunched as an online publication. Its editor says the revived newsroom will emphasize classic reporting and questioning in a media environment dominated by outlets friendly to Viktor Orbán&apos;s government. The return restores a historic independent voice before Hungary&apos;s election.</description>
+      <pubDate>Thu, 08 Oct 2026 13:37:30 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-12-nepszabadsag-online-relaunch</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>ATSC advances broadcast-to-everything standard</title>
+      <link>https://www.atsc.org/news/atsc-broadcast-to-everything-candidate-standard-marks-major-step-toward-a-more-connected-future-2/</link>
+      <description>ATSC approved a candidate standard for Broadcast-to-Everything, laying groundwork for broadcasters to deliver data and services to connected devices beyond television sets. The milestone opens technical review of an interoperable platform intended to link broadcast infrastructure with wireless networks, device makers and software developers.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-12-atsc-broadcast-to-everything</guid>
+      <source url="https://www.atsc.org/">ATSC</source>
+    </item>
 
     <item>
       <title>Justice Department probes networks over White House pool boycott</title>
@@ -116,33 +143,6 @@
       <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-08-press-freedom-roundup</guid>
       <source url="https://www.washingtonpost.com/">The Washington Post</source>
-    </item>
-
-    <item>
-      <title>Microsoft and Nvidia move coding agents onto the PC</title>
-      <link>https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/</link>
-      <description>Microsoft and Nvidia are unveiling the Surface Laptop Ultra, built around RTX Spark chips that can run coding and business agents locally instead of in the cloud. The bet revives the PC as an independent computing platform, though soaring memory costs may push the machine beyond the reach of ordinary developers.</description>
-      <pubDate>Wed, 07 Oct 2026 10:05:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-07-surface-laptop-ultra-local-agents</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Independent media needs distribution, not just good reporting</title>
-      <link>https://www.journalofdemocracy.org/articles/how-to-protect-the-media-in-eroding-democracies/</link>
-      <description>Maya Tudor argues that journalism cannot defend democracy on reporting alone. Comparing Hungary, India, Poland and Sri Lanka, she finds independent outlets also need resilient distribution, networked alliances, diverse financing and legal defenses—especially when governments and platforms can dominate how citizens encounter news.</description>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-07-media-distribution-democracy</guid>
-      <source url="https://www.journalofdemocracy.org/">Journal of Democracy</source>
-    </item>
-
-    <item>
-      <title>Open-source builders put interoperable agent protocols on the agenda</title>
-      <link>https://opensource.googleblog.com/2026/10/this-week-in-open-source-for-october-2-2026.html</link>
-      <description>Google’s open-source roundup points developers toward an October summit session on how the vendor-neutral A2A and MCP protocols work together, alongside practical projects for local retrieval and transparent model inference. The common thread is familiar: useful scripting systems become more durable when their parts can interoperate.</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-07-open-agent-protocols-summit</guid>
-      <source url="https://opensource.googleblog.com/">Google Open Source Blog</source>
     </item>
   </channel>
 </rss>

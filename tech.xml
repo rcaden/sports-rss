@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Newsrooms build direct audiences beyond big platforms</title>
+      <link>https://reutersinstitute.politics.ox.ac.uk/news/french-dispatch-how-newsrooms-are-defying-platform-reliance-and-taking-back-control</link>
+      <description>The Reuters Institute reports on independent publishers cooperating to extend their reach while rebuilding direct reader relationships. Examples include a human-curated French news portal, Scotland’s community newsroom network and a Paris culture newsletter that grew to 250,000 subscribers before expanding into print and events.</description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-13-newsrooms-platform-independence</guid>
+      <source url="https://reutersinstitute.politics.ox.ac.uk/">Reuters Institute</source>
+    </item>
+
+    <item>
+      <title>W3C advances accessibility, open source and web interoperability</title>
+      <link>https://www.w3.org/blog/2026/w3c-newsletter-september-2026/</link>
+      <description>W3C’s September roundup covers an updated WCAG 3.0 draft, a pilot open-source interoperability program, Web Authentication Level 4 and fresh work on digital-rights policy. It also lists newly cross-browser web features and previews TPAC discussions about improving the standards process and its tools.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-13-w3c-september-newsletter</guid>
+      <source url="https://www.w3.org/">World Wide Web Consortium</source>
+    </item>
+
+    <item>
+      <title>European supercomputer bet leans on open-source ROCm</title>
+      <link>https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/</link>
+      <description>French cloud company Scaleway plans a Sweden-based supercomputer using AMD Instinct chips and the open-source ROCm software stack. The project is noteworthy for developers because ROCm supports widely used programming tools without tying applications to Nvidia’s proprietary CUDA ecosystem, offering another path around hardware lock-in.</description>
+      <pubDate>Tue, 13 Oct 2026 10:50:38 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:tech:2026-10-13-scaleway-amd-rocm-supercomputer</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Microsoft president calls for global rules on advanced models</title>
@@ -57,8 +84,7 @@
     <item>
       <title>Worker-owned Hell Gate tests a harder membership pitch</title>
       <link>https://www.niemanlab.org/2026/10/subscribers-are-up-but-growth-is-down-heres-what-worker-owned-hell-gate-is-trying-next/</link>
-      <description>New York local outlet Hell Gate has about 11,000 paid subscriptions and has passed 
-    <docs>https://www.rssboard.org/rss-specification</docs> million in annual recurring revenue, but growth has slowed. The worker-owned newsroom is experimenting with occasional limits on free access, sharper membership appeals and events while keeping subscriber support central to its independence.</description>
+      <description>New York local outlet Hell Gate has about 11,000 paid subscriptions and has passed $1 million in annual recurring revenue, but growth has slowed. The worker-owned newsroom is experimenting with occasional limits on free access, sharper membership appeals and events while keeping subscriber support central to its independence.</description>
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-11-hell-gate-membership</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
@@ -116,33 +142,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-09-trace-attribution-standards</guid>
       <source url="https://scholarlykitchen.sspnet.org/">The Scholarly Kitchen</source>
-    </item>
-
-    <item>
-      <title>Satellite-to-phone rules and a spectrum auction move forward</title>
-      <link>https://www.reuters.com/business/media-telecom/us-fcc-vote-advancing-new-spectrum-auction-boost-direct-device-services-2026-10-07/</link>
-      <description>The FCC will vote Oct. 29 on advancing a spectrum auction and updating rules for phones that connect directly to satellites. The proposal would auction 25 megahertz and open another 482 megahertz for space-based coverage, as Starlink, Amazon and a carrier joint venture race to eliminate dead zones.</description>
-      <pubDate>Wed, 07 Oct 2026 15:26:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-08-satellite-phone-spectrum</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Global survey finds deepening doubt about social media and democracy</title>
-      <link>https://www.reuters.com/legal/litigation/social-media-harms-democracy-by-spreading-rumors-survey-shows-2026-10-01/</link>
-      <description>Pew found rising concern across 26 countries that social platforms divide people and damage democracy, even as majorities still say the services inform citizens and give them a political voice. In the United States, 64% of adults said social media harms democracy.</description>
-      <pubDate>Thu, 01 Oct 2026 14:06:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-08-social-media-democracy-survey</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Press-freedom pressures rise across several countries</title>
-      <link>https://www.washingtonpost.com/press-freedom-desk/2026/10/03/press-freedom-this-week-media-outlets-battle-trumps-amid-an-already-alarming-trend/</link>
-      <description>A weekly survey of press freedom tracks U.S. news organizations fighting White House access bans, the arrest of an independent Egyptian newsroom, threats that stopped a Brazilian outlet’s election coverage and Hong Kong’s first known journalist arrest for sedition under its 2024 security law. Bulgaria, meanwhile, adopted anti-SLAPP protections.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-08-press-freedom-roundup</guid>
-      <source url="https://www.washingtonpost.com/">The Washington Post</source>
     </item>
   </channel>
 </rss>

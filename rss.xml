@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Bills outlast Rams in overtime thriller</title>
+      <link>https://www.reuters.com/sports/nfl/josh-allens-rushing-passing-power-bills-past-rams-ot--flm-2026-10-13/</link>
+      <description>Tyler Bass kicked a 45-yard field goal with 1:55 left in overtime as Buffalo edged Los Angeles 37-34. Josh Allen threw for 210 yards and ran for 121 more, while James Cook added 111 rushing yards and two touchdowns. The Rams forced overtime despite Buffalo leading 31-20 in the fourth quarter.</description>
+      <pubDate>Tue, 13 Oct 2026 04:12:03 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-13-bills-rams-overtime</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Brewers seize 2-0 NLCS lead over Dodgers</title>
+      <link>https://www.reuters.com/sports/baseball/william-contreras-sparks-brewers-game-2-rally-against-dodgers--flm-2026-10-13/</link>
+      <description>In a major follow-up to Milwaukee’s Game 1 win, William Contreras homered to tie Game 2, drove in the go-ahead run an inning later and finished with three hits and three RBIs in a 7-4 victory. Four Brewers relievers retired all 15 batters they faced, sending the NLCS to Los Angeles with Milwaukee ahead 2-0.</description>
+      <pubDate>Tue, 13 Oct 2026 00:57:10 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-13-brewers-dodgers-nlcs-game-2</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Guardians break late for ALCS Game 1 win</title>
+      <link>https://www.reuters.com/sports/baseball/late-offense-sends-guardians-alcs-game-1-win-over-rays--flm-2026-10-13/</link>
+      <description>Cleveland scored seven runs over the final four innings to beat Tampa Bay 7-3 in the ALCS opener. Nathaniel Lowe’s two-run single in the eighth broke a 2-2 tie, and José Ramírez drove in a run for the fourth straight postseason game. The Guardians finished with 14 hits.</description>
+      <pubDate>Tue, 13 Oct 2026 03:25:06 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:sports:2026-10-13-guardians-rays-alcs-game-1</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Jaguars stun Eagles with 57-yard field goal in London</title>
@@ -117,31 +144,6 @@
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
 
-    <item>
-      <title>Rays sweep Yankees and advance to the ALCS</title>
-      <link>https://www.reuters.com/sports/mlb-roundup-rays-dodgers-brewers-wrap-up-division-series--flm-2026-10-08/</link>
-      <description>Victor Mesa Jr. broke a tie with a two-run homer as Tampa Bay beat New York 4-3 to sweep the ALDS. A fan-interference review erased what initially appeared to be Anthony Volpe’s tying homer, leaving the Yankees short and sending the Rays to their third ALCS.</description>
-      <pubDate>Thu, 08 Oct 2026 07:00:05 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-08-rays-sweep-yankees</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
 
-    <item>
-      <title>Brewers finish Padres and earn an NLCS rematch</title>
-      <link>https://www.reuters.com/sports/baseball/brewers-ko-padres-game-4-set-up-nlcs-rematch-vs-dodgers--flm-2026-10-08/</link>
-      <description>Milwaukee beat San Diego 3-1 in Game 4, ending a 12-game postseason road losing streak and setting up a second straight NLCS against the Dodgers. Jackson Chourio supplied the go-ahead single, while Garrett Mitchell robbed Manny Machado of a potential tying homer.</description>
-      <pubDate>Thu, 08 Oct 2026 05:30:41 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-08-brewers-nlcs-rematch</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Oilers score five in one period to stun the Ducks</title>
-      <link>https://www.reuters.com/sports/nhl-roundup-leon-draisaitl-logs-4-assists-oilers-storm-past-ducks--flm-2026-10-08/</link>
-      <description>Edmonton erased a 2-0 deficit with five unanswered second-period goals in a 5-2 win at Anaheim. Leon Draisaitl had four assists, Evan Bouchard scored twice and Connor McDavid added a goal and two assists as the Oilers improved to 3-0-1.</description>
-      <pubDate>Thu, 08 Oct 2026 06:55:06 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-08-oilers-five-goal-period</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
   </channel>
 </rss>

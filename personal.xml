@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>How Otto Binder and Kurt Schaffenberger imagined Mutant Man</title>
+      <link>https://www.wired.com/2011/03/pl-prototype-radiation</link>
+      <description>Wired revisits a remarkable 1953 Mechanix Illustrated feature written by Otto Binder and drawn by Kurt Schaffenberger. Its radiation-spawned “Mutant Man” anticipated enduring superhero ideas: transformations, superpowered minorities and public fear of the changed. It is a fascinating bridge between Fawcett-era talent, pulp science and later Marvel tropes.</description>
+      <pubDate>Tue, 29 Mar 2011 16:00:07 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-13-binder-schaffenberger-mutant-man</guid>
+      <source url="https://www.wired.com/">Wired</source>
+    </item>
+
+    <item>
+      <title>The Census Bureau once explained digital maps with comics</title>
+      <link>https://blogs.loc.gov/maps/2026/02/illustrating-geospatial-history-tracing-the-development-of-topological-data-through-comics/</link>
+      <description>The Library of Congress explores government comics that taught public officials how early digital mapping worked. “DIME Comix &amp; Stories” and “ADMATCH Adventures” used illustrated guides to explain nodes, arcs, street networks and geocoding—the ideas that eventually led to TIGER data and today’s web maps.</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-13-census-dime-mapping-comics</guid>
+      <source url="https://blogs.loc.gov/">Library of Congress</source>
+    </item>
+
+    <item>
+      <title>ServiceNow Zurich features worth knowing for developers</title>
+      <link>https://www.servicenow.com/community/developer-blog/zurich-features-for-developers/ba-p/3326661</link>
+      <description>This developer-focused tour of ServiceNow’s Zurich release highlights individual sandboxes, multi-app Git cloning, Flow Designer improvements, new scoped APIs and ES2021 features including promises and async/await. It is a useful map of platform changes for anyone building and maintaining practical ServiceNow applications.</description>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:personal:2026-10-13-servicenow-zurich-developer-features</guid>
+      <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
+    </item>
 
     <item>
       <title>Copyright Office opens inquiry into music-streaming fraud</title>
@@ -111,37 +138,10 @@
     <item>
       <title>Oracle introduces lower Java subscription pricing for smaller organizations</title>
       <link>https://blogs.oracle.com/java/new-lower-smb-pricing-and-easier-online-purchasing-of-java-se-universal-subscription</link>
-      <description>Oracle now offers standardized annual Java SE Universal Subscription pricing for organizations with fewer than 3,000 employees. The schedule starts at <docs>https://www.rssboard.org/rss-specification</docs>00 for 10 or fewer employees, rises to <docs>https://www.rssboard.org/rss-specification</docs>0,000 for 500, and adds <docs>https://www.rssboard.org/rss-specification</docs>47.20 per worker from 501 through 2,999. Companies with up to 500 employees can buy online.</description>
+      <description>Oracle now offers standardized annual Java SE Universal Subscription pricing for organizations with fewer than 3,000 employees. The schedule starts at $100 for 10 or fewer employees, rises to $10,000 for 500, and adds $47.20 per worker from 501 through 2,999. Companies with up to 500 employees can buy online.</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-09-oracle-java-smb-pricing</guid>
       <source url="https://blogs.oracle.com/java/">Oracle Java Blog</source>
-    </item>
-
-    <item>
-      <title>Books may get an ‘organic’ human-authored stamp</title>
-      <link>https://www.wired.com/story/organic-literature-books-by-people-stamp-ai</link>
-      <description>British startup Books by People won approval for a thumbprint-style mark identifying human-authored books. Its process combines declarations, manuscript checks and review of drafts and research. Five publishers have joined, though critics warn that certification could wrongly cast suspicion on writers.</description>
-      <pubDate>Wed, 07 Oct 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-08-organic-books-stamp</guid>
-      <source url="https://www.wired.com/">WIRED</source>
-    </item>
-
-    <item>
-      <title>Turkish publisher wins a second freedom-to-publish award</title>
-      <link>https://apnews.com/article/freedom-publish-turkey-avesta-kurdish-award-aap-191927d54f0e46219ddff8a3c31a73a3</link>
-      <description>The Association of American Publishers honored Avesta Publishing House for defending Kurdish literature and culture despite book bans, a burned warehouse and a website shutdown. Founded in 1995, Avesta also received the award in 2005 and has published hundreds of books on marginalized histories.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-08-avesta-freedom-award</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Betty Boop, Blondie and classic detectives join the public domain</title>
-      <link>https://apnews.com/article/40cb2f7a30ba9d7aec0bfc9191ab02c1</link>
-      <description>The 2026 public-domain class opened U.S. reuse of works from 1930, including early Betty Boop and Blondie appearances, Nancy Drew, Sam Spade and Miss Marple. Also newly free are “The Maltese Falcon,” “As I Lay Dying,” “Animal Crackers,” “I Got Rhythm” and “Georgia on My Mind,” with later character elements still protected.</description>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-08-public-domain-1930-works</guid>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

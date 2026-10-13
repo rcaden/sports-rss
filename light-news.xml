@@ -5,15 +5,41 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
     <item>
+      <title>A softball game reunites long-lost sisters</title>
+      <link>https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/</link>
+      <description>Montana teen Samantha Rensvold knew she had a biological sister but had never met her. A teammate noticed that an opposing softball player looked remarkably like Samantha, and the hunch led her to 18-year-old Kyann Dean. The sisters even discovered they both play volleyball in the same position and wear the same number.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-13-softball-sisters-reunited</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Berlin app tells residents when street trees are thirsty</title>
+      <link>https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/</link>
+      <description>An open-source map called Gieß den Kiez helps Berliners care for nearly 900,000 street trees. Residents can “adopt” a tree, see nearby public water taps and get watering guidance based on species, age, location and weather. The project turns routine walks into a neighborhood conservation effort.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-13-berlin-tree-watering-app</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>A childhood lemonade stand grows into a $5 million charity</title>
+      <link>https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/</link>
+      <description>Payton Obert began selling lemonade at age 8 to repay the kindness she remembered from a hospital stay as a toddler. Her annual stand has grown into a multi-state charity effort that has delivered $5 million in gifts and necessities to children and families, including $170,000 raised in its 2026 edition.</description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">urn:acme:light:2026-10-13-lemonade-charity-five-million</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
       <title>East Texas family sells lakefront land for a future state park</title>
       <link>https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/</link>
-      <description>The Pollard family sold 650 acres on Lake Palestine to the Texas Parks and Wildlife Foundation for 
-    <docs>https://www.rssboard.org/rss-specification</docs> million so the land can become a state park. The property includes pine woods, wetlands, bluffs and a working pecan orchard, with room for camping, paddling, fishing and wildlife watching.</description>
+      <description>The Pollard family sold 650 acres on Lake Palestine to the Texas Parks and Wildlife Foundation for $35 million so the land can become a state park. The property includes pine woods, wetlands, bluffs and a working pecan orchard, with room for camping, paddling, fishing and wildlife watching.</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-12-east-texas-state-park</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
@@ -116,33 +142,6 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-09-vernal-dinosaur-gathering</guid>
       <source url="https://www.guinnessworldrecords.com/news/">Guinness World Records</source>
-    </item>
-
-    <item>
-      <title>Owls, bees, puffins and hedgehogs are coming to British banknotes</title>
-      <link>https://www.reuters.com/business/finance/barn-owls-bees-puffins-hedgehogs-feature-uk-banknotes-2026-10-07/</link>
-      <description>Britain’s next banknote designs will feature a barn owl, buff-tailed bumblebee, Atlantic puffin and European hedgehog. Nearly 500,000 people voted in the Bank of England consultation; the bumblebee topped the poll. The wildlife will gradually replace Churchill, Austen, Turner and Turing.</description>
-      <pubDate>Wed, 07 Oct 2026 23:04:53 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-08-british-wildlife-banknotes</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Pikachu takes a tour of the International Space Station</title>
-      <link>https://www.upi.com/Odd_News/2026/10/07/Pikachu-European-Space-Agency-International-Space-Station/6211791387825/</link>
-      <description>A spacesuit-clad Pikachu plush stars in a European Space Agency video tour of the International Space Station. Astronaut Sophie Adenot uses the yellow visitor to show viewers the station’s sleeping quarters, food storage and water-recycling system.</description>
-      <pubDate>Wed, 07 Oct 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-08-pikachu-space-station</guid>
-      <source url="https://www.upi.com/Odd_News/">UPI</source>
-    </item>
-
-    <item>
-      <title>A 2,856-pound pumpkin smashes the world record</title>
-      <link>https://www.upi.com/Odd_News/2026/10/07/Guinness-World-Records-heaviest-pumpkin/5121791389821/</link>
-      <description>British grower Ian Paton’s pumpkin Bagheera weighed 2,856.8 pounds, topping the previous Guinness record by more than 37 pounds. The 65-year-old said the giant fruit drank about 130 gallons of water a day; after its moment in the spotlight, it will become cattle feed.</description>
-      <pubDate>Wed, 07 Oct 2026 16:23:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-08-record-pumpkin-bagheera</guid>
-      <source url="https://www.upi.com/Odd_News/">UPI</source>
     </item>
   </channel>
 </rss>

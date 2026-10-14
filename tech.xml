@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:05:36 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Judge extends press access for CNN, MS NOW and Politico</title>
+      <link>https://www.reuters.com/world/judge-extends-white-house-access-cnn-ms-now-politico-amid-legal-fight-2026-10-14/</link>
+      <description>U.S. District Judge Timothy Kelly extended an order preserving White House access for CNN, MS NOW and Politico while their lawsuit proceeds. Kelly, appointed by President Trump, said the outlets are likely to show that restrictions imposed after reporting on a ballroom project amounted to unlawful viewpoint discrimination.</description>
+      <pubDate>Wed, 14 Oct 2026 03:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/judge-extends-white-house-access-cnn-ms-now-politico-amid-legal-fight-2026-10-14/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>WordPress 7.1.3 fixes seven security flaws</title>
+      <link>https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/</link>
+      <description>WordPress 7.1.3 is a maintenance and security release with seven security fixes and four bug fixes. The patched issues include stored cross-site scripting through pending comments, a denial-of-service flaw, second-order SQL injection in WXR exports and disclosure of private or unpublished comments. Site owners are urged to update promptly.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
+    <item>
+      <title>Podnews weighs new RSS tags against platform lock-in</title>
+      <link>https://weekly.podnews.net/1538779/episodes/19933418-podcast-ad-revenue-is-increasing?t=0</link>
+      <description>Podnews&apos; weekly review examines Libsyn&apos;s proposed RSS namespace for ad-slot availability, newsletters as membership and audience-data products, and the expansion of transcripts and person tags. The discussion keeps returning to a foundational concern for podcasting: open infrastructure versus features that pull creators and listeners into platform lock-in.</description>
+      <pubDate>Fri, 09 Oct 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://weekly.podnews.net/1538779/episodes/19933418-podcast-ad-revenue-is-increasing?t=0</guid>
+      <source url="https://weekly.podnews.net/">Podnews Weekly Review</source>
+    </item>
     <item>
       <title>Newsrooms build direct audiences beyond big platforms</title>
       <link>https://reutersinstitute.politics.ox.ac.uk/news/french-dispatch-how-newsrooms-are-defying-platform-reliance-and-taking-back-control</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-13-newsrooms-platform-independence</guid>
       <source url="https://reutersinstitute.politics.ox.ac.uk/">Reuters Institute</source>
     </item>
-
     <item>
       <title>W3C advances accessibility, open source and web interoperability</title>
       <link>https://www.w3.org/blog/2026/w3c-newsletter-september-2026/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-13-w3c-september-newsletter</guid>
       <source url="https://www.w3.org/">World Wide Web Consortium</source>
     </item>
-
     <item>
       <title>European supercomputer bet leans on open-source ROCm</title>
       <link>https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-13-scaleway-amd-rocm-supercomputer</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Microsoft president calls for global rules on advanced models</title>
       <link>https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-12-microsoft-global-model-rules</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Hungary&apos;s once-dominant newspaper returns online</title>
       <link>https://www.reuters.com/business/media-telecom/bestselling-hungarian-newspaper-shut-down-under-orban-relaunches-online-2026-10-08/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-12-nepszabadsag-online-relaunch</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>ATSC advances broadcast-to-everything standard</title>
       <link>https://www.atsc.org/news/atsc-broadcast-to-everything-candidate-standard-marks-major-step-toward-a-more-connected-future-2/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-12-atsc-broadcast-to-everything</guid>
       <source url="https://www.atsc.org/">ATSC</source>
     </item>
-
     <item>
       <title>Justice Department probes networks over White House pool boycott</title>
       <link>https://www.reuters.com/business/media-telecom/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-2026-10-10/</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-11-doj-tv-pool-probe</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>The problem with Facebook was Facebook</title>
       <link>https://nymag.com/intelligencer/article/the-problem-with-facebook-was-facebook.html</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-11-facebook-reform-critique</guid>
       <source url="https://nymag.com/">New York Magazine</source>
     </item>
-
     <item>
       <title>Worker-owned Hell Gate tests a harder membership pitch</title>
       <link>https://www.niemanlab.org/2026/10/subscribers-are-up-but-growth-is-down-heres-what-worker-owned-hell-gate-is-trying-next/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-11-hell-gate-membership</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
-
     <item>
       <title>LoopConf trades corporate sponsors for attendee funding</title>
       <link>https://thewpminute.com/brian-richards-on-restructuring-loopconf-ditching-corporate-sponsors-for-attendee-funded-events/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-10-loopconf-attendee-funded</guid>
       <source url="https://thewpminute.com/">The WP Minute</source>
     </item>
-
     <item>
       <title>Nieman Lab redesigns 100,000 pages without flattening them</title>
       <link>https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="false">urn:acme:tech:2026-10-10-nieman-lab-redesign</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
-
     <item>
       <title>Open source moves to the center of Europe’s digital-sovereignty push</title>
       <link>https://www.techradar.com/pro/security/digital-sovereignty-has-become-europes-top-priority-heres-how-open-source-is-helping-pave-the-way</link>
@@ -115,33 +128,6 @@
       <pubDate>Thu, 08 Oct 2026 15:13:33 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-10-europe-open-source-sovereignty</guid>
       <source url="https://www.techradar.com/">TechRadar</source>
-    </item>
-
-    <item>
-      <title>Rappler builds its own digital commons on an open protocol</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/</link>
-      <description>Maria Ressa explains why Rappler stopped waiting for dominant platforms to protect journalism and built a community network using Matrix. The federated system links independent newsrooms, lets each govern itself and reaches readers without an engagement algorithm controlling distribution.</description>
-      <pubDate>Thu, 08 Oct 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-09-rappler-digital-commons</guid>
-      <source url="https://www.theatlantic.com/">The Atlantic</source>
-    </item>
-
-    <item>
-      <title>A practical path from Discord to a self-hosted Matrix server</title>
-      <link>https://hackaday.com/2026/10/08/lead-a-discord-exodus-with-a-matrix-server/</link>
-      <description>Hackaday walks through replacing a closed chat platform with Matrix, an open standard whose servers and clients can be self-hosted, extended and bridged to other services. The account also confronts the hard part of decentralized software: choosing among tools and persuading a community to move.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-09-matrix-discord-migration</guid>
-      <source url="https://hackaday.com/">Hackaday</source>
-    </item>
-
-    <item>
-      <title>TRACE project targets trustworthy attribution in scholarly publishing</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/</link>
-      <description>Publishers, standards groups and libraries launched TRACE to coordinate content-exchange standards, provenance tracking and usage reporting for machine-assisted research. Its first projects address discovery and access, preserving attribution through the content lifecycle, and consistent measurement of content use.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-09-trace-attribution-standards</guid>
-      <source url="https://scholarlykitchen.sspnet.org/">The Scholarly Kitchen</source>
     </item>
   </channel>
 </rss>

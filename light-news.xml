@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:05:36 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>English grower raises record 2,856-pound pumpkin</title>
+      <link>https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/</link>
+      <description>Ian Paton of Hampshire grew Bagheera, a 2,856.8-pound pumpkin certified as the world&apos;s heaviest at a weigh-off in Wargrave. The 20-foot-around gourd outweighed the previous record by about 45 pounds and, at its thirstiest, needed roughly 130 gallons of water a day.</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Giant fungus earns the name D-rex</title>
+      <link>https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/</link>
+      <description>Scientists have described Dianjunus rex, nicknamed D-rex, from the forests of Yunnan, China. Its fruiting body can reach 20 inches and five pounds, enormous by mushroom standards. Genetic work places the unusual species in a newly named genus and family whose lineage may stretch back about 65 million years.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/scientists-shocked-to-discover-d-rex-a-giant-fungus-from-chinese-forests-dating-back-65-million-years/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Moviegoer raises $146,000 for longtime theater worker</title>
+      <link>https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/</link>
+      <description>After 21-year-old Brooklyn Green met Mary, who had worked at Tennessee movie theaters for more than 45 years, she posted a video and organized a fundraiser to help her retire. Viewers responded with $146,000, turning an ordinary trip to the movies into an extraordinary thank-you.</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/elderly-theater-worker-surprised-with-146000-for-retirement-crowdfunded-by-young-moviegoer/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
     <item>
       <title>A softball game reunites long-lost sisters</title>
       <link>https://www.goodnewsnetwork.org/montana-high-school-softball-player-discovered-long-lost-sister-on-opposing-team/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-13-softball-sisters-reunited</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Berlin app tells residents when street trees are thirsty</title>
       <link>https://www.goodnewsnetwork.org/like-caring-for-a-pet-the-app-that-lets-you-know-if-your-neighborhood-tree-is-thirsty/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-13-berlin-tree-watering-app</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>A childhood lemonade stand grows into a $5 million charity</title>
       <link>https://www.goodnewsnetwork.org/teens-wish-to-return-kindness-she-received-sees-her-lemonade-stand-become-5-million-charity-engine/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-13-lemonade-charity-five-million</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>East Texas family sells lakefront land for a future state park</title>
       <link>https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-12-east-texas-state-park</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Aldabra&apos;s giant tortoise population reaches about 180,000</title>
       <link>https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-12-aldabra-giant-tortoises</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Personalized walking change eases arthritic knee pain</title>
       <link>https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-12-knee-gait-study</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Sloth bear named by Julia Roberts flourishes after rescue</title>
       <link>https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-11-sloth-bear-odum</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Pilot daughter shares cockpit with dad while mom works cabin</title>
       <link>https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-11-family-klm-flight</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>£300 salvage-yard statue may be lost work by Trevi Fountain sculptor</title>
       <link>https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-11-bracci-statue-salvage-yard</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Spider-Man fans swarm New York Comic Con for a record attempt</title>
       <link>https://www.upi.com/Odd_News/2026/10/09/Guinness-World-Records-spider-man/4421791569448/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-10-spider-man-nycc-record</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
-
     <item>
       <title>Orphaned kittens tour a Minnesota aquarium</title>
       <link>https://www.upi.com/Odd_News/2026/10/09/Sea-Life-Aquarium-kittens/4211791564630/</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="false">urn:acme:light:2026-10-10-kittens-aquarium-tour</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
-
     <item>
       <title>Rescuers free an opossum dangling from a fishing hook</title>
       <link>https://www.upi.com/Odd_News/2026/10/09/opossum-fishing-hook-tree/2001791562268/</link>
@@ -115,33 +128,6 @@
       <pubDate>Fri, 09 Oct 2026 16:13:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-10-opossum-hook-rescue</guid>
       <source url="https://www.upi.com/">UPI</source>
-    </item>
-
-    <item>
-      <title>A class ring lost for six decades comes home</title>
-      <link>https://www.upi.com/Odd_News/2026/10/08/class-ring-sewer-Sheffield-Alabama/7991791477667/</link>
-      <description>Alabama sewer workers clearing a clog found a 1965 class ring and traced its initials to Oscar James Meredith, now 79. He had given it to his high school sweetheart, who later became his wife. The ring apparently vanished down a sink near her childhood home and still fits Meredith’s finger.</description>
-      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-09-lost-class-ring-returned</guid>
-      <source url="https://www.upi.com/Odd_News/">UPI</source>
-    </item>
-
-    <item>
-      <title>Canadian grandmother holds a plank for five hours</title>
-      <link>https://www.upi.com/Odd_News/2026/10/08/Guinness-World-Records-abdominal-plank/1261791480174/</link>
-      <description>DonnaJean Wilde, a 61-year-old fitness enthusiast, held an abdominal plank for five hours at Utah’s Huntsman World Senior Games. The feat surpassed her own Guinness record of 4 hours, 30 minutes and 11 seconds, set in 2024.</description>
-      <pubDate>Thu, 08 Oct 2026 17:28:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-09-five-hour-plank-record</guid>
-      <source url="https://www.upi.com/Odd_News/">UPI</source>
-    </item>
-
-    <item>
-      <title>Eight hundred dinosaurs roar for a Utah town</title>
-      <link>https://www.guinnessworldrecords.com/news/2026/10/roar-some-804-people-in-dinosaur-costumes-smash-record-and-reduce-a-town-to-tears</link>
-      <description>Vernal, Utah, set a record with 804 people gathered in dinosaur costumes, a year after narrowly missing the mark. The crowd then roared in tribute to people fighting cancer, including a young girl among them. In Vernal, organizers said, a dinosaur roar means “I love you.”</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-09-vernal-dinosaur-gathering</guid>
-      <source url="https://www.guinnessworldrecords.com/news/">Guinness World Records</source>
     </item>
   </channel>
 </rss>

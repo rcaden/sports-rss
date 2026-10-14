@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:05:36 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Rays even ALCS behind Freddy Peralta&apos;s gem</title>
+      <link>https://www.reuters.com/sports/baseball/freddy-peralta-rays-pull-even-with-guardians-alcs--flm-2026-10-14/</link>
+      <description>Tampa Bay beat Cleveland 3-1 to even the ALCS at one game apiece, a significant turn after the Guardians took the opener. Freddy Peralta worked six scoreless innings, and a José Ramírez error opened the door for a three-run fourth capped by Liam Hicks&apos; two-run single.</description>
+      <pubDate>Wed, 14 Oct 2026 03:12:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/freddy-peralta-rays-pull-even-with-guardians-alcs--flm-2026-10-14/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Tkachuk brothers make NHL history in Panthers win</title>
+      <link>https://www.reuters.com/sports/nhl-roundup-brady-tkachuks-natural-hat-trick-helps-panthers-top-jackets--flm-2026-10-14/</link>
+      <description>Brady Tkachuk scored a natural hat trick in 8:03 of the second period and Matthew assisted on all three goals as Florida beat Columbus 7-3. According to the NHL, Matthew became the first player to assist on each goal of a brother&apos;s natural hat trick; he finished with five assists.</description>
+      <pubDate>Wed, 14 Oct 2026 07:11:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nhl-roundup-brady-tkachuks-natural-hat-trick-helps-panthers-top-jackets--flm-2026-10-14/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>U.S. soccer audiences keep growing after World Cup</title>
+      <link>https://www.reuters.com/sports/soccer/soccer-viewership-us-surging-since-world-cup--flm-2026-10-14/</link>
+      <description>Nielsen says 66.4 million U.S. viewers watched Spain beat Argentina in the World Cup final, the country&apos;s largest soccer audience. The momentum carried into club play: MLS viewing among men 18-34 rose 55%, Premier League viewing among young adults climbed 30%, and LaLiga&apos;s total audience increased 42%.</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/soccer-viewership-us-surging-since-world-cup--flm-2026-10-14/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Bills outlast Rams in overtime thriller</title>
       <link>https://www.reuters.com/sports/nfl/josh-allens-rushing-passing-power-bills-past-rams-ot--flm-2026-10-13/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-13-bills-rams-overtime</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Brewers seize 2-0 NLCS lead over Dodgers</title>
       <link>https://www.reuters.com/sports/baseball/william-contreras-sparks-brewers-game-2-rally-against-dodgers--flm-2026-10-13/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-13-brewers-dodgers-nlcs-game-2</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Guardians break late for ALCS Game 1 win</title>
       <link>https://www.reuters.com/sports/baseball/late-offense-sends-guardians-alcs-game-1-win-over-rays--flm-2026-10-13/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-13-guardians-rays-alcs-game-1</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Jaguars stun Eagles with 57-yard field goal in London</title>
       <link>https://www.reuters.com/sports/nfl/cam-little-drills-57-yard-field-goal-jags-jolt-eagles-london--flm-2026-10-11/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-12-jaguars-eagles-london</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Brewers edge Dodgers in NLCS opener</title>
       <link>https://www.reuters.com/sports/baseball/brice-turang-homers-brewers-edge-dodgers-nlcs-opener--flm-2026-10-12/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-12-brewers-dodgers-nlcs-game-one</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Huntley leads Ravens&apos; overtime comeback</title>
       <link>https://www.reuters.com/sports/nfl/tyler-huntley-ravens-rally-beat-falcons-ot--flm-2026-10-12/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-12-ravens-falcons-overtime</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Guardians finish ALDS comeback and advance</title>
       <link>https://www.reuters.com/sports/baseball/guardians-complete-alds-comeback-blank-white-sox-game-5--flm-2026-10-11/</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-11-guardians-complete-alds-comeback</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Oklahoma shocks No. 1 Texas on final-play field goal</title>
       <link>https://www.reuters.com/sports/top-25-roundup-south-carolina-hands-no-16-florida-second-straight-loss--flm-2026-10-10/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-11-oklahoma-upsets-texas</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Marner&apos;s overtime winner keeps Golden Knights rolling</title>
       <link>https://www.reuters.com/sports/nhl/mitch-marners-ot-goal-vs-kings-runs-golden-knights-win-streak-4--flm-2026-10-11/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-11-marner-overtime-winner</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Shesterkin injured as Capitals cool off the Rangers</title>
       <link>https://www.reuters.com/sports/nhl-roundup-capitals-win-rangers-g-igor-shesterkin-injured--flm-2026-10-10/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-10-capitals-rangers-shesterkin</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Jayden Daniels cleared to return for Washington</title>
       <link>https://www.reuters.com/sports/commanders-qb-jayden-daniels-start-vs-giants--flm-2026-10-09/</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-10-daniels-cleared-giants</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>NFL asks Supreme Court to settle prediction-market oversight</title>
       <link>https://www.reuters.com/legal/government/nfl-backs-supreme-court-review-betting-oversight-case-2026-10-08/</link>
@@ -116,34 +129,5 @@
       <guid isPermaLink="false">urn:acme:sports:2026-10-10-nfl-prediction-market-court</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
-    <item>
-      <title>Guardians force a decisive Game 5 against the White Sox</title>
-      <link>https://www.reuters.com/sports/baseball/guardians-outslug-white-sox-send-alds-back-cleveland-game-5--flm-2026-10-09/</link>
-      <description>Cleveland erased another elimination threat with a 9-5 win in Chicago, powered by homers from José Ramírez and Patrick Bailey and a six-run sixth inning. The ALDS returns to Cleveland for Saturday’s Game 5, with the winner advancing to face Tampa Bay.</description>
-      <pubDate>Fri, 09 Oct 2026 04:06:57 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-09-guardians-force-game-five</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>MLB proposes 154-game season and a revamped postseason</title>
-      <link>https://www.reuters.com/sports/mlb-proposes-154-game-schedule-altered-playoff-format--flm-2026-10-08/</link>
-      <description>Major League Baseball proposed cutting the schedule from 162 to 154 games in 2029, expanding the Division Series to seven games and letting higher seeds choose playoff opponents starting in 2027. The players union said the package remains tied to MLB’s push for a salary cap.</description>
-      <pubDate>Thu, 08 Oct 2026 18:52:07 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-09-mlb-154-game-proposal</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Stankoven’s first hat trick powers Carolina’s rout</title>
-      <link>https://www.reuters.com/sports/nhl/logan-stankovens-hat-trick-leads-hurricanes-over-canucks--flm-2026-10-09/</link>
-      <description>Logan Stankoven recorded his first NHL hat trick and Andrei Svechnikov scored twice on the power play as Carolina overwhelmed Vancouver 7-2. Sean Walker added four assists, another career first, as the Hurricanes won their third straight.</description>
-      <pubDate>Fri, 09 Oct 2026 01:41:01 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-09-stankoven-first-hat-trick</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-
   </channel>
 </rss>

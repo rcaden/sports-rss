@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:05:36 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Copyright Office rejects remote-access exemption for game preservation</title>
+      <link>https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access</link>
+      <description>The U.S. Copyright Office declined to let libraries, archives and museums offer remote scholarly access to out-of-market video games under a DMCA exemption. On-premises preservation remains allowed, but advocates say the ruling leaves researchers unable to study much of gaming history without traveling to a qualified collection.</description>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access</guid>
+      <source url="https://www.theverge.com/">The Verge</source>
+    </item>
+    <item>
+      <title>Archaeologists of code examine Atari&apos;s mysterious Entombed maze</title>
+      <link>https://arxiv.org/abs/1811.02035</link>
+      <description>Researchers reverse-engineered the 1982 Atari 2600 game Entombed to understand its ingenious maze generator, built for severe memory and processing limits. They uncovered an unexplained lookup table, a 35-year-old bug and evidence of reused code, then supplemented the binary archaeology with interviews about how the game was made.</description>
+      <pubDate>Mon, 05 Nov 2018 21:08:09 GMT</pubDate>
+      <guid isPermaLink="true">https://arxiv.org/abs/1811.02035</guid>
+      <source url="https://arxiv.org/">arXiv</source>
+    </item>
+    <item>
+      <title>San Antonio authors build a cooperative publishing house</title>
+      <link>https://www.axios.com/local/san-antonio/2026/09/24/san-antonio-authors-publishing-press-inbound-books</link>
+      <description>Inbound Books is testing an author-owned cooperative model in which writers are stakeholders, share profits and help one another publish and market their work. The San Antonio press is accepting submissions, and its first release is Karma Ledger, a cyberpunk thriller—an intriguing alternative to both traditional and solo self-publishing.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.axios.com/local/san-antonio/2026/09/24/san-antonio-authors-publishing-press-inbound-books</guid>
+      <source url="https://www.axios.com/local/san-antonio/">Axios San Antonio</source>
+    </item>
     <item>
       <title>How Otto Binder and Kurt Schaffenberger imagined Mutant Man</title>
       <link>https://www.wired.com/2011/03/pl-prototype-radiation</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-13-binder-schaffenberger-mutant-man</guid>
       <source url="https://www.wired.com/">Wired</source>
     </item>
-
     <item>
       <title>The Census Bureau once explained digital maps with comics</title>
       <link>https://blogs.loc.gov/maps/2026/02/illustrating-geospatial-history-tracing-the-development-of-topological-data-through-comics/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-13-census-dime-mapping-comics</guid>
       <source url="https://blogs.loc.gov/">Library of Congress</source>
     </item>
-
     <item>
       <title>ServiceNow Zurich features worth knowing for developers</title>
       <link>https://www.servicenow.com/community/developer-blog/zurich-features-for-developers/ba-p/3326661</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-13-servicenow-zurich-developer-features</guid>
       <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
     </item>
-
     <item>
       <title>Copyright Office opens inquiry into music-streaming fraud</title>
       <link>https://www.copyright.gov/newsnet/2026/1095.html</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-12-music-streaming-fraud-inquiry</guid>
       <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
     </item>
-
     <item>
       <title>Library of Congress revisits Gus Arriola&apos;s Gordo</title>
       <link>https://blogs.loc.gov/headlinesandheroes/2026/09/gus-arriola-and-gordo/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-12-gus-arriola-gordo</guid>
       <source url="https://blogs.loc.gov/">Library of Congress</source>
     </item>
-
     <item>
       <title>A history of the many Captains Marvel</title>
       <link>https://atomicjunkshop.com/the-captains-marvel-a-history/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-12-captains-marvel-history</guid>
       <source url="https://atomicjunkshop.com/">Atomic Junk Shop</source>
     </item>
-
     <item>
       <title>WordPress 7.2 changes a default database session mode</title>
       <link>https://make.wordpress.org/core/2026/10/09/no_backslash_escapes-sql-mode-is-now-turned-off-by-default-in-wordpress-7-2/</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-11-wordpress-sql-mode</guid>
       <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
     </item>
-
     <item>
       <title>Written Word Media opens its 2026 indie-author survey</title>
       <link>https://selfpublishingadvice.org/written-word-media-opens-2026-indie-author-survey/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-11-indie-author-survey</guid>
       <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
     </item>
-
     <item>
       <title>Audio-first indie publisher Podium changes owners</title>
       <link>https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101308-podium-entertainment-acquired-by-private-equity-firms.html</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-11-podium-acquisition</guid>
       <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
     </item>
-
     <item>
       <title>Nikki Null wins the fifth Self-Published Science Fiction Competition</title>
       <link>https://file770.com/self-published-science-fiction-competition-won-by-nikki-null/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-10-spsfc-five-winner</guid>
       <source url="https://file770.com/">File 770</source>
     </item>
-
     <item>
       <title>Duval Schools removes a graphic adaptation of 1984</title>
       <link>https://jaxtoday.org/2026/10/08/duval-schools-books-removed/</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="false">urn:acme:personal:2026-10-10-duval-1984-graphic-novel</guid>
       <source url="https://jaxtoday.org/">Jacksonville Today</source>
     </item>
-
     <item>
       <title>Free SelfPubCon focuses on what comes next for indie authors</title>
       <link>https://selfpublishingadvice.org/allis-selfpubcon-opens-october-17/</link>
@@ -115,33 +128,6 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-10-selfpubcon-2026-preview</guid>
       <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
-    </item>
-
-    <item>
-      <title>Simon &amp; Schuster builds a bridge for self-published authors</title>
-      <link>https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101456-frankfurt-book-fair-2026-s-s-bets-on-self-published-authors.html</link>
-      <description>Simon &amp; Schuster is expanding its courtship of independent authors. The revived Pocket Books will serve as a home for indie writers, while the new Simon Stream imprint targets self-published fiction authors seeking traditional distribution and marketing without abandoning digital-first flexibility.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-09-simon-schuster-indie-authors</guid>
-      <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
-    </item>
-
-    <item>
-      <title>Four recent speculative novels span Lovecraft, alien love and haunted history</title>
-      <link>https://www.theguardian.com/books/2026/oct/09/the-best-recent-science-fiction-fantasy-and-horror-review-roundup</link>
-      <description>Lisa Tuttle reviews Victor LaValle’s response to Lovecraft, Becky Chambers’ nonlinear romance between a botanist and an alien-creature pilot, Diego Muzzio’s lighthouse gothic and Deena Helm’s haunted-house story rooted in Palestinian displacement. The roundup is concise, specific and free to read.</description>
-      <pubDate>Fri, 09 Oct 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-09-guardian-speculative-fiction-roundup</guid>
-      <source url="https://www.theguardian.com/">The Guardian</source>
-    </item>
-
-    <item>
-      <title>Oracle introduces lower Java subscription pricing for smaller organizations</title>
-      <link>https://blogs.oracle.com/java/new-lower-smb-pricing-and-easier-online-purchasing-of-java-se-universal-subscription</link>
-      <description>Oracle now offers standardized annual Java SE Universal Subscription pricing for organizations with fewer than 3,000 employees. The schedule starts at $100 for 10 or fewer employees, rises to $10,000 for 500, and adds $47.20 per worker from 501 through 2,999. Companies with up to 500 employees can buy online.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-09-oracle-java-smb-pricing</guid>
-      <source url="https://blogs.oracle.com/java/">Oracle Java Blog</source>
     </item>
   </channel>
 </rss>

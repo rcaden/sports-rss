@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 12:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:59:21 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Runaway 30-foot pumpkin rolls down a North Carolina road</title>
+      <link>https://www.upi.com/Odd_News/2026/10/14/inflatable-pumpkin-Cary-north-carolina/1681791997942/</link>
+      <description>A giant inflatable pumpkin broke loose from Phillips Farms in Cary and tumbled down a road, sending motorists into reverse. An Uber driver and other witnesses helped corral and deflate the 30-foot decoration. The farm returned it to Pumpkinfest and thanked the good Samaritans with free festival tickets.</description>
+      <pubDate>Wed, 14 Oct 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/14/inflatable-pumpkin-Cary-north-carolina/1681791997942/</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
+    <item>
+      <title>Wife&apos;s advice turns familiar lottery numbers into $250,000</title>
+      <link>https://www.upi.com/Odd_News/2026/10/14/lotto-North-Carolina-Education-Lottery-Powerbal-advice/4671791998987/</link>
+      <description>James Mosley of High Shoals, North Carolina, nearly abandoned the family-birthday numbers he had played for years, but his wife persuaded him to stick with them. The ticket matched four white balls and the Powerball; a 5X multiplier raised the prize to $250,000. He plans to put some of it toward remodeling their home.</description>
+      <pubDate>Wed, 14 Oct 2026 17:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/14/lotto-North-Carolina-Education-Lottery-Powerbal-advice/4671791998987/</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
+    <item>
+      <title>Deputies stage a roadside rodeo for three loose animals</title>
+      <link>https://www.upi.com/Odd_News/2026/10/14/two-horses-donkey-Bexar-County-Texas/2451791992146/</link>
+      <description>Bexar County deputies found two horses and a donkey wandering dangerously close to Interstate 35 and improvised an evening roundup. The sheriff&apos;s office said all three animals were safely reunited with their owner, who then took measures to keep them secured.</description>
+      <pubDate>Wed, 14 Oct 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/14/two-horses-donkey-Bexar-County-Texas/2451791992146/</guid>
+      <source url="https://www.upi.com/Odd_News/">UPI</source>
+    </item>
     <item>
       <title>English grower raises record 2,856-pound pumpkin</title>
       <link>https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/</link>
@@ -104,30 +128,6 @@
       <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-11-bracci-statue-salvage-yard</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Spider-Man fans swarm New York Comic Con for a record attempt</title>
-      <link>https://www.upi.com/Odd_News/2026/10/09/Guinness-World-Records-spider-man/4421791569448/</link>
-      <description>Hundreds of Marvel fans arrived at New York Comic Con dressed as Spider-Man, trying to set a Guinness World Record for the largest gathering of people wearing the superhero’s costume. The convention-floor spectacle turned a familiar comic-book crowd into a sea of red-and-blue webs.</description>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-10-spider-man-nycc-record</guid>
-      <source url="https://www.upi.com/">UPI</source>
-    </item>
-    <item>
-      <title>Orphaned kittens tour a Minnesota aquarium</title>
-      <link>https://www.upi.com/Odd_News/2026/10/09/Sea-Life-Aquarium-kittens/4211791564630/</link>
-      <description>More than a dozen adoptable kittens from the Bitty Kitty Brigade explored the Sea Life Aquarium at Minnesota’s Mall of America. The rescue group’s sixth annual visit gives orphaned kittens enrichment and socialization while they wait for homes—and provides an unusually adorable audience for the fish.</description>
-      <pubDate>Fri, 09 Oct 2026 16:53:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-10-kittens-aquarium-tour</guid>
-      <source url="https://www.upi.com/">UPI</source>
-    </item>
-    <item>
-      <title>Rescuers free an opossum dangling from a fishing hook</title>
-      <link>https://www.upi.com/Odd_News/2026/10/09/opossum-fishing-hook-tree/2001791562268/</link>
-      <description>A trail visitor spotted an opossum hanging more than 10 feet above the water from a fishing hook in a North Carolina tree. A wildlife rehabilitator climbed up, brought the animal down and removed the hook from tissue beneath its tongue. The opossum is now receiving treatment.</description>
-      <pubDate>Fri, 09 Oct 2026 16:13:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-10-opossum-hook-rescue</guid>
-      <source url="https://www.upi.com/">UPI</source>
     </item>
   </channel>
 </rss>

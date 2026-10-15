@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 12:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:59:21 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Online ads became a channel for large-scale espionage</title>
+      <link>https://www.reuters.com/legal/litigation/israeli-firm-used-online-ads-run-vast-spy-operation-researchers-say-2026-10-15/</link>
+      <description>Citizen Lab and Confiant say Israeli ad agency Discover-Tech used ordinary-looking ads to track targets and help plant spyware. The ads reached more than 120,000 sites and 75,000 apps, including sensitive government and media networks. Google, Comcast and IAB Europe have removed or suspended the firm. Reuters credits reporter Raphael Satter.</description>
+      <pubDate>Thu, 15 Oct 2026 10:04:56 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/israeli-firm-used-online-ads-run-vast-spy-operation-researchers-say-2026-10-15/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Gutenberg 24.2 moves collaborative notes into the margin</title>
+      <link>https://make.wordpress.org/core/2026/10/14/whats-new-in-gutenberg-24-2-14-october/</link>
+      <description>Gutenberg 24.2 gives collaborative notes a new home in the content margin, so writers can work without closing the Settings sidebar. It also lets users add categories, tags and posts directly to navigation menus. The release includes more than 60 bug fixes plus accessibility and performance work, as WordPress 7.2 approaches beta.</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://make.wordpress.org/core/2026/10/14/whats-new-in-gutenberg-24-2-14-october/</guid>
+      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
+    </item>
+    <item>
+      <title>Mexico orders digital platforms to shield minors from harmful content</title>
+      <link>https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/</link>
+      <description>Mexico will require social networks and streaming services to protect children from violent, sexual and other harmful material, giving companies one month to comply. Officials have met with Meta, Microsoft, Apple, TikTok, Google, X and Huawei. The decree joins a global child-safety push while raising familiar privacy and free-expression questions.</description>
+      <pubDate>Wed, 14 Oct 2026 14:03:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Judge extends press access for CNN, MS NOW and Politico</title>
       <link>https://www.reuters.com/world/judge-extends-white-house-access-cnn-ms-now-politico-amid-legal-fight-2026-10-14/</link>
@@ -104,30 +128,6 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-11-hell-gate-membership</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-    <item>
-      <title>LoopConf trades corporate sponsors for attendee funding</title>
-      <link>https://thewpminute.com/brian-richards-on-restructuring-loopconf-ditching-corporate-sponsors-for-attendee-funded-events/</link>
-      <description>Organizer Brian Richards explains why LoopConf US is relying on early ticket sales instead of corporate sponsorship. The 2027 WordPress developer conference will cap attendance at 100–200 people, use a lightweight static site and emphasize open-source resilience and cross-platform ideas.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-10-loopconf-attendee-funded</guid>
-      <source url="https://thewpminute.com/">The WP Minute</source>
-    </item>
-    <item>
-      <title>Nieman Lab redesigns 100,000 pages without flattening them</title>
-      <link>https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</link>
-      <description>Joshua Benton details Nieman Lab’s first major redesign in years: more art-directed story layouts, rebuilt archives, improved search and new beats for platforms, creators and local news. Migrating 12,000 articles and more than 100,000 URLs also required preserving a decade of custom CSS and hand-coded publishing history.</description>
-      <pubDate>Wed, 07 Oct 2026 19:37:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-10-nieman-lab-redesign</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-    <item>
-      <title>Open source moves to the center of Europe’s digital-sovereignty push</title>
-      <link>https://www.techradar.com/pro/security/digital-sovereignty-has-become-europes-top-priority-heres-how-open-source-is-helping-pave-the-way</link>
-      <description>At Open Source Summit Europe, Linux Foundation leaders argued that Europe’s security and sovereignty policies converge on one practical need: trustworthy software supply chains. Open source can provide auditable, reusable infrastructure while reducing dependence on a few overseas cloud and platform vendors.</description>
-      <pubDate>Thu, 08 Oct 2026 15:13:33 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-10-europe-open-source-sovereignty</guid>
-      <source url="https://www.techradar.com/">TechRadar</source>
     </item>
   </channel>
 </rss>

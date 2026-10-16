@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>White House ordered limits on Ukraine&apos;s Starshield service</title>
+      <link>https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/</link>
+      <description>Reuters reporters Erin Banco and Gram Slattery found that an order to slow the SpaceX military satellite service used by Ukraine came from inside the White House. Ukrainian officials say the restrictions hindered strike missions and drone defenses, exposing the risks of critical systems controlled through one provider.</description>
+      <pubDate>Thu, 15 Oct 2026 23:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>W3C makes standards work easier to follow</title>
+      <link>https://www.w3.org/blog/2026/introducing-group-activity-pages/</link>
+      <description>New W3C activity pages gather each group&apos;s charters, publications, meetings, participants, issues and pull requests into one chronological view. The beta pages replace a scavenger hunt across separate systems and may later add an API plus mailing-list and news data.</description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.w3.org/blog/2026/introducing-group-activity-pages/</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
+    <item>
+      <title>Only half of candidates in key Senate races promise to accept results</title>
+      <link>https://www.reuters.com/legal/government/just-over-half-candidates-key-us-senate-races-say-they-will-accept-results-2026-10-15/</link>
+      <description>Reuters asked 26 campaigns in 13 competitive Senate races whether their candidates would accept the election outcome. Fourteen gave unconditional assurances; others qualified their answers, deflected or did not respond. The survey measures a basic democratic norm weeks before the midterms.</description>
+      <pubDate>Thu, 15 Oct 2026 10:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/legal/government/just-over-half-candidates-key-us-senate-races-say-they-will-accept-results-2026-10-15/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Online ads became a channel for large-scale espionage</title>
       <link>https://www.reuters.com/legal/litigation/israeli-firm-used-online-ads-run-vast-spy-operation-researchers-say-2026-10-15/</link>
@@ -104,30 +128,6 @@
       <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-12-atsc-broadcast-to-everything</guid>
       <source url="https://www.atsc.org/">ATSC</source>
-    </item>
-    <item>
-      <title>Justice Department probes networks over White House pool boycott</title>
-      <link>https://www.reuters.com/business/media-telecom/justice-department-probes-tv-networks-over-trump-pool-coverage-new-york-times-2026-10-10/</link>
-      <description>The Justice Department opened an antitrust inquiry into ABC, CBS, CNN, NBC and Fox News after the networks collectively stopped White House pool coverage when reporters from CNN, Politico and MS NOW lost credentials. The case turns a press-access dispute into a test of whether coordinated newsroom action can be treated as a commercial group boycott.</description>
-      <pubDate>Sat, 10 Oct 2026 23:10:10 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-11-doj-tv-pool-probe</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>The problem with Facebook was Facebook</title>
-      <link>https://nymag.com/intelligencer/article/the-problem-with-facebook-was-facebook.html</link>
-      <description>John Herrman argues that years of reform debates mistook Facebook&apos;s harms for correctable lapses instead of consequences of its core attention-and-data business. Recommendation systems steadily displaced social connections with optimized, unfamiliar content, while changing corporate missions offered little accountability for the platform&apos;s underlying incentives.</description>
-      <pubDate>Sat, 10 Oct 2026 09:00:03 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-11-facebook-reform-critique</guid>
-      <source url="https://nymag.com/">New York Magazine</source>
-    </item>
-    <item>
-      <title>Worker-owned Hell Gate tests a harder membership pitch</title>
-      <link>https://www.niemanlab.org/2026/10/subscribers-are-up-but-growth-is-down-heres-what-worker-owned-hell-gate-is-trying-next/</link>
-      <description>New York local outlet Hell Gate has about 11,000 paid subscriptions and has passed $1 million in annual recurring revenue, but growth has slowed. The worker-owned newsroom is experimenting with occasional limits on free access, sharper membership appeals and events while keeping subscriber support central to its independence.</description>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-11-hell-gate-membership</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
   </channel>
 </rss>

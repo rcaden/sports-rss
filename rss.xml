@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Brewers sweep Dodgers to reach first World Series since 1982</title>
+      <link>https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</link>
+      <description>Milwaukee erased a 4-0 deficit to beat Los Angeles 6-4, complete an NLCS sweep and claim its first pennant in 44 years. Garrett Mitchell hit the go-ahead homer, Jake Bauers was named series MVP and the Brewers earned home field for the World Series.</description>
+      <pubDate>Fri, 16 Oct 2026 03:25:13 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Guardians take 2-1 ALCS lead behind Halpin homer</title>
+      <link>https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</link>
+      <description>Petey Halpin hit a go-ahead two-run homer and Cleveland pitchers struck out 13 in a 3-2 win over Tampa Bay. The Guardians now lead the ALCS 2-1 after holding the Rays to three hits, a significant turn after the series was tied a day earlier.</description>
+      <pubDate>Fri, 16 Oct 2026 01:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Saudi attack disrupts golf, cycling and tennis calendar</title>
+      <link>https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</link>
+      <description>The Asian Tour postponed the Saudi International indefinitely and cycling officials cancelled the Urban World Championships after the deadly Riyadh airport attack. The Six Kings Slam was delayed and FIFAe Finals postponed, while organizers said the 2027 Asian Cup remains on schedule.</description>
+      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Brewers move one win from first World Series since 1982</title>
       <link>https://www.reuters.com/sports/baseball/late-game-homers-send-brewers-3-0-nlcs-advantage-over-dodgers--flm-2026-10-15/</link>
@@ -103,30 +127,6 @@
       <description>Backup quarterback Tyler Huntley threw a touchdown with 40 seconds left, Derrick Henry ran in the tying two-point conversion and Huntley scored on Baltimore&apos;s opening overtime drive. Kyle Hamilton then intercepted Tua Tagovailoa to seal a 30-23 victory over Atlanta.</description>
       <pubDate>Mon, 12 Oct 2026 04:18:39 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-10-12-ravens-falcons-overtime</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Guardians finish ALDS comeback and advance</title>
-      <link>https://www.reuters.com/sports/baseball/guardians-complete-alds-comeback-blank-white-sox-game-5--flm-2026-10-11/</link>
-      <description>Cleveland completed its rally from a 2-0 series deficit by beating the White Sox 2-0 in Game 5. José Ramírez supplied a two-run homer, while Gavin Williams struck out 12 to tie a Guardians postseason record. Cleveland moves on to the American League Championship Series.</description>
-      <pubDate>Sun, 11 Oct 2026 03:05:34 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-11-guardians-complete-alds-comeback</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Oklahoma shocks No. 1 Texas on final-play field goal</title>
-      <link>https://www.reuters.com/sports/top-25-roundup-south-carolina-hands-no-16-florida-second-straight-loss--flm-2026-10-10/</link>
-      <description>Unranked Oklahoma stunned top-ranked Texas 27-24 when Tate Sandell kicked the winning field goal on the final play. The Sooners erased a 10-point fourth-quarter deficit, aided by two late Arch Manning interceptions, including a pick-six.</description>
-      <pubDate>Sat, 10 Oct 2026 22:39:39 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-11-oklahoma-upsets-texas</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Marner&apos;s overtime winner keeps Golden Knights rolling</title>
-      <link>https://www.reuters.com/sports/nhl/mitch-marners-ot-goal-vs-kings-runs-golden-knights-win-streak-4--flm-2026-10-11/</link>
-      <description>Mitch Marner scored on a 4-on-3 power play 2:40 into overtime as Vegas beat Los Angeles 2-1 for its fourth straight win. It was Marner&apos;s eighth career overtime goal and first with the Golden Knights, who moved back atop the Pacific Division.</description>
-      <pubDate>Sun, 11 Oct 2026 05:24:34 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-11-marner-overtime-winner</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

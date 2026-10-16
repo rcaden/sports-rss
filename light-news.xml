@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>99-year-old becomes the world&apos;s oldest wing walker</title>
+      <link>https://www.upi.com/Odd_News/2026/10/15/guinness-world-records-wing-walker/4971792082759/</link>
+      <description>Helga Duffy celebrated 99 by standing atop an airplane in flight, earning a Guinness World Record and raising money for Wiltshire and Bath Air Ambulance. The previous record-holder, 97-year-old Betty Bromage, congratulated her and hinted at trying again at 100.</description>
+      <pubDate>Thu, 15 Oct 2026 12:50:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/15/guinness-world-records-wing-walker/4971792082759/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Bear visits library for honey on Winnie-the-Pooh&apos;s birthday</title>
+      <link>https://www.upi.com/Odd_News/2026/10/15/bear-library-Mono-County-winnie-the-pooh/5921792087119/</link>
+      <description>A California bear wandered into a Mono County library on the 100th birthday of Winnie-the-Pooh and helped itself to an appropriately literary snack: a jar of honey. The unexpected patron was safely ushered back outside.</description>
+      <pubDate>Thu, 15 Oct 2026 14:02:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/15/bear-library-Mono-County-winnie-the-pooh/5921792087119/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Escaped baby goat turns up at an elementary school</title>
+      <link>https://www.upi.com/Odd_News/2026/10/15/baby-goat-elementary-school-yonkers-new-york/4111792080881/</link>
+      <description>A baby goat slipped out of its yard in Yonkers, N.Y., trotted onto an elementary-school playground and chased delighted students before police wrangled it. Officers reunited the adventurous visitor with its owner.</description>
+      <pubDate>Thu, 15 Oct 2026 12:17:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/15/baby-goat-elementary-school-yonkers-new-york/4111792080881/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
     <item>
       <title>Runaway 30-foot pumpkin rolls down a North Carolina road</title>
       <link>https://www.upi.com/Odd_News/2026/10/14/inflatable-pumpkin-Cary-north-carolina/1681791997942/</link>
@@ -103,30 +127,6 @@
       <description>In a year-long randomized trial, people with knee osteoarthritis who learned a personalized change in foot angle reported less pain and showed slower cartilage deterioration than a placebo group. Researchers used motion analysis to determine whether each participant should turn a foot slightly inward or outward.</description>
       <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-12-knee-gait-study</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Sloth bear named by Julia Roberts flourishes after rescue</title>
-      <link>https://www.goodnewsnetwork.org/sloth-bear-given-a-name-by-julia-roberts-is-flourishing/</link>
-      <description>Odum, a sloth bear rescued from forced street performances in India 17 years ago, is thriving at the Bannerghatta Bear Rescue Centre. Julia Roberts named him during a 2009 visit. Now 26, he spends his days foraging, climbing and enjoying the companionship of other rescued bears.</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-11-sloth-bear-odum</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Pilot daughter shares cockpit with dad while mom works cabin</title>
-      <link>https://www.goodnewsnetwork.org/daughter-gets-to-join-dad-as-co-pilot-with-mom-serving-on-cabin-crew/</link>
-      <description>A surprise KLM assignment gave 22-year-old co-pilot Zoë de Bruijn a flight with her father as captain and her mother serving in the cabin. The family had long joked about someday working the same trip, turning an ordinary roster change into a full-circle aviation memory.</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-11-family-klm-flight</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>£300 salvage-yard statue may be lost work by Trevi Fountain sculptor</title>
-      <link>https://www.goodnewsnetwork.org/lost-italian-statue-by-trevi-fountain-artist-discovered-in-salvage-yard/</link>
-      <description>A marble model bought for £300 at a Wiltshire salvage yard has been identified as a likely work by Pietro Bracci, the sculptor behind the Trevi Fountain&apos;s central figure. Experts believe the papal bust was a presentation model for a lost monumental bronze and estimate it could fetch £6,600 to £13,300.</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-11-bracci-statue-salvage-yard</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
   </channel>

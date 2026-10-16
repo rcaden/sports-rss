@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>The class of 1930 enters the public domain</title>
+      <link>https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</link>
+      <description>The Library of Congress surveys notable works that became free to reuse in 2026, including The Maltese Falcon and other books, films and music published in 1930. It also explains what public-domain status permits and why trademark or other rights may still matter.</description>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</guid>
+      <source url="https://blogs.loc.gov/copyright/">Library of Congress Copyright Blog</source>
+    </item>
+    <item>
+      <title>WordPress takes the lead at the Open Website Alliance</title>
+      <link>https://wordpress.org/news/2026/09/owa-president/</link>
+      <description>WordPress Foundation representative Mary Hubbard has become president of the Open Website Alliance, joining Drupal, Joomla and TYPO3 in advocacy for open-source publishing. The rotating leadership gives WordPress a larger role in shared policy work and software-freedom issues.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/09/owa-president/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
+    <item>
+      <title>A family discovery emerges from Jacksonville&apos;s Great Fire</title>
+      <link>https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</link>
+      <description>A Jacksonville History Center researcher found her own relatives in a 1901 list of people who lost homes in the Great Fire. Her account connects family history, a rescued 1845 painting and the archive that documents the disaster&apos;s 2,368 destroyed buildings.</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</guid>
+      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+    </item>
     <item>
       <title>A new framework reads thousands of classic comics at once</title>
       <link>https://arxiv.org/abs/2610.13840</link>
@@ -104,30 +128,6 @@
       <pubDate>Thu, 13 Sep 2018 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-12-captains-marvel-history</guid>
       <source url="https://atomicjunkshop.com/">Atomic Junk Shop</source>
-    </item>
-    <item>
-      <title>WordPress 7.2 changes a default database session mode</title>
-      <link>https://make.wordpress.org/core/2026/10/09/no_backslash_escapes-sql-mode-is-now-turned-off-by-default-in-wordpress-7-2/</link>
-      <description>WordPress 7.2 will remove NO_BACKSLASH_ESCAPES from each database session by default, preventing escaping failures and incorrect stored data in configurations where that SQL mode is active. The change is session-only, leaves the server&apos;s global setting untouched and can be overridden through db.php.</description>
-      <pubDate>Fri, 09 Oct 2026 18:13:41 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-11-wordpress-sql-mode</guid>
-      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
-    </item>
-    <item>
-      <title>Written Word Media opens its 2026 indie-author survey</title>
-      <link>https://selfpublishingadvice.org/written-word-media-opens-2026-indie-author-survey/</link>
-      <description>Written Word Media has launched its annual survey of independent authors. The results are meant to map author income, publishing output and changing business practices; previous editions found a strong relationship between the size of an author&apos;s catalog and earnings. Participation is open to authors across experience levels.</description>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-11-indie-author-survey</guid>
-      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
-    </item>
-    <item>
-      <title>Audio-first indie publisher Podium changes owners</title>
-      <link>https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101308-podium-entertainment-acquired-by-private-equity-firms.html</link>
-      <description>Flexpoint Ford and Shamrock Capital have acquired Podium Entertainment in a deal reportedly valued above $400 million. Podium began by producing the audiobook of Andy Weir&apos;s self-published The Martian and now has more than 15,000 titles, with a strong focus on genre fiction and independent authors. Employees will retain an ownership stake.</description>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-11-podium-acquisition</guid>
-      <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
     </item>
   </channel>
 </rss>

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:54:43 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>All Blacks overwhelm Wallabies with six-try first half</title>
+      <link>https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</link>
+      <description>New Zealand scored six tries before halftime and beat Australia 43-21 in Sydney, extending its winning streak in the rivalry to 13 matches. The All Blacks led 36-7 at the break and retained the Bledisloe Cup for a 24th year.</description>
+      <pubDate>Sat, 17 Oct 2026 07:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>NFL clears Josh Jacobs for Week 7 return</title>
+      <link>https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</link>
+      <description>The NFL said Green Bay running back Josh Jacobs will come off the commissioner exempt list Monday and may play Oct. 25 at Detroit. Broncos linebacker Jonathon Cooper also was cleared to return for Week 7.</description>
+      <pubDate>Fri, 16 Oct 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Real Madrid demands La Liga president resign</title>
+      <link>https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</link>
+      <description>Real Madrid called for Javier Tebas to leave his posts at La Liga and Spain&apos;s football federation after he compared the club&apos;s media tactics with Nazi-era propaganda. The clash deepens a long-running feud over referees, governance and the Super League.</description>
+      <pubDate>Fri, 16 Oct 2026 16:06:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Brewers sweep Dodgers to reach first World Series since 1982</title>
       <link>https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</link>
@@ -103,30 +127,6 @@
       <description>Cleveland scored seven runs over the final four innings to beat Tampa Bay 7-3 in the ALCS opener. Nathaniel Lowe’s two-run single in the eighth broke a 2-2 tie, and José Ramírez drove in a run for the fourth straight postseason game. The Guardians finished with 14 hits.</description>
       <pubDate>Tue, 13 Oct 2026 03:25:06 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:sports:2026-10-13-guardians-rays-alcs-game-1</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Jaguars stun Eagles with 57-yard field goal in London</title>
-      <link>https://www.reuters.com/sports/nfl/cam-little-drills-57-yard-field-goal-jags-jolt-eagles-london--flm-2026-10-11/</link>
-      <description>Cam Little hit a 57-yard field goal as time expired to give Jacksonville a 19-17 win over Philadelphia. Ameer Abdullah set it up with a 53-yard kickoff return after the Eagles had taken the lead with eight seconds left. Trevor Lawrence threw for 331 yards and two touchdowns as the Jaguars improved to 4-1.</description>
-      <pubDate>Sun, 11 Oct 2026 17:35:30 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-12-jaguars-eagles-london</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Brewers edge Dodgers in NLCS opener</title>
-      <link>https://www.reuters.com/sports/baseball/brice-turang-homers-brewers-edge-dodgers-nlcs-opener--flm-2026-10-12/</link>
-      <description>Brice Turang homered and Milwaukee&apos;s bullpen worked 4 2/3 scoreless innings in a 2-1 victory over the defending champion Dodgers. Rookie Luis Lara drove in the winning run, and Trevor Megill escaped two ninth-inning walks. The Brewers lead the National League Championship Series 1-0.</description>
-      <pubDate>Mon, 12 Oct 2026 03:30:59 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-12-brewers-dodgers-nlcs-game-one</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Huntley leads Ravens&apos; overtime comeback</title>
-      <link>https://www.reuters.com/sports/nfl/tyler-huntley-ravens-rally-beat-falcons-ot--flm-2026-10-12/</link>
-      <description>Backup quarterback Tyler Huntley threw a touchdown with 40 seconds left, Derrick Henry ran in the tying two-point conversion and Huntley scored on Baltimore&apos;s opening overtime drive. Kyle Hamilton then intercepted Tua Tagovailoa to seal a 30-23 victory over Atlanta.</description>
-      <pubDate>Mon, 12 Oct 2026 04:18:39 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-12-ravens-falcons-overtime</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

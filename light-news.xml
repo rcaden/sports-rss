@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:54:43 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Escaped emu turns a California road into a rescue scene</title>
+      <link>https://www.upi.com/Odd_News/2026/10/16/escaped-emu-Santa-cruz-california/5421792172564/</link>
+      <description>California Highway Patrol officers helped corral an emu that was darting through traffic on a road near Santa Cruz. Video shows officers and bystanders guiding the long-legged runaway to safety.</description>
+      <pubDate>Fri, 16 Oct 2026 17:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/16/escaped-emu-Santa-cruz-california/5421792172564/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Skateboarder reaches a record 94.34 mph downhill</title>
+      <link>https://www.upi.com/Odd_News/2026/10/16/canada-Guinness-World-Records-fastest-skateboard-downhill/3261792164806/</link>
+      <description>Spanish skateboarder Diego Poncelet set a Guinness record on a closed road in Quebec, reaching 94.34 mph while standing. He had already topped the old mark on a test run, then waited five days for better weather and went faster.</description>
+      <pubDate>Fri, 16 Oct 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/16/canada-Guinness-World-Records-fastest-skateboard-downhill/3261792164806/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
+    <item>
+      <title>Scrapple sculptors carve breakfast meat into art</title>
+      <link>https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/</link>
+      <description>Amateur artists at Philadelphia&apos;s Reading Terminal Market received six pounds of scrapple and 90 minutes to make edible sculptures. Toni Lee shaped market mascot Philbert the pig for the annual contest, with the public choosing a winner.</description>
+      <pubDate>Fri, 16 Oct 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
     <item>
       <title>99-year-old becomes the world&apos;s oldest wing walker</title>
       <link>https://www.upi.com/Odd_News/2026/10/15/guinness-world-records-wing-walker/4971792082759/</link>
@@ -103,30 +127,6 @@
       <description>Payton Obert began selling lemonade at age 8 to repay the kindness she remembered from a hospital stay as a toddler. Her annual stand has grown into a multi-state charity effort that has delivered $5 million in gifts and necessities to children and families, including $170,000 raised in its 2026 edition.</description>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:light:2026-10-13-lemonade-charity-five-million</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>East Texas family sells lakefront land for a future state park</title>
-      <link>https://www.goodnewsnetwork.org/family-sells-650-acres-on-east-texas-lake-to-become-state-park-saying-land-is-part-of-my-soul/</link>
-      <description>The Pollard family sold 650 acres on Lake Palestine to the Texas Parks and Wildlife Foundation for $35 million so the land can become a state park. The property includes pine woods, wetlands, bluffs and a working pecan orchard, with room for camping, paddling, fishing and wildlife watching.</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-12-east-texas-state-park</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Aldabra&apos;s giant tortoise population reaches about 180,000</title>
-      <link>https://www.goodnewsnetwork.org/giant-tortoise-population-is-thriving-survey-finds-180000-on-one-island-chain/</link>
-      <description>A five-year survey estimates nearly 183,000 adult and sub-adult giant tortoises now roam Aldabra Atoll in the Seychelles, up from fewer than 1,000 in the 19th century. Researchers call the rebound one of the Indian Ocean&apos;s great conservation successes while warning that drought and invasive animals remain threats.</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-12-aldabra-giant-tortoises</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Personalized walking change eases arthritic knee pain</title>
-      <link>https://www.goodnewsnetwork.org/new-way-to-relieve-arthritic-knees-without-drugs-or-surgery-by-changing-your-gait/</link>
-      <description>In a year-long randomized trial, people with knee osteoarthritis who learned a personalized change in foot angle reported less pain and showed slower cartilage deterioration than a placebo group. Researchers used motion analysis to determine whether each participant should turn a foot slightly inward or outward.</description>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:light:2026-10-12-knee-gait-study</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
   </channel>

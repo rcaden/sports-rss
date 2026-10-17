@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:54:43 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Election officials prepare for possible federal interference</title>
+      <link>https://www.reuters.com/podcasts/could-trump-interfere-midterms-assignment-2026-10-17/</link>
+      <description>Reuters reporters outline nine scenarios that could strain the 2026 midterms, from seizing ballots to pressuring local officials. More than 50 election administrators and legal experts said courts and established safeguards are likely to hold, but they are preparing for unprecedented disputes.</description>
+      <pubDate>Sat, 17 Oct 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/podcasts/could-trump-interfere-midterms-assignment-2026-10-17/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>EFF warns against federal consolidation of personal data</title>
+      <link>https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation</link>
+      <description>EFF argues that combining federal personnel, benefits, immigration and voter records creates errors, invites abuse and chills civic participation. It calls for stronger Privacy Act enforcement, limits on government purchases from data brokers and a comprehensive consumer privacy law.</description>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation</guid>
+      <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
+    </item>
+    <item>
+      <title>Nieman Lab redesigns 18 years of journalism archives</title>
+      <link>https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</link>
+      <description>Nieman Lab rebuilt more than 100,000 URLs with flexible story layouts, refreshed typography, improved search and subscription tools, and new topic archives. Founder Joshua Benton says the cleaner backend replaces years of accumulated PHP and CSS workarounds.</description>
+      <pubDate>Wed, 07 Oct 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
     <item>
       <title>White House ordered limits on Ukraine&apos;s Starshield service</title>
       <link>https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/</link>
@@ -104,30 +128,6 @@
       <pubDate>Tue, 13 Oct 2026 10:50:38 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:tech:2026-10-13-scaleway-amd-rocm-supercomputer</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Microsoft president calls for global rules on advanced models</title>
-      <link>https://www.reuters.com/legal/litigation/microsoft-president-says-milk-faces-more-regulation-than-ai-2026-10-12/</link>
-      <description>Microsoft president Brad Smith said advanced computing models face fewer safety requirements than ordinary goods such as milk. He urged governments to require independent evaluation, incident reporting, emergency shutdown mechanisms and notice to people harmed by system failures, with Britain&apos;s security institute serving as one possible model.</description>
-      <pubDate>Mon, 12 Oct 2026 09:23:09 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-12-microsoft-global-model-rules</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Hungary&apos;s once-dominant newspaper returns online</title>
-      <link>https://www.reuters.com/business/media-telecom/bestselling-hungarian-newspaper-shut-down-under-orban-relaunches-online-2026-10-08/</link>
-      <description>Népszabadság, abruptly closed in 2016 after six decades in print, has relaunched as an online publication. Its editor says the revived newsroom will emphasize classic reporting and questioning in a media environment dominated by outlets friendly to Viktor Orbán&apos;s government. The return restores a historic independent voice before Hungary&apos;s election.</description>
-      <pubDate>Thu, 08 Oct 2026 13:37:30 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-12-nepszabadsag-online-relaunch</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>ATSC advances broadcast-to-everything standard</title>
-      <link>https://www.atsc.org/news/atsc-broadcast-to-everything-candidate-standard-marks-major-step-toward-a-more-connected-future-2/</link>
-      <description>ATSC approved a candidate standard for Broadcast-to-Everything, laying groundwork for broadcasters to deliver data and services to connected devices beyond television sets. The milestone opens technical review of an interoperable platform intended to link broadcast infrastructure with wireless networks, device makers and software developers.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:tech:2026-10-12-atsc-broadcast-to-everything</guid>
-      <source url="https://www.atsc.org/">ATSC</source>
     </item>
   </channel>
 </rss>

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:54:43 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>EPUB 3.4 adds a native layout for scrolling comics</title>
+      <link>https://www.w3.org/blog/2026/were-on-a-roll-epub-3-4-is-coming/</link>
+      <description>W3C&apos;s candidate EPUB 3.4 standard introduces a roll layout for vertically scrolling comics, adds modern image and audio formats, and updates accessibility metadata. Existing conforming EPUB files remain valid, while EPUBCheck 5.4 can test the new features.</description>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.w3.org/blog/2026/were-on-a-roll-epub-3-4-is-coming/</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
+    <item>
+      <title>SelfPubCon explores what comes next for indie authors</title>
+      <link>https://selfpublishingadvice.org/podcast-selfpubcon-2026-asks-where-indie-publishing-goes-next/</link>
+      <description>The Alliance of Independent Authors previews its free Oct. 17-18 conference on the future of self-publishing. Sessions include Jane Friedman&apos;s keynote, Kickstarter crowdfunding, local marketing and an indie author lab.</description>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://selfpublishingadvice.org/podcast-selfpubcon-2026-asks-where-indie-publishing-goes-next/</guid>
+      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
+    </item>
+    <item>
+      <title>How World War II remade Jacksonville</title>
+      <link>https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</link>
+      <description>Jacksonville History Center traces how 1942 transformed the city into an industrial seaport and Navy town. Wartime growth brought new bases, a housing crunch and 82 Liberty ships, while the sinking of the Gulfamerica brought the conflict within sight of Jacksonville Beach.</description>
+      <pubDate>Sun, 07 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</guid>
+      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+    </item>
     <item>
       <title>The class of 1930 enters the public domain</title>
       <link>https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</link>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">urn:acme:personal:2026-10-13-servicenow-zurich-developer-features</guid>
       <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
-    </item>
-    <item>
-      <title>Copyright Office opens inquiry into music-streaming fraud</title>
-      <link>https://www.copyright.gov/newsnet/2026/1095.html</link>
-      <description>The U.S. Copyright Office is gathering evidence on fraudulent music streams, how bad actors generate them, their effects on creators and possible industry or legal responses. Initial comments are due November 23, with replies due December 21. The proceeding could shape rules for royalties and platform accountability.</description>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-12-music-streaming-fraud-inquiry</guid>
-      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
-    </item>
-    <item>
-      <title>Library of Congress revisits Gus Arriola&apos;s Gordo</title>
-      <link>https://blogs.loc.gov/headlinesandheroes/2026/09/gus-arriola-and-gordo/</link>
-      <description>A Library of Congress history traces Gus Arriola&apos;s Gordo, syndicated from 1941 to 1985, and its evolution from broad caricature into an informed celebration of Mexican history and culture. Arriola researched customs, language and art while using the Sunday page&apos;s design freedom to make the strip visually distinctive.</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-12-gus-arriola-gordo</guid>
-      <source url="https://blogs.loc.gov/">Library of Congress</source>
-    </item>
-    <item>
-      <title>A history of the many Captains Marvel</title>
-      <link>https://atomicjunkshop.com/the-captains-marvel-a-history/</link>
-      <description>This illustrated history untangles the heroes who have shared the Captain Marvel name, beginning with Fawcett&apos;s Billy Batson and following the trademark, lawsuit and publishing turns that produced Marvel&apos;s Mar-Vell, Carol Danvers and several lesser-known claimants. It is a useful map of one of comics&apos; strangest naming histories.</description>
-      <pubDate>Thu, 13 Sep 2018 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-12-captains-marvel-history</guid>
-      <source url="https://atomicjunkshop.com/">Atomic Junk Shop</source>
     </item>
   </channel>
 </rss>

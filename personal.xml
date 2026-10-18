@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 12:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:42:32 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>October&apos;s Java field guide covers JDK 27 and practical upgrades</title>
+      <link>https://blog.jetbrains.com/idea/2026/10/java-annotated-monthly-october-2026/</link>
+      <description>JetBrains&apos; monthly roundup collects the most useful Java reading after JDK 27&apos;s release: migration advice, performance work, language changes and hands-on tutorials. It is a compact way to separate the month&apos;s practical material from the release-day noise.</description>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blog.jetbrains.com/idea/2026/10/java-annotated-monthly-october-2026/</guid>
+      <source url="https://blog.jetbrains.com/idea/">JetBrains Blog</source>
+    </item>
+
+    <item>
+      <title>The first Navajo NFL player receives a hometown tribute</title>
+      <link>https://apnews.com/article/8b03c92d740c81b1db99070135262304</link>
+      <description>Shiyazh Pete, who played tackle for the Baltimore Colts and Detroit Lions in the 1950s, was honored by the Navajo Nation in New Mexico. The 91-year-old&apos;s return connected pro football history with a life that began in a one-room reservation home without electricity or running water.</description>
+      <pubDate>Mon, 12 Oct 2026 04:23:35 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/8b03c92d740c81b1db99070135262304</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>An archive search recovers Jacksonville&apos;s Consolidation Day baby</title>
+      <link>https://jaxhistory.org/from-the-archives-consolidation-day-baby/</link>
+      <description>A family letter prompted the Jacksonville History Center to trace the first child born after city-county consolidation took effect in 1968. Staff matched a 1996 newspaper clipping with original Times-Union negatives, restoring names and images to a small civic-history mystery.</description>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jaxhistory.org/from-the-archives-consolidation-day-baby/</guid>
+      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+    </item>
 
     <item>
       <title>EPUB 3.4 adds a native layout for scrolling comics</title>
@@ -17,6 +44,7 @@
       <guid isPermaLink="true">https://www.w3.org/blog/2026/were-on-a-roll-epub-3-4-is-coming/</guid>
       <source url="https://www.w3.org/">W3C</source>
     </item>
+
     <item>
       <title>SelfPubCon explores what comes next for indie authors</title>
       <link>https://selfpublishingadvice.org/podcast-selfpubcon-2026-asks-where-indie-publishing-goes-next/</link>
@@ -25,6 +53,7 @@
       <guid isPermaLink="true">https://selfpublishingadvice.org/podcast-selfpubcon-2026-asks-where-indie-publishing-goes-next/</guid>
       <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
     </item>
+
     <item>
       <title>How World War II remade Jacksonville</title>
       <link>https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</link>
@@ -33,6 +62,7 @@
       <guid isPermaLink="true">https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</guid>
       <source url="https://jaxhistory.org/">Jacksonville History Center</source>
     </item>
+
     <item>
       <title>The class of 1930 enters the public domain</title>
       <link>https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</link>
@@ -41,6 +71,7 @@
       <guid isPermaLink="true">https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</guid>
       <source url="https://blogs.loc.gov/copyright/">Library of Congress Copyright Blog</source>
     </item>
+
     <item>
       <title>WordPress takes the lead at the Open Website Alliance</title>
       <link>https://wordpress.org/news/2026/09/owa-president/</link>
@@ -49,6 +80,7 @@
       <guid isPermaLink="true">https://wordpress.org/news/2026/09/owa-president/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
+
     <item>
       <title>A family discovery emerges from Jacksonville&apos;s Great Fire</title>
       <link>https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</link>
@@ -57,6 +89,7 @@
       <guid isPermaLink="true">https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</guid>
       <source url="https://jaxhistory.org/">Jacksonville History Center</source>
     </item>
+
     <item>
       <title>A new framework reads thousands of classic comics at once</title>
       <link>https://arxiv.org/abs/2610.13840</link>
@@ -65,6 +98,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2610.13840</guid>
       <source url="https://arxiv.org/">arXiv</source>
     </item>
+
     <item>
       <title>Why great software can outlive the company that made it</title>
       <link>https://www.wired.com/2003/02/code-2</link>
@@ -73,6 +107,7 @@
       <guid isPermaLink="true">https://www.wired.com/2003/02/code-2</guid>
       <source url="https://www.wired.com/">Wired</source>
     </item>
+
     <item>
       <title>American Legion Baseball gathers memories for its 100th World Series</title>
       <link>https://www.legion.org/information-center/news/dispatch/2026/september/have-your-story-be-part-of-the-100th-legion-world-series</link>
@@ -81,6 +116,7 @@
       <guid isPermaLink="true">https://www.legion.org/information-center/news/dispatch/2026/september/have-your-story-be-part-of-the-100th-legion-world-series</guid>
       <source url="https://www.legion.org/">The American Legion</source>
     </item>
+
     <item>
       <title>Copyright Office rejects remote-access exemption for game preservation</title>
       <link>https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access</link>
@@ -89,6 +125,7 @@
       <guid isPermaLink="true">https://www.theverge.com/2024/10/25/24279657/us-copyright-dmca-exception-extension-denied-remote-access</guid>
       <source url="https://www.theverge.com/">The Verge</source>
     </item>
+
     <item>
       <title>Archaeologists of code examine Atari&apos;s mysterious Entombed maze</title>
       <link>https://arxiv.org/abs/1811.02035</link>
@@ -97,6 +134,7 @@
       <guid isPermaLink="true">https://arxiv.org/abs/1811.02035</guid>
       <source url="https://arxiv.org/">arXiv</source>
     </item>
+
     <item>
       <title>San Antonio authors build a cooperative publishing house</title>
       <link>https://www.axios.com/local/san-antonio/2026/09/24/san-antonio-authors-publishing-press-inbound-books</link>
@@ -104,30 +142,6 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.axios.com/local/san-antonio/2026/09/24/san-antonio-authors-publishing-press-inbound-books</guid>
       <source url="https://www.axios.com/local/san-antonio/">Axios San Antonio</source>
-    </item>
-    <item>
-      <title>How Otto Binder and Kurt Schaffenberger imagined Mutant Man</title>
-      <link>https://www.wired.com/2011/03/pl-prototype-radiation</link>
-      <description>Wired revisits a remarkable 1953 Mechanix Illustrated feature written by Otto Binder and drawn by Kurt Schaffenberger. Its radiation-spawned “Mutant Man” anticipated enduring superhero ideas: transformations, superpowered minorities and public fear of the changed. It is a fascinating bridge between Fawcett-era talent, pulp science and later Marvel tropes.</description>
-      <pubDate>Tue, 29 Mar 2011 16:00:07 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-13-binder-schaffenberger-mutant-man</guid>
-      <source url="https://www.wired.com/">Wired</source>
-    </item>
-    <item>
-      <title>The Census Bureau once explained digital maps with comics</title>
-      <link>https://blogs.loc.gov/maps/2026/02/illustrating-geospatial-history-tracing-the-development-of-topological-data-through-comics/</link>
-      <description>The Library of Congress explores government comics that taught public officials how early digital mapping worked. “DIME Comix &amp; Stories” and “ADMATCH Adventures” used illustrated guides to explain nodes, arcs, street networks and geocoding—the ideas that eventually led to TIGER data and today’s web maps.</description>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-13-census-dime-mapping-comics</guid>
-      <source url="https://blogs.loc.gov/">Library of Congress</source>
-    </item>
-    <item>
-      <title>ServiceNow Zurich features worth knowing for developers</title>
-      <link>https://www.servicenow.com/community/developer-blog/zurich-features-for-developers/ba-p/3326661</link>
-      <description>This developer-focused tour of ServiceNow’s Zurich release highlights individual sandboxes, multi-app Git cloning, Flow Designer improvements, new scoped APIs and ES2021 features including promises and async/await. It is a useful map of platform changes for anyone building and maintaining practical ServiceNow applications.</description>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:personal:2026-10-13-servicenow-zurich-developer-features</guid>
-      <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 12:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:42:32 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Rays even ALCS at 2-2 behind Aranda&apos;s three-hit night</title>
+      <link>https://www.reuters.com/sports/baseball/jonathan-arandas-3-hit-night-leads-rays-past-guardians-ties-alcs-2-2--flm-2026-10-18/</link>
+      <description>Jonathan Aranda collected three hits, drove in two runs and scored the go-ahead run as Tampa Bay beat Cleveland 7-3. The Rays erased a 2-1 series deficit, guaranteeing the American League Championship Series will return to St. Petersburg for Game 6.</description>
+      <pubDate>Sun, 18 Oct 2026 03:35:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/jonathan-arandas-3-hit-night-leads-rays-past-guardians-ties-alcs-2-2--flm-2026-10-18/</guid>
+      <source url="https://www.reuters.com/sports/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Auburn topples No. 1 Georgia on a wild day of upsets</title>
+      <link>https://www.reuters.com/sports/top-25-roundup-florida-tramell-jones-jr-upset-no-7-texas--flm-2026-10-17/</link>
+      <description>Alex McPherson&apos;s 34-yard field goal at the horn gave Auburn a 27-24 win at Georgia, its first victory in Athens in 21 years. No. 2 Notre Dame, No. 5 Indiana, No. 6 Alabama and No. 7 Texas also lost in a Saturday that scrambled the college football race.</description>
+      <pubDate>Sat, 17 Oct 2026 21:52:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/top-25-roundup-florida-tramell-jones-jr-upset-no-7-texas--flm-2026-10-17/</guid>
+      <source url="https://www.reuters.com/sports/">Reuters</source>
+    </item>
+
+    <item>
+      <title>WNBA reaches new heights as Engelbert&apos;s tenure winds down</title>
+      <link>https://www.reuters.com/sports/wnba-commissioner-cathy-engelbert-touts-successes-tenure-winds-down--flm-2026-10-18/</link>
+      <description>Outgoing commissioner Cathy Engelbert said the WNBA drew more than 90 million U.S. viewers, 3.8 million spectators and 51 million-viewer telecasts this season. The Finals between Golden State and Atlanta will produce a first-time champion.</description>
+      <pubDate>Sun, 18 Oct 2026 04:44:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/wnba-commissioner-cathy-engelbert-touts-successes-tenure-winds-down--flm-2026-10-18/</guid>
+      <source url="https://www.reuters.com/sports/">Reuters</source>
+    </item>
 
     <item>
       <title>All Blacks overwhelm Wallabies with six-try first half</title>
@@ -17,6 +44,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>NFL clears Josh Jacobs for Week 7 return</title>
       <link>https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</link>
@@ -25,6 +53,7 @@
       <guid isPermaLink="true">https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
+
     <item>
       <title>Real Madrid demands La Liga president resign</title>
       <link>https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</link>
@@ -33,6 +62,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Brewers sweep Dodgers to reach first World Series since 1982</title>
       <link>https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</link>
@@ -41,6 +71,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Guardians take 2-1 ALCS lead behind Halpin homer</title>
       <link>https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</link>
@@ -49,6 +80,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Saudi attack disrupts golf, cycling and tennis calendar</title>
       <link>https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</link>
@@ -57,6 +89,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Brewers move one win from first World Series since 1982</title>
       <link>https://www.reuters.com/sports/baseball/late-game-homers-send-brewers-3-0-nlcs-advantage-over-dodgers--flm-2026-10-15/</link>
@@ -65,6 +98,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/late-game-homers-send-brewers-3-0-nlcs-advantage-over-dodgers--flm-2026-10-15/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>A.J. Brown returns to Patriots practice</title>
       <link>https://www.reuters.com/sports/patriots-open-21-day-practice-window-wr-aj-brown--flm-2026-10-14/</link>
@@ -73,6 +107,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/patriots-open-21-day-practice-window-wr-aj-brown--flm-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>FIFA leaders confront Infantino after failed World Cup stake sale</title>
       <link>https://www.reuters.com/sports/soccer/infantino-faces-fifa-rebels-zurich-after-failed-world-cup-stake-sale-2026-10-14/</link>
@@ -81,6 +116,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/infantino-faces-fifa-rebels-zurich-after-failed-world-cup-stake-sale-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Rays even ALCS behind Freddy Peralta&apos;s gem</title>
       <link>https://www.reuters.com/sports/baseball/freddy-peralta-rays-pull-even-with-guardians-alcs--flm-2026-10-14/</link>
@@ -89,6 +125,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/freddy-peralta-rays-pull-even-with-guardians-alcs--flm-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Tkachuk brothers make NHL history in Panthers win</title>
       <link>https://www.reuters.com/sports/nhl-roundup-brady-tkachuks-natural-hat-trick-helps-panthers-top-jackets--flm-2026-10-14/</link>
@@ -97,36 +134,13 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nhl-roundup-brady-tkachuks-natural-hat-trick-helps-panthers-top-jackets--flm-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>U.S. soccer audiences keep growing after World Cup</title>
       <link>https://www.reuters.com/sports/soccer/soccer-viewership-us-surging-since-world-cup--flm-2026-10-14/</link>
       <description>Nielsen says 66.4 million U.S. viewers watched Spain beat Argentina in the World Cup final, the country&apos;s largest soccer audience. The momentum carried into club play: MLS viewing among men 18-34 rose 55%, Premier League viewing among young adults climbed 30%, and LaLiga&apos;s total audience increased 42%.</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/soccer-viewership-us-surging-since-world-cup--flm-2026-10-14/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Bills outlast Rams in overtime thriller</title>
-      <link>https://www.reuters.com/sports/nfl/josh-allens-rushing-passing-power-bills-past-rams-ot--flm-2026-10-13/</link>
-      <description>Tyler Bass kicked a 45-yard field goal with 1:55 left in overtime as Buffalo edged Los Angeles 37-34. Josh Allen threw for 210 yards and ran for 121 more, while James Cook added 111 rushing yards and two touchdowns. The Rams forced overtime despite Buffalo leading 31-20 in the fourth quarter.</description>
-      <pubDate>Tue, 13 Oct 2026 04:12:03 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-13-bills-rams-overtime</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Brewers seize 2-0 NLCS lead over Dodgers</title>
-      <link>https://www.reuters.com/sports/baseball/william-contreras-sparks-brewers-game-2-rally-against-dodgers--flm-2026-10-13/</link>
-      <description>In a major follow-up to Milwaukee’s Game 1 win, William Contreras homered to tie Game 2, drove in the go-ahead run an inning later and finished with three hits and three RBIs in a 7-4 victory. Four Brewers relievers retired all 15 batters they faced, sending the NLCS to Los Angeles with Milwaukee ahead 2-0.</description>
-      <pubDate>Tue, 13 Oct 2026 00:57:10 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-13-brewers-dodgers-nlcs-game-2</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Guardians break late for ALCS Game 1 win</title>
-      <link>https://www.reuters.com/sports/baseball/late-offense-sends-guardians-alcs-game-1-win-over-rays--flm-2026-10-13/</link>
-      <description>Cleveland scored seven runs over the final four innings to beat Tampa Bay 7-3 in the ALCS opener. Nathaniel Lowe’s two-run single in the eighth broke a 2-2 tie, and José Ramírez drove in a run for the fourth straight postseason game. The Guardians finished with 14 hits.</description>
-      <pubDate>Tue, 13 Oct 2026 03:25:06 GMT</pubDate>
-      <guid isPermaLink="false">urn:acme:sports:2026-10-13-guardians-rays-alcs-game-1</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

@@ -5,10 +5,48 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:18:03 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title>Rays move one win from World Series behind Rasmussen</title>
+      <link>https://www.reuters.com/sports/baseball/drew-rasmussen-pitches-rays-3-2-alcs-series-lead-over-guardians--flm-2026-10-19/</link>
+      <description>Tampa Bay beat Cleveland 3-1 in Game 5 to take a 3-2 ALCS lead, a major step beyond Sunday’s 2-2 tie. Drew Rasmussen allowed one run over seven innings, and the Rays return home needing one victory for their first World Series trip since 2020.</description>
+      <pubDate>Mon, 19 Oct 2026 00:20:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/drew-rasmussen-pitches-rays-3-2-alcs-series-lead-over-guardians--flm-2026-10-19/</guid>
+      <source url="https://www.reuters.com/sports/">Reuters</source>
+    </item>
+    <item>
+      <title>Texans edge Jaguars in London on last-second field goal</title>
+      <link>https://www.reuters.com/sports/nfl/kaimi-fairbairn-kicks-texans-past-jaguars-london--flm-2026-10-18/</link>
+      <description>Ka’imi Fairbairn kicked a 49-yard field goal as time expired to give Houston a 34-31 win over Jacksonville. C.J. Stroud threw for 312 yards and three touchdowns, while Travis Hunter Jr. became the first NFL player since 2002 with a touchdown catch and an interception in the same game.</description>
+      <pubDate>Sun, 18 Oct 2026 17:10:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/kaimi-fairbairn-kicks-texans-past-jaguars-london--flm-2026-10-18/</guid>
+      <source url="https://www.reuters.com/sports/nfl/">Reuters</source>
+    </item>
+    <item>
+      <title>Manchester City stays perfect as Haaland reaches a milestone</title>
+      <link>https://www.reuters.com/sports/soccer/citys-flying-start-comes-cost-with-haaland-limping-off-2026-10-17/</link>
+      <description>Manchester City beat Ipswich 3-2 for a seventh win in seven Premier League matches. Erling Haaland scored twice, becoming the fastest player to 100 non-penalty league goals, but limped off late and left City waiting on his fitness.</description>
+      <pubDate>Sat, 17 Oct 2026 17:56:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/citys-flying-start-comes-cost-with-haaland-limping-off-2026-10-17/</guid>
+      <source url="https://www.reuters.com/sports/soccer/">Reuters</source>
+    </item>
     <item>
       <title>Rays even ALCS at 2-2 behind Aranda&apos;s three-hit night</title>
       <link>https://www.reuters.com/sports/baseball/jonathan-arandas-3-hit-night-leads-rays-past-guardians-ties-alcs-2-2--flm-2026-10-18/</link>
@@ -17,7 +55,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/jonathan-arandas-3-hit-night-leads-rays-past-guardians-ties-alcs-2-2--flm-2026-10-18/</guid>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>Auburn topples No. 1 Georgia on a wild day of upsets</title>
       <link>https://www.reuters.com/sports/top-25-roundup-florida-tramell-jones-jr-upset-no-7-texas--flm-2026-10-17/</link>
@@ -26,7 +63,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/top-25-roundup-florida-tramell-jones-jr-upset-no-7-texas--flm-2026-10-17/</guid>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>WNBA reaches new heights as Engelbert&apos;s tenure winds down</title>
       <link>https://www.reuters.com/sports/wnba-commissioner-cathy-engelbert-touts-successes-tenure-winds-down--flm-2026-10-18/</link>
@@ -35,7 +71,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/wnba-commissioner-cathy-engelbert-touts-successes-tenure-winds-down--flm-2026-10-18/</guid>
       <source url="https://www.reuters.com/sports/">Reuters</source>
     </item>
-
     <item>
       <title>All Blacks overwhelm Wallabies with six-try first half</title>
       <link>https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</link>
@@ -44,7 +79,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>NFL clears Josh Jacobs for Week 7 return</title>
       <link>https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</link>
@@ -53,7 +87,6 @@
       <guid isPermaLink="true">https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</guid>
       <source url="https://www.upi.com/">UPI</source>
     </item>
-
     <item>
       <title>Real Madrid demands La Liga president resign</title>
       <link>https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</link>
@@ -62,7 +95,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Brewers sweep Dodgers to reach first World Series since 1982</title>
       <link>https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</link>
@@ -71,7 +103,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Guardians take 2-1 ALCS lead behind Halpin homer</title>
       <link>https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</link>
@@ -80,7 +111,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Saudi attack disrupts golf, cycling and tennis calendar</title>
       <link>https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</link>
@@ -89,7 +119,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Brewers move one win from first World Series since 1982</title>
       <link>https://www.reuters.com/sports/baseball/late-game-homers-send-brewers-3-0-nlcs-advantage-over-dodgers--flm-2026-10-15/</link>
@@ -98,7 +127,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/baseball/late-game-homers-send-brewers-3-0-nlcs-advantage-over-dodgers--flm-2026-10-15/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>A.J. Brown returns to Patriots practice</title>
       <link>https://www.reuters.com/sports/patriots-open-21-day-practice-window-wr-aj-brown--flm-2026-10-14/</link>
@@ -107,40 +135,12 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/patriots-open-21-day-practice-window-wr-aj-brown--flm-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>FIFA leaders confront Infantino after failed World Cup stake sale</title>
       <link>https://www.reuters.com/sports/soccer/infantino-faces-fifa-rebels-zurich-after-failed-world-cup-stake-sale-2026-10-14/</link>
       <description>Gianni Infantino faces a FIFA Council meeting after his proposal to sell investors a stake in a commercial subsidiary holding tournament rights collapsed. The heads of UEFA, the AFC and CONCACAF have called for him to resign. Reuters reports that opponents, while unlikely to replace him soon, aim to isolate him and curb his powers.</description>
       <pubDate>Wed, 14 Oct 2026 13:54:10 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/infantino-faces-fifa-rebels-zurich-after-failed-world-cup-stake-sale-2026-10-14/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Rays even ALCS behind Freddy Peralta&apos;s gem</title>
-      <link>https://www.reuters.com/sports/baseball/freddy-peralta-rays-pull-even-with-guardians-alcs--flm-2026-10-14/</link>
-      <description>Tampa Bay beat Cleveland 3-1 to even the ALCS at one game apiece, a significant turn after the Guardians took the opener. Freddy Peralta worked six scoreless innings, and a José Ramírez error opened the door for a three-run fourth capped by Liam Hicks&apos; two-run single.</description>
-      <pubDate>Wed, 14 Oct 2026 03:12:30 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/freddy-peralta-rays-pull-even-with-guardians-alcs--flm-2026-10-14/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Tkachuk brothers make NHL history in Panthers win</title>
-      <link>https://www.reuters.com/sports/nhl-roundup-brady-tkachuks-natural-hat-trick-helps-panthers-top-jackets--flm-2026-10-14/</link>
-      <description>Brady Tkachuk scored a natural hat trick in 8:03 of the second period and Matthew assisted on all three goals as Florida beat Columbus 7-3. According to the NHL, Matthew became the first player to assist on each goal of a brother&apos;s natural hat trick; he finished with five assists.</description>
-      <pubDate>Wed, 14 Oct 2026 07:11:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nhl-roundup-brady-tkachuks-natural-hat-trick-helps-panthers-top-jackets--flm-2026-10-14/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>U.S. soccer audiences keep growing after World Cup</title>
-      <link>https://www.reuters.com/sports/soccer/soccer-viewership-us-surging-since-world-cup--flm-2026-10-14/</link>
-      <description>Nielsen says 66.4 million U.S. viewers watched Spain beat Argentina in the World Cup final, the country&apos;s largest soccer audience. The momentum carried into club play: MLS viewing among men 18-34 rose 55%, Premier League viewing among young adults climbed 30%, and LaLiga&apos;s total audience increased 42%.</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/soccer-viewership-us-surging-since-world-cup--flm-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

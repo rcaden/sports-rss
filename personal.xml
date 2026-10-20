@@ -5,7 +5,7 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:49:42 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
@@ -23,6 +23,30 @@
 
 
 
+    <item>
+      <title>Comic Book Plus preserves Minute-Man&apos;s scarce solo run</title>
+      <link>https://comicbookplus.com/?dlid=39720</link>
+      <description>Minute Man No. 3 is readable from a paper-and-microfiche scan, and the archive points readers to compilations containing his origin and first story from Master Comics No. 11. It is a practical starting place for comparing the scarce solo title with the hero&apos;s longer Fawcett run.</description>
+      <pubDate>Thu, 13 Feb 2014 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://comicbookplus.com/?dlid=39720</guid>
+      <source url="https://comicbookplus.com/">Comic Book Plus</source>
+    </item>
+    <item>
+      <title>The Library of Congress explains why Famous Funnies marks a dividing line</title>
+      <link>https://blogs.loc.gov/headlinesandheroes/2018/06/before-bang-pow-zap/?loclr=bloglaw</link>
+      <description>This illustrated history follows American comics from full-page Sunday features and The Yellow Kid through Little Nemo and Mutt and Jeff. It shows how newspaper-strip reprints led to Famous Funnies No. 1 in 1934, regarded by many historians as the first modern American comic book.</description>
+      <pubDate>Tue, 05 Jun 2018 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.loc.gov/headlinesandheroes/2018/06/before-bang-pow-zap/?loclr=bloglaw</guid>
+      <source url="https://blogs.loc.gov/">Library of Congress</source>
+    </item>
+    <item>
+      <title>JavaScript catch blocks can receive any thrown value</title>
+      <link>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling</link>
+      <description>MDN&apos;s error-handling guide makes an easily missed point explicit: JavaScript can throw any expression, not only an Error object, and a catch binding receives that value unchanged. Robust server-side scripts should therefore inspect the caught value before assuming name, message or stack properties exist.</description>
+      <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling</guid>
+      <source url="https://developer.mozilla.org/">MDN Web Docs</source>
+    </item>
     <item>
       <title>Document Management connects ServiceNow records to external cloud files</title>
       <link>https://www.servicenow.com/docs/r/servicenow-platform/document-management-services/integration-external-content-providers.html</link>
@@ -118,30 +142,6 @@
       <pubDate>Mon, 04 May 2026 00:00:00 -0400</pubDate>
       <guid isPermaLink="true">https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</guid>
       <source url="https://jaxhistory.org/">Jacksonville History Center</source>
-    </item>
-    <item>
-      <title>A new framework reads thousands of classic comics at once</title>
-      <link>https://arxiv.org/abs/2610.13840</link>
-      <description>Researchers tested a machine-assisted method on 3,929 American comic books from 1938-1956 and 87 manga volumes. It identifies panels, text and bibliography, then studies political imagery, page design and who gets to speak. The authors argue it could make scanned archives searchable by visual content, improve accessibility and help credit unrecognized artists.</description>
-      <pubDate>Fri, 09 Oct 2026 16:49:29 GMT</pubDate>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.13840</guid>
-      <source url="https://arxiv.org/">arXiv</source>
-    </item>
-    <item>
-      <title>Why great software can outlive the company that made it</title>
-      <link>https://www.wired.com/2003/02/code-2</link>
-      <description>Gary Rivlin&apos;s account of Dragon NaturallySpeaking follows two million lines of sophisticated code through the spectacular collapse of Lernout &amp; Hauspie. The larger question feels newly relevant to any effort to reconstruct an old game: what lets important software survive bankruptcy, obsolete hardware, restrictive copyright and the loss of its original developers?</description>
-      <pubDate>Sat, 01 Feb 2003 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wired.com/2003/02/code-2</guid>
-      <source url="https://www.wired.com/">Wired</source>
-    </item>
-    <item>
-      <title>American Legion Baseball gathers memories for its 100th World Series</title>
-      <link>https://www.legion.org/information-center/news/dispatch/2026/september/have-your-story-be-part-of-the-100th-legion-world-series</link>
-      <description>The American Legion is collecting stories and photographs from players and coaches ahead of the 100th Legion World Series. The project is a good doorway into a century of summer baseball history: Yonkers Post 321 won the first championship in 1926, while alumni have ranged from Yogi Berra and Ted Williams to modern major leaguers.</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.legion.org/information-center/news/dispatch/2026/september/have-your-story-be-part-of-the-100th-legion-world-series</guid>
-      <source url="https://www.legion.org/">The American Legion</source>
     </item>
   </channel>
 </rss>

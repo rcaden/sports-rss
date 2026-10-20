@@ -5,7 +5,7 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:49:42 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
@@ -23,6 +23,30 @@
 
 
 
+    <item>
+      <title>WTF finds a human-made way to give an old podcast new life</title>
+      <link>https://podnews.net/update/wtf-video</link>
+      <description>Marc Maron&apos;s closed WTF show has republished its 2011 Norm Macdonald interview as a two-hour visual presentation on YouTube. The production adds photographs and contextual material without pretending to animate the conversation, offering a thoughtful model for making valuable audio archives newly discoverable.</description>
+      <pubDate>Tue, 20 Oct 2026 04:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/wtf-video</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+    <item>
+      <title>FCC urged to reject synthetic-voice political robocalls</title>
+      <link>https://www.reuters.com/world/us/senator-urges-fcc-reject-conservative-groups-bid-use-political-ai-generated-2026-10-19/</link>
+      <description>Senate leader Chuck Schumer asked the FCC to deny a petition that would allow prerecorded political calls using synthetic voices without prior express consent. The agency says it has no plans to grant the request; public-interest groups warn the change would weaken a key defense against deceptive election messages.</description>
+      <pubDate>Mon, 19 Oct 2026 12:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/us/senator-urges-fcc-reject-conservative-groups-bid-use-political-ai-generated-2026-10-19/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>U.S. orders DeepSeek removed from civilian agency systems</title>
+      <link>https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</link>
+      <description>The Department of Homeland Security ordered civilian federal agencies to remove DeepSeek products and third-party services that use them from their systems. The directive also blocks new acquisitions, citing risks involving data transfer to China, malicious code and software vulnerabilities.</description>
+      <pubDate>Mon, 19 Oct 2026 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Britain puts Microsoft’s software bundling under scrutiny</title>
       <link>https://www.reuters.com/legal/litigation/uk-competition-regulator-targets-microsofts-business-software-grip-2026-10-16/</link>
@@ -117,30 +141,6 @@
       <description>Reuters asked 26 campaigns in 13 competitive Senate races whether their candidates would accept the election outcome. Fourteen gave unconditional assurances; others qualified their answers, deflected or did not respond. The survey measures a basic democratic norm weeks before the midterms.</description>
       <pubDate>Thu, 15 Oct 2026 10:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/legal/government/just-over-half-candidates-key-us-senate-races-say-they-will-accept-results-2026-10-15/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Online ads became a channel for large-scale espionage</title>
-      <link>https://www.reuters.com/legal/litigation/israeli-firm-used-online-ads-run-vast-spy-operation-researchers-say-2026-10-15/</link>
-      <description>Citizen Lab and Confiant say Israeli ad agency Discover-Tech used ordinary-looking ads to track targets and help plant spyware. The ads reached more than 120,000 sites and 75,000 apps, including sensitive government and media networks. Google, Comcast and IAB Europe have removed or suspended the firm. Reuters credits reporter Raphael Satter.</description>
-      <pubDate>Thu, 15 Oct 2026 10:04:56 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/israeli-firm-used-online-ads-run-vast-spy-operation-researchers-say-2026-10-15/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Gutenberg 24.2 moves collaborative notes into the margin</title>
-      <link>https://make.wordpress.org/core/2026/10/14/whats-new-in-gutenberg-24-2-14-october/</link>
-      <description>Gutenberg 24.2 gives collaborative notes a new home in the content margin, so writers can work without closing the Settings sidebar. It also lets users add categories, tags and posts directly to navigation menus. The release includes more than 60 bug fixes plus accessibility and performance work, as WordPress 7.2 approaches beta.</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://make.wordpress.org/core/2026/10/14/whats-new-in-gutenberg-24-2-14-october/</guid>
-      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
-    </item>
-    <item>
-      <title>Mexico orders digital platforms to shield minors from harmful content</title>
-      <link>https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/</link>
-      <description>Mexico will require social networks and streaming services to protect children from violent, sexual and other harmful material, giving companies one month to comply. Officials have met with Meta, Microsoft, Apple, TikTok, Google, X and Huawei. The decree joins a global child-safety push while raising familiar privacy and free-expression questions.</description>
-      <pubDate>Wed, 14 Oct 2026 14:03:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

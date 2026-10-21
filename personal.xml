@@ -5,7 +5,7 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:10:46 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
@@ -23,6 +23,30 @@
 
 
 
+    <item>
+      <title>Fawcett&apos;s Dan Dare was a private detective, not Britain&apos;s space pilot</title>
+      <link>https://www.comics.org/issue/651/?issue_detail=2</link>
+      <description>Whiz Comics No. 2 introduced a different Dan Dare a decade before Eagle&apos;s famous space hero. Bill Parker and Gregor Duncan&apos;s eight-page detective story sends Dan and assistant Carol Clews to Florida, where a murder inquiry uncovers drug smuggling. The feature continued through Whiz No. 22.</description>
+      <pubDate>Thu, 01 Feb 1940 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.comics.org/issue/651/?issue_detail=2</guid>
+      <source url="https://www.comics.org/">Grand Comics Database</source>
+    </item>
+    <item>
+      <title>The economics that pushed mass-market paperbacks off the spinner rack</title>
+      <link>https://www.theguardian.com/books/2026/feb/24/america-says-goodbye-paperback</link>
+      <description>Mass-market paperback sales fell from 131 million copies in 2004 to 21 million in 2024 as distributors abandoned the format. The account explains why its old advantages—cheap production, magazine-style distribution and portability—have eroded, while also making the case for the pocket book&apos;s democratic cultural value.</description>
+      <pubDate>Tue, 24 Feb 2026 10:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/books/2026/feb/24/america-says-goodbye-paperback</guid>
+      <source url="https://www.theguardian.com/">The Guardian</source>
+    </item>
+    <item>
+      <title>A practical map for checking copyright renewals on comic-book issues</title>
+      <link>https://onlinebooks.library.upenn.edu/cce/decisions.html</link>
+      <description>The University of Pennsylvania&apos;s guide explains that renewal records for entire serial issues generally appear in the Periodicals volumes of the Catalog of Copyright Entries. Separate contributions can require a different search. That distinction is crucial when a comic&apos;s issue-level renewal and an individual story&apos;s status may diverge.</description>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://onlinebooks.library.upenn.edu/cce/decisions.html</guid>
+      <source url="https://onlinebooks.library.upenn.edu/">The Online Books Page</source>
+    </item>
     <item>
       <title>Comic Book Plus preserves Minute-Man&apos;s scarce solo run</title>
       <link>https://comicbookplus.com/?dlid=39720</link>
@@ -117,30 +141,6 @@
       <description>Jacksonville History Center traces how 1942 transformed the city into an industrial seaport and Navy town. Wartime growth brought new bases, a housing crunch and 82 Liberty ships, while the sinking of the Gulfamerica brought the conflict within sight of Jacksonville Beach.</description>
       <pubDate>Sun, 07 Dec 2025 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
-    </item>
-    <item>
-      <title>The class of 1930 enters the public domain</title>
-      <link>https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</link>
-      <description>The Library of Congress surveys notable works that became free to reuse in 2026, including The Maltese Falcon and other books, films and music published in 1930. It also explains what public-domain status permits and why trademark or other rights may still matter.</description>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://blogs.loc.gov/copyright/2025/12/lifecycle-of-copyright-1930-works-in-the-public-domain/</guid>
-      <source url="https://blogs.loc.gov/copyright/">Library of Congress Copyright Blog</source>
-    </item>
-    <item>
-      <title>WordPress takes the lead at the Open Website Alliance</title>
-      <link>https://wordpress.org/news/2026/09/owa-president/</link>
-      <description>WordPress Foundation representative Mary Hubbard has become president of the Open Website Alliance, joining Drupal, Joomla and TYPO3 in advocacy for open-source publishing. The rotating leadership gives WordPress a larger role in shared policy work and software-freedom issues.</description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/09/owa-president/</guid>
-      <source url="https://wordpress.org/news/">WordPress News</source>
-    </item>
-    <item>
-      <title>A family discovery emerges from Jacksonville&apos;s Great Fire</title>
-      <link>https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</link>
-      <description>A Jacksonville History Center researcher found her own relatives in a 1901 list of people who lost homes in the Great Fire. Her account connects family history, a rescued 1845 painting and the archive that documents the disaster&apos;s 2,368 destroyed buildings.</description>
-      <pubDate>Mon, 04 May 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://jaxhistory.org/from-a-pile-of-debris-a-new-jacksonville-was-built/</guid>
       <source url="https://jaxhistory.org/">Jacksonville History Center</source>
     </item>
   </channel>

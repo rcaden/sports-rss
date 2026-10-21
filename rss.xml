@@ -5,7 +5,7 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:10:46 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
@@ -23,6 +23,30 @@
 
 
 
+    <item>
+      <title>England&apos;s football regulator says it can force club owners to sell</title>
+      <link>https://www.reuters.com/sports/soccer/football-regulator-has-absolute-power-force-club-owners-sell-says-kogan-2026-10-20/</link>
+      <description>Independent Football Regulator chair David Kogan says the new body can remove owners who fail its fitness and propriety tests. It may examine Manchester City after the club&apos;s appeal over 114 Premier League financial-rule breaches, and it also wants more money flowing to lower-division clubs.</description>
+      <pubDate>Tue, 20 Oct 2026 23:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/football-regulator-has-absolute-power-force-club-owners-sell-says-kogan-2026-10-20/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>LeBron&apos;s Philadelphia debut spoils the Knicks&apos; banner night</title>
+      <link>https://www.reuters.com/sports/lebron-james-begins-76ers-era-hostile-nyc-territory-2026-10-21/</link>
+      <description>LeBron James began his record-extending 24th NBA season with 14 points, nine rebounds and seven assists as Philadelphia beat defending champion New York 106-100. Tyrese Maxey led the 76ers with 28 points, quieting Madison Square Garden after the Knicks received rings and raised their first title banner in 53 years.</description>
+      <pubDate>Wed, 21 Oct 2026 00:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/lebron-james-begins-76ers-era-hostile-nyc-territory-2026-10-21/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Celebrini scores twice as Sharks erase two-goal deficit</title>
+      <link>https://www.reuters.com/sports/nhl/macklin-celebrini-scores-twice-sharks-rally-past-canadiens-ot--flm-2026-10-21/</link>
+      <description>Macklin Celebrini scored the opening goal and the overtime winner as San Jose rallied past Montreal 4-3. Michael Misa and Tyler Toffoli erased a 3-1 third-period deficit before Celebrini converted Ivar Stenberg&apos;s no-look pass on a power play 2:13 into overtime.</description>
+      <pubDate>Wed, 21 Oct 2026 02:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/macklin-celebrini-scores-twice-sharks-rally-past-canadiens-ot--flm-2026-10-21/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Rays finish comeback to clinch a World Series berth</title>
       <link>https://www.reuters.com/sports/two-run-homers-send-rays-past-guardians-game-6-into-world-series--flm-2026-10-20/</link>
@@ -117,30 +141,6 @@
       <description>Real Madrid called for Javier Tebas to leave his posts at La Liga and Spain&apos;s football federation after he compared the club&apos;s media tactics with Nazi-era propaganda. The clash deepens a long-running feud over referees, governance and the Super League.</description>
       <pubDate>Fri, 16 Oct 2026 16:06:57 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Brewers sweep Dodgers to reach first World Series since 1982</title>
-      <link>https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</link>
-      <description>Milwaukee erased a 4-0 deficit to beat Los Angeles 6-4, complete an NLCS sweep and claim its first pennant in 44 years. Garrett Mitchell hit the go-ahead homer, Jake Bauers was named series MVP and the Brewers earned home field for the World Series.</description>
-      <pubDate>Fri, 16 Oct 2026 03:25:13 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/brewers-rally-sweep-dodgers-earn-first-world-series-bid-since-82--flm-2026-10-16/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Guardians take 2-1 ALCS lead behind Halpin homer</title>
-      <link>https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</link>
-      <description>Petey Halpin hit a go-ahead two-run homer and Cleveland pitchers struck out 13 in a 3-2 win over Tampa Bay. The Guardians now lead the ALCS 2-1 after holding the Rays to three hits, a significant turn after the series was tied a day earlier.</description>
-      <pubDate>Fri, 16 Oct 2026 01:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/guardians-use-dominant-pitching-edge-rays-take-2-1-series-lead--flm-2026-10-15/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Saudi attack disrupts golf, cycling and tennis calendar</title>
-      <link>https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</link>
-      <description>The Asian Tour postponed the Saudi International indefinitely and cycling officials cancelled the Urban World Championships after the deadly Riyadh airport attack. The Six Kings Slam was delayed and FIFAe Finals postponed, while organizers said the 2027 Asian Cup remains on schedule.</description>
-      <pubDate>Fri, 16 Oct 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/saudi-organisers-say-2027-asian-cup-preparations-remain-schedule-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

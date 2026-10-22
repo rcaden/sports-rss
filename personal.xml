@@ -5,24 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:39:06 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title>A 2026 public-domain guide separates free characters from later versions</title>
+      <link>https://copyrightlately.com/public-domain-2026/</link>
+      <description>Aaron Moss surveys works from 1930 and sound recordings from 1925 that became free to use in the United States, including early Betty Boop, Blondie and Mickey Mouse comic strips. The guide also explains why only the traits present in those newly open versions are safe territory.</description>
+      <pubDate>Sun, 07 Dec 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://copyrightlately.com/public-domain-2026/</guid>
+      <source url="https://copyrightlately.com/">Copyright Lately</source>
+    </item>
+    <item>
+      <title>Florida HOA law does not guarantee political-yard-sign rights</title>
+      <link>https://hoanotes.com/hoa/florida/flags-and-political-signs/</link>
+      <description>This focused guide distinguishes Florida&apos;s statutory protection for specified flags from political signs, which the HOA statute does not separately protect. Whether a campaign sign is allowed usually turns on the recorded declaration and association rules, with public rights-of-way governed separately.</description>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hoanotes.com/hoa/florida/flags-and-political-signs/</guid>
+      <source url="https://hoanotes.com/">HOA Notes</source>
+    </item>
+    <item>
+      <title>A digital exhibit puts Revolutionary-era St. Augustine online</title>
+      <link>https://governorshouselibrary.wordpress.com/2026/07/06/new-digital-exhibit-florida-at-war/</link>
+      <description>The Governor&apos;s House Library digitized every panel of Florida at War, its exhibit on St. Augustine during the American Revolution. The online version makes maps, primary-source research and the city&apos;s role as a British military and refugee center available beyond the museum.</description>
+      <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://governorshouselibrary.wordpress.com/2026/07/06/new-digital-exhibit-florida-at-war/</guid>
+      <source url="https://governorshouselibrary.wordpress.com/">Governor&apos;s House Library</source>
+    </item>
     <item>
       <title>Fawcett&apos;s Dan Dare was a private detective, not Britain&apos;s space pilot</title>
       <link>https://www.comics.org/issue/651/?issue_detail=2</link>
@@ -117,30 +127,6 @@
       <description>A family letter prompted the Jacksonville History Center to trace the first child born after city-county consolidation took effect in 1968. Staff matched a 1996 newspaper clipping with original Times-Union negatives, restoring names and images to a small civic-history mystery.</description>
       <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://jaxhistory.org/from-the-archives-consolidation-day-baby/</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
-    </item>
-    <item>
-      <title>EPUB 3.4 adds a native layout for scrolling comics</title>
-      <link>https://www.w3.org/blog/2026/were-on-a-roll-epub-3-4-is-coming/</link>
-      <description>W3C&apos;s candidate EPUB 3.4 standard introduces a roll layout for vertically scrolling comics, adds modern image and audio formats, and updates accessibility metadata. Existing conforming EPUB files remain valid, while EPUBCheck 5.4 can test the new features.</description>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.w3.org/blog/2026/were-on-a-roll-epub-3-4-is-coming/</guid>
-      <source url="https://www.w3.org/">W3C</source>
-    </item>
-    <item>
-      <title>SelfPubCon explores what comes next for indie authors</title>
-      <link>https://selfpublishingadvice.org/podcast-selfpubcon-2026-asks-where-indie-publishing-goes-next/</link>
-      <description>The Alliance of Independent Authors previews its free Oct. 17-18 conference on the future of self-publishing. Sessions include Jane Friedman&apos;s keynote, Kickstarter crowdfunding, local marketing and an indie author lab.</description>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://selfpublishingadvice.org/podcast-selfpubcon-2026-asks-where-indie-publishing-goes-next/</guid>
-      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
-    </item>
-    <item>
-      <title>How World War II remade Jacksonville</title>
-      <link>https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</link>
-      <description>Jacksonville History Center traces how 1942 transformed the city into an industrial seaport and Navy town. Wartime growth brought new bases, a housing crunch and 82 Liberty ships, while the sinking of the Gulfamerica brought the conflict within sight of Jacksonville Beach.</description>
-      <pubDate>Sun, 07 Dec 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxhistory.org/the-attack-on-pearl-harbor-how-it-rewrote-jacksonvilles-story/</guid>
       <source url="https://jaxhistory.org/">Jacksonville History Center</source>
     </item>
   </channel>

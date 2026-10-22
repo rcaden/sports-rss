@@ -5,24 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:39:06 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title>Native wildlife rebounds after rats and pigs leave a Samoan island</title>
+      <link>https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/</link>
+      <description>A year after community-led teams removed invasive rats and feral pigs from Nu&apos;utele, native seedlings carpet parts of the forest, giant taro is growing again and vulnerable birds are nesting. Conservationists also found a land-crab species not previously recorded on the island.</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Strangers rally around an 86-year-old&apos;s 39-year boat project</title>
+      <link>https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/</link>
+      <description>Dale began welding a 62-foot steel boat in his Texas yard in 1987, hoping to sail it to Alaska. Three visiting Britons shared his story and started a fundraiser; more than 1,500 donors quickly contributed over $41,000 to help finish the vessel, move it down a steep hill and launch it.</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/total-strangers-help-86-year-old-man-make-40-year-dream-reality/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>A simpler process recovers 98 percent of used acrylic glass</title>
+      <link>https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/</link>
+      <description>ETH Zurich researchers devised a solvent-free method that turns used acrylic glass back into pure building blocks at roughly half the heat older methods require. It recovered up to 98 percent of the material, even from dyed or impure samples, and can work with existing industrial equipment.</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/scientists-discover-way-to-recycle-acrylic-glass-into-brand-new-material/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
     <item>
       <title>Ten-year-old dog returns after a month alone in Yellowstone</title>
       <link>https://www.goodnewsnetwork.org/10-year-old-dog-found-month-lost-in-yellowstone/</link>
@@ -118,30 +128,6 @@
       <pubDate>Sat, 17 Oct 2026 20:25:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.post-gazette.com/local/city/2026/10/17/pittsburgh-zoo-pelicans-escape/stories/202610170036</guid>
       <source url="https://www.post-gazette.com/">Pittsburgh Post-Gazette</source>
-    </item>
-    <item>
-      <title>Escaped emu turns a California road into a rescue scene</title>
-      <link>https://www.upi.com/Odd_News/2026/10/16/escaped-emu-Santa-cruz-california/5421792172564/</link>
-      <description>California Highway Patrol officers helped corral an emu that was darting through traffic on a road near Santa Cruz. Video shows officers and bystanders guiding the long-legged runaway to safety.</description>
-      <pubDate>Fri, 16 Oct 2026 17:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/16/escaped-emu-Santa-cruz-california/5421792172564/</guid>
-      <source url="https://www.upi.com/">UPI</source>
-    </item>
-    <item>
-      <title>Skateboarder reaches a record 94.34 mph downhill</title>
-      <link>https://www.upi.com/Odd_News/2026/10/16/canada-Guinness-World-Records-fastest-skateboard-downhill/3261792164806/</link>
-      <description>Spanish skateboarder Diego Poncelet set a Guinness record on a closed road in Quebec, reaching 94.34 mph while standing. He had already topped the old mark on a test run, then waited five days for better weather and went faster.</description>
-      <pubDate>Fri, 16 Oct 2026 15:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/16/canada-Guinness-World-Records-fastest-skateboard-downhill/3261792164806/</guid>
-      <source url="https://www.upi.com/">UPI</source>
-    </item>
-    <item>
-      <title>Scrapple sculptors carve breakfast meat into art</title>
-      <link>https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/</link>
-      <description>Amateur artists at Philadelphia&apos;s Reading Terminal Market received six pounds of scrapple and 90 minutes to make edible sculptures. Toni Lee shaped market mascot Philbert the pig for the annual contest, with the public choosing a winner.</description>
-      <pubDate>Fri, 16 Oct 2026 15:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/16/scrapple-sculpting-contest-reading-terminal-market/6511792163992/</guid>
-      <source url="https://www.upi.com/">UPI</source>
     </item>
   </channel>
 </rss>

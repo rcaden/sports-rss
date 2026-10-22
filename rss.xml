@@ -5,24 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:39:06 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title>Brewers and Rays meet with a first World Series title guaranteed</title>
+      <link>https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/</link>
+      <description>For the first time since 1980, the World Series matches two franchises that have never won it. Milwaukee brings a club-record 103 wins and its first pennant since 1982; Tampa Bay returns after a comeback ALCS. Game 1 on Friday pairs two of MLB&apos;s smaller-market, lower-payroll clubs.</description>
+      <pubDate>Thu, 22 Oct 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/brewers-rays-clash-with-first-world-series-title-stake-2026-10-22/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Doncic and Kessler launch the post-LeBron Lakers with a rout</title>
+      <link>https://www.reuters.com/sports/no-lebron-no-problem-lakers-blow-out-warriors-open-season-2026-10-22/</link>
+      <description>Los Angeles opened its first season after LeBron James with a 127-105 win over Golden State. Luka Doncic had 28 points, eight rebounds and seven assists, while newcomer Walker Kessler scored 26 on 12-for-12 shooting as the Lakers built a 35-point lead.</description>
+      <pubDate>Thu, 22 Oct 2026 06:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/no-lebron-no-problem-lakers-blow-out-warriors-open-season-2026-10-22/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>2027 Tours reward time trialists and return to Britain</title>
+      <link>https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/</link>
+      <description>The 2027 men&apos;s Tour de France will start in Edinburgh and include 71 kilometers of individual time trials, the most since 2012. The Tour de France Femmes begins in Leeds with a London team time trial and finishes atop the Puy de Dome.</description>
+      <pubDate>Thu, 22 Oct 2026 10:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/2027-tour-de-france-favour-time-trial-specialists-femmes-finale-set-puy-de-dome-2026-10-22/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>England&apos;s football regulator says it can force club owners to sell</title>
       <link>https://www.reuters.com/sports/soccer/football-regulator-has-absolute-power-force-club-owners-sell-says-kogan-2026-10-20/</link>
@@ -118,30 +128,6 @@
       <pubDate>Sun, 18 Oct 2026 04:44:44 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/wnba-commissioner-cathy-engelbert-touts-successes-tenure-winds-down--flm-2026-10-18/</guid>
       <source url="https://www.reuters.com/sports/">Reuters</source>
-    </item>
-    <item>
-      <title>All Blacks overwhelm Wallabies with six-try first half</title>
-      <link>https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</link>
-      <description>New Zealand scored six tries before halftime and beat Australia 43-21 in Sydney, extending its winning streak in the rivalry to 13 matches. The All Blacks led 36-7 at the break and retained the Bledisloe Cup for a 24th year.</description>
-      <pubDate>Sat, 17 Oct 2026 07:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/all-blacks-thump-wallabies-sydney-back-brilliant-first-half-2026-10-17/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>NFL clears Josh Jacobs for Week 7 return</title>
-      <link>https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</link>
-      <description>The NFL said Green Bay running back Josh Jacobs will come off the commissioner exempt list Monday and may play Oct. 25 at Detroit. Broncos linebacker Jonathon Cooper also was cleared to return for Week 7.</description>
-      <pubDate>Fri, 16 Oct 2026 20:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.upi.com/Sports_News/NFL/2026/10/16/NFL-remove-Josh-Jacobs-commissioners-list/2681792180249/</guid>
-      <source url="https://www.upi.com/">UPI</source>
-    </item>
-    <item>
-      <title>Real Madrid demands La Liga president resign</title>
-      <link>https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</link>
-      <description>Real Madrid called for Javier Tebas to leave his posts at La Liga and Spain&apos;s football federation after he compared the club&apos;s media tactics with Nazi-era propaganda. The clash deepens a long-running feud over referees, governance and the Super League.</description>
-      <pubDate>Fri, 16 Oct 2026 16:06:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-demand-resignation-laliga-chief-after-nazi-propaganda-comparison-2026-10-16/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

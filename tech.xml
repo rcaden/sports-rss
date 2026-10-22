@@ -5,24 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:39:06 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <item>
+      <title>Brewster Kahle argues that the web&apos;s memory must survive</title>
+      <link>https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/</link>
+      <description>The Internet Archive founder says publishers blocking the Wayback Machine to deter commercial scraping will instead erase evidence used by journalists, researchers and courts. He argues that preservation can coexist with rate limits and safeguards against abusive bulk extraction.</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/</guid>
+      <source url="https://www.theatlantic.com/">The Atlantic</source>
+    </item>
+    <item>
+      <title>Slate&apos;s 1996 homepage offers lessons for the 2026 web</title>
+      <link>https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/</link>
+      <description>A 30th-anniversary revival of Slate&apos;s original homepage made its editors appreciate sparse layouts, mixed subject matter, direct traffic and text-first presentation. The exercise is influencing a redesign, with one modern constraint the old site never faced: adapting the simplicity to phones.</description>
+      <pubDate>Tue, 13 Oct 2026 19:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+    <item>
+      <title>Urgent PHP fixes trigger a global website security scramble</title>
+      <link>https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/</link>
+      <description>PHP released fixes for critical flaws already being exploited, prompting government sites and other services to go offline while operators patched. The language underpins WordPress, Drupal, Joomla and Magento; security agencies urged immediate updates, while about 1.5 million visible hosts reported versions with no fix.</description>
+      <pubDate>Wed, 21 Oct 2026 07:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>WordPress 7.2 enters beta with a Secrets API and faster media handling</title>
       <link>https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/</link>
@@ -117,30 +127,6 @@
       <description>Nieman Lab reports that Meta&apos;s revised commercial terms authorize crawling websites tied to business accounts. Legal experts say publishers may have to choose between accepting broad collection rights and leaving tools they use to reach readers; the terms take effect October 30.</description>
       <pubDate>Thu, 15 Oct 2026 16:59:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-    <item>
-      <title>Election officials prepare for possible federal interference</title>
-      <link>https://www.reuters.com/podcasts/could-trump-interfere-midterms-assignment-2026-10-17/</link>
-      <description>Reuters reporters outline nine scenarios that could strain the 2026 midterms, from seizing ballots to pressuring local officials. More than 50 election administrators and legal experts said courts and established safeguards are likely to hold, but they are preparing for unprecedented disputes.</description>
-      <pubDate>Sat, 17 Oct 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/podcasts/could-trump-interfere-midterms-assignment-2026-10-17/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>EFF warns against federal consolidation of personal data</title>
-      <link>https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation</link>
-      <description>EFF argues that combining federal personnel, benefits, immigration and voter records creates errors, invites abuse and chills civic participation. It calls for stronger Privacy Act enforcement, limits on government purchases from data brokers and a comprehensive consumer privacy law.</description>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/resisting-menace-federal-data-consolidation</guid>
-      <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
-    </item>
-    <item>
-      <title>Nieman Lab redesigns 18 years of journalism archives</title>
-      <link>https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</link>
-      <description>Nieman Lab rebuilt more than 100,000 URLs with flexible story layouts, refreshed typography, improved search and subscription tools, and new topic archives. Founder Joshua Benton says the cleaner backend replaces years of accumulated PHP and CSS workarounds.</description>
-      <pubDate>Wed, 07 Oct 2026 19:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/nieman-lab-has-a-new-look/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
   </channel>

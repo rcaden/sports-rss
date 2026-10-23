@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:08 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Composer 2.11 release candidate adds safer package policies</title>
+      <link>https://github.com/composer/composer/releases/tag/2.11.0-RC1</link>
+      <description>Composer 2.11 RC1 adds a cooldown policy for withholding newly released packages, direct-dependency audits, stricter PSR autoloading and improved dependency-resolution performance. The maintainers are asking PHP developers to test the preview and report regressions before the final release.</description>
+      <pubDate>Thu, 22 Oct 2026 13:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://github.com/composer/composer/releases/tag/2.11.0-RC1</guid>
+      <source url="https://github.com/composer/composer/">Composer</source>
+    </item>
+    <item>
+      <title>A full-text RSS dispute tests the boundary between syndication and republication</title>
+      <link>https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</link>
+      <description>An independent publisher documents how RSS Amplifier republished 19 complete articles and offered substitute feeds without permission. The case is a useful reminder that making full-text RSS available to readers does not surrender copyright or authorize another site to mirror an archive.</description>
+      <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</guid>
+      <source url="https://thenewleafjournal.com/">The New Leaf Journal</source>
+    </item>
+    <item>
+      <title>Mark Evanier remembers pioneering comics artist Fred Guardineer</title>
+      <link>https://www.newsfromme.com/2004/05/06/fred-guardineer-r-i-p/</link>
+      <description>Mark Evanier&apos;s obituary traces Fred Guardineer from pulp illustration and the Harry Chesler shop to Zatara, Speed Saunders and striking Golden Age covers. Guardineer later drew for publishers including Fawcett before leaving comics during the industry&apos;s mid-1950s slump.</description>
+      <pubDate>Thu, 06 May 2004 16:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.newsfromme.com/2004/05/06/fred-guardineer-r-i-p/</guid>
+      <source url="https://www.newsfromme.com/">News From ME</source>
+    </item>
     <item>
       <title>A 2026 public-domain guide separates free characters from later versions</title>
       <link>https://copyrightlately.com/public-domain-2026/</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 20 May 2022 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://zeldman.com/2022/05/20/he-built-this-city-the-return-of-glenn-davis/</guid>
       <source url="https://zeldman.com/">Jeffrey Zeldman Presents</source>
-    </item>
-    <item>
-      <title>October&apos;s Java field guide covers JDK 27 and practical upgrades</title>
-      <link>https://blog.jetbrains.com/idea/2026/10/java-annotated-monthly-october-2026/</link>
-      <description>JetBrains&apos; monthly roundup collects the most useful Java reading after JDK 27&apos;s release: migration advice, performance work, language changes and hands-on tutorials. It is a compact way to separate the month&apos;s practical material from the release-day noise.</description>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.jetbrains.com/idea/2026/10/java-annotated-monthly-october-2026/</guid>
-      <source url="https://blog.jetbrains.com/idea/">JetBrains Blog</source>
-    </item>
-    <item>
-      <title>The first Navajo NFL player receives a hometown tribute</title>
-      <link>https://apnews.com/article/8b03c92d740c81b1db99070135262304</link>
-      <description>Shiyazh Pete, who played tackle for the Baltimore Colts and Detroit Lions in the 1950s, was honored by the Navajo Nation in New Mexico. The 91-year-old&apos;s return connected pro football history with a life that began in a one-room reservation home without electricity or running water.</description>
-      <pubDate>Mon, 12 Oct 2026 04:23:35 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/8b03c92d740c81b1db99070135262304</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>An archive search recovers Jacksonville&apos;s Consolidation Day baby</title>
-      <link>https://jaxhistory.org/from-the-archives-consolidation-day-baby/</link>
-      <description>A family letter prompted the Jacksonville History Center to trace the first child born after city-county consolidation took effect in 1968. Staff matched a 1996 newspaper clipping with original Times-Union negatives, restoring names and images to a small civic-history mystery.</description>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxhistory.org/from-the-archives-consolidation-day-baby/</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
     </item>
   </channel>
 </rss>

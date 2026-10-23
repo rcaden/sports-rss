@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:11:08 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Senior dog surrendered for euthanasia finds a new family</title>
+      <link>https://www.washingtonpost.com/lifestyle/2026/10/23/senior-dog-was-given-up-euthanasia-stranger-gave-her-new-life/</link>
+      <description>A healthy senior dog surrendered to a New Jersey shelter with a request that she be euthanized instead found a new home. Tillie, about 12, was adopted by a couple who already have a 12-year-old dog; her new family says she is settling in well.</description>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.washingtonpost.com/lifestyle/2026/10/23/senior-dog-was-given-up-euthanasia-stranger-gave-her-new-life/</guid>
+      <source url="https://www.washingtonpost.com/">The Washington Post</source>
+    </item>
+    <item>
+      <title>Kitten named Freeway reaches safety after dodging interstate traffic</title>
+      <link>https://people.com/kitten-named-freeway-after-rescue-from-busy-massachusetts-highwa-12188780</link>
+      <description>A driver stopped on Interstate 93 near Boston and rescued a seven-week-old black kitten weaving through traffic. The Animal Rescue League named her Freeway and placed her in foster care, where she will gain weight before becoming available for adoption.</description>
+      <pubDate>Thu, 22 Oct 2026 23:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://people.com/kitten-named-freeway-after-rescue-from-busy-massachusetts-highwa-12188780</guid>
+      <source url="https://people.com/">People</source>
+    </item>
+    <item>
+      <title>Japan launches a five-year mission to bring home soil from Phobos</title>
+      <link>https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/</link>
+      <description>Japan&apos;s MMX spacecraft has begun a five-year voyage to Mars&apos; moon Phobos. After arriving in 2027, it is designed to deploy a rover, collect at least 10 grams of material and return the first sample from a Martian moon to Earth in 2031.</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/japan-launches-first-mission-mars-moon-samples/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
     <item>
       <title>Native wildlife rebounds after rats and pigs leave a Samoan island</title>
       <link>https://www.goodnewsnetwork.org/samoan-island-witnesses-explosion-of-native-wildlife-following-removal-of-invasive-rats-and-pigs/</link>
@@ -104,30 +128,6 @@
       <pubDate>Tue, 13 Oct 2026 10:26:36 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/677ea800733334d3d2e45cbfcd9e4861</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>How Snoopy&apos;s flight made a Halloween classic</title>
-      <link>https://www.upworthy.com/5-little-known-facts-about-its-the-great-pumpkin-charlie-brown-the-special-that-changed-tv/</link>
-      <description>A look back at “It&apos;s the Great Pumpkin, Charlie Brown” explains how Snoopy&apos;s Red Baron fantasy helped turn animation into cinematic storytelling. It also reveals that Linus&apos;s iconic pumpkin patch scene was nearly left out and how a sound editor created Snoopy&apos;s unusual sob.</description>
-      <pubDate>Sat, 17 Oct 2026 23:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.upworthy.com/5-little-known-facts-about-its-the-great-pumpkin-charlie-brown-the-special-that-changed-tv/</guid>
-      <source url="https://www.upworthy.com/">Upworthy</source>
-    </item>
-    <item>
-      <title>Family assembles 1,601 squirt guns for a record bid</title>
-      <link>https://www.axios.com/local/richmond/2026/10/15/mechanicsville-guinness-world-record-water-gun-collection</link>
-      <description>A Mechanicsville, Virginia, family spent years gathering 1,601 squirt guns and has submitted the collection for Guinness recognition. The arsenal ranges from tiny novelty sprayers to enormous Super Soakers, all carefully counted and photographed.</description>
-      <pubDate>Thu, 15 Oct 2026 18:33:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.axios.com/local/richmond/2026/10/15/mechanicsville-guinness-world-record-water-gun-collection</guid>
-      <source url="https://www.axios.com/local/richmond">Axios Richmond</source>
-    </item>
-    <item>
-      <title>Escaped pelicans return safely to the Pittsburgh Zoo</title>
-      <link>https://www.post-gazette.com/local/city/2026/10/17/pittsburgh-zoo-pelicans-escape/stories/202610170036</link>
-      <description>Two pelicans flew out of their Pittsburgh Zoo habitat, prompting a riverfront search by zoo staff and local rescue crews. Both birds were recovered unhurt and returned for checkups, ending the unexpected excursion safely.</description>
-      <pubDate>Sat, 17 Oct 2026 20:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.post-gazette.com/local/city/2026/10/17/pittsburgh-zoo-pelicans-escape/stories/202610170036</guid>
-      <source url="https://www.post-gazette.com/">Pittsburgh Post-Gazette</source>
     </item>
   </channel>
 </rss>

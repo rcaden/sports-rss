@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:37:13 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Three Italian friends turn a lost wedding ring into a Tolkien quest</title>
+      <link>https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/</link>
+      <description>Three friends spent days searching a fast Italian stream for an Irish tourist&apos;s lost wedding ring, finally finding it with snorkeling gear. They then flew to Ireland dressed as hobbits to return the &apos;precious&apos; in person, earning a tour, dinner and three new lifelong friends.</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/3-italian-hobbits-searched-for-irishmans-precious-wedding-ring-for-days-before-bringing-it-to-his-home/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>A first-grade positivity ritual spreads across a Kansas school</title>
+      <link>https://www.goodnewsnetwork.org/one-teachers-idea-for-daily-positivity-practice-sweeps-through-his-elementary-school/</link>
+      <description>Teacher Tyler Richards ends each day with his first-graders reciting affirmations such as &apos;I am kind&apos; and &apos;I can do hard things.&apos; The practice proved so popular at Rex Elementary in Haysville that other classes adopted it and students began suggesting their own variations.</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/one-teachers-idea-for-daily-positivity-practice-sweeps-through-his-elementary-school/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Solar shade nearly triples the weight of Italian grape bunches</title>
+      <link>https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/</link>
+      <description>A University of Bari vineyard study found grape bunches grown beneath solar panels weighed nearly three times as much as those in full sun. The partial shade also produced longer shoots, less heat stress and lower irrigation needs while the panels generated electricity.</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/vines-produce-bigger-healthier-wine-grapes-when-grown-under-solar-panels/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
     <item>
       <title>Senior dog surrendered for euthanasia finds a new family</title>
       <link>https://www.washingtonpost.com/lifestyle/2026/10/23/senior-dog-was-given-up-euthanasia-stranger-gave-her-new-life/</link>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/unprecedented-collab-between-china-and-the-met-uncovers-secrets-of-chinese-mural-during-exhaustive-reproduction/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>A village knits its own traffic police to slow drivers</title>
-      <link>https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/</link>
-      <description>Residents of Fillongley, England, installed life-size knitted police officers and speed cameras at a dangerous junction. The woolly patrol took four months to make, and villagers say drivers are already braking when they spot it.</description>
-      <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/village-installs-knitted-traffic-cops-to-slow-speeding-drivers/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Retired couple receives a surprise new heating and cooling system</title>
-      <link>https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/</link>
-      <description>Diane and Brian Johnsen of Beaverton, Oregon, were surprised with a new heating and cooling system worth about $16,000. The gift came through Lennox’s Feel the Love program, which has helped more than 3,100 families since 2009.</description>
-      <pubDate>Sun, 18 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/retired-couple-surprised-with-new-hvac-system-worth-16k/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Eight rescued orangutans return to a protected Borneo forest</title>
-      <link>https://apnews.com/article/677ea800733334d3d2e45cbfcd9e4861</link>
-      <description>Conservationists released eight endangered orangutans into Indonesia’s protected Batu Nyambu forest after rescuing them from wildfires. The group includes three mothers with infants and two adolescent males; all had recovered from dehydration and malnutrition.</description>
-      <pubDate>Tue, 13 Oct 2026 10:26:36 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/677ea800733334d3d2e45cbfcd9e4861</guid>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

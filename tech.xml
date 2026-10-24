@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:37:13 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>The foundation supporting PHP says it is severely underfunded</title>
+      <link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</link>
+      <description>Following this week&apos;s emergency security patches, PHP Foundation director Elizabeth Barron says the nonprofit supporting software used by most websites has one full-time employee and 14 mostly part-time contractors. Its unpaid board and donation-funded operation face nearly twice as many proposed code changes as a year ago.</description>
+      <pubDate>Fri, 23 Oct 2026 21:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Senator asks Meta to withdraw terms affecting publishers and creators</title>
+      <link>https://www.reuters.com/world/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-2026-10-23/</link>
+      <description>Senator Marsha Blackburn says Meta&apos;s revised commercial terms still grant sweeping authority over content on sites tied to business accounts. Meta delayed the change from October 30 to November 20, says robots.txt preferences remain intact and disputes claims that the terms create unlimited rights.</description>
+      <pubDate>Fri, 23 Oct 2026 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-2026-10-23/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>A fabricated pollster exposes weak vetting by news aggregators</title>
+      <link>https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</link>
+      <description>Wedgewood Polls admitted that its surveys were fabricated, claiming the operation was a test of media safeguards. Its numbers appeared in major national outlets before FiftyPlusOne questioned the data; the New York Times has removed roughly 15 Wedgewood polls from its election coverage.</description>
+      <pubDate>Fri, 23 Oct 2026 18:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</guid>
+      <source url="https://time.com/">TIME</source>
+    </item>
     <item>
       <title>Inoreader publishes a live ranking of the web&apos;s most-followed news feeds</title>
       <link>https://www.inoreader.com/rss-feeds/news</link>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 19 Oct 2026 13:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Britain puts Microsoft’s software bundling under scrutiny</title>
-      <link>https://www.reuters.com/legal/litigation/uk-competition-regulator-targets-microsofts-business-software-grip-2026-10-16/</link>
-      <description>Britain’s competition regulator proposed giving Microsoft strategic market status, opening the door to rules on bundling, licensing and customer switching. The review will ask whether organizations can combine Microsoft products with alternatives and whether cloud users face barriers to moving providers.</description>
-      <pubDate>Fri, 16 Oct 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/uk-competition-regulator-targets-microsofts-business-software-grip-2026-10-16/</guid>
-      <source url="https://www.reuters.com/technology/">Reuters</source>
-    </item>
-    <item>
-      <title>Publishers join Google licensing program as referral traffic falls</title>
-      <link>https://www.reuters.com/business/media-telecom/cnn-signs-multi-year-ai-partnership-with-google-2026-10-15/</link>
-      <description>CNN, Axios, the Financial Times and other publishers joined a Google program that pays for expanded content rights. Google says its generated features will attribute and link to sources, while news organizations seek compensation and ways to counter declining search referrals.</description>
-      <pubDate>Thu, 15 Oct 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/cnn-signs-multi-year-ai-partnership-with-google-2026-10-15/</guid>
-      <source url="https://www.reuters.com/business/media-telecom/">Reuters</source>
-    </item>
-    <item>
-      <title>Sharks lose late lead in Detroit shootout</title>
-      <link>https://www.reuters.com/sports/nhl/red-wings-rally-late-beat-sharks-shootout--flm-2026-10-18/</link>
-      <description>San Jose led 3-1 in the third period but fell 4-3 after Detroit tied the game with 1:33 left and won the shootout. Macklin Celebrini had a goal and two assists for the Sharks, who slipped to 1-2-1 over their past four games.</description>
-      <pubDate>Sun, 18 Oct 2026 02:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/red-wings-rally-late-beat-sharks-shootout--flm-2026-10-18/</guid>
-      <source url="https://www.reuters.com/sports/nhl/">Reuters</source>
     </item>
   </channel>
 </rss>

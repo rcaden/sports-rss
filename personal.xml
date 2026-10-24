@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:37:13 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>ServiceNow documents how REST endpoint ACLs layer over table access</title>
+      <link>https://www.servicenow.com/docs/r/api-reference/rest-api-explorer/t_WbSvcRqACL.html</link>
+      <description>ServiceNow&apos;s current guidance says Scripted REST requests already respect table ACLs, while a REST_Endpoint ACL can add another gate to the entire API. A caller must satisfy at least one selected endpoint ACL, and individual resources can override the API-wide setting.</description>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.servicenow.com/docs/r/api-reference/rest-api-explorer/t_WbSvcRqACL.html</guid>
+      <source url="https://www.servicenow.com/docs/">ServiceNow</source>
+    </item>
+    <item>
+      <title>Library of Congress traces the Black creators behind Golden Legacy</title>
+      <link>https://blogs.loc.gov/headlinesandheroes/2021/03/lets-talk-comics-golden-legacy/</link>
+      <description>The Library of Congress recounts how Bertram A. Fitzgerald published 16 issues of Golden Legacy from 1966 to 1976. Fitzgerald wrote and edited early issues, then hired Black creators including Tom Feelings, Joan Bacchus Maynard and Ezra Jackson to dramatize Black history.</description>
+      <pubDate>Wed, 24 Mar 2021 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.loc.gov/headlinesandheroes/2021/03/lets-talk-comics-golden-legacy/</guid>
+      <source url="https://blogs.loc.gov/">Library of Congress</source>
+    </item>
+    <item>
+      <title>YouTube&apos;s faster Content ID appeal path carries a higher risk</title>
+      <link>https://www.tubefilter.com/2022/07/19/youtube-content-id-appeal-shortened/</link>
+      <description>YouTube shortened the claimant response window for Content ID appeals from 30 days to seven and added a route that can skip the initial dispute for blocked videos. The tradeoff matters: if the claimant rejects an appeal, the next step can be a formal removal request and a channel strike.</description>
+      <pubDate>Tue, 19 Jul 2022 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tubefilter.com/2022/07/19/youtube-content-id-appeal-shortened/</guid>
+      <source url="https://www.tubefilter.com/">Tubefilter</source>
+    </item>
     <item>
       <title>Composer 2.11 release candidate adds safer package policies</title>
       <link>https://github.com/composer/composer/releases/tag/2.11.0-RC1</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling</guid>
       <source url="https://developer.mozilla.org/">MDN Web Docs</source>
-    </item>
-    <item>
-      <title>Document Management connects ServiceNow records to external cloud files</title>
-      <link>https://www.servicenow.com/docs/r/servicenow-platform/document-management-services/integration-external-content-providers.html</link>
-      <description>ServiceNow’s documentation explains how Document Management can connect OneDrive and Google Drive so users can view and manage externally stored files from the platform. It is a useful architectural option for new document workflows, though it is not presented as an automatic migration path for existing attachments.</description>
-      <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.servicenow.com/docs/r/servicenow-platform/document-management-services/integration-external-content-providers.html</guid>
-      <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
-    </item>
-    <item>
-      <title>A Sonic Advance decompilation opens the Tiny Chao Garden</title>
-      <link>https://github.com/SAT-R/sa2</link>
-      <description>The SAT-R project is rebuilding Sonic Advance 1 and 2 from matching C source and includes the Tiny Chao Garden multiboot game as a tracked subproject. Its builds already target desktop and several consoles, making the repository a useful map of both preservation work and portable fan development.</description>
-      <pubDate>Fri, 08 May 2026 02:10:37 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/SAT-R/sa2</guid>
-      <source url="https://github.com/SAT-R/sa2">SAT-R on GitHub</source>
-    </item>
-    <item>
-      <title>Glenn Davis returns to tell the story of the early web</title>
-      <link>https://zeldman.com/2022/05/20/he-built-this-city-the-return-of-glenn-davis/</link>
-      <description>Jeffrey Zeldman revisits Glenn Davis, whose Cool Site of the Day helped define early web culture and the daily-link format. The piece traces Davis’s influence, disappearance and return with Verevolf, a fitting bit of archaeology about how independent web publishing found its voice.</description>
-      <pubDate>Fri, 20 May 2022 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://zeldman.com/2022/05/20/he-built-this-city-the-return-of-glenn-davis/</guid>
-      <source url="https://zeldman.com/">Jeffrey Zeldman Presents</source>
     </item>
   </channel>
 </rss>

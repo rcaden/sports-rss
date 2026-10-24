@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:37:13 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Bayern says Kompany is stable after training-ground collapse</title>
+      <link>https://www.reuters.com/sports/soccer/bayern-boss-kompany-stable-sidelined-weeks-says-club-director-2026-10-24/</link>
+      <description>Bayern Munich says manager Vincent Kompany remains hospitalized in stable condition after collapsing during reserve-team training. The 40-year-old had been battling a virus and will be sidelined for weeks while doctors determine the cause; assistant Aaron Danks will take charge.</description>
+      <pubDate>Sat, 24 Oct 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/bayern-boss-kompany-stable-sidelined-weeks-says-club-director-2026-10-24/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Brewers survive ninth-inning scare to win World Series opener</title>
+      <link>https://www.reuters.com/sports/baseball/brewers-survive-harrowing-9th-edge-rays-world-series-opener--flm-2026-10-24/</link>
+      <description>Milwaukee beat Tampa Bay 3-2 in Game 1, stranding the tying run at third after replay overturned an apparent game-ending double play. Jacob Misiorowski allowed one run in five innings and opened with a 103.5 mph fastball, the fastest pitch recorded in World Series history.</description>
+      <pubDate>Sat, 24 Oct 2026 03:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/brewers-survive-harrowing-9th-edge-rays-world-series-opener--flm-2026-10-24/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Leclerc leads U.S. Grand Prix practice as Antonelli nears history</title>
+      <link>https://www.reuters.com/sports/formula1/leclerc-laps-fastest-ferrari-first-us-gp-practice-2026-10-23/</link>
+      <description>Charles Leclerc topped both Friday practice sessions in Austin, with championship leader Kimi Antonelli just 0.042 seconds behind in the second. The 20-year-old Mercedes driver can become Formula One&apos;s youngest champion on Sunday if he wins and other results fall his way.</description>
+      <pubDate>Fri, 23 Oct 2026 19:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/leclerc-laps-fastest-ferrari-first-us-gp-practice-2026-10-23/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Olympic marathon champion Jepchirchir suspended after EPO finding</title>
       <link>https://www.reuters.com/sports/olympic-champion-jepchirchir-provisionally-suspended-by-aiu-over-epo-finding-2026-10-23/</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 16 Oct 2026 13:43:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/knicks-chase-back-to-back-banner-nba-built-stop-dynasties-2026-10-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Rays move one win from World Series behind Rasmussen</title>
-      <link>https://www.reuters.com/sports/baseball/drew-rasmussen-pitches-rays-3-2-alcs-series-lead-over-guardians--flm-2026-10-19/</link>
-      <description>Tampa Bay beat Cleveland 3-1 in Game 5 to take a 3-2 ALCS lead, a major step beyond Sunday’s 2-2 tie. Drew Rasmussen allowed one run over seven innings, and the Rays return home needing one victory for their first World Series trip since 2020.</description>
-      <pubDate>Mon, 19 Oct 2026 00:20:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/drew-rasmussen-pitches-rays-3-2-alcs-series-lead-over-guardians--flm-2026-10-19/</guid>
-      <source url="https://www.reuters.com/sports/">Reuters</source>
-    </item>
-    <item>
-      <title>Texans edge Jaguars in London on last-second field goal</title>
-      <link>https://www.reuters.com/sports/nfl/kaimi-fairbairn-kicks-texans-past-jaguars-london--flm-2026-10-18/</link>
-      <description>Ka’imi Fairbairn kicked a 49-yard field goal as time expired to give Houston a 34-31 win over Jacksonville. C.J. Stroud threw for 312 yards and three touchdowns, while Travis Hunter Jr. became the first NFL player since 2002 with a touchdown catch and an interception in the same game.</description>
-      <pubDate>Sun, 18 Oct 2026 17:10:25 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/kaimi-fairbairn-kicks-texans-past-jaguars-london--flm-2026-10-18/</guid>
-      <source url="https://www.reuters.com/sports/nfl/">Reuters</source>
-    </item>
-    <item>
-      <title>Manchester City stays perfect as Haaland reaches a milestone</title>
-      <link>https://www.reuters.com/sports/soccer/citys-flying-start-comes-cost-with-haaland-limping-off-2026-10-17/</link>
-      <description>Manchester City beat Ipswich 3-2 for a seventh win in seven Premier League matches. Erling Haaland scored twice, becoming the fastest player to 100 non-penalty league goals, but limped off late and left City waiting on his fitness.</description>
-      <pubDate>Sat, 17 Oct 2026 17:56:04 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/citys-flying-start-comes-cost-with-haaland-limping-off-2026-10-17/</guid>
-      <source url="https://www.reuters.com/sports/soccer/">Reuters</source>
     </item>
   </channel>
 </rss>

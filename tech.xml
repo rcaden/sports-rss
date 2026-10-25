@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 12:37:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:11:36 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Czech public-media overhaul advances after a 4:36 a.m. vote</title>
+      <link>https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</link>
+      <description>A fast-tracked bill would replace household fees with state funding for Czech Television and Czech Radio, cutting their budgets about 15 percent and freezing them for years. Broadcasters, journalists and civic groups warn that the shift could expose trusted public media to political pressure.</description>
+      <pubDate>Sat, 24 Oct 2026 08:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Florida and Georgia can begin enforcing social-media age gates</title>
+      <link>https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</link>
+      <description>Federal appeals rulings lifted injunctions against state laws restricting accounts for people under 16. EFF says the rules burden young people&apos;s speech and push adults toward intrusive age checks, and it is asking users to document lost access, misclassification and demands for sensitive data.</description>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</guid>
+      <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
+    </item>
+    <item>
+      <title>One in four podcast listeners says candidate appearances may sway a vote</title>
+      <link>https://podnews.net/update/politics-podcast-appearances</link>
+      <description>New U.S. survey data reported by Podnews finds that podcast audiences are nearly even across party lines, while independents spend the most time listening. The result makes candidate podcast interviews a meaningful part of midterm campaigning rather than a niche media tactic.</description>
+      <pubDate>Mon, 19 Oct 2026 06:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/politics-podcast-appearances</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
     <item>
       <title>The foundation supporting PHP says it is severely underfunded</title>
       <link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</link>
@@ -58,14 +82,6 @@
       <source url="https://www.cjr.org/">Columbia Journalism Review</source>
     </item>
     <item>
-      <title>Brewster Kahle argues that the web&apos;s memory must survive</title>
-      <link>https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/</link>
-      <description>The Internet Archive founder says publishers blocking the Wayback Machine to deter commercial scraping will instead erase evidence used by journalists, researchers and courts. He argues that preservation can coexist with rate limits and safeguards against abusive bulk extraction.</description>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/</guid>
-      <source url="https://www.theatlantic.com/">The Atlantic</source>
-    </item>
-    <item>
       <title>Slate&apos;s 1996 homepage offers lessons for the 2026 web</title>
       <link>https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/</link>
       <description>A 30th-anniversary revival of Slate&apos;s original homepage made its editors appreciate sparse layouts, mixed subject matter, direct traffic and text-first presentation. The exercise is influencing a redesign, with one modern constraint the old site never faced: adapting the simplicity to phones.</description>
@@ -112,22 +128,6 @@
       <pubDate>Tue, 20 Oct 2026 04:56:00 GMT</pubDate>
       <guid isPermaLink="true">https://podnews.net/update/wtf-video</guid>
       <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>FCC urged to reject synthetic-voice political robocalls</title>
-      <link>https://www.reuters.com/world/us/senator-urges-fcc-reject-conservative-groups-bid-use-political-ai-generated-2026-10-19/</link>
-      <description>Senate leader Chuck Schumer asked the FCC to deny a petition that would allow prerecorded political calls using synthetic voices without prior express consent. The agency says it has no plans to grant the request; public-interest groups warn the change would weaken a key defense against deceptive election messages.</description>
-      <pubDate>Mon, 19 Oct 2026 12:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/us/senator-urges-fcc-reject-conservative-groups-bid-use-political-ai-generated-2026-10-19/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>U.S. orders DeepSeek removed from civilian agency systems</title>
-      <link>https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</link>
-      <description>The Department of Homeland Security ordered civilian federal agencies to remove DeepSeek products and third-party services that use them from their systems. The directive also blocks new acquisitions, citing risks involving data transfer to China, malicious code and software vulnerabilities.</description>
-      <pubDate>Mon, 19 Oct 2026 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

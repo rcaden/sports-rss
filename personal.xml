@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 12:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:24:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+        <item>
+      <title>St. Augustine’s Ximenez-Fatio House wins $750,000 preservation grant</title>
+      <link>https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</link>
+      <description>The 1798 coquina house will receive a three-year National Park Service grant for interior and exterior preservation. The museum interprets Spanish, Minorcan, colonial and 228 years of African American history, with archaeology reaching back to pre-Columbian times.</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</guid>
+      <source url="https://totallystaugustine.com/">Totally St. Augustine</source>
+    </item>
+    <item>
+      <title>The XML-RPC spec’s timezone answer is still a warning for implementors</title>
+      <link>https://xmlrpc.com/spec.md</link>
+      <description>Dave Winer’s compact XML-RPC specification leaves dateTime.iso8601 timezone assumptions to each server’s documentation. That small ambiguity explains why compatible implementations still need an explicit convention rather than silently treating timestamps as local time or UTC.</description>
+      <pubDate>Tue, 15 Jun 1999 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xmlrpc.com/spec.md</guid>
+      <source url="https://xmlrpc.com/">XML-RPC.com</source>
+    </item>
+    <item>
+      <title>Public Domain Day guide maps the tangled rights inside classic characters</title>
+      <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
+      <description>Duke’s 2026 guide separates expired copyrights, unrenewed works, later protected additions and trademarks. Its Betty Boop and Mickey examples show why a character can be free to reuse in one form while later plots, dialogue or designs remain protected.</description>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://cspd.law.duke.edu/publicdomainday/2026</guid>
+      <source url="https://cspd.law.duke.edu/">Center for the Study of the Public Domain</source>
+    </item>
     <item>
       <title>FeedLand&apos;s public package separates the server API from its database layer</title>
       <link>https://github.com/scripting/feedland</link>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://governorshouselibrary.wordpress.com/2026/07/06/new-digital-exhibit-florida-at-war/</guid>
       <source url="https://governorshouselibrary.wordpress.com/">Governor&apos;s House Library</source>
-    </item>
-    <item>
-      <title>Fawcett&apos;s Dan Dare was a private detective, not Britain&apos;s space pilot</title>
-      <link>https://www.comics.org/issue/651/?issue_detail=2</link>
-      <description>Whiz Comics No. 2 introduced a different Dan Dare a decade before Eagle&apos;s famous space hero. Bill Parker and Gregor Duncan&apos;s eight-page detective story sends Dan and assistant Carol Clews to Florida, where a murder inquiry uncovers drug smuggling. The feature continued through Whiz No. 22.</description>
-      <pubDate>Thu, 01 Feb 1940 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.comics.org/issue/651/?issue_detail=2</guid>
-      <source url="https://www.comics.org/">Grand Comics Database</source>
-    </item>
-    <item>
-      <title>The economics that pushed mass-market paperbacks off the spinner rack</title>
-      <link>https://www.theguardian.com/books/2026/feb/24/america-says-goodbye-paperback</link>
-      <description>Mass-market paperback sales fell from 131 million copies in 2004 to 21 million in 2024 as distributors abandoned the format. The account explains why its old advantages—cheap production, magazine-style distribution and portability—have eroded, while also making the case for the pocket book&apos;s democratic cultural value.</description>
-      <pubDate>Tue, 24 Feb 2026 10:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2026/feb/24/america-says-goodbye-paperback</guid>
-      <source url="https://www.theguardian.com/">The Guardian</source>
-    </item>
-    <item>
-      <title>A practical map for checking copyright renewals on comic-book issues</title>
-      <link>https://onlinebooks.library.upenn.edu/cce/decisions.html</link>
-      <description>The University of Pennsylvania&apos;s guide explains that renewal records for entire serial issues generally appear in the Periodicals volumes of the Catalog of Copyright Entries. Separate contributions can require a different search. That distinction is crucial when a comic&apos;s issue-level renewal and an individual story&apos;s status may diverge.</description>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://onlinebooks.library.upenn.edu/cce/decisions.html</guid>
-      <source url="https://onlinebooks.library.upenn.edu/">The Online Books Page</source>
     </item>
   </channel>
 </rss>

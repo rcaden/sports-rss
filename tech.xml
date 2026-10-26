@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 12:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:24:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+        <item>
+      <title>FCC commissioner urges broadcasters to push back against agency pressure</title>
+      <link>https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</link>
+      <description>Anna Gomez, the FCC’s sole Democratic commissioner, called on networks and stations to challenge administration actions more aggressively. The warning raises a direct question about whether broadcasters will defend editorial independence when regulators apply political pressure.</description>
+      <pubDate>Sat, 24 Oct 2026 01:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Denmark’s government-scale open-source desktop pilot expands</title>
+      <link>https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</link>
+      <description>Denmark’s SIA Open project is building a centrally managed public-sector desktop independent of a single vendor. Fewer than 10 Road Safety Authority employees are testing it now, 30 to 50 more are next, and all 166 client organizations could order it after the February 2027 release.</description>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</guid>
+      <source url="https://interoperable-europe.ec.europa.eu/">Interoperable Europe Portal</source>
+    </item>
+    <item>
+      <title>Bruins’ four-goal third period stops the Sharks’ winning streak</title>
+      <link>https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</link>
+      <description>San Jose led 3-2 early in the third, but Boston scored three straight and won 6-4. David Pastrnak’s 427th career goal tied Patrice Bergeron for third in Bruins history, while the Sharks’ Michael Misa, Kiefer Sherwood, Dmitry Orlov and Will Smith scored.</description>
+      <pubDate>Sun, 25 Oct 2026 02:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Czech public-media overhaul advances after a 4:36 a.m. vote</title>
       <link>https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</link>
@@ -104,30 +128,6 @@
       <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
-    </item>
-    <item>
-      <title>Privacy Badger reaches Safari on the Mac</title>
-      <link>https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos</link>
-      <description>EFF&apos;s free tracker-blocking extension is now available for Safari 26.5 and newer on macOS, giving it coverage across every major desktop browser. Privacy Badger blocks trackers rather than merely limiting their data access, replaces tracking widgets with click-to-activate panels and sends the Global Privacy Control signal.</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos</guid>
-      <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
-    </item>
-    <item>
-      <title>Kagan says Supreme Court rulings have damaged American democracy</title>
-      <link>https://www.reuters.com/world/us/us-high-court-rulings-have-been-destructive-democracy-justice-kagan-says-2026-10-21/</link>
-      <description>Justice Elena Kagan says the court&apos;s conservative majority has encouraged a partisan redistricting “race to the bottom” and underestimated the real-world effects of election-law decisions. She also called the surge of money following a June campaign-finance ruling a corruption risk and a nightmare for voters.</description>
-      <pubDate>Wed, 21 Oct 2026 01:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/us/us-high-court-rulings-have-been-destructive-democracy-justice-kagan-says-2026-10-21/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>WTF finds a human-made way to give an old podcast new life</title>
-      <link>https://podnews.net/update/wtf-video</link>
-      <description>Marc Maron&apos;s closed WTF show has republished its 2011 Norm Macdonald interview as a two-hour visual presentation on YouTube. The production adds photographs and contextual material without pretending to animate the conversation, offering a thoughtful model for making valuable audio archives newly discoverable.</description>
-      <pubDate>Tue, 20 Oct 2026 04:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/wtf-video</guid>
-      <source url="https://podnews.net/">Podnews</source>
     </item>
   </channel>
 </rss>

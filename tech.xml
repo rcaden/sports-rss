@@ -5,11 +5,35 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:12:13 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-        <item>
+            <item>
+      <title>Indian publishers challenge privacy law as a threat to investigative reporting</title>
+      <link>https://www.reuters.com/business/media-telecom/ambani-adani-outlets-among-indian-publishers-contesting-modis-privacy-law-2026-10-26/</link>
+      <description>Reuters reports that 21 publishers asked India’s Supreme Court to strike provisions that could require consent from investigation subjects, compel deletion of published reports and expose confidential sources. The case is a major test of privacy rules against press freedom.</description>
+      <pubDate>Mon, 26 Oct 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/ambani-adani-outlets-among-indian-publishers-contesting-modis-privacy-law-2026-10-26/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>TPAC puts practical web standards and browser interoperability on the table</title>
+      <link>https://www.w3.org/calendar/tpac2026/breakout-sessions/</link>
+      <description>W3C’s 2026 breakout agenda spans semantic HTML, accessibility testing, browser extensions, client-side includes, privacy and the organizations that shape standards. The public session descriptions show how open-web proposals move from developer needs toward interoperable specifications.</description>
+      <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.w3.org/calendar/tpac2026/breakout-sessions/</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
+    <item>
+      <title>WordPress portability helps restore a 6,500-post journalism archive</title>
+      <link>https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</link>
+      <description>When a Basque broadcaster shut down its blog network, journalist Roge Blasco’s 18-year travel archive disappeared. Because the original site used WordPress, its 6,500 posts could be exported, restored with audio and photos, and relaunched on an independent address.</description>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</guid>
+      <source url="https://wordpress.com/">WordPress.com</source>
+    </item>
+    <item>
       <title>FCC commissioner urges broadcasters to push back against agency pressure</title>
       <link>https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</link>
       <description>Anna Gomez, the FCC’s sole Democratic commissioner, called on networks and stations to challenge administration actions more aggressively. The warning raises a direct question about whether broadcasters will defend editorial independence when regulators apply political pressure.</description>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.cjr.org/the_media_today/democracy-now-social-reckoning-big-tech-federal-government-accountability-evasion-tactics-white-house-press-pool-zuckerberg-trump-sorkin.php</guid>
       <source url="https://www.cjr.org/">Columbia Journalism Review</source>
-    </item>
-    <item>
-      <title>Slate&apos;s 1996 homepage offers lessons for the 2026 web</title>
-      <link>https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/</link>
-      <description>A 30th-anniversary revival of Slate&apos;s original homepage made its editors appreciate sparse layouts, mixed subject matter, direct traffic and text-first presentation. The exercise is influencing a redesign, with one modern constraint the old site never faced: adapting the simplicity to phones.</description>
-      <pubDate>Tue, 13 Oct 2026 19:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/when-slate-went-back-to-its-1996-homepage-it-learned-some-web-design-lessons-for-2026/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-    <item>
-      <title>Urgent PHP fixes trigger a global website security scramble</title>
-      <link>https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/</link>
-      <description>PHP released fixes for critical flaws already being exploited, prompting government sites and other services to go offline while operators patched. The language underpins WordPress, Drupal, Joomla and Magento; security agencies urged immediate updates, while about 1.5 million visible hosts reported versions with no fix.</description>
-      <pubDate>Wed, 21 Oct 2026 07:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/eu-agency-warns-websites-may-need-be-taken-offline-php-prepares-patches-2026-10-21/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>WordPress 7.2 enters beta with a Secrets API and faster media handling</title>
-      <link>https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/</link>
-      <description>WordPress 7.2 Beta 1 adds responsive design controls, browser-side image processing, easier navigation management and a standard API for securely storing credentials. It also brings notes onto the editor canvas and adds an “On This Day” widget. The final release is scheduled for December 8.</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-2-beta-1-is-ready-for-download-and-testing/</guid>
-      <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
   </channel>
 </rss>

@@ -5,129 +5,143 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:04:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-            <item>
-      <title>How Dynamite’s public-domain Tarzan comics ended in a licensed settlement</title>
-      <link>https://www.comicslawyer.com/2018/06/tarzan-john-carter-trademarks-and.html</link>
-      <description>A comics-law analysis revisits the dispute over Dynamite’s Lord of the Jungle and Warlord of Mars. The case ended before a ruling: Dynamite argued the source novels were public domain, then settled and obtained licenses covering Tarzan and John Carter.</description>
-      <pubDate>Fri, 01 Jun 2018 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.comicslawyer.com/2018/06/tarzan-john-carter-trademarks-and.html</guid>
-      <source url="https://www.comicslawyer.com/">Comics Lawyer</source>
-    </item>
     <item>
-      <title>Restic explains how full snapshots share deduplicated backup data</title>
-      <link>https://forum.restic.net/t/does-deduplication-apply-to-multiple-archives-in-repositories/8687</link>
-      <description>Restic stores each snapshot as a complete view while uploading only changed chunks. Deleting an older snapshot does not break newer ones because snapshot metadata points to shared repository data; pruning removes chunks no remaining snapshot needs.</description>
-      <pubDate>Sun, 10 Nov 2024 13:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://forum.restic.net/t/does-deduplication-apply-to-multiple-archives-in-repositories/8687</guid>
-      <source url="https://forum.restic.net/">Restic Forum</source>
+      <title>AC Comics traces Femforce from mail-order fanzines to issue 200</title>
+      <link>https://www.accomics.com/about-us-ac-comics/history/</link>
+      <description>AC Comics recounts Bill Black&apos;s path from 1969 mail-order Paragon publications to the 1980s direct market and the long-running Femforce. The company survived the independent-comics glut, returned the series to color and published issue 200 in 2023.</description>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.accomics.com/about-us-ac-comics/history/</guid>
+      <source url="https://www.accomics.com/">AC Comics</source>
     </item>
+
     <item>
-      <title>File 770 rounds up new robot fiction, comics and a November reading</title>
-      <link>https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</link>
-      <description>Mike Glyer’s latest Pixel Scroll collects comics links and previews a Fantastic Fiction at KGB event with James Patrick Kelly and Stephanie Feldman. Kelly’s new collection gathers 30 years of robot stories, while Feldman has a new short-story collection.</description>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</guid>
-      <source url="https://file770.com/">File 770</source>
+      <title>ServiceNow explains how multiple transform maps expand import-set rows</title>
+      <link>https://www.servicenow.com/docs/r/integrate-applications/system-import-sets/c_CreatingNewTransformMaps.html</link>
+      <description>The current transform-map documentation notes that one import-set row is created per map and that selected maps run against the same set in a defined order. It also reviews reference-field costs, direct scripted assignment and event-script contexts.</description>
+      <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.servicenow.com/docs/r/integrate-applications/system-import-sets/c_CreatingNewTransformMaps.html</guid>
+      <source url="https://www.servicenow.com/">ServiceNow</source>
     </item>
+
     <item>
-      <title>St. Augustine’s Ximenez-Fatio House wins $750,000 preservation grant</title>
-      <link>https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</link>
-      <description>The 1798 coquina house will receive a three-year National Park Service grant for interior and exterior preservation. The museum interprets Spanish, Minorcan, colonial and 228 years of African American history, with archaeology reaching back to pre-Columbian times.</description>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</guid>
-      <source url="https://totallystaugustine.com/">Totally St. Augustine</source>
+      <title>Walter Koenig discusses the writing life beyond Chekov</title>
+      <link>https://www.dailystartreknews.com/read/interview-walter-koenig-on-his-hollywood-start-social-justice-and-of-course-star-trek</link>
+      <description>In a wide-ranging interview tied to his memoir, Koenig talks about Hollywood, social responsibility and the pleasure of writing. His books include the filming journal Chekov&apos;s Enterprise, memoirs and the science-fiction novel Buck Alice and the Actor-Robot.</description>
+      <pubDate>Mon, 01 Mar 2021 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.dailystartreknews.com/read/interview-walter-koenig-on-his-hollywood-start-social-justice-and-of-course-star-trek</guid>
+      <source url="https://www.dailystartreknews.com/">Daily Star Trek News</source>
     </item>
+
     <item>
-      <title>The XML-RPC spec’s timezone answer is still a warning for implementors</title>
-      <link>https://xmlrpc.com/spec.md</link>
-      <description>Dave Winer’s compact XML-RPC specification leaves dateTime.iso8601 timezone assumptions to each server’s documentation. That small ambiguity explains why compatible implementations still need an explicit convention rather than silently treating timestamps as local time or UTC.</description>
-      <pubDate>Tue, 15 Jun 1999 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://xmlrpc.com/spec.md</guid>
-      <source url="https://xmlrpc.com/">XML-RPC.com</source>
-    </item>
+          <title>How Dynamite’s public-domain Tarzan comics ended in a licensed settlement</title>
+          <link>https://www.comicslawyer.com/2018/06/tarzan-john-carter-trademarks-and.html</link>
+          <description>A comics-law analysis revisits the dispute over Dynamite’s Lord of the Jungle and Warlord of Mars. The case ended before a ruling: Dynamite argued the source novels were public domain, then settled and obtained licenses covering Tarzan and John Carter.</description>
+          <pubDate>Fri, 01 Jun 2018 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.comicslawyer.com/2018/06/tarzan-john-carter-trademarks-and.html</guid>
+          <source url="https://www.comicslawyer.com/">Comics Lawyer</source>
+        </item>
+
     <item>
-      <title>Public Domain Day guide maps the tangled rights inside classic characters</title>
-      <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
-      <description>Duke’s 2026 guide separates expired copyrights, unrenewed works, later protected additions and trademarks. Its Betty Boop and Mickey examples show why a character can be free to reuse in one form while later plots, dialogue or designs remain protected.</description>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://cspd.law.duke.edu/publicdomainday/2026</guid>
-      <source url="https://cspd.law.duke.edu/">Center for the Study of the Public Domain</source>
-    </item>
+          <title>Restic explains how full snapshots share deduplicated backup data</title>
+          <link>https://forum.restic.net/t/does-deduplication-apply-to-multiple-archives-in-repositories/8687</link>
+          <description>Restic stores each snapshot as a complete view while uploading only changed chunks. Deleting an older snapshot does not break newer ones because snapshot metadata points to shared repository data; pruning removes chunks no remaining snapshot needs.</description>
+          <pubDate>Sun, 10 Nov 2024 13:38:00 GMT</pubDate>
+          <guid isPermaLink="true">https://forum.restic.net/t/does-deduplication-apply-to-multiple-archives-in-repositories/8687</guid>
+          <source url="https://forum.restic.net/">Restic Forum</source>
+        </item>
+
     <item>
-      <title>FeedLand&apos;s public package separates the server API from its database layer</title>
-      <link>https://github.com/scripting/feedland</link>
-      <description>The FeedLand package is useful reading for a compatible PHP port because it exposes the server application, documents a separate database package and carries the project&apos;s GPL-2.0 license. The repository offers a concrete map of the upstream contracts an independent implementation must preserve.</description>
-      <pubDate>Mon, 24 Apr 2023 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/scripting/feedland</guid>
-      <source url="https://github.com/">GitHub</source>
-    </item>
+          <title>File 770 rounds up new robot fiction, comics and a November reading</title>
+          <link>https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</link>
+          <description>Mike Glyer’s latest Pixel Scroll collects comics links and previews a Fantastic Fiction at KGB event with James Patrick Kelly and Stephanie Feldman. Kelly’s new collection gathers 30 years of robot stories, while Feldman has a new short-story collection.</description>
+          <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</guid>
+          <source url="https://file770.com/">File 770</source>
+        </item>
+
     <item>
-      <title>An rssCloud implementor explains why thin pings keep the server simple</title>
-      <link>https://andrewshell.org/notes/rsscloud-server/</link>
-      <description>Andrew Shell&apos;s implementation notes contrast rssCloud&apos;s URL-only notification with WebSub&apos;s content-bearing ping. The distinction is practical for a FeedLand-compatible subscriber: the cloud stays lightweight, while feed fetching, parsing and deduplication remain the client&apos;s responsibility.</description>
-      <pubDate>Wed, 12 Jun 2024 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://andrewshell.org/notes/rsscloud-server/</guid>
-      <source url="https://andrewshell.org/">Andrew Shell&apos;s Weblog</source>
-    </item>
+          <title>St. Augustine’s Ximenez-Fatio House wins $750,000 preservation grant</title>
+          <link>https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</link>
+          <description>The 1798 coquina house will receive a three-year National Park Service grant for interior and exterior preservation. The museum interprets Spanish, Minorcan, colonial and 228 years of African American history, with archaeology reaching back to pre-Columbian times.</description>
+          <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</guid>
+          <source url="https://totallystaugustine.com/">Totally St. Augustine</source>
+        </item>
+
     <item>
-      <title>Jacksonville&apos;s road-first growth explains its long transit struggle</title>
-      <link>https://jaxhistory.org/mass-transit-in-a-sunbelt-city/</link>
-      <description>Historian Alan Bliss traces how flat land, suburban expansion, cheap parking and an expressway authority built around road engineering marginalized Jacksonville transit. The essay connects those inherited assumptions to today&apos;s JTA financial crisis and the city&apos;s renewed debate over a future system.</description>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxhistory.org/mass-transit-in-a-sunbelt-city/</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
-    </item>
+          <title>The XML-RPC spec’s timezone answer is still a warning for implementors</title>
+          <link>https://xmlrpc.com/spec.md</link>
+          <description>Dave Winer’s compact XML-RPC specification leaves dateTime.iso8601 timezone assumptions to each server’s documentation. That small ambiguity explains why compatible implementations still need an explicit convention rather than silently treating timestamps as local time or UTC.</description>
+          <pubDate>Tue, 15 Jun 1999 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://xmlrpc.com/spec.md</guid>
+          <source url="https://xmlrpc.com/">XML-RPC.com</source>
+        </item>
+
     <item>
-      <title>ServiceNow documents how REST endpoint ACLs layer over table access</title>
-      <link>https://www.servicenow.com/docs/r/api-reference/rest-api-explorer/t_WbSvcRqACL.html</link>
-      <description>ServiceNow&apos;s current guidance says Scripted REST requests already respect table ACLs, while a REST_Endpoint ACL can add another gate to the entire API. A caller must satisfy at least one selected endpoint ACL, and individual resources can override the API-wide setting.</description>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.servicenow.com/docs/r/api-reference/rest-api-explorer/t_WbSvcRqACL.html</guid>
-      <source url="https://www.servicenow.com/docs/">ServiceNow</source>
-    </item>
+          <title>Public Domain Day guide maps the tangled rights inside classic characters</title>
+          <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
+          <description>Duke’s 2026 guide separates expired copyrights, unrenewed works, later protected additions and trademarks. Its Betty Boop and Mickey examples show why a character can be free to reuse in one form while later plots, dialogue or designs remain protected.</description>
+          <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://cspd.law.duke.edu/publicdomainday/2026</guid>
+          <source url="https://cspd.law.duke.edu/">Center for the Study of the Public Domain</source>
+        </item>
+
     <item>
-      <title>Library of Congress traces the Black creators behind Golden Legacy</title>
-      <link>https://blogs.loc.gov/headlinesandheroes/2021/03/lets-talk-comics-golden-legacy/</link>
-      <description>The Library of Congress recounts how Bertram A. Fitzgerald published 16 issues of Golden Legacy from 1966 to 1976. Fitzgerald wrote and edited early issues, then hired Black creators including Tom Feelings, Joan Bacchus Maynard and Ezra Jackson to dramatize Black history.</description>
-      <pubDate>Wed, 24 Mar 2021 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blogs.loc.gov/headlinesandheroes/2021/03/lets-talk-comics-golden-legacy/</guid>
-      <source url="https://blogs.loc.gov/">Library of Congress</source>
-    </item>
+          <title>FeedLand&apos;s public package separates the server API from its database layer</title>
+          <link>https://github.com/scripting/feedland</link>
+          <description>The FeedLand package is useful reading for a compatible PHP port because it exposes the server application, documents a separate database package and carries the project&apos;s GPL-2.0 license. The repository offers a concrete map of the upstream contracts an independent implementation must preserve.</description>
+          <pubDate>Mon, 24 Apr 2023 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://github.com/scripting/feedland</guid>
+          <source url="https://github.com/">GitHub</source>
+        </item>
+
     <item>
-      <title>YouTube&apos;s faster Content ID appeal path carries a higher risk</title>
-      <link>https://www.tubefilter.com/2022/07/19/youtube-content-id-appeal-shortened/</link>
-      <description>YouTube shortened the claimant response window for Content ID appeals from 30 days to seven and added a route that can skip the initial dispute for blocked videos. The tradeoff matters: if the claimant rejects an appeal, the next step can be a formal removal request and a channel strike.</description>
-      <pubDate>Tue, 19 Jul 2022 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tubefilter.com/2022/07/19/youtube-content-id-appeal-shortened/</guid>
-      <source url="https://www.tubefilter.com/">Tubefilter</source>
-    </item>
+          <title>An rssCloud implementor explains why thin pings keep the server simple</title>
+          <link>https://andrewshell.org/notes/rsscloud-server/</link>
+          <description>Andrew Shell&apos;s implementation notes contrast rssCloud&apos;s URL-only notification with WebSub&apos;s content-bearing ping. The distinction is practical for a FeedLand-compatible subscriber: the cloud stays lightweight, while feed fetching, parsing and deduplication remain the client&apos;s responsibility.</description>
+          <pubDate>Wed, 12 Jun 2024 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://andrewshell.org/notes/rsscloud-server/</guid>
+          <source url="https://andrewshell.org/">Andrew Shell&apos;s Weblog</source>
+        </item>
+
     <item>
-      <title>Composer 2.11 release candidate adds safer package policies</title>
-      <link>https://github.com/composer/composer/releases/tag/2.11.0-RC1</link>
-      <description>Composer 2.11 RC1 adds a cooldown policy for withholding newly released packages, direct-dependency audits, stricter PSR autoloading and improved dependency-resolution performance. The maintainers are asking PHP developers to test the preview and report regressions before the final release.</description>
-      <pubDate>Thu, 22 Oct 2026 13:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://github.com/composer/composer/releases/tag/2.11.0-RC1</guid>
-      <source url="https://github.com/composer/composer/">Composer</source>
-    </item>
+          <title>Jacksonville&apos;s road-first growth explains its long transit struggle</title>
+          <link>https://jaxhistory.org/mass-transit-in-a-sunbelt-city/</link>
+          <description>Historian Alan Bliss traces how flat land, suburban expansion, cheap parking and an expressway authority built around road engineering marginalized Jacksonville transit. The essay connects those inherited assumptions to today&apos;s JTA financial crisis and the city&apos;s renewed debate over a future system.</description>
+          <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://jaxhistory.org/mass-transit-in-a-sunbelt-city/</guid>
+          <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+        </item>
+
     <item>
-      <title>A full-text RSS dispute tests the boundary between syndication and republication</title>
-      <link>https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</link>
-      <description>An independent publisher documents how RSS Amplifier republished 19 complete articles and offered substitute feeds without permission. The case is a useful reminder that making full-text RSS available to readers does not surrender copyright or authorize another site to mirror an archive.</description>
-      <pubDate>Sun, 06 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://thenewleafjournal.com/rss-amplifier-re-publishes-19-full-nlj-articles-without-permission/</guid>
-      <source url="https://thenewleafjournal.com/">The New Leaf Journal</source>
-    </item>
+          <title>ServiceNow documents how REST endpoint ACLs layer over table access</title>
+          <link>https://www.servicenow.com/docs/r/api-reference/rest-api-explorer/t_WbSvcRqACL.html</link>
+          <description>ServiceNow&apos;s current guidance says Scripted REST requests already respect table ACLs, while a REST_Endpoint ACL can add another gate to the entire API. A caller must satisfy at least one selected endpoint ACL, and individual resources can override the API-wide setting.</description>
+          <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.servicenow.com/docs/r/api-reference/rest-api-explorer/t_WbSvcRqACL.html</guid>
+          <source url="https://www.servicenow.com/docs/">ServiceNow</source>
+        </item>
+
     <item>
-      <title>Mark Evanier remembers pioneering comics artist Fred Guardineer</title>
-      <link>https://www.newsfromme.com/2004/05/06/fred-guardineer-r-i-p/</link>
-      <description>Mark Evanier&apos;s obituary traces Fred Guardineer from pulp illustration and the Harry Chesler shop to Zatara, Speed Saunders and striking Golden Age covers. Guardineer later drew for publishers including Fawcett before leaving comics during the industry&apos;s mid-1950s slump.</description>
-      <pubDate>Thu, 06 May 2004 16:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.newsfromme.com/2004/05/06/fred-guardineer-r-i-p/</guid>
-      <source url="https://www.newsfromme.com/">News From ME</source>
-    </item>
+          <title>Library of Congress traces the Black creators behind Golden Legacy</title>
+          <link>https://blogs.loc.gov/headlinesandheroes/2021/03/lets-talk-comics-golden-legacy/</link>
+          <description>The Library of Congress recounts how Bertram A. Fitzgerald published 16 issues of Golden Legacy from 1966 to 1976. Fitzgerald wrote and edited early issues, then hired Black creators including Tom Feelings, Joan Bacchus Maynard and Ezra Jackson to dramatize Black history.</description>
+          <pubDate>Wed, 24 Mar 2021 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://blogs.loc.gov/headlinesandheroes/2021/03/lets-talk-comics-golden-legacy/</guid>
+          <source url="https://blogs.loc.gov/">Library of Congress</source>
+        </item>
+
+    <item>
+          <title>YouTube&apos;s faster Content ID appeal path carries a higher risk</title>
+          <link>https://www.tubefilter.com/2022/07/19/youtube-content-id-appeal-shortened/</link>
+          <description>YouTube shortened the claimant response window for Content ID appeals from 30 days to seven and added a route that can skip the initial dispute for blocked videos. The tradeoff matters: if the claimant rejects an appeal, the next step can be a formal removal request and a channel strike.</description>
+          <pubDate>Tue, 19 Jul 2022 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.tubefilter.com/2022/07/19/youtube-content-id-appeal-shortened/</guid>
+          <source url="https://www.tubefilter.com/">Tubefilter</source>
+        </item>
   </channel>
 </rss>

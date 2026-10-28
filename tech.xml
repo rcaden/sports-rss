@@ -5,129 +5,143 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:04:02 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
-            <item>
-      <title>Indian publishers challenge privacy law as a threat to investigative reporting</title>
-      <link>https://www.reuters.com/business/media-telecom/ambani-adani-outlets-among-indian-publishers-contesting-modis-privacy-law-2026-10-26/</link>
-      <description>Reuters reports that 21 publishers asked India’s Supreme Court to strike provisions that could require consent from investigation subjects, compel deletion of published reports and expose confidential sources. The case is a major test of privacy rules against press freedom.</description>
-      <pubDate>Mon, 26 Oct 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/ambani-adani-outlets-among-indian-publishers-contesting-modis-privacy-law-2026-10-26/</guid>
+    <item>
+      <title>Egyptian court orders leading independent news site closed</title>
+      <link>https://www.reuters.com/business/media-telecom/court-orders-egyptian-website-closed-case-seen-test-independent-media-2026-10-27/</link>
+      <description>A court convicted Mada Masr editor Lina Attalah of operating without a license, fined the outlet and ordered its site closed and equipment confiscated. Press-freedom groups call the case an unprecedented attack on one of Egypt&apos;s few prominent independent newsrooms.</description>
+      <pubDate>Tue, 27 Oct 2026 12:54:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/court-orders-egyptian-website-closed-case-seen-test-independent-media-2026-10-27/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
-      <title>TPAC puts practical web standards and browser interoperability on the table</title>
-      <link>https://www.w3.org/calendar/tpac2026/breakout-sessions/</link>
-      <description>W3C’s 2026 breakout agenda spans semantic HTML, accessibility testing, browser extensions, client-side includes, privacy and the organizations that shape standards. The public session descriptions show how open-web proposals move from developer needs toward interoperable specifications.</description>
-      <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.w3.org/calendar/tpac2026/breakout-sessions/</guid>
-      <source url="https://www.w3.org/">W3C</source>
+      <title>Podcast 2.0 metadata and Podping make open audio more useful in real time</title>
+      <link>https://podsearch.org/blog/podcast-transcripts-freshness-api/</link>
+      <description>A developer guide shows how standard RSS tags expose transcripts, chapters, people and soundbites while Podping announces feed changes within minutes. Together they support searchable episodes, guest pages and timely indexes without surrendering distribution to one platform.</description>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podsearch.org/blog/podcast-transcripts-freshness-api/</guid>
+      <source url="https://podsearch.org/">PodSearch</source>
     </item>
+
     <item>
-      <title>WordPress portability helps restore a 6,500-post journalism archive</title>
-      <link>https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</link>
-      <description>When a Basque broadcaster shut down its blog network, journalist Roge Blasco’s 18-year travel archive disappeared. Because the original site used WordPress, its 6,500 posts could be exported, restored with audio and photos, and relaunched on an independent address.</description>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</guid>
-      <source url="https://wordpress.com/">WordPress.com</source>
+      <title>WordPress 7.2 Beta 2 advances editor and developer APIs</title>
+      <link>https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</link>
+      <description>The second beta refines WordPress administration, content querying, schema handling and permissions while expanding server-side registration for DataViews and DataForm. The project asks testers to use non-production sites ahead of the planned December 8 release.</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
+
     <item>
-      <title>FCC commissioner urges broadcasters to push back against agency pressure</title>
-      <link>https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</link>
-      <description>Anna Gomez, the FCC’s sole Democratic commissioner, called on networks and stations to challenge administration actions more aggressively. The warning raises a direct question about whether broadcasters will defend editorial independence when regulators apply political pressure.</description>
-      <pubDate>Sat, 24 Oct 2026 01:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>Indian publishers challenge privacy law as a threat to investigative reporting</title>
+          <link>https://www.reuters.com/business/media-telecom/ambani-adani-outlets-among-indian-publishers-contesting-modis-privacy-law-2026-10-26/</link>
+          <description>Reuters reports that 21 publishers asked India’s Supreme Court to strike provisions that could require consent from investigation subjects, compel deletion of published reports and expose confidential sources. The case is a major test of privacy rules against press freedom.</description>
+          <pubDate>Mon, 26 Oct 2026 10:17:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/ambani-adani-outlets-among-indian-publishers-contesting-modis-privacy-law-2026-10-26/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
+
     <item>
-      <title>Denmark’s government-scale open-source desktop pilot expands</title>
-      <link>https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</link>
-      <description>Denmark’s SIA Open project is building a centrally managed public-sector desktop independent of a single vendor. Fewer than 10 Road Safety Authority employees are testing it now, 30 to 50 more are next, and all 166 client organizations could order it after the February 2027 release.</description>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</guid>
-      <source url="https://interoperable-europe.ec.europa.eu/">Interoperable Europe Portal</source>
-    </item>
+          <title>TPAC puts practical web standards and browser interoperability on the table</title>
+          <link>https://www.w3.org/calendar/tpac2026/breakout-sessions/</link>
+          <description>W3C’s 2026 breakout agenda spans semantic HTML, accessibility testing, browser extensions, client-side includes, privacy and the organizations that shape standards. The public session descriptions show how open-web proposals move from developer needs toward interoperable specifications.</description>
+          <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.w3.org/calendar/tpac2026/breakout-sessions/</guid>
+          <source url="https://www.w3.org/">W3C</source>
+        </item>
+
     <item>
-      <title>Bruins’ four-goal third period stops the Sharks’ winning streak</title>
-      <link>https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</link>
-      <description>San Jose led 3-2 early in the third, but Boston scored three straight and won 6-4. David Pastrnak’s 427th career goal tied Patrice Bergeron for third in Bruins history, while the Sharks’ Michael Misa, Kiefer Sherwood, Dmitry Orlov and Will Smith scored.</description>
-      <pubDate>Sun, 25 Oct 2026 02:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>WordPress portability helps restore a 6,500-post journalism archive</title>
+          <link>https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</link>
+          <description>When a Basque broadcaster shut down its blog network, journalist Roge Blasco’s 18-year travel archive disappeared. Because the original site used WordPress, its 6,500 posts could be exported, restored with audio and photos, and relaunched on an independent address.</description>
+          <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</guid>
+          <source url="https://wordpress.com/">WordPress.com</source>
+        </item>
+
     <item>
-      <title>Czech public-media overhaul advances after a 4:36 a.m. vote</title>
-      <link>https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</link>
-      <description>A fast-tracked bill would replace household fees with state funding for Czech Television and Czech Radio, cutting their budgets about 15 percent and freezing them for years. Broadcasters, journalists and civic groups warn that the shift could expose trusted public media to political pressure.</description>
-      <pubDate>Sat, 24 Oct 2026 08:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>FCC commissioner urges broadcasters to push back against agency pressure</title>
+          <link>https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</link>
+          <description>Anna Gomez, the FCC’s sole Democratic commissioner, called on networks and stations to challenge administration actions more aggressively. The warning raises a direct question about whether broadcasters will defend editorial independence when regulators apply political pressure.</description>
+          <pubDate>Sat, 24 Oct 2026 01:41:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
+
     <item>
-      <title>Florida and Georgia can begin enforcing social-media age gates</title>
-      <link>https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</link>
-      <description>Federal appeals rulings lifted injunctions against state laws restricting accounts for people under 16. EFF says the rules burden young people&apos;s speech and push adults toward intrusive age checks, and it is asking users to document lost access, misclassification and demands for sensitive data.</description>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</guid>
-      <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
-    </item>
+          <title>Denmark’s government-scale open-source desktop pilot expands</title>
+          <link>https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</link>
+          <description>Denmark’s SIA Open project is building a centrally managed public-sector desktop independent of a single vendor. Fewer than 10 Road Safety Authority employees are testing it now, 30 to 50 more are next, and all 166 client organizations could order it after the February 2027 release.</description>
+          <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</guid>
+          <source url="https://interoperable-europe.ec.europa.eu/">Interoperable Europe Portal</source>
+        </item>
+
     <item>
-      <title>One in four podcast listeners says candidate appearances may sway a vote</title>
-      <link>https://podnews.net/update/politics-podcast-appearances</link>
-      <description>New U.S. survey data reported by Podnews finds that podcast audiences are nearly even across party lines, while independents spend the most time listening. The result makes candidate podcast interviews a meaningful part of midterm campaigning rather than a niche media tactic.</description>
-      <pubDate>Mon, 19 Oct 2026 06:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/politics-podcast-appearances</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
+          <title>Bruins’ four-goal third period stops the Sharks’ winning streak</title>
+          <link>https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</link>
+          <description>San Jose led 3-2 early in the third, but Boston scored three straight and won 6-4. David Pastrnak’s 427th career goal tied Patrice Bergeron for third in Bruins history, while the Sharks’ Michael Misa, Kiefer Sherwood, Dmitry Orlov and Will Smith scored.</description>
+          <pubDate>Sun, 25 Oct 2026 02:10:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
+
     <item>
-      <title>The foundation supporting PHP says it is severely underfunded</title>
-      <link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</link>
-      <description>Following this week&apos;s emergency security patches, PHP Foundation director Elizabeth Barron says the nonprofit supporting software used by most websites has one full-time employee and 14 mostly part-time contractors. Its unpaid board and donation-funded operation face nearly twice as many proposed code changes as a year ago.</description>
-      <pubDate>Fri, 23 Oct 2026 21:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>Czech public-media overhaul advances after a 4:36 a.m. vote</title>
+          <link>https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</link>
+          <description>A fast-tracked bill would replace household fees with state funding for Czech Television and Czech Radio, cutting their budgets about 15 percent and freezing them for years. Broadcasters, journalists and civic groups warn that the shift could expose trusted public media to political pressure.</description>
+          <pubDate>Sat, 24 Oct 2026 08:13:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
+
     <item>
-      <title>Senator asks Meta to withdraw terms affecting publishers and creators</title>
-      <link>https://www.reuters.com/world/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-2026-10-23/</link>
-      <description>Senator Marsha Blackburn says Meta&apos;s revised commercial terms still grant sweeping authority over content on sites tied to business accounts. Meta delayed the change from October 30 to November 20, says robots.txt preferences remain intact and disputes claims that the terms create unlimited rights.</description>
-      <pubDate>Fri, 23 Oct 2026 18:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-2026-10-23/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>Florida and Georgia can begin enforcing social-media age gates</title>
+          <link>https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</link>
+          <description>Federal appeals rulings lifted injunctions against state laws restricting accounts for people under 16. EFF says the rules burden young people&apos;s speech and push adults toward intrusive age checks, and it is asking users to document lost access, misclassification and demands for sensitive data.</description>
+          <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</guid>
+          <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
+        </item>
+
     <item>
-      <title>A fabricated pollster exposes weak vetting by news aggregators</title>
-      <link>https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</link>
-      <description>Wedgewood Polls admitted that its surveys were fabricated, claiming the operation was a test of media safeguards. Its numbers appeared in major national outlets before FiftyPlusOne questioned the data; the New York Times has removed roughly 15 Wedgewood polls from its election coverage.</description>
-      <pubDate>Fri, 23 Oct 2026 18:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</guid>
-      <source url="https://time.com/">TIME</source>
-    </item>
+          <title>One in four podcast listeners says candidate appearances may sway a vote</title>
+          <link>https://podnews.net/update/politics-podcast-appearances</link>
+          <description>New U.S. survey data reported by Podnews finds that podcast audiences are nearly even across party lines, while independents spend the most time listening. The result makes candidate podcast interviews a meaningful part of midterm campaigning rather than a niche media tactic.</description>
+          <pubDate>Mon, 19 Oct 2026 06:15:00 GMT</pubDate>
+          <guid isPermaLink="true">https://podnews.net/update/politics-podcast-appearances</guid>
+          <source url="https://podnews.net/">Podnews</source>
+        </item>
+
     <item>
-      <title>Inoreader publishes a live ranking of the web&apos;s most-followed news feeds</title>
-      <link>https://www.inoreader.com/rss-feeds/news</link>
-      <description>Inoreader now publishes a weekly ranking of 50 news feeds based on what its readers actually follow. The October 19 list puts The New York Times first with 141,000 readers, followed by Google News, The Independent and Quartz, offering a useful snapshot of news consumption through RSS.</description>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.inoreader.com/rss-feeds/news</guid>
-      <source url="https://www.inoreader.com/">Inoreader</source>
-    </item>
+          <title>The foundation supporting PHP says it is severely underfunded</title>
+          <link>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</link>
+          <description>Following this week&apos;s emergency security patches, PHP Foundation director Elizabeth Barron says the nonprofit supporting software used by most websites has one full-time employee and 14 mostly part-time contractors. Its unpaid board and donation-funded operation face nearly twice as many proposed code changes as a year ago.</description>
+          <pubDate>Fri, 23 Oct 2026 21:57:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
+
     <item>
-      <title>A practical OPML guide explains why subscription lists remain portable</title>
-      <link>https://hushread.com/blog/what-is-opml</link>
-      <description>A hands-on guide distinguishes OPML subscription lists from RSS feeds and explains common import failures, including bare ampersands, missing feed addresses and empty outlines. Its key advice is timeless: export your OPML before leaving a reader so a shutdown or lost login cannot take your subscriptions with it.</description>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hushread.com/blog/what-is-opml</guid>
-      <source url="https://hushread.com/">Hushread</source>
-    </item>
+          <title>Senator asks Meta to withdraw terms affecting publishers and creators</title>
+          <link>https://www.reuters.com/world/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-2026-10-23/</link>
+          <description>Senator Marsha Blackburn says Meta&apos;s revised commercial terms still grant sweeping authority over content on sites tied to business accounts. Meta delayed the change from October 30 to November 20, says robots.txt preferences remain intact and disputes claims that the terms create unlimited rights.</description>
+          <pubDate>Fri, 23 Oct 2026 18:08:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/world/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-2026-10-23/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
+
     <item>
-      <title>CJR connects platform accountability to journalism&apos;s democratic role</title>
-      <link>https://www.cjr.org/the_media_today/democracy-now-social-reckoning-big-tech-federal-government-accountability-evasion-tactics-white-house-press-pool-zuckerberg-trump-sorkin.php</link>
-      <description>Columbia Journalism Review compares years of platform resistance to scrutiny with a federal government that locks out reporters and investigates news networks. Jem Bartholomew argues that independent journalism remains essential because powerful institutions increasingly treat accountability as optional.</description>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.cjr.org/the_media_today/democracy-now-social-reckoning-big-tech-federal-government-accountability-evasion-tactics-white-house-press-pool-zuckerberg-trump-sorkin.php</guid>
-      <source url="https://www.cjr.org/">Columbia Journalism Review</source>
-    </item>
+          <title>A fabricated pollster exposes weak vetting by news aggregators</title>
+          <link>https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</link>
+          <description>Wedgewood Polls admitted that its surveys were fabricated, claiming the operation was a test of media safeguards. Its numbers appeared in major national outlets before FiftyPlusOne questioned the data; the New York Times has removed roughly 15 Wedgewood polls from its election coverage.</description>
+          <pubDate>Fri, 23 Oct 2026 18:21:00 GMT</pubDate>
+          <guid isPermaLink="true">https://time.com/article/2026/10/23/what-fake-wedgewood-polls-scandal-reveals-about-election-polling/</guid>
+          <source url="https://time.com/">TIME</source>
+        </item>
   </channel>
 </rss>

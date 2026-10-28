@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme: Fantasy Sports Experts</title>
+    <link>https://rcaden.github.io/sports-rss/</link>
+    <description>News about fantasy sports experts, analysts, shows and outlets.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2026 13:15:00 GMT</lastBuildDate>
+    <atom:link href="https://rcaden.github.io/sports-rss/fantasy-experts.xml" rel="self" type="application/rss+xml" />
+    <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Jeff Mans surfaces on Fantasy Sports Daily amid unexplained SiriusXM absence</title>
+      <link>https://fantasysportsdaily.podbean.com/e/fantasy-sports-daily-with-jeff-mans-oct27-2026/</link>
+      <description>Jeff Mans hosted a special Oct. 27 edition of Fantasy Sports Daily while absent from his normal SiriusXM Fantasy Sports Radio slot. SiriusXM still lists Elite Sports with Mans on its schedule, and no departure has been announced.</description>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://fantasysportsdaily.podbean.com/e/fantasy-sports-daily-with-jeff-mans-oct27-2026/</guid>
+      <source url="https://fantasysportsdaily.podbean.com/">Fantasy Sports Daily</source>
+    </item>
+
+    <item>
+      <title>Matthew Berry launches daily Pregame show on Roku</title>
+      <link>https://www.publicnow.com/view/24989695A1A1A80295D5710050A4C5BDB10CE77B</link>
+      <description>Roku launched Pregame with Matthew Berry, a two-hour weekday sports and fantasy show produced by Fantasy Life. The series began Sept. 28 on the Roku Sports Channel, giving Berry a new daily television home after leaving NBC earlier in 2026.</description>
+      <pubDate>Wed, 23 Sep 2026 21:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.publicnow.com/view/24989695A1A1A80295D5710050A4C5BDB10CE77B</guid>
+      <source url="https://www.roku.com/">Roku</source>
+    </item>
+  </channel>
+</rss>

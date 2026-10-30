@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:23:05 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Beehiiv is turning solo newsletters into small newsrooms</title>
+      <link>https://www.cjr.org/kicker/magazines-are-back-and-theyre-newsletters-preeya-goenka-beehiiv.php</link>
+      <description>CJR talks with Beehiiv’s Preeya Goenka about a media collective that waives platform fees and provides legal, healthcare and audience support for two years. The program still serves solo writers, but some members now operate multi-reporter local and national newsrooms.</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.cjr.org/kicker/magazines-are-back-and-theyre-newsletters-preeya-goenka-beehiiv.php</guid>
+      <source url="https://www.cjr.org/">Columbia Journalism Review</source>
+    </item>
+
+    <item>
+      <title>Only 32% express high confidence in accurate midterm results coverage</title>
+      <link>https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/</link>
+      <description>A nationally representative Medill and Alliance for Trust in Media survey found six in ten Americans have at least some confidence in election reporting, but only 32% have quite a bit or a great deal. Distrust is sharply polarized by party.</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+
+    <item>
+      <title>A politics podcast plans live midterm coverage across video and RSS</title>
+      <link>https://podnews.net/press-release/tripus-live</link>
+      <description>Goalhanger’s The Rest Is Politics: US will stream a three-hour election-results special with Katty Kay and Anthony Scaramucci, plus five advance livestreams. Recordings will also flow into the show’s podcast feed, joining live video with open audio distribution.</description>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/press-release/tripus-live</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
 
     <item>
       <title>Dave Winer resumes work on rss.chat after modernizing Frontier</title>
@@ -115,33 +142,6 @@
               <pubDate>Sun, 25 Oct 2026 02:10:00 GMT</pubDate>
               <guid isPermaLink="true">https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</guid>
               <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Czech public-media overhaul advances after a 4:36 a.m. vote</title>
-              <link>https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</link>
-              <description>A fast-tracked bill would replace household fees with state funding for Czech Television and Czech Radio, cutting their budgets about 15 percent and freezing them for years. Broadcasters, journalists and civic groups warn that the shift could expose trusted public media to political pressure.</description>
-              <pubDate>Sat, 24 Oct 2026 08:13:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/czech-coalition-advances-media-overhaul-rushed-overnight-vote-2026-10-24/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Florida and Georgia can begin enforcing social-media age gates</title>
-              <link>https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</link>
-              <description>Federal appeals rulings lifted injunctions against state laws restricting accounts for people under 16. EFF says the rules burden young people&apos;s speech and push adults toward intrusive age checks, and it is asking users to document lost access, misclassification and demands for sensitive data.</description>
-              <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</guid>
-              <source url="https://www.eff.org/">Electronic Frontier Foundation</source>
-            </item>
-
-    <item>
-              <title>One in four podcast listeners says candidate appearances may sway a vote</title>
-              <link>https://podnews.net/update/politics-podcast-appearances</link>
-              <description>New U.S. survey data reported by Podnews finds that podcast audiences are nearly even across party lines, while independents spend the most time listening. The result makes candidate podcast interviews a meaningful part of midterm campaigning rather than a niche media tactic.</description>
-              <pubDate>Mon, 19 Oct 2026 06:15:00 GMT</pubDate>
-              <guid isPermaLink="true">https://podnews.net/update/politics-podcast-appearances</guid>
-              <source url="https://podnews.net/">Podnews</source>
             </item>
   </channel>
 </rss>

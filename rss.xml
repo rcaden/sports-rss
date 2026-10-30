@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:23:05 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Hamilton says he remains all-in on Formula One at 41</title>
+      <link>https://www.reuters.com/sports/formula1/hamilton-says-hes-still-all-in-foreseeable-future-2026-10-29/</link>
+      <description>Lewis Hamilton said he could still be racing when Formula One returns to Africa in the 2030s, but would retire if his reactions or pace decline. The seven-time champion is using the final five races to help Ferrari prepare its 2027 car.</description>
+      <pubDate>Thu, 29 Oct 2026 23:15:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/hamilton-says-hes-still-all-in-foreseeable-future-2026-10-29/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Dream force a winner-take-all Game 7 in the WNBA Finals</title>
+      <link>https://www.reuters.com/sports/dream-end-schedule-nightmare-with-game-6-win-over-valkyries-2026-10-29/</link>
+      <description>Atlanta beat Golden State 80-69 in Game 6, sending the WNBA Finals to its first winner-take-all Game 7. Allisha Gray scored 23 and Rhyne Howard 21 as the Dream answered the controversy over an early-afternoon tip with a decisive home win.</description>
+      <pubDate>Thu, 29 Oct 2026 21:13:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/dream-end-schedule-nightmare-with-game-6-win-over-valkyries-2026-10-29/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Bears acquire All-Pro defensive tackle Jeffery Simmons</title>
+      <link>https://www.reuters.com/sports/report-bears-bolster-d-acquire-jeffery-simmons-titans--flm-2026-10-29/</link>
+      <description>Chicago is sending Tennessee first-round picks in 2027 and 2028 plus a 2027 fourth-rounder for Jeffery Simmons and a 2028 fifth-round pick, pending a physical. The four-time Pro Bowler signed a three-year, $105.8 million extension this summer.</description>
+      <pubDate>Thu, 29 Oct 2026 15:19:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/report-bears-bolster-d-acquire-jeffery-simmons-titans--flm-2026-10-29/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Brewers capture their first World Series championship</title>
@@ -114,33 +141,6 @@
               <description>Kylian Mbappé scored twice, including a late winner, as Real Madrid beat Barcelona 2-1 at Camp Nou. Barcelona’s first league defeat of the season cut its lead over Madrid to three points.</description>
               <pubDate>Sun, 25 Oct 2026 22:14:00 GMT</pubDate>
               <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-2026-10-25/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Brewers rally from four down for a 2-0 World Series lead</title>
-              <link>https://www.reuters.com/sports/baseball/brewers-erase-four-run-deficit-take-2-0-world-series-lead-vs-rays--flm-2026-10-25/</link>
-              <description>Milwaukee erased a four-run first-inning deficit and beat Tampa Bay 5-4 behind six scoreless bullpen innings. Rookie Cooper Pratt atoned for an early error with the go-ahead single, while Sal Frelick homered to tie the game. The Brewers take a 2-0 Series lead to Florida.</description>
-              <pubDate>Sun, 25 Oct 2026 04:18:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/baseball/brewers-erase-four-run-deficit-take-2-0-world-series-lead-vs-rays--flm-2026-10-25/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>UCF upsets No. 2 BYU in a chaotic college football Saturday</title>
-              <link>https://www.reuters.com/sports/top-25-roundup-cincinnati-shocks-no-8-texas-tech-no-1-miami-rolls--flm-2026-10-24/</link>
-              <description>UCF stopped BYU in double overtime for the biggest ranked win in program history, while Cincinnati toppled No. 8 Texas Tech and No. 6 Indiana won at Michigan for the first time since 1967. No. 1 Miami, unbeaten UCLA and unbeaten Utah all held serve.</description>
-              <pubDate>Sat, 24 Oct 2026 22:19:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/top-25-roundup-cincinnati-shocks-no-8-texas-tech-no-1-miami-rolls--flm-2026-10-24/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Rybakina retains Ningbo title and strengthens her No. 1 case</title>
-              <link>https://www.reuters.com/sports/tennis/rybakina-brushes-aside-fernandez-retain-ningbo-crown-2026-10-25/</link>
-              <description>Elena Rybakina beat Leylah Fernandez 6-2, 6-2 to defend the Ningbo Open title and claim a tour-leading fourth trophy of 2026. The Australian Open and U.S. Open champion moved closer to securing the year-end No. 1 ranking before next month&apos;s WTA Finals.</description>
-              <pubDate>Sun, 25 Oct 2026 11:18:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/tennis/rybakina-brushes-aside-fernandez-retain-ningbo-crown-2026-10-25/</guid>
               <source url="https://www.reuters.com/">Reuters</source>
             </item>
   </channel>

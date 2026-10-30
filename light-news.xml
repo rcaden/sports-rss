@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 12:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:23:05 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>A Rembrandt fan leaves the museum wearing the master’s art</title>
+      <link>https://apnews.com/article/d2f19d30d5eba6d1d57f77ac3eb3a8e1</link>
+      <description>The Rembrandt House Museum revived its “Poor Man’s Rembrandt” pop-up, where noted tattoo artist Henk Schiffmacher inks designs based on the painter’s drawings. An AP reporter chose a wide-eyed 1630 self-portrait for a permanent, portable piece of museum art.</description>
+      <pubDate>Thu, 29 Oct 2026 04:19:58 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/d2f19d30d5eba6d1d57f77ac3eb3a8e1</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>The “Picasso of Pumpkin Carvers” marks 40 years of gourd art</title>
+      <link>https://apnews.com/article/95af0b1752f6ff1b361a7cfd1769841d</link>
+      <description>Mike Valladao, a systems engineer better known as Farmer Mike, celebrated four decades of sculpting giant pumpkins at Half Moon Bay’s festival. His creatures, landscapes and pop-culture figures can weigh hundreds of pounds—and last only a few days.</description>
+      <pubDate>Mon, 26 Oct 2026 05:03:58 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/95af0b1752f6ff1b361a7cfd1769841d</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>The rubber duck’s surprisingly deep American history</title>
+      <link>https://apnews.com/article/dab9736bc5c56d1649a54a6ea291d0c2</link>
+      <description>The familiar bath toy evolved from heavy vulcanized-rubber forms into Elenore Shannahan’s floating 1931 design and Peter Ganine’s 1947 vinyl duck. Along the way it inspired a hit song, entered the National Toy Hall of Fame and even helped scientists model ocean currents.</description>
+      <pubDate>Fri, 23 Oct 2026 16:46:05 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/dab9736bc5c56d1649a54a6ea291d0c2</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
 
     <item>
       <title>Divers rescue a kangaroo more than a mile from shore</title>
@@ -114,33 +141,6 @@
               <description>University of Hull tests found flexible synthetic rubber tape cut water leakage around a standard door by 99%, while ordinary duct tape stopped 97% to 98%. Every tape tested beat traditional sandbags, offering households a simpler emergency option.</description>
               <pubDate>Sun, 25 Oct 2026 12:00:00 GMT</pubDate>
               <guid isPermaLink="true">https://www.goodnewsnetwork.org/tape-can-block-99-of-water-compared-to-expensive-sandbags/</guid>
-              <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-            </item>
-
-    <item>
-              <title>Astronomers find the real sky inside Van Gogh&apos;s Starry Night</title>
-              <link>https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/</link>
-              <description>A new astronomical analysis matches the painting&apos;s crescent moon, Venus and five central stars to the pre-dawn sky over Saint-Rémy around July 22, 1889. Researchers say the pattern aligns with the Hyades cluster in Taurus, suggesting Van Gogh grounded the famous scene in observation.</description>
-              <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.goodnewsnetwork.org/stars-in-van-gogh-starry-night-matches-sky-in-july-1889/</guid>
-              <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-            </item>
-
-    <item>
-              <title>Minnesota passerby leaps aboard a runaway bus and saves 18 children</title>
-              <link>https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/</link>
-              <description>Ebro Ahmed saw a St. Paul school bus moving with its doors open while the driver appeared to be having a seizure. He ran alongside, jumped aboard, pulled the parking brake and protected the driver until paramedics arrived, keeping all 18 students safe.</description>
-              <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.goodnewsnetwork.org/st-paul-man-jumps-onto-runaway-school-bus-saves-18-children/</guid>
-              <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-            </item>
-
-    <item>
-              <title>Chiricahua becomes America&apos;s 64th national park</title>
-              <link>https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/</link>
-              <description>Arizona&apos;s former Chiricahua National Monument has been elevated to national-park status, protecting 12,000 acres of volcanic rock spires, balanced stones and converging desert, grassland and forest habitats. The designation also recognizes the landscape&apos;s deep importance to Chiricahua Apache history.</description>
-              <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.goodnewsnetwork.org/new-us-national-park-preserves-land-of-standing-up-rocks/</guid>
               <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
             </item>
   </channel>

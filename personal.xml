@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:23:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:17:57 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Copyright Office guide explains the old notice trap</title>
+      <link>https://www.copyright.gov/circs/circ03.pdf</link>
+      <description>Circular 3 is a compact guide to U.S. copyright notice rules. Notice became optional for works first published on or after March 1, 1989, but omission from older publications could forfeit protection unless statutory cure provisions or later restoration applied. Useful groundwork for copyright archaeology.</description>
+      <pubDate>Mon, 01 Mar 2021 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.copyright.gov/circs/circ03.pdf</guid>
+      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+    </item>
+
+    <item>
+      <title>Stanford guide maps the clues that a work is in the public domain</title>
+      <link>https://fairuse.stanford.edu/overview/public-domain/welcome/</link>
+      <description>Rich Stim&apos;s practical guide explains how to recognize public-domain works, including expired copyrights, U.S. government works and explicit dedication. It also warns that a missing notice alone proves little for newer publications and that only the copyright owner can dedicate a work.</description>
+      <pubDate>Tue, 02 Apr 2013 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://fairuse.stanford.edu/overview/public-domain/welcome/</guid>
+      <source url="https://fairuse.stanford.edu/">Stanford Copyright and Fair Use Center</source>
+    </item>
+
+    <item>
+      <title>A 1996 WinSite CD preserves the shareware web before app stores</title>
+      <link>https://winsite.retropc.se/winsite-mar96-2/index.html</link>
+      <description>This browsable mirror preserves InfoMagic&apos;s WinSite archive as it stood on March 25, 1996. Its directory pages, descriptions and try-before-you-buy explanation capture the practical culture of Windows shareware distribution, including the expectation that satisfied users would pay authors.</description>
+      <pubDate>Mon, 25 Mar 1996 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://winsite.retropc.se/winsite-mar96-2/index.html</guid>
+      <source url="https://winsite.retropc.se/">WinSite Archive</source>
+    </item>
 
     <item>
       <title>FANAC restores a 1963 SFPA mailing with nine complete fanzines</title>
@@ -115,33 +142,6 @@
               <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
               <guid isPermaLink="true">https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</guid>
               <source url="https://file770.com/">File 770</source>
-            </item>
-
-    <item>
-              <title>St. Augustine’s Ximenez-Fatio House wins $750,000 preservation grant</title>
-              <link>https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</link>
-              <description>The 1798 coquina house will receive a three-year National Park Service grant for interior and exterior preservation. The museum interprets Spanish, Minorcan, colonial and 228 years of African American history, with archaeology reaching back to pre-Columbian times.</description>
-              <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://totallystaugustine.com/the-ximenez-fatio-house-museum-receives-750000-national-park-service-historic-preservation-grant/</guid>
-              <source url="https://totallystaugustine.com/">Totally St. Augustine</source>
-            </item>
-
-    <item>
-              <title>The XML-RPC spec’s timezone answer is still a warning for implementors</title>
-              <link>https://xmlrpc.com/spec.md</link>
-              <description>Dave Winer’s compact XML-RPC specification leaves dateTime.iso8601 timezone assumptions to each server’s documentation. That small ambiguity explains why compatible implementations still need an explicit convention rather than silently treating timestamps as local time or UTC.</description>
-              <pubDate>Tue, 15 Jun 1999 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://xmlrpc.com/spec.md</guid>
-              <source url="https://xmlrpc.com/">XML-RPC.com</source>
-            </item>
-
-    <item>
-              <title>Public Domain Day guide maps the tangled rights inside classic characters</title>
-              <link>https://cspd.law.duke.edu/publicdomainday/2026</link>
-              <description>Duke’s 2026 guide separates expired copyrights, unrenewed works, later protected additions and trademarks. Its Betty Boop and Mickey examples show why a character can be free to reuse in one form while later plots, dialogue or designs remain protected.</description>
-              <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://cspd.law.duke.edu/publicdomainday/2026</guid>
-              <source url="https://cspd.law.duke.edu/">Center for the Study of the Public Domain</source>
             </item>
   </channel>
 </rss>

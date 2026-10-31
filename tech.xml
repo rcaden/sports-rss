@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:23:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:17:57 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>WordPress 7.1.4 closes upgrade-window and stored-XSS vulnerabilities</title>
+      <link>https://wordpress.org/news/2026/10/wordpress-7-1-4/</link>
+      <description>WordPress 7.1.4 is a security release addressing an upgrade-process weakness that could permit remote code execution during an update window, plus stored cross-site scripting, denial-of-service and privacy flaws. Fixes were backported through WordPress 4.7, and site owners are urged to update promptly.</description>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-1-4/</guid>
+      <source url="https://wordpress.org/">WordPress.org</source>
+    </item>
+
+    <item>
+      <title>PodcastOne explores a sale after receiving buyer interest</title>
+      <link>https://podnews.net/update/podcast-one-multiple</link>
+      <description>PodcastOne has formed a special committee and hired a financial adviser to consider a sale after receiving interest from multiple potential buyers. The podcast network&apos;s shares jumped on the announcement, though they remained below their May level. The process could also lead to another strategic transaction or no deal.</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/podcast-one-multiple</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+
+    <item>
+      <title>What $20 million in flexible grants changed for 205 local newsrooms</title>
+      <link>https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/</link>
+      <description>Press Forward distributed $20 million to 205 small local newsrooms, usually as $100,000 in unrestricted support over two years. Nieman Lab found the money helped recipients plug budget holes, test products and stabilize operations, but the short grant period often was not enough to sustain permanent hiring.</description>
+      <pubDate>Thu, 29 Oct 2026 20:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
 
     <item>
       <title>Beehiiv is turning solo newsletters into small newsrooms</title>
@@ -115,33 +142,6 @@
               <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
               <guid isPermaLink="true">https://wordpress.com/blog/2026/10/15/roge-blasco-wordpress-archive/</guid>
               <source url="https://wordpress.com/">WordPress.com</source>
-            </item>
-
-    <item>
-              <title>FCC commissioner urges broadcasters to push back against agency pressure</title>
-              <link>https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</link>
-              <description>Anna Gomez, the FCC’s sole Democratic commissioner, called on networks and stations to challenge administration actions more aggressively. The warning raises a direct question about whether broadcasters will defend editorial independence when regulators apply political pressure.</description>
-              <pubDate>Sat, 24 Oct 2026 01:41:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/democrat-us-fcc-urges-broadcast-industry-be-more-aggressive-confronting-agency-2026-10-24/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Denmark’s government-scale open-source desktop pilot expands</title>
-              <link>https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</link>
-              <description>Denmark’s SIA Open project is building a centrally managed public-sector desktop independent of a single vendor. Fewer than 10 Road Safety Authority employees are testing it now, 30 to 50 more are next, and all 166 client organizations could order it after the February 2027 release.</description>
-              <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/denmarks-open-source-desktop-pilot-ten-months</guid>
-              <source url="https://interoperable-europe.ec.europa.eu/">Interoperable Europe Portal</source>
-            </item>
-
-    <item>
-              <title>Bruins’ four-goal third period stops the Sharks’ winning streak</title>
-              <link>https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</link>
-              <description>San Jose led 3-2 early in the third, but Boston scored three straight and won 6-4. David Pastrnak’s 427th career goal tied Patrice Bergeron for third in Bruins history, while the Sharks’ Michael Misa, Kiefer Sherwood, Dmitry Orlov and Will Smith scored.</description>
-              <pubDate>Sun, 25 Oct 2026 02:10:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/nhl/bruins-tally-4-3rd-edge-sharks-extend-unbeaten-streak-8--flm-2026-10-25/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
             </item>
   </channel>
 </rss>

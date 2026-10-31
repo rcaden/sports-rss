@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:23:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:17:57 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Curry leads Warriors out of a 25-point hole against Lakers</title>
+      <link>https://www.reuters.com/sports/warriors-escape-25-point-hole-behind-stephen-currys-31-top-lakers--flm-2026-10-31/</link>
+      <description>Stephen Curry scored 31 points and made eight 3-pointers as Golden State erased a 25-point deficit to beat the Lakers 112-95 in its NBA Cup opener. The Warriors&apos; bench scored 50 points, and a 33-8 second-half run overwhelmed Los Angeles despite Luka Doncic&apos;s 37 points.</description>
+      <pubDate>Sat, 31 Oct 2026 06:33:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/warriors-escape-25-point-hole-behind-stephen-currys-31-top-lakers--flm-2026-10-31/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Bhanwala becomes India&apos;s first women&apos;s wrestling world champion</title>
+      <link>https://www.reuters.com/sports/bhanwala-becomes-first-indian-woman-win-wrestling-world-title-2026-10-30/</link>
+      <description>Manisha Bhanwala rallied from a 6-0 deficit to beat American Abigail Nette 8-6 in the 59-kilogram final, becoming the first Indian woman to win a senior wrestling world title. The comeback delivered a landmark result for India at the championships in Bahrain.</description>
+      <pubDate>Fri, 30 Oct 2026 17:25:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/bhanwala-becomes-first-indian-woman-win-wrestling-world-title-2026-10-30/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Anderson says Lancashire exit after 25 years came as a shock</title>
+      <link>https://www.reuters.com/sports/cricket/lancashire-exit-came-shock-says-anderson-2026-10-30/</link>
+      <description>James Anderson said Lancashire&apos;s decision not to renew his contract surprised him, ending a 25-year association with the county. The 44-year-old, England&apos;s record Test wicket-taker, still took 50 county wickets at 17.68 this season and has not decided whether to continue elsewhere.</description>
+      <pubDate>Fri, 30 Oct 2026 13:25:20 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/cricket/lancashire-exit-came-shock-says-anderson-2026-10-30/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Hamilton says he remains all-in on Formula One at 41</title>
@@ -114,33 +141,6 @@
               <description>Donovan Mitchell’s late jumper helped Cleveland beat previously unbeaten Minnesota 127-125 in overtime despite Anthony Edwards scoring 47. Golden State also earned its first win behind Stephen Curry’s perfect shooting night and 31 points from rookie Yaxel Lendeborg.</description>
               <pubDate>Tue, 27 Oct 2026 08:08:00 GMT</pubDate>
               <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-cavs-rally-15-down-hand-wolves-first-loss-ot--flm-2026-10-27/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Falcons hand the 49ers their first loss in a day of NFL upsets</title>
-              <link>https://www.reuters.com/sports/nfl-roundup-falcons-harass-49ers-into-first-loss-2026--flm-2026-10-25/</link>
-              <description>Michael Penix Jr. threw three touchdown passes and Atlanta forced four turnovers in a 29-20 win over previously unbeaten San Francisco. Seattle also dealt Kansas City its first loss, while Pittsburgh won the NFL’s first regular-season game in Paris.</description>
-              <pubDate>Sun, 25 Oct 2026 21:57:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/nfl-roundup-falcons-harass-49ers-into-first-loss-2026--flm-2026-10-25/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Antonelli wins U.S. Grand Prix and closes on youngest F1 title</title>
-              <link>https://www.reuters.com/sports/formula1/antonelli-wins-us-grand-prix-must-wait-title-2026-10-25/</link>
-              <description>Kimi Antonelli led from pole and won by more than 13 seconds for his ninth victory of the season. The Mercedes driver needs only two points in Mexico to clinch the championship and become Formula One’s youngest title winner.</description>
-              <pubDate>Sun, 25 Oct 2026 21:52:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/formula1/antonelli-wins-us-grand-prix-must-wait-title-2026-10-25/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Mbappé brace wins El Clásico and ends Barcelona’s perfect start</title>
-              <link>https://www.reuters.com/sports/soccer/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-2026-10-25/</link>
-              <description>Kylian Mbappé scored twice, including a late winner, as Real Madrid beat Barcelona 2-1 at Camp Nou. Barcelona’s first league defeat of the season cut its lead over Madrid to three points.</description>
-              <pubDate>Sun, 25 Oct 2026 22:14:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/soccer/real-madrid-defeat-barcelona-camp-nou-halve-gap-laliga-leaders-2026-10-25/</guid>
               <source url="https://www.reuters.com/">Reuters</source>
             </item>
   </channel>

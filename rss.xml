@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Valkyries win first WNBA title in historic Game 7</title>
+      <link>https://apnews.com/article/wnba-finals-game-7-valkyries-dream-189aa4b8ecb1d1fd8ddfacde3a9d6ac4</link>
+      <description>Gabby Williams scored 30 points, including Golden State&apos;s final 11 of the third quarter, as the Valkyries beat Atlanta 68-63 in the first WNBA Finals Game 7. Williams earned Finals MVP honors and delivered the expansion franchise a championship in only its second season.</description>
+      <pubDate>Sun, 01 Nov 2026 05:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/wnba-finals-game-7-valkyries-dream-189aa4b8ecb1d1fd8ddfacde3a9d6ac4</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>USC shocks No. 2 Ohio State 30-18 at the Coliseum</title>
+      <link>https://gmg-wdiv-prod.cdn.arcpublishing.com/sports/2026/11/01/usc-stuns-no-2-ohio-state-30-18-with-big-plays-from-jayden-maiava-freshman-trent-mosley/</link>
+      <description>Jayden Maiava passed for 222 yards and Trent Mosley turned a screen into a 69-yard touchdown as USC handed No. 2 Ohio State a 30-18 loss. The Trojans held the Buckeyes without a touchdown for the first 57 minutes and beat a top-five opponent at the Coliseum for the first time since 2015.</description>
+      <pubDate>Sun, 01 Nov 2026 03:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://gmg-wdiv-prod.cdn.arcpublishing.com/sports/2026/11/01/usc-stuns-no-2-ohio-state-30-18-with-big-plays-from-jayden-maiava-freshman-trent-mosley/</guid>
+      <source url="https://www.clickondetroit.com/">WDIV ClickOnDetroit</source>
+    </item>
+
+    <item>
+      <title>Sovereignty returns to capture the Breeders&apos; Cup Classic</title>
+      <link>https://www.reuters.com/sports/horse-racing-sovereignty-returns-win-breeders-cup-classic-2026-11-01/</link>
+      <description>Sovereignty surged past the field to win the $7 million Breeders&apos; Cup Classic at Keeneland, one year after illness forced him out of the race. Junior Alvarado rode the four-year-old to victory for trainer Bill Mott; The Puma finished second and defending champion Forever Young was fifth.</description>
+      <pubDate>Sun, 01 Nov 2026 00:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/horse-racing-sovereignty-returns-win-breeders-cup-classic-2026-11-01/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Curry leads Warriors out of a 25-point hole against Lakers</title>
@@ -116,32 +143,5 @@
           <guid isPermaLink="true">https://www.reuters.com/sports/soccer/england-bayern-forward-kane-crowned-2026-ballon-dor-winner-2026-10-26/</guid>
           <source url="https://www.reuters.com/">Reuters</source>
         </item>
-
-    <item>
-              <title>Brewers move one win from first World Series title after 10-1 rout</title>
-              <link>https://www.reuters.com/sports/baseball/jackson-chourio-brewers-blitz-rays-game-3-close-series-sweep--flm-2026-10-27/</link>
-              <description>Jackson Chourio went 4-for-5 and capped an eight-run fifth inning as Milwaukee beat Tampa Bay 10-1 in Game 3. Robert Gasser faced the minimum through six innings, and the Brewers moved within one victory of their first championship.</description>
-              <pubDate>Tue, 27 Oct 2026 03:32:17 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/baseball/jackson-chourio-brewers-blitz-rays-game-3-close-series-sweep--flm-2026-10-27/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Cowboys pull away from Eagles as Prescott throws three touchdowns</title>
-              <link>https://www.reuters.com/sports/nfl/dak-prescott-3-tds-cowboys-hand-eagles-fifth-straight-loss--flm-2026-10-27/</link>
-              <description>Dak Prescott threw three touchdown passes and Javonte Williams ran for a career-high 155 yards in Dallas’s 38-21 victory at Philadelphia. The Eagles briefly led in the third quarter before allowing 18 unanswered points and losing their fifth straight.</description>
-              <pubDate>Tue, 27 Oct 2026 03:35:04 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/nfl/dak-prescott-3-tds-cowboys-hand-eagles-fifth-straight-loss--flm-2026-10-27/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
-
-    <item>
-              <title>Cavaliers erase 15-point deficit and hand Timberwolves first loss</title>
-              <link>https://www.reuters.com/sports/nba-roundup-cavs-rally-15-down-hand-wolves-first-loss-ot--flm-2026-10-27/</link>
-              <description>Donovan Mitchell’s late jumper helped Cleveland beat previously unbeaten Minnesota 127-125 in overtime despite Anthony Edwards scoring 47. Golden State also earned its first win behind Stephen Curry’s perfect shooting night and 31 points from rookie Yaxel Lendeborg.</description>
-              <pubDate>Tue, 27 Oct 2026 08:08:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-cavs-rally-15-down-hand-wolves-first-loss-ot--flm-2026-10-27/</guid>
-              <source url="https://www.reuters.com/">Reuters</source>
-            </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>A surprise bus-stop bench makes a Florida student jump for joy</title>
+      <link>https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/</link>
+      <description>Florida teachers Maren and David Douglass noticed a middle-school student sitting in the dirt at the bus stop outside their home. They installed a bench, and their camera captured her delighted reaction. The couple later added a stocked mini-library, while the student left them flowers and a thank-you note.</description>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Two widowed retirees find love at 88 in the gym</title>
+      <link>https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/</link>
+      <description>Barbara Thompson and Fred Jenkins, both widowed, met while exercising at a Birmingham retirement village and unexpectedly fell in love at 88. They now work out together three times a week, play darts and dominoes, garden and dance, while happily keeping their own apartments.</description>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Collector opens seven card packs while wing-walking</title>
+      <link>https://www.upi.com/Odd_News/2026/10/30/guinness-world-records-trading-cards-wing-walker/6101793377118/</link>
+      <description>British collector Colby Bull opened seven packs of basketball cards in one minute while strapped to a biplane wing 600 feet above a Kent airfield. He kept every card despite 120 mph winds and earned a Guinness World Record for the stunt.</description>
+      <pubDate>Fri, 30 Oct 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/30/guinness-world-records-trading-cards-wing-walker/6101793377118/</guid>
+      <source url="https://www.upi.com/">UPI</source>
+    </item>
 
     <item>
       <title>Hokkaido potato growers harvest their best crop in a decade</title>
@@ -116,32 +143,5 @@
           <guid isPermaLink="true">https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/</guid>
           <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
         </item>
-
-    <item>
-              <title>Tiny Scottish island uncovers evidence of a major medieval monastery</title>
-              <link>https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/</link>
-              <description>Residents of Lismore helped crowdfund excavations that found burials, carved crosses, buildings and more than 1,000 traces of precious-metal work. The discoveries show the island’s early monastery was a major center of worship, craftsmanship and learning.</description>
-              <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.goodnewsnetwork.org/tiny-scottish-islands-little-historical-society-makes-massive-discovery/</guid>
-              <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-            </item>
-
-    <item>
-              <title>Six new calves lift Cambodia’s endangered river-dolphin population</title>
-              <link>https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/</link>
-              <description>A successful breeding season added six Irrawaddy dolphin calves along a 75-mile stretch of the Mekong, bringing the local population to 118. Community conservation efforts are helping protect an animal regarded as sacred in Cambodian and Laotian traditions.</description>
-              <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.goodnewsnetwork.org/numbers-of-endangered-and-sacred-river-dolphin-grow-by-6-after-successful-breeding-season/</guid>
-              <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-            </item>
-
-    <item>
-              <title>New Yorker named Service cleans an illegal dumping site himself</title>
-              <link>https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/</link>
-              <description>After reporting a pile of trash beneath a Brooklyn rail bridge, Joshua Service took commenters’ advice and returned with gloves and a rake. He filled 10 bags in two hours, prompting a city council member to honor him at the site.</description>
-              <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.goodnewsnetwork.org/man-named-service-cleans-up-nyc-dumping-site-on-his-own-initiative/</guid>
-              <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-            </item>
   </channel>
 </rss>

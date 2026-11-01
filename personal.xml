@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Reddit now documents community-specific karma gates</title>
+      <link>https://support.reddithelp.com/hc/en-us/articles/33702751586836-Poster-Eligibility-Guide-Post-Check</link>
+      <description>Reddit&apos;s Poster Eligibility Guide confirms that communities can require comment karma earned within that community, along with account age, total karma and verified email. It also explains that exact thresholds remain hidden and that Automoderator rules set to remove can block posting before submission.</description>
+      <pubDate>Fri, 02 Oct 2026 22:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://support.reddithelp.com/hc/en-us/articles/33702751586836-Poster-Eligibility-Guide-Post-Check</guid>
+      <source url="https://support.reddithelp.com/">Reddit Help</source>
+    </item>
+
+    <item>
+      <title>Java 27 arrives with a fresh six-month feature release</title>
+      <link>https://blogs.oracle.com/java/the-arrival-of-java-27</link>
+      <description>Oracle&apos;s Java 27 overview introduces the September feature release and its language, runtime, security and library changes. It is a useful orientation for developers moving beyond Java 26, with links to the release notes and the OpenJDK work behind the new version.</description>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.oracle.com/java/the-arrival-of-java-27</guid>
+      <source url="https://blogs.oracle.com/java/">Oracle Java Blog</source>
+    </item>
+
+    <item>
+      <title>Library of Congress opens a cabinet of archival specters</title>
+      <link>https://blogs.loc.gov/loc/2026/10/some-of-the-spookiest-specters-in-the-librarys-archives/</link>
+      <description>Library specialists tour spirit photography, the Bell Witch, gargoyles and horror comics preserved in the national collections. The comic-book section follows a crime title&apos;s transformation into horror while the wider piece shows how catalog records and archival context can unravel supposedly supernatural artifacts.</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blogs.loc.gov/loc/2026/10/some-of-the-spookiest-specters-in-the-librarys-archives/</guid>
+      <source url="https://blogs.loc.gov/">Library of Congress</source>
+    </item>
 
     <item>
       <title>Copyright Office guide explains the old notice trap</title>
@@ -116,32 +143,5 @@
           <guid isPermaLink="true">https://www.dailystartreknews.com/read/interview-walter-koenig-on-his-hollywood-start-social-justice-and-of-course-star-trek</guid>
           <source url="https://www.dailystartreknews.com/">Daily Star Trek News</source>
         </item>
-
-    <item>
-              <title>How Dynamite’s public-domain Tarzan comics ended in a licensed settlement</title>
-              <link>https://www.comicslawyer.com/2018/06/tarzan-john-carter-trademarks-and.html</link>
-              <description>A comics-law analysis revisits the dispute over Dynamite’s Lord of the Jungle and Warlord of Mars. The case ended before a ruling: Dynamite argued the source novels were public domain, then settled and obtained licenses covering Tarzan and John Carter.</description>
-              <pubDate>Fri, 01 Jun 2018 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://www.comicslawyer.com/2018/06/tarzan-john-carter-trademarks-and.html</guid>
-              <source url="https://www.comicslawyer.com/">Comics Lawyer</source>
-            </item>
-
-    <item>
-              <title>Restic explains how full snapshots share deduplicated backup data</title>
-              <link>https://forum.restic.net/t/does-deduplication-apply-to-multiple-archives-in-repositories/8687</link>
-              <description>Restic stores each snapshot as a complete view while uploading only changed chunks. Deleting an older snapshot does not break newer ones because snapshot metadata points to shared repository data; pruning removes chunks no remaining snapshot needs.</description>
-              <pubDate>Sun, 10 Nov 2024 13:38:00 GMT</pubDate>
-              <guid isPermaLink="true">https://forum.restic.net/t/does-deduplication-apply-to-multiple-archives-in-repositories/8687</guid>
-              <source url="https://forum.restic.net/">Restic Forum</source>
-            </item>
-
-    <item>
-              <title>File 770 rounds up new robot fiction, comics and a November reading</title>
-              <link>https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</link>
-              <description>Mike Glyer’s latest Pixel Scroll collects comics links and previews a Fantastic Fiction at KGB event with James Patrick Kelly and Stephanie Feldman. Kelly’s new collection gathers 30 years of robot stories, while Feldman has a new short-story collection.</description>
-              <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-              <guid isPermaLink="true">https://file770.com/pixel-scroll-10-26-26-the-dream-pixel-of-unscrolled-kadath/</guid>
-              <source url="https://file770.com/">File 770</source>
-            </item>
   </channel>
 </rss>

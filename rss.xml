@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Kimi Antonelli becomes Formula One&apos;s youngest world champion</title>
+      <link>https://www.reuters.com/sports/formula1/antonelli-becomes-youngest-f1-champion-20-years-old-2026-11-01/</link>
+      <description>Kimi Antonelli clinched the Formula One title at 20 years and 68 days, becoming the youngest champion in series history and Italy&apos;s first since Alberto Ascari in 1953. He finished third in Mexico City behind race winner Max Verstappen and Lewis Hamilton.</description>
+      <pubDate>Sun, 01 Nov 2026 22:32:35 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/antonelli-becomes-youngest-f1-champion-20-years-old-2026-11-01/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Lamar Jackson&apos;s dislocated thumb puts Ravens&apos; season at risk</title>
+      <link>https://www.reuters.com/sports/nfl-injury-roundup-ravens-qb-peril-after-lamar-jackson-tyler-huntley-hurt--flm-2026-11-02/</link>
+      <description>Baltimore placed Lamar Jackson on injured reserve after surgery for a dislocated right thumb suffered on the first play of a 36-10 loss to Buffalo. Backup Tyler Huntley also left hurt, deepening the quarterback crisis for a 4-4 Ravens team facing a short week.</description>
+      <pubDate>Mon, 02 Nov 2026 03:18:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl-injury-roundup-ravens-qb-peril-after-lamar-jackson-tyler-huntley-hurt--flm-2026-11-02/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Arsenal wins at Anfield for first time since 2012</title>
+      <link>https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league</link>
+      <description>Kai Havertz scored the only goal as Arsenal beat Liverpool 1-0, ending a 14-year wait for a league victory at Anfield. The result moved the Gunners three points clear at the top of the Premier League.</description>
+      <pubDate>Sun, 01 Nov 2026 18:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league</guid>
+      <source url="https://www.skysports.com/">Sky Sports</source>
+    </item>
 
     <item>
       <title>Valkyries win first WNBA title in historic Game 7</title>
@@ -116,32 +143,5 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/mls-announces-key-2027-sprint-season-matches-ahead-calendar-shift-2026-10-29/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
-    <item>
-          <title>Rays walk off the Brewers in the 12th to extend the World Series</title>
-          <link>https://www.reuters.com/sports/baseball/rays-rally-2-12th-inning-extend-world-series-game-5--flm-2026-10-28/</link>
-          <description>Ben Williamson&apos;s bases-loaded single completed a two-run rally in the bottom of the 12th as Tampa Bay beat Milwaukee 4-3. The Rays avoided a sweep and forced Game 5, though the Brewers still lead the series 3-1.</description>
-          <pubDate>Wed, 28 Oct 2026 04:51:28 GMT</pubDate>
-          <guid isPermaLink="true">https://www.reuters.com/sports/baseball/rays-rally-2-12th-inning-extend-world-series-game-5--flm-2026-10-28/</guid>
-          <source url="https://www.reuters.com/">Reuters</source>
-        </item>
-
-    <item>
-          <title>Tatum&apos;s overtime buzzer-beater lifts the Celtics over the Nets</title>
-          <link>https://www.reuters.com/sports/nba-roundup-jayson-tatums-ot-buzzer-beater-lifts-celtics-over-nets--flm-2026-10-28/</link>
-          <description>Jayson Tatum capped an overtime thriller with a winning shot at the horn, leading Boston past Brooklyn. The dramatic finish headlined Tuesday night&apos;s NBA action.</description>
-          <pubDate>Wed, 28 Oct 2026 04:39:32 GMT</pubDate>
-          <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-jayson-tatums-ot-buzzer-beater-lifts-celtics-over-nets--flm-2026-10-28/</guid>
-          <source url="https://www.reuters.com/">Reuters</source>
-        </item>
-
-    <item>
-          <title>Harry Kane becomes the first English Ballon d&apos;Or winner since 2001</title>
-          <link>https://www.reuters.com/sports/soccer/england-bayern-forward-kane-crowned-2026-ballon-dor-winner-2026-10-26/</link>
-          <description>Kane won football&apos;s top individual prize after scoring 61 goals for Bayern Munich and leading England to a World Cup semifinal. Alexia Putellas claimed the women&apos;s award for a third time.</description>
-          <pubDate>Mon, 26 Oct 2026 23:00:09 GMT</pubDate>
-          <guid isPermaLink="true">https://www.reuters.com/sports/soccer/england-bayern-forward-kane-crowned-2026-ballon-dor-winner-2026-10-26/</guid>
-          <source url="https://www.reuters.com/">Reuters</source>
-        </item>
   </channel>
 </rss>

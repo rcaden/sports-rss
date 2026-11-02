@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>How Paul Bacon found the unforgettable image for Catch-22</title>
+      <link>https://www.printmag.com/daily-heller/paul-bacon-bestseller/</link>
+      <description>Designer Paul Bacon made 11 versions of the Catch-22 jacket before landing on its fleeing red figure and handmade lettering. This compact retrospective explains the origin of his influential &apos;Big Book Look&apos; across a career that produced roughly 6,500 book jackets.</description>
+      <pubDate>Tue, 09 Jun 2015 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.printmag.com/daily-heller/paul-bacon-bestseller/</guid>
+      <source url="https://www.printmag.com/">PRINT Magazine</source>
+    </item>
+
+    <item>
+      <title>Florida State&apos;s road drought reaches 14 straight losses</title>
+      <link>https://www.ksat.com/sports/2026/10/18/no-3-miami-hangs-on-to-beat-florida-state-43-35-in-a-double-overtime-thriller/</link>
+      <description>An Associated Press account of Florida State&apos;s double-overtime loss at Miami notes the Seminoles have lost 14 consecutive games away from Tallahassee. FSU is also 0-13 in true road games against ranked teams since its 2016 win at Miami.</description>
+      <pubDate>Sun, 18 Oct 2026 02:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ksat.com/sports/2026/10/18/no-3-miami-hangs-on-to-beat-florida-state-43-35-in-a-double-overtime-thriller/</guid>
+      <source url="https://www.ksat.com/">KSAT</source>
+    </item>
+
+    <item>
+      <title>Yelp explains why &apos;unique visitors&apos; do not equal unique people</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1345016/000134501626000019/yelp-20251231.htm</link>
+      <description>Yelp&apos;s 2025 annual report details the measurement caveats behind web-audience figures: one person on several devices can be counted several times, while several people sharing one device can count once. It also explains a 2025 methodology change that excludes home-page visits with no further action.</description>
+      <pubDate>Fri, 27 Feb 2026 21:34:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.sec.gov/Archives/edgar/data/1345016/000134501626000019/yelp-20251231.htm</guid>
+      <source url="https://www.sec.gov/">U.S. Securities and Exchange Commission</source>
+    </item>
 
     <item>
       <title>Reddit now documents community-specific karma gates</title>
@@ -116,32 +143,5 @@
       <guid isPermaLink="true">https://www.staticforms.dev/blog/prevent-duplicate-form-submissions</guid>
       <source url="https://www.staticforms.dev/">Static Forms</source>
     </item>
-
-    <item>
-          <title>AC Comics traces Femforce from mail-order fanzines to issue 200</title>
-          <link>https://www.accomics.com/about-us-ac-comics/history/</link>
-          <description>AC Comics recounts Bill Black&apos;s path from 1969 mail-order Paragon publications to the 1980s direct market and the long-running Femforce. The company survived the independent-comics glut, returned the series to color and published issue 200 in 2023.</description>
-          <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://www.accomics.com/about-us-ac-comics/history/</guid>
-          <source url="https://www.accomics.com/">AC Comics</source>
-        </item>
-
-    <item>
-          <title>ServiceNow explains how multiple transform maps expand import-set rows</title>
-          <link>https://www.servicenow.com/docs/r/integrate-applications/system-import-sets/c_CreatingNewTransformMaps.html</link>
-          <description>The current transform-map documentation notes that one import-set row is created per map and that selected maps run against the same set in a defined order. It also reviews reference-field costs, direct scripted assignment and event-script contexts.</description>
-          <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://www.servicenow.com/docs/r/integrate-applications/system-import-sets/c_CreatingNewTransformMaps.html</guid>
-          <source url="https://www.servicenow.com/">ServiceNow</source>
-        </item>
-
-    <item>
-          <title>Walter Koenig discusses the writing life beyond Chekov</title>
-          <link>https://www.dailystartreknews.com/read/interview-walter-koenig-on-his-hollywood-start-social-justice-and-of-course-star-trek</link>
-          <description>In a wide-ranging interview tied to his memoir, Koenig talks about Hollywood, social responsibility and the pleasure of writing. His books include the filming journal Chekov&apos;s Enterprise, memoirs and the science-fiction novel Buck Alice and the Actor-Robot.</description>
-          <pubDate>Mon, 01 Mar 2021 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://www.dailystartreknews.com/read/interview-walter-koenig-on-his-hollywood-start-social-justice-and-of-course-star-trek</guid>
-          <source url="https://www.dailystartreknews.com/">Daily Star Trek News</source>
-        </item>
   </channel>
 </rss>

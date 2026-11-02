@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Adam Curry&apos;s Daily Source Code archive returns with transcripts and chapters</title>
+      <link>https://podnews.net/update/bartlett-vs-rogan</link>
+      <description>Christopher Isene rebuilt the complete archive of Adam Curry&apos;s pioneering Daily Source Code podcast, restoring 863 episodes and adding transcripts and chapters. Podnews links the new site and revisits Steve Jobs&apos;s early podcasting demo featuring the show.</description>
+      <pubDate>Mon, 02 Nov 2026 10:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/bartlett-vs-rogan</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+
+    <item>
+      <title>Vox launches its first app as it pursues direct reader relationships</title>
+      <link>https://www.niemanlab.org/2026/10/vox-launches-its-first-app-with-an-eye-toward-building-paid-memberships/</link>
+      <description>Vox&apos;s first mobile app combines articles, podcasts and video in one feed as the publisher tries to deepen paid membership and reduce dependence on outside platforms. Video and podcasts remain free, while text stories and ad-free audio require a subscription.</description>
+      <pubDate>Wed, 28 Oct 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/vox-launches-its-first-app-with-an-eye-toward-building-paid-memberships/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+
+    <item>
+      <title>WordPress 7.2 Beta 2 advances developer APIs and admin modernization</title>
+      <link>https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</link>
+      <description>The second WordPress 7.2 beta adds refinements to the Abilities API, server-side DataViews and DataForm registration, REST API flexibility, admin asset loading and modern SVG icons. It is for testing only; the final release remains scheduled for December 8.</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
 
     <item>
       <title>Firefox roadmap adds offline reading, local speech recognition and per-site VPN rules</title>
@@ -116,32 +143,5 @@
       <guid isPermaLink="true">https://www.reuters.com/world/india/india-will-listen-media-concerns-disputed-privacy-law-modis-minister-says-2026-10-28/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
-    <item>
-          <title>Egyptian court orders leading independent news site closed</title>
-          <link>https://www.reuters.com/business/media-telecom/court-orders-egyptian-website-closed-case-seen-test-independent-media-2026-10-27/</link>
-          <description>A court convicted Mada Masr editor Lina Attalah of operating without a license, fined the outlet and ordered its site closed and equipment confiscated. Press-freedom groups call the case an unprecedented attack on one of Egypt&apos;s few prominent independent newsrooms.</description>
-          <pubDate>Tue, 27 Oct 2026 12:54:15 GMT</pubDate>
-          <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/court-orders-egyptian-website-closed-case-seen-test-independent-media-2026-10-27/</guid>
-          <source url="https://www.reuters.com/">Reuters</source>
-        </item>
-
-    <item>
-          <title>Podcast 2.0 metadata and Podping make open audio more useful in real time</title>
-          <link>https://podsearch.org/blog/podcast-transcripts-freshness-api/</link>
-          <description>A developer guide shows how standard RSS tags expose transcripts, chapters, people and soundbites while Podping announces feed changes within minutes. Together they support searchable episodes, guest pages and timely indexes without surrendering distribution to one platform.</description>
-          <pubDate>Sat, 24 Oct 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://podsearch.org/blog/podcast-transcripts-freshness-api/</guid>
-          <source url="https://podsearch.org/">PodSearch</source>
-        </item>
-
-    <item>
-          <title>WordPress 7.2 Beta 2 advances editor and developer APIs</title>
-          <link>https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</link>
-          <description>The second beta refines WordPress administration, content querying, schema handling and permissions while expanding server-side registration for DataViews and DataForm. The project asks testers to use non-production sites ahead of the planned December 8 release.</description>
-          <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</guid>
-          <source url="https://wordpress.org/news/">WordPress News</source>
-        </item>
   </channel>
 </rss>

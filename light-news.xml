@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 13:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Azores island dims the lights to guide young seabirds safely to sea</title>
+      <link>https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/</link>
+      <description>Corvo in the Azores switched off public lights from 9 p.m. to 4 a.m. for five nights to keep fledgling Cory&apos;s shearwaters from becoming disoriented on their first flights. The annual rescue campaign has helped more than 30,000 birds since 2015.</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>New Jersey students fill an entire football field with food donations</title>
+      <link>https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/</link>
+      <description>Students covered Howell High School&apos;s football field end to end with bright yellow donation bags after collecting more than 250,000 pounds of food. The record drive supplied 30 food banks across New Jersey.</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>Support dog wakes deaf owner after her husband falls down the stairs</title>
+      <link>https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/</link>
+      <description>Storm, a hearing-support dog, woke Sandra Donally after her husband Gary fell down the stairs and lay unconscious and bleeding. Gary spent 24 days in the hospital and underwent jaw reconstruction; the family credits Storm&apos;s persistence with saving his life.</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
 
     <item>
       <title>A surprise bus-stop bench makes a Florida student jump for joy</title>
@@ -116,32 +143,5 @@
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
-    <item>
-          <title>A wrong turn puts a stranger in time to save a foster family from a fire</title>
-          <link>https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/</link>
-          <description>A driver&apos;s GPS mistake led him past a burning Georgia home, where he woke the family and helped everyone escape. James and Larita Burke, who have fostered about 500 children, got all 11 children and a grandchild out safely.</description>
-          <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://www.goodnewsnetwork.org/family-thats-fostered-500-children-saved-from-housefire-thanks-to-strangers-wrong-turn/</guid>
-          <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-        </item>
-
-    <item>
-          <title>Six winless seasons cannot dampen a high-school baseball team&apos;s joy</title>
-          <link>https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/</link>
-          <description>Nova Scotia&apos;s Dartmouth Spartans have not won in six years, but the players keep returning for camaraderie and love of the game. The open-door team gives newcomers a chance to play without performance barriers.</description>
-          <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://www.goodnewsnetwork.org/high-school-baseball-team-has-all-the-vibes-of-success-but-never-won-a-game-kids-dont-mind/</guid>
-          <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-        </item>
-
-    <item>
-          <title>New Amazon reserve helps a conservation group pass 70 million protected acres</title>
-          <link>https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/</link>
-          <description>A new 715,000-acre wildlife reserve along Bolivia&apos;s Iténez River protects a migration corridor for jaguars, river dolphins, giant otters and other species. The project pushed Rainforest Trust&apos;s total supported conservation past 70 million acres.</description>
-          <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-          <guid isPermaLink="true">https://www.goodnewsnetwork.org/ngo-celebrates-70-million-amazon-acres-conserved-after-protecting-are-called-a-link-of-life/</guid>
-          <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-        </item>
   </channel>
 </rss>

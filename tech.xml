@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>W3C restores the missing early years of the www-talk archive</title>
+      <link>https://www.w3.org/blog/2026/historical-www-talk-archives-made-complete/</link>
+      <description>W3C combined and repaired partial copies of www-talk messages from 1993 through February 1995, regenerated the web archive and preserved old links with redirects. The restored threads include early announcements of Mosaic, CGI, robots.txt, Apache, SSL, cookies and public-domain CERN web software.</description>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.w3.org/blog/2026/historical-www-talk-archives-made-complete/</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
+
+    <item>
+      <title>W3C backs an open-source polyfill for the experimental WebMCP API</title>
+      <link>https://www.w3.org/blog/2026/w3c-launches-second-pilot-of-program-to-support-open-source-projects/</link>
+      <description>W3C&apos;s second Open Source Program pilot will publish a WebMCP polyfill on npm and track the evolving specification and Web Platform Tests. The project aims to improve early interoperability while browsers experiment with exposing structured web-app functions to compatible clients.</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.w3.org/blog/2026/w3c-launches-second-pilot-of-program-to-support-open-source-projects/</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
+
+    <item>
+      <title>WPVibe passes 100,000 active WordPress installations</title>
+      <link>https://pivotnews.ai/five/mcp-plugin-wpvibe-passes-100-000-wordpress-installs-the</link>
+      <description>WPVibe grew from roughly 2,000 active installations in July to more than 100,000 in six months. The WordPress plugin lets compatible conversational clients manage self-hosted sites through MCP, and its creator says it now handles about five million tool calls daily.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://pivotnews.ai/five/mcp-plugin-wpvibe-passes-100-000-wordpress-installs-the</guid>
+      <source url="https://pivotnews.ai/">Pivot News</source>
+    </item>
 
     <item>
       <title>Adam Curry&apos;s Daily Source Code archive returns with transcripts and chapters</title>
@@ -115,33 +142,6 @@
       <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://podnews.net/press-release/tripus-live</guid>
       <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>Dave Winer resumes work on rss.chat after modernizing Frontier</title>
-      <link>https://daveverse.org/2026/10/28/13318/</link>
-      <description>Winer says he has returned to rss.chat after converting Frontier to run on modern operating systems and building a new application. The short update captures the practical challenge of re-entering a fast-moving personal codebase after only a few months away.</description>
-      <pubDate>Wed, 28 Oct 2026 22:46:25 GMT</pubDate>
-      <guid isPermaLink="true">https://daveverse.org/2026/10/28/13318/</guid>
-      <source url="https://daveverse.org/">Daveverse</source>
-    </item>
-
-    <item>
-      <title>Dial Flipper uses open RSS to make podcast discovery feel like radio</title>
-      <link>https://podnews.net/update/dial-flipper-app</link>
-      <description>Podnews reports that the new iOS app drops listeners into the middle of unfamiliar shows with a turn of a virtual dial, then learns from their choices. Because playback uses open RSS, each listen is still counted by the publisher&apos;s podcast host.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/dial-flipper-app</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>India offers talks after publishers challenge its privacy law</title>
-      <link>https://www.reuters.com/world/india/india-will-listen-media-concerns-disputed-privacy-law-modis-minister-says-2026-10-28/</link>
-      <description>India&apos;s technology minister invited editors to submit concerns and said the government could act to protect press freedom. The statement is the first official response since 21 publishers argued the law could expose sources and force consent from investigation subjects.</description>
-      <pubDate>Wed, 28 Oct 2026 16:01:49 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/india/india-will-listen-media-concerns-disputed-privacy-law-modis-minister-says-2026-10-28/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

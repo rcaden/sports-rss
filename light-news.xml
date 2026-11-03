@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Sikhs and Hindus help rebuild mosques in Punjab villages</title>
+      <link>https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/</link>
+      <description>Residents of several Indian Punjab villages are restoring or rebuilding mosques destroyed after Partition. Sikh and Hindu neighbors have donated land, money, bricks, cement and labor; one Hindu family hosted a village feast when the new mosque in Punawal was completed.</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>A weather app now tells dog owners what paws and noses will feel</title>
+      <link>https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/</link>
+      <description>Pawcast by Weather.pet estimates conditions at a dog&apos;s head and paws, including asphalt, concrete and grass temperatures. Its personalized &apos;Dog Feel&apos; reading accounts for breed, coat, age and weight after a veterinary team gathered thousands of surface measurements nationwide.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+
+    <item>
+      <title>A family&apos;s roadside bravery inspires scholarships for young heroes</title>
+      <link>https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/</link>
+      <description>After strangers tried to rescue 18-year-old Kenli Riney from a burning car, her parents created a foundation honoring young people who show courage and compassion. It has awarded $67,000 to 67 students, including the teenager who performed CPR at the crash scene.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
 
     <item>
       <title>Azores island dims the lights to guide young seabirds safely to sea</title>
@@ -115,33 +142,6 @@
       <pubDate>Fri, 23 Oct 2026 16:46:05 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/dab9736bc5c56d1649a54a6ea291d0c2</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Divers rescue a kangaroo more than a mile from shore</title>
-      <link>https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/</link>
-      <description>A South Australian dive crew found an exhausted juvenile kangaroo roughly three kilometers out in Boston Bay. They lifted it through the boat&apos;s water door, let it rest aboard and later watched it hop away from the beach under its own strength.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>An anonymous diner buys lunch for 27 disabled residents and caregivers</title>
-      <link>https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/</link>
-      <description>A stranger at an Incheon barbecue restaurant added premium beef to a community group&apos;s order and quietly paid the entire $420 bill. The outing included disabled residents, staff and volunteers from a local welfare center.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/anonymously-pays-dinner-tab-for-27-disability-staff-in-south-korea/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>Plant-inspired filter begins catching microplastics in Atlantic City wastewater</title>
-      <link>https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/</link>
-      <description>A commercial-scale device designed by Princeton alumni mimics water-shedding plants while attracting plastic particles. An Atlantic City utility began a two-year pilot after laboratory prototypes removed 98% of microplastics from wastewater.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/nature-inspired-tech-prevents-microplastics-entering-atlantic-ocean-through-wastewater/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
   </channel>
 </rss>

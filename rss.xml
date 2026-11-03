@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Court orders throw college basketball eligibility into chaos</title>
+      <link>https://apnews.com/article/cec9148121c0063f215208dea58f4e18</link>
+      <description>Dozens of players opened the college basketball season after judges blocked the NCAA&apos;s new five-year eligibility model. The NCAA says about 200 lawsuits involving 850 athletes were active last week, leaving teams uncertain whether court-approved players will remain eligible through March.</description>
+      <pubDate>Mon, 02 Nov 2026 19:32:49 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/cec9148121c0063f215208dea58f4e18</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Thunder will retire Russell Westbrook&apos;s No. 0</title>
+      <link>https://www.wdbo.com/sports/thunder-honor-former/UYHDR5ZNEQ33FFV7R3G5J4UVB4/</link>
+      <description>Oklahoma City will retire Russell Westbrook&apos;s No. 0 in February. The 2017 MVP spent 11 seasons with the Thunder, led the franchise in games, points, rebounds, assists and steals when he retired, and helped it reach the 2012 NBA Finals and four Western Conference finals.</description>
+      <pubDate>Mon, 02 Nov 2026 21:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.wdbo.com/sports/thunder-honor-former/UYHDR5ZNEQ33FFV7R3G5J4UVB4/</guid>
+      <source url="https://www.wdbo.com/">WDBO</source>
+    </item>
+
+    <item>
+      <title>Bears beat Seahawks as D&apos;Andre Swift scores three touchdowns</title>
+      <link>https://www.reuters.com/sports/nfl/dandre-swift-scores-3-touchdowns-bears-down-seahawks--flm-2026-11-03/</link>
+      <description>D&apos;Andre Swift scored three second-half rushing touchdowns as Chicago beat Seattle 34-17 on Monday night. Caleb Williams threw for 247 yards without a turnover, and the 6-2 Bears won their third straight game since his return from a hamstring injury.</description>
+      <pubDate>Tue, 03 Nov 2026 04:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/dandre-swift-scores-3-touchdowns-bears-down-seahawks--flm-2026-11-03/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Kimi Antonelli becomes Formula One&apos;s youngest world champion</title>
@@ -114,33 +141,6 @@
       <description>Chicago is sending Tennessee first-round picks in 2027 and 2028 plus a 2027 fourth-rounder for Jeffery Simmons and a 2028 fifth-round pick, pending a physical. The four-time Pro Bowler signed a three-year, $105.8 million extension this summer.</description>
       <pubDate>Thu, 29 Oct 2026 15:19:12 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/report-bears-bolster-d-acquire-jeffery-simmons-titans--flm-2026-10-29/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Brewers capture their first World Series championship</title>
-      <link>https://www.reuters.com/sports/baseball/cooper-pratt-jacob-misiorowski-steer-brewers-first-series-title--flm-2026-10-29/</link>
-      <description>Milwaukee ended a 57-season wait by beating Tampa Bay 4-1 in Game 5. Rookie Cooper Pratt drove in two runs, Jacob Misiorowski worked 5 2/3 scoreless innings and William Contreras earned World Series MVP honors.</description>
-      <pubDate>Thu, 29 Oct 2026 03:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/baseball/cooper-pratt-jacob-misiorowski-steer-brewers-first-series-title--flm-2026-10-29/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Jokic becomes the second NBA player with 200 triple-doubles</title>
-      <link>https://www.reuters.com/sports/nba-roundup-nikola-jokics-200th-triple-double-leads-nuggets-past-pelicans--flm-2026-10-29/</link>
-      <description>Nikola Jokic joined Russell Westbrook as the only NBA players to reach 200 career triple-doubles, collecting 21 points, 13 rebounds and 10 assists in Denver&apos;s 104-91 victory over New Orleans.</description>
-      <pubDate>Thu, 29 Oct 2026 08:53:49 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-nikola-jokics-200th-triple-double-leads-nuggets-past-pelicans--flm-2026-10-29/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>MLS details its 2027 sprint season before shifting the calendar</title>
-      <link>https://www.reuters.com/sports/soccer/mls-announces-key-2027-sprint-season-matches-ahead-calendar-shift-2026-10-29/</link>
-      <description>Inter Miami and Cincinnati will open a 14-game bridge season on February 19 as MLS moves toward an autumn-to-spring calendar. The sprint concludes with Decision Day on May 8 and playoffs later that month.</description>
-      <pubDate>Thu, 29 Oct 2026 00:07:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/mls-announces-key-2027-sprint-season-matches-ahead-calendar-shift-2026-10-29/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

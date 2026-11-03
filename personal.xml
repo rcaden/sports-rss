@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>A veterinarian&apos;s practical guide to safer floors for older dogs</title>
+      <link>https://seniordogvets.org/articles/how-to-make-the-house-easier-to-navigate-for-an-older-dog/</link>
+      <description>Veterinarian Monica Tarantino recommends starting with washable non-skid runners in the few places an older dog hesitates or slips. She also suggests secured mats at food and water, trimmed nails and paw hair, stable ramps, nightlights and a two-week log of changes to discuss with a veterinarian.</description>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://seniordogvets.org/articles/how-to-make-the-house-easier-to-navigate-for-an-older-dog/</guid>
+      <source url="https://seniordogvets.org/">Senior Dog Vets</source>
+    </item>
+
+    <item>
+      <title>Why the dots and misregistration made old comic books beautiful</title>
+      <link>https://printinghistory.org/gabriella-miyares-worlds-dot-dot-four-color-process-age-pulp-comics/</link>
+      <description>The American Printing History Association revisits Gabriella Miyares&apos;s close study of four-color rotary letterpress comics. Coarse CMYK halftone screens, cheap newsprint and imperfect plate registration created the distinctive 1940s-to-1970s look that artists still imitate.</description>
+      <pubDate>Wed, 23 Oct 2013 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://printinghistory.org/gabriella-miyares-worlds-dot-dot-four-color-process-age-pulp-comics/</guid>
+      <source url="https://printinghistory.org/">American Printing History Association</source>
+    </item>
+
+    <item>
+      <title>Catherine Asaro explains how physics and feminism shape her fiction</title>
+      <link>https://dailybruin.com/2020/01/20/alumna-author-imbues-fiction-with-scientific-rigor-feminist-principles</link>
+      <description>In a Daily Bruin profile, Catherine Asaro describes turning theoretical physics into the foundation of her Skolian Empire stories and using powerful female protagonists to challenge the science fiction she grew up reading. She also recalls plotting novels while teaching physics.</description>
+      <pubDate>Tue, 21 Jan 2020 05:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://dailybruin.com/2020/01/20/alumna-author-imbues-fiction-with-scientific-rigor-feminist-principles</guid>
+      <source url="https://dailybruin.com/">Daily Bruin</source>
+    </item>
 
     <item>
       <title>How Paul Bacon found the unforgettable image for Catch-22</title>
@@ -115,33 +142,6 @@
       <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.rapdev.io/blog/psa-composable-functional-script-includes-in-servicenow</guid>
       <source url="https://www.rapdev.io/">RapDev</source>
-    </item>
-
-    <item>
-      <title>A 1945 profile captures the publishing empire behind Captain Marvel</title>
-      <link>https://content.time.com/time/subscriber/article/0,33009,797351,00.html</link>
-      <description>Time&apos;s wartime profile found Fawcett publishing 14 magazines under paper rationing, after once juggling 63. It records Captain Marvel as the company&apos;s leading comic hero, notes circulation of 4.4 million comic books a month and describes the formulas behind its larger magazine business.</description>
-      <pubDate>Mon, 19 Mar 1945 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://content.time.com/time/subscriber/article/0,33009,797351,00.html</guid>
-      <source url="https://time.com/">Time</source>
-    </item>
-
-    <item>
-      <title>Matt Neuburg preserves a practical map to learning UserTalk</title>
-      <link>https://apeth.net/matt/defaultfrontier.html</link>
-      <description>Neuburg&apos;s Frontier resource page points to the complete online Definitive Guide, beginner UserTalk tutorials and RubyFrontier. He calls the out-of-print O&apos;Reilly book the best surviving route into the language while warning that some links and platform details are dated.</description>
-      <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://apeth.net/matt/defaultfrontier.html</guid>
-      <source url="https://apeth.net/">Matt Neuburg</source>
-    </item>
-
-    <item>
-      <title>A duplicate-submission guide separates browser locks from server guarantees</title>
-      <link>https://www.staticforms.dev/blog/prevent-duplicate-form-submissions</link>
-      <description>The guide recommends one form-level submit handler, a synchronous in-flight lock and a disabled button for user feedback. It also explains why retries and multiple tabs require durable server-side idempotency when duplicate side effects cannot be tolerated.</description>
-      <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.staticforms.dev/blog/prevent-duplicate-form-submissions</guid>
-      <source url="https://www.staticforms.dev/">Static Forms</source>
     </item>
   </channel>
 </rss>

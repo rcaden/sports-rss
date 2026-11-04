@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Beavers approved for return to Loch Ness after 500 years</title>
+      <link>https://www.nature.scot/beaver-release-approved-river-ness-catchment</link>
+      <description>NatureScot approved the release of at least 15 beaver families around Loch Ness over three years, restoring an animal last recorded there in 1526-27. The relocated beavers will receive health checks, and the agency says their dams should improve wetlands and help moderate floods and drought.</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.nature.scot/beaver-release-approved-river-ness-catchment</guid>
+      <source url="https://www.nature.scot/">NatureScot</source>
+    </item>
+
+    <item>
+      <title>Donor completes a tour of all 85 Australian blood centers</title>
+      <link>https://www.abc.net.au/news/2026-10-30/melbourne-man-donates-blood-across-australia/107319322</link>
+      <description>Melbourne police officer Trevor Bergman made his 545th blood donation in Canberra, completing a decade-long quest to give at every Australian Lifeblood center. Bergman is one of about 150 Australians whose plasma contains the anti-D antibody used to protect babies from a dangerous blood disorder.</description>
+      <pubDate>Fri, 30 Oct 2026 02:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-10-30/melbourne-man-donates-blood-across-australia/107319322</guid>
+      <source url="https://www.abc.net.au/news/">ABC News Australia</source>
+    </item>
+
+    <item>
+      <title>Jumping spiders have two sleep stages and catch up after bad nights</title>
+      <link>https://www.uni-bonn.de/en/news/221-2026</link>
+      <description>University of Bonn researchers found that Portia fimbriata jumping spiders sleep in two distinct stages, including one marked by eye movement and muscle twitches. The spiders were slower to respond while asleep and made up lost rest after disruption, providing unusually strong evidence of regulated sleep in spiders.</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.uni-bonn.de/en/news/221-2026</guid>
+      <source url="https://www.uni-bonn.de/">University of Bonn</source>
+    </item>
 
     <item>
       <title>Sikhs and Hindus help rebuild mosques in Punjab villages</title>
@@ -115,33 +142,6 @@
       <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>A Rembrandt fan leaves the museum wearing the master’s art</title>
-      <link>https://apnews.com/article/d2f19d30d5eba6d1d57f77ac3eb3a8e1</link>
-      <description>The Rembrandt House Museum revived its “Poor Man’s Rembrandt” pop-up, where noted tattoo artist Henk Schiffmacher inks designs based on the painter’s drawings. An AP reporter chose a wide-eyed 1630 self-portrait for a permanent, portable piece of museum art.</description>
-      <pubDate>Thu, 29 Oct 2026 04:19:58 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/d2f19d30d5eba6d1d57f77ac3eb3a8e1</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>The “Picasso of Pumpkin Carvers” marks 40 years of gourd art</title>
-      <link>https://apnews.com/article/95af0b1752f6ff1b361a7cfd1769841d</link>
-      <description>Mike Valladao, a systems engineer better known as Farmer Mike, celebrated four decades of sculpting giant pumpkins at Half Moon Bay’s festival. His creatures, landscapes and pop-culture figures can weigh hundreds of pounds—and last only a few days.</description>
-      <pubDate>Mon, 26 Oct 2026 05:03:58 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/95af0b1752f6ff1b361a7cfd1769841d</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>The rubber duck’s surprisingly deep American history</title>
-      <link>https://apnews.com/article/dab9736bc5c56d1649a54a6ea291d0c2</link>
-      <description>The familiar bath toy evolved from heavy vulcanized-rubber forms into Elenore Shannahan’s floating 1931 design and Peter Ganine’s 1947 vinyl duck. Along the way it inspired a hit song, entered the National Toy Hall of Fame and even helped scientists model ocean currents.</description>
-      <pubDate>Fri, 23 Oct 2026 16:46:05 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/dab9736bc5c56d1649a54a6ea291d0c2</guid>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

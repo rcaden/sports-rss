@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Jacksonville shipyard gave 13,500 workers an Election Day holiday in 1944</title>
+      <link>https://jaxhistory.org/st-johns-river-shipbuilding-company-closes-to-allow-employees-can-vote/</link>
+      <description>The St. Johns River Shipbuilding Company closed for 24 hours on Nov. 7, 1944, so its 13,500 employees could vote, then scheduled Sunday work to make up the lost day. The Jacksonville History Center connects the wartime election holiday to the launch of the yard&apos;s 68th Liberty ship the next evening.</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jaxhistory.org/st-johns-river-shipbuilding-company-closes-to-allow-employees-can-vote/</guid>
+      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+    </item>
+
+    <item>
+      <title>Sixth self-published science fiction competition opens for entries</title>
+      <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
+      <description>SPSFC 6 is accepting unpublished-contest entries through Nov. 29 unless capacity is reached sooner. Eligible books must be self-published science fiction novels of at least 40,000 words, published by Dec. 7, and submitted as EPUB files. Previously entered books get a separate resubmission window later this month.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
+      <source url="https://spsfc.space/">SPSFC</source>
+    </item>
+
+    <item>
+      <title>How WordPress&apos;s Details block creates disclosure panels without a plugin</title>
+      <link>https://wordpress.com/support/wordpress-editor/blocks/details-block/</link>
+      <description>WordPress&apos;s core Details block hides supplementary material behind a clickable summary and can be used in posts, pages, templates and template parts. The support guide explains nesting other blocks inside it, opening panels by default and using a shared name to make several panels behave like an accordion.</description>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.com/support/wordpress-editor/blocks/details-block/</guid>
+      <source url="https://wordpress.com/support/">WordPress.com Support</source>
+    </item>
 
     <item>
       <title>A veterinarian&apos;s practical guide to safer floors for older dogs</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 25 Mar 1996 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://winsite.retropc.se/winsite-mar96-2/index.html</guid>
       <source url="https://winsite.retropc.se/">WinSite Archive</source>
-    </item>
-
-    <item>
-      <title>FANAC restores a 1963 SFPA mailing with nine complete fanzines</title>
-      <link>https://fanac.org/fanzines/APA_Mailings/SFPA/10.html</link>
-      <description>The newly updated index for Southern Fandom Press Alliance mailing 10 opens 124 scanned pages from December 1963. The nine contributions include work by Rick Norwood, Dave Hulan, Bill Plott and Larry Montgomery, making an early slice of Southern fan publishing directly browsable.</description>
-      <pubDate>Mon, 26 Oct 2026 17:36:31 GMT</pubDate>
-      <guid isPermaLink="true">https://fanac.org/fanzines/APA_Mailings/SFPA/10.html</guid>
-      <source url="https://fanac.org/">FANAC</source>
-    </item>
-
-    <item>
-      <title>St. Augustine’s oldest house reveals layers of Florida history</title>
-      <link>https://www.news4jax.com/news/local/2026/06/12/st-augustine-at-250-americas-oldest-city-still-has-stories-to-tell/</link>
-      <description>A News4JAX visit to the Ximenez-Fatio House and St. Augustine Historical Society traces more than 450 years of the city’s past, from Pedro Menéndez and Spanish rule through British occupation, territorial Florida and statehood.</description>
-      <pubDate>Fri, 12 Jun 2026 22:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.news4jax.com/news/local/2026/06/12/st-augustine-at-250-americas-oldest-city-still-has-stories-to-tell/</guid>
-      <source url="https://www.news4jax.com/">News4JAX</source>
-    </item>
-
-    <item>
-      <title>Composable Script Includes can make ServiceNow code smaller and faster</title>
-      <link>https://www.rapdev.io/blog/psa-composable-functional-script-includes-in-servicenow</link>
-      <description>Andy Halstead shows how ServiceNow’s server-side JavaScript libraries can be organized as small, composable functions. The approach reduces repeated class setup, encourages explicit dependencies and offers a practical route to reusable code in a constrained runtime.</description>
-      <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.rapdev.io/blog/psa-composable-functional-script-includes-in-servicenow</guid>
-      <source url="https://www.rapdev.io/">RapDev</source>
     </item>
   </channel>
 </rss>

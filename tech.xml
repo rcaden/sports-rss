@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>WordPress 7.2 Beta 4 arrives for testing</title>
+      <link>https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/</link>
+      <description>WordPress released the fourth beta of version 7.2, continuing the testing cycle ahead of the planned Dec. 8 release. The project warns against using the beta on production sites and asks developers and site owners to test it in disposable environments and report regressions.</description>
+      <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/</guid>
+      <source url="https://wordpress.org/news/">WordPress.org</source>
+    </item>
+
+    <item>
+      <title>French audio study finds listening moves freely across platforms</title>
+      <link>https://podnews.net/update/france-audio-research</link>
+      <description>An Audion-YouGov survey says 58% of French adults have started content on one platform and finished it on another, while YouTube leads digital-audio use. Podnews also reports a new Flightcast tool that automatically moves creators&apos; YouTube video catalogs and future uploads to Spotify.</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/france-audio-research</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+
+    <item>
+      <title>How newsrooms make election calls before every ballot is counted</title>
+      <link>https://www.reuters.com/business/media-telecom/how-us-news-organizations-will-make-midterm-race-calls-2026-11-01/</link>
+      <description>Reuters explains how the Associated Press and Decision Desk HQ combine official results, reporting, historical patterns and statistical models to determine when a trailing candidate cannot catch up. Networks and newspapers layer on their own analysis as low trust in election reporting raises the cost of a premature call.</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/how-us-news-organizations-will-make-midterm-race-calls-2026-11-01/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>W3C restores the missing early years of the www-talk archive</title>
@@ -115,33 +142,6 @@
       <pubDate>Thu, 29 Oct 2026 20:52:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>Beehiiv is turning solo newsletters into small newsrooms</title>
-      <link>https://www.cjr.org/kicker/magazines-are-back-and-theyre-newsletters-preeya-goenka-beehiiv.php</link>
-      <description>CJR talks with Beehiiv’s Preeya Goenka about a media collective that waives platform fees and provides legal, healthcare and audience support for two years. The program still serves solo writers, but some members now operate multi-reporter local and national newsrooms.</description>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.cjr.org/kicker/magazines-are-back-and-theyre-newsletters-preeya-goenka-beehiiv.php</guid>
-      <source url="https://www.cjr.org/">Columbia Journalism Review</source>
-    </item>
-
-    <item>
-      <title>Only 32% express high confidence in accurate midterm results coverage</title>
-      <link>https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/</link>
-      <description>A nationally representative Medill and Alliance for Trust in Media survey found six in ten Americans have at least some confidence in election reporting, but only 32% have quite a bit or a great deal. Distrust is sharply polarized by party.</description>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/only-32-of-americans-have-high-confidence-that-news-orgs-will-report-midterm-election-results-accurately/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>A politics podcast plans live midterm coverage across video and RSS</title>
-      <link>https://podnews.net/press-release/tripus-live</link>
-      <description>Goalhanger’s The Rest Is Politics: US will stream a three-hour election-results special with Katty Kay and Anthony Scaramucci, plus five advance livestreams. Recordings will also flow into the show’s podcast feed, joining live video with open audio distribution.</description>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/press-release/tripus-live</guid>
-      <source url="https://podnews.net/">Podnews</source>
     </item>
   </channel>
 </rss>

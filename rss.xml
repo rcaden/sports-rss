@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Jets engineer latest four-goal comeback in NHL history</title>
+      <link>https://www.reuters.com/sports/nhl-roundup-jets-stun-habs-with-latest-4-goal-rally-league-history--flm-2026-11-04/</link>
+      <description>Winnipeg erased a 4-0 deficit by scoring four times in 2:06 late in the third, the latest four-goal comeback in NHL history, then beat Montreal 5-4 on Dylan Samberg&apos;s overtime goal. The win ended the Jets&apos; nine-game winless streak.</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nhl-roundup-jets-stun-habs-with-latest-4-goal-rally-league-history--flm-2026-11-04/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Miami leads first College Football Playoff rankings</title>
+      <link>https://collegefootballplayoff.com/news/2026/11/3/rankings</link>
+      <description>Unbeaten Miami debuted at No. 1 in the selection committee&apos;s first 2026 ranking, followed by Georgia, Utah and Indiana. Alabama opened fifth, Notre Dame 11th and Ohio State 12th. The committee will issue five more rankings before setting the 12-team bracket on Dec. 6.</description>
+      <pubDate>Wed, 04 Nov 2026 00:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/3/rankings</guid>
+      <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
+    </item>
+
+    <item>
+      <title>PSG scores six as Manchester United rallies from two down</title>
+      <link>https://www.reuters.com/sports/soccer/psg-hit-villarreal-six-bayern-win-man-united-fight-back-2026-11-03/</link>
+      <description>Paris Saint-Germain routed Villarreal 6-0 and became the fastest team to score four goals in a Champions League match. Manchester United recovered from 2-0 down to beat Roma 3-2 behind two late Matheus Cunha goals, while Bayern Munich won 2-0 at Atletico Madrid.</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/psg-hit-villarreal-six-bayern-win-man-united-fight-back-2026-11-03/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Court orders throw college basketball eligibility into chaos</title>
@@ -114,33 +141,6 @@
       <description>James Anderson said Lancashire&apos;s decision not to renew his contract surprised him, ending a 25-year association with the county. The 44-year-old, England&apos;s record Test wicket-taker, still took 50 county wickets at 17.68 this season and has not decided whether to continue elsewhere.</description>
       <pubDate>Fri, 30 Oct 2026 13:25:20 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/cricket/lancashire-exit-came-shock-says-anderson-2026-10-30/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Hamilton says he remains all-in on Formula One at 41</title>
-      <link>https://www.reuters.com/sports/formula1/hamilton-says-hes-still-all-in-foreseeable-future-2026-10-29/</link>
-      <description>Lewis Hamilton said he could still be racing when Formula One returns to Africa in the 2030s, but would retire if his reactions or pace decline. The seven-time champion is using the final five races to help Ferrari prepare its 2027 car.</description>
-      <pubDate>Thu, 29 Oct 2026 23:15:31 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/hamilton-says-hes-still-all-in-foreseeable-future-2026-10-29/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Dream force a winner-take-all Game 7 in the WNBA Finals</title>
-      <link>https://www.reuters.com/sports/dream-end-schedule-nightmare-with-game-6-win-over-valkyries-2026-10-29/</link>
-      <description>Atlanta beat Golden State 80-69 in Game 6, sending the WNBA Finals to its first winner-take-all Game 7. Allisha Gray scored 23 and Rhyne Howard 21 as the Dream answered the controversy over an early-afternoon tip with a decisive home win.</description>
-      <pubDate>Thu, 29 Oct 2026 21:13:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/dream-end-schedule-nightmare-with-game-6-win-over-valkyries-2026-10-29/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Bears acquire All-Pro defensive tackle Jeffery Simmons</title>
-      <link>https://www.reuters.com/sports/report-bears-bolster-d-acquire-jeffery-simmons-titans--flm-2026-10-29/</link>
-      <description>Chicago is sending Tennessee first-round picks in 2027 and 2028 plus a 2027 fourth-rounder for Jeffery Simmons and a 2028 fifth-round pick, pending a physical. The four-time Pro Bowler signed a three-year, $105.8 million extension this summer.</description>
-      <pubDate>Thu, 29 Oct 2026 15:19:12 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/report-bears-bolster-d-acquire-jeffery-simmons-titans--flm-2026-10-29/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

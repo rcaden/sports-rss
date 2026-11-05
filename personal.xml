@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>How Steve Davidson revived Amazing Stories and then stepped away</title>
+      <link>https://file770.com/steve-davidson-will-stop-running-amazing-stories/</link>
+      <description>File 770&apos;s 2022 account summarizes Steve Davidson&apos;s stewardship of Amazing Stories: he secured the trademark in 2011, rebuilt its online presence, crowdfunded new print issues and organized special projects before transferring management to Kermit Woodall. It is a concise record of what Davidson accomplished.</description>
+      <pubDate>Thu, 03 Nov 2022 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://file770.com/steve-davidson-will-stop-running-amazing-stories/</guid>
+      <source url="https://file770.com/">File 770</source>
+    </item>
+
+    <item>
+      <title>Master Comics 16 introduced Larry Dean, the Flyin&apos; Fool</title>
+      <link>https://www.comics.org/issue/1500/?display=list</link>
+      <description>The Grand Comics Database identifies Larry Dean&apos;s debut as a two-page prose story in Fawcett&apos;s Master Comics 16, on sale June 4, 1941. Carl Formes wrote it under the reversed-name byline LaRac Semrof. The issue also featured Minute Man, Bulletman, El Carim, Captain Marvel Jr. and Spy Smasher.</description>
+      <pubDate>Wed, 04 Jun 1941 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.comics.org/issue/1500/?display=list</guid>
+      <source url="https://www.comics.org/">Grand Comics Database</source>
+    </item>
+
+    <item>
+      <title>Google explains exactly how much HTTPS initially mattered to rankings</title>
+      <link>https://developers.google.com/search/blog/2014/08/https-as-ranking-signal?hl=en</link>
+      <description>Google&apos;s original 2014 announcement called HTTPS a very lightweight ranking signal affecting fewer than 1% of global queries and carrying less weight than content quality. The post also recommends crawlable secure pages, proper certificates and careful site moves, making it useful context for judging the SEO cost of remaining on HTTP.</description>
+      <pubDate>Thu, 07 Aug 2014 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://developers.google.com/search/blog/2014/08/https-as-ranking-signal?hl=en</guid>
+      <source url="https://developers.google.com/search/">Google Search Central</source>
+    </item>
 
     <item>
       <title>Jacksonville shipyard gave 13,500 workers an Election Day holiday in 1944</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://blogs.loc.gov/loc/2026/10/some-of-the-spookiest-specters-in-the-librarys-archives/</guid>
       <source url="https://blogs.loc.gov/">Library of Congress</source>
-    </item>
-
-    <item>
-      <title>Copyright Office guide explains the old notice trap</title>
-      <link>https://www.copyright.gov/circs/circ03.pdf</link>
-      <description>Circular 3 is a compact guide to U.S. copyright notice rules. Notice became optional for works first published on or after March 1, 1989, but omission from older publications could forfeit protection unless statutory cure provisions or later restoration applied. Useful groundwork for copyright archaeology.</description>
-      <pubDate>Mon, 01 Mar 2021 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.copyright.gov/circs/circ03.pdf</guid>
-      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
-    </item>
-
-    <item>
-      <title>Stanford guide maps the clues that a work is in the public domain</title>
-      <link>https://fairuse.stanford.edu/overview/public-domain/welcome/</link>
-      <description>Rich Stim&apos;s practical guide explains how to recognize public-domain works, including expired copyrights, U.S. government works and explicit dedication. It also warns that a missing notice alone proves little for newer publications and that only the copyright owner can dedicate a work.</description>
-      <pubDate>Tue, 02 Apr 2013 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://fairuse.stanford.edu/overview/public-domain/welcome/</guid>
-      <source url="https://fairuse.stanford.edu/">Stanford Copyright and Fair Use Center</source>
-    </item>
-
-    <item>
-      <title>A 1996 WinSite CD preserves the shareware web before app stores</title>
-      <link>https://winsite.retropc.se/winsite-mar96-2/index.html</link>
-      <description>This browsable mirror preserves InfoMagic&apos;s WinSite archive as it stood on March 25, 1996. Its directory pages, descriptions and try-before-you-buy explanation capture the practical culture of Windows shareware distribution, including the expectation that satisfied users would pay authors.</description>
-      <pubDate>Mon, 25 Mar 1996 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://winsite.retropc.se/winsite-mar96-2/index.html</guid>
-      <source url="https://winsite.retropc.se/">WinSite Archive</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Spreaker adds interoperable podcast recommendations through RSS</title>
+      <link>https://news.spreaker.com/162409-podroll-a-new-way-to-recommend-podcasts-and-grow-your-audience</link>
+      <description>Spreaker now supports the Podroll RSS tag, allowing publishers to recommend any podcast to listeners regardless of hosting platform. Creators can use the feed-level list to cross-promote their own shows, connect a network&apos;s catalog or point audiences toward independent programs they value.</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.spreaker.com/162409-podroll-a-new-way-to-recommend-podcasts-and-grow-your-audience</guid>
+      <source url="https://news.spreaker.com/">Spreaker</source>
+    </item>
+
+    <item>
+      <title>Podcast Show London expands around video and the creator economy</title>
+      <link>https://podnews.net/update/podshow-london-27-tix</link>
+      <description>The Podcast Show London says its May 2027 edition will add a video-focused stage, a Creator Economy Zone and a larger exhibition floor. The sixth annual gathering expects more than 500 speakers across over 180 sessions, reflecting how podcasting&apos;s audio and video businesses continue to merge.</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/podshow-london-27-tix</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+
+    <item>
+      <title>New fund targets independent newsrooms in European news deserts</title>
+      <link>https://www.journalismfund.eu/news/SM4Dlaunch</link>
+      <description>Sustainable Media for Democracy will provide grants and operational support to about 45 local, community and investigative outlets across Europe. The 24-month program has €1.625 million for direct awards of €5,000 to €60,000, with proposal calls opening in December.</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.journalismfund.eu/news/SM4Dlaunch</guid>
+      <source url="https://www.journalismfund.eu/">Journalismfund Europe</source>
+    </item>
 
     <item>
       <title>WordPress 7.2 Beta 4 arrives for testing</title>
@@ -114,33 +141,6 @@
       <description>Meta says it will consult news-industry leaders before implementing commercial terms that could permit broad scraping of sites tied to business accounts, even if that requires another delay. A Norwegian court has meanwhile blocked the terms pending review, while publishers continue to demand binding safeguards.</description>
       <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.niemanlab.org/2026/10/meta-pledges-to-consult-publishers-before-finalizing-its-new-terms/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.1.4 closes upgrade-window and stored-XSS vulnerabilities</title>
-      <link>https://wordpress.org/news/2026/10/wordpress-7-1-4/</link>
-      <description>WordPress 7.1.4 is a security release addressing an upgrade-process weakness that could permit remote code execution during an update window, plus stored cross-site scripting, denial-of-service and privacy flaws. Fixes were backported through WordPress 4.7, and site owners are urged to update promptly.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-1-4/</guid>
-      <source url="https://wordpress.org/">WordPress.org</source>
-    </item>
-
-    <item>
-      <title>PodcastOne explores a sale after receiving buyer interest</title>
-      <link>https://podnews.net/update/podcast-one-multiple</link>
-      <description>PodcastOne has formed a special committee and hired a financial adviser to consider a sale after receiving interest from multiple potential buyers. The podcast network&apos;s shares jumped on the announcement, though they remained below their May level. The process could also lead to another strategic transaction or no deal.</description>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/podcast-one-multiple</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>What $20 million in flexible grants changed for 205 local newsrooms</title>
-      <link>https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/</link>
-      <description>Press Forward distributed $20 million to 205 small local newsrooms, usually as $100,000 in unrestricted support over two years. Nieman Lab found the money helped recipients plug budget holes, test products and stabilize operations, but the short grant period often was not enough to sustain permanent hiring.</description>
-      <pubDate>Thu, 29 Oct 2026 20:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
   </channel>

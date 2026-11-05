@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Wembanyama posts 52 points, 24 rebounds and eight blocks</title>
+      <link>https://www.reuters.com/sports/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-24--flm-2026-11-05/</link>
+      <description>Victor Wembanyama set career highs with 52 points and 24 rebounds, added eight blocks and made the deciding free throw with 24.2 seconds left as San Antonio edged Dallas 112-111. He became the first NBA player in 30 seasons with at least 25 points, 10 rebounds and five blocks in one half.</description>
+      <pubDate>Thu, 05 Nov 2026 09:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-24--flm-2026-11-05/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Como scores nine as Liverpool falls in Istanbul</title>
+      <link>https://www.dawn.com/news/2042223/valverde-rescues-real-as-liverpool-let-lead-slip-twice-to-lose-at-fenerbahce</link>
+      <description>Como matched the Champions League&apos;s largest winning margin by routing Lens 9-1, with Tasos Douvikas producing a hat trick and an assist. Liverpool surrendered two leads in a 3-2 loss at Fenerbahce, while stoppage-time goals rescued Real Madrid and Manchester City won on Erling Haaland&apos;s late finish.</description>
+      <pubDate>Thu, 05 Nov 2026 04:28:00 +0500</pubDate>
+      <guid isPermaLink="true">https://www.dawn.com/news/2042223/valverde-rescues-real-as-liverpool-let-lead-slip-twice-to-lose-at-fenerbahce</guid>
+      <source url="https://www.dawn.com/">Dawn</source>
+    </item>
+
+    <item>
+      <title>WNBA Game 7 sets postseason viewership record</title>
+      <link>https://apnews.com/article/wnba-finals-ratings-ff034a065bdbe499378b6c102f60e70a</link>
+      <description>Golden State&apos;s championship victory over Atlanta averaged 3.3 million viewers, the most for any WNBA postseason game and 128% above last season&apos;s clincher. The seven-game Finals averaged 1.88 million, the league&apos;s best since 1999, and every game sold out.</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/wnba-finals-ratings-ff034a065bdbe499378b6c102f60e70a</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
 
     <item>
       <title>Jets engineer latest four-goal comeback in NHL history</title>
@@ -114,33 +141,6 @@
       <description>Sovereignty surged past the field to win the $7 million Breeders&apos; Cup Classic at Keeneland, one year after illness forced him out of the race. Junior Alvarado rode the four-year-old to victory for trainer Bill Mott; The Puma finished second and defending champion Forever Young was fifth.</description>
       <pubDate>Sun, 01 Nov 2026 00:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/horse-racing-sovereignty-returns-win-breeders-cup-classic-2026-11-01/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Curry leads Warriors out of a 25-point hole against Lakers</title>
-      <link>https://www.reuters.com/sports/warriors-escape-25-point-hole-behind-stephen-currys-31-top-lakers--flm-2026-10-31/</link>
-      <description>Stephen Curry scored 31 points and made eight 3-pointers as Golden State erased a 25-point deficit to beat the Lakers 112-95 in its NBA Cup opener. The Warriors&apos; bench scored 50 points, and a 33-8 second-half run overwhelmed Los Angeles despite Luka Doncic&apos;s 37 points.</description>
-      <pubDate>Sat, 31 Oct 2026 06:33:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/warriors-escape-25-point-hole-behind-stephen-currys-31-top-lakers--flm-2026-10-31/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Bhanwala becomes India&apos;s first women&apos;s wrestling world champion</title>
-      <link>https://www.reuters.com/sports/bhanwala-becomes-first-indian-woman-win-wrestling-world-title-2026-10-30/</link>
-      <description>Manisha Bhanwala rallied from a 6-0 deficit to beat American Abigail Nette 8-6 in the 59-kilogram final, becoming the first Indian woman to win a senior wrestling world title. The comeback delivered a landmark result for India at the championships in Bahrain.</description>
-      <pubDate>Fri, 30 Oct 2026 17:25:25 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/bhanwala-becomes-first-indian-woman-win-wrestling-world-title-2026-10-30/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Anderson says Lancashire exit after 25 years came as a shock</title>
-      <link>https://www.reuters.com/sports/cricket/lancashire-exit-came-shock-says-anderson-2026-10-30/</link>
-      <description>James Anderson said Lancashire&apos;s decision not to renew his contract surprised him, ending a 25-year association with the county. The 44-year-old, England&apos;s record Test wicket-taker, still took 50 county wickets at 17.68 this season and has not decided whether to continue elsewhere.</description>
-      <pubDate>Fri, 30 Oct 2026 13:25:20 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/cricket/lancashire-exit-came-shock-says-anderson-2026-10-30/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Japanese calligraphy moves closer to UNESCO recognition</title>
+      <link>https://www.nihonshodobunka.jp/colum/index.html</link>
+      <description>A UNESCO evaluation body recommended Japan&apos;s shodo calligraphy for inscription on the Intangible Cultural Heritage list. The recommendation is not the final decision: the intergovernmental committee will consider it during a Nov. 30-Dec. 5 meeting in Xiamen, China.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+      <guid isPermaLink="true">https://www.nihonshodobunka.jp/colum/index.html</guid>
+      <source url="https://www.nihonshodobunka.jp/">Japan Shodo Culture Association</source>
+    </item>
+
+    <item>
+      <title>Firefighters build a plywood path to free a horse from deep mud</title>
+      <link>https://shrewsburypost.com/2026/11/02/douglas-firefighters-rescue-25-year-old-horse-trapped-in-mud/</link>
+      <description>Crews from several Massachusetts towns used more than 25 sheets of plywood and a highway-department light tower to reach a 25-year-old mare trapped belly-deep in unstable mud. After a two-hour rescue, the horse stood, walked out of the woods and was found to be uninjured.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.aol.com/articles/trapped-horse-rescued-mud-massachusetts-172446000.html</guid>
+      <source url="https://shrewsburypost.com/">Shrewsbury Post</source>
+    </item>
+
+    <item>
+      <title>Second Amur tiger returns to the wild in Kazakhstan</title>
+      <link>https://www.gov.kz/org/ecogeo/press/news/details/1321913?lang=ru</link>
+      <description>Kazakhstan released a male Amur tiger named Amur into the Ile-Balkhash reserve after veterinary and hunting-skill checks. He joins a female released in July, beginning the restoration of a species absent from the country&apos;s wild for more than 70 years. Both animals wear satellite collars.</description>
+      <pubDate>Mon, 02 Nov 2026 13:00:00 +0500</pubDate>
+      <guid isPermaLink="true">https://www.gov.kz/org/ecogeo/press/news/details/1321913?lang=ru</guid>
+      <source url="https://www.gov.kz/">Kazakhstan Ministry of Ecology</source>
+    </item>
 
     <item>
       <title>Beavers approved for return to Loch Ness after 500 years</title>
@@ -115,33 +142,6 @@
       <pubDate>Fri, 30 Oct 2026 16:24:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/30/guinness-world-records-trading-cards-wing-walker/6101793377118/</guid>
       <source url="https://www.upi.com/">UPI</source>
-    </item>
-
-    <item>
-      <title>Hokkaido potato growers harvest their best crop in a decade</title>
-      <link>https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/</link>
-      <description>After a punishing summer hurt crops elsewhere in Japan, Hokkaido&apos;s potato farmers are celebrating their best harvest in a decade. A favorable balance of rain and temperature helped the island, which supplies about 80 percent of Japan&apos;s potatoes, produce an especially strong crop.</description>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>Texas school honors beloved longtime custodian &apos;Miss Marilyn&apos;</title>
-      <link>https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/</link>
-      <description>A new Texas elementary school has been named for Marilyn Hampton, a 76-year-old custodian who spent 39 years caring for students and staff. Beyond cleaning, &apos;Miss Marilyn&apos; bought supplies, tutored children and found football tickets for families; she still helps at an early-learning center.</description>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/new-texas-school-is-named-for-longtime-janitor-miss-marilyn-watch-her-reaction/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>Farmer turns a stray exam-phone-number mix-up into student pep talks</title>
-      <link>https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/</link>
-      <description>A Chinese strawberry farmer discovered his phone number had appeared in a national exam passage when students began calling. For more than a decade he has answered with encouragement instead of annoyance; one caller later reached a top Beijing university and finally met him over Peking duck.</description>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/a-farmer-didnt-know-his-cell-number-was-on-an-exam-question-now-uses-the-calls-he-gets-as-opportunities-to-inspire/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
   </channel>
 </rss>

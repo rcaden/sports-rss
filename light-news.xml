@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:05:41 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Albatross lays Royal Cam&apos;s first egg before a global audience</title>
+      <link>https://www.doc.govt.nz/news/media-releases/2026-media-releases/egg-citement-toroaalbatross-lays-first-egg-live-on-camera-delighting-viewers/</link>
+      <description>A northern royal albatross known as L laid an egg live on New Zealand&apos;s 24-hour Royal Cam, a first for viewers of the stream. She and her mate are already sharing incubation duty, and rangers will check the egg for fertility after 10 to 12 days. Last season produced a record-equaling 38 fledglings.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +1300</pubDate>
+      <guid isPermaLink="true">https://www.doc.govt.nz/news/media-releases/2026-media-releases/egg-citement-toroaalbatross-lays-first-egg-live-on-camera-delighting-viewers/</guid>
+      <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
+    </item>
+
+    <item>
+      <title>Seabirds stage a record recovery on England&apos;s Solent coast</title>
+      <link>https://www.rspb.org.uk/whats-happening/news/record-year-for-seabirds-on-rspb-reserves-in-the-solent</link>
+      <description>Years of habitat work and volunteer protection helped Sandwich terns rebound at Pagham Harbour from a colony abandoned after the 2022 bird-flu outbreak to at least 756 breeding pairs and 570 fledglings this year. Black-headed gull fledglings jumped from 51 in 2025 to 504 in 2026.</description>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.rspb.org.uk/whats-happening/news/record-year-for-seabirds-on-rspb-reserves-in-the-solent</guid>
+      <source url="https://www.rspb.org.uk/">RSPB</source>
+    </item>
+
+    <item>
+      <title>South America&apos;s largest known mastodon tusk surfaces in Argentina</title>
+      <link>https://unr.edu.ar/en/hallaron-el-colmillo-de-mastodonte-mas-grande-de-sudamerica/</link>
+      <description>Researchers recovered a 2.34-meter mastodon tusk from a ranch near San Pedro, Argentina, surpassing the continent&apos;s previous documented record. The roughly 500,000-year-old fossil belonged to a four- or five-ton Notiomastodon platensis; both tusks together may have weighed nearly 200 kilograms.</description>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://unr.edu.ar/en/hallaron-el-colmillo-de-mastodonte-mas-grande-de-sudamerica/</guid>
+      <source url="https://unr.edu.ar/">National University of Rosario</source>
+    </item>
 
     <item>
       <title>Japanese calligraphy moves closer to UNESCO recognition</title>
@@ -115,33 +142,6 @@
       <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/hero-support-dog-saves-husbands-life-after-alerting-deaf-owner-to-deadly-fall/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>A surprise bus-stop bench makes a Florida student jump for joy</title>
-      <link>https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/</link>
-      <description>Florida teachers Maren and David Douglass noticed a middle-school student sitting in the dirt at the bus stop outside their home. They installed a bench, and their camera captured her delighted reaction. The couple later added a stocked mini-library, while the student left them flowers and a thank-you note.</description>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/girl-sitting-in-dirt-at-bus-stop-gets-surprise-bench-from-couple/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>Two widowed retirees find love at 88 in the gym</title>
-      <link>https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/</link>
-      <description>Barbara Thompson and Fred Jenkins, both widowed, met while exercising at a Birmingham retirement village and unexpectedly fell in love at 88. They now work out together three times a week, play darts and dominoes, garden and dance, while happily keeping their own apartments.</description>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/retirees-who-lost-spouses-fall-in-love-again-at-88-meeting-in-gym/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>Collector opens seven card packs while wing-walking</title>
-      <link>https://www.upi.com/Odd_News/2026/10/30/guinness-world-records-trading-cards-wing-walker/6101793377118/</link>
-      <description>British collector Colby Bull opened seven packs of basketball cards in one minute while strapped to a biplane wing 600 feet above a Kent airfield. He kept every card despite 120 mph winds and earned a Guinness World Record for the stunt.</description>
-      <pubDate>Fri, 30 Oct 2026 16:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.upi.com/Odd_News/2026/10/30/guinness-world-records-trading-cards-wing-walker/6101793377118/</guid>
-      <source url="https://www.upi.com/">UPI</source>
     </item>
   </channel>
 </rss>

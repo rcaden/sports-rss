@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:05:41 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>LIV Golf to wind down after financing deal collapses</title>
+      <link>https://www.reuters.com/sports/golf/liv-golf-liquidate-after-financing-deal-falls-apart-2026-11-05/</link>
+      <description>LIV Golf will liquidate in an orderly wind-down after Saudi Arabia&apos;s Public Investment Fund ended its backing and a proposed $300 million financing agreement with BC Partners collapsed. The breakaway circuit spent more than $5 billion after launching in 2022 and will consider offers for its remaining assets.</description>
+      <pubDate>Thu, 05 Nov 2026 17:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/golf/liv-golf-liquidate-after-financing-deal-falls-apart-2026-11-05/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Cristiano Ronaldo ends record-setting Portugal career</title>
+      <link>https://www.fifa.com/en/tournaments/mens/worldcup/articles/cristiano-ronaldo-portugal-retirement</link>
+      <description>Cristiano Ronaldo retired from international soccer at 41 after 23 years with Portugal. His 234 appearances and 146 goals are men&apos;s world records, and he scored at six World Cups. Ronaldo captained Portugal to the 2016 European Championship and Nations League titles in 2019 and 2025.</description>
+      <pubDate>Thu, 05 Nov 2026 05:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.fifa.com/en/tournaments/mens/worldcup/articles/cristiano-ronaldo-portugal-retirement</guid>
+      <source url="https://www.fifa.com/">FIFA</source>
+    </item>
+
+    <item>
+      <title>Jaguars rout depleted Ravens 33-10</title>
+      <link>https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/jaguars-thrash-the-depleted-ravens-33-10-for-their-5th-win-in-6-games/</link>
+      <description>Trevor Lawrence threw for 242 yards and a touchdown as Jacksonville won for the fifth time in six games. Baltimore, starting rookie Joe Fagnano with Lamar Jackson and Tyler Huntley injured, lost its fourth straight and became the first Ravens team to drop three consecutive games by at least 20 points.</description>
+      <pubDate>Fri, 06 Nov 2026 03:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/jaguars-thrash-the-depleted-ravens-33-10-for-their-5th-win-in-6-games/</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
 
     <item>
       <title>Wembanyama posts 52 points, 24 rebounds and eight blocks</title>
@@ -115,33 +142,6 @@
       <pubDate>Sun, 01 Nov 2026 18:39:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league</guid>
       <source url="https://www.skysports.com/">Sky Sports</source>
-    </item>
-
-    <item>
-      <title>Valkyries win first WNBA title in historic Game 7</title>
-      <link>https://apnews.com/article/wnba-finals-game-7-valkyries-dream-189aa4b8ecb1d1fd8ddfacde3a9d6ac4</link>
-      <description>Gabby Williams scored 30 points, including Golden State&apos;s final 11 of the third quarter, as the Valkyries beat Atlanta 68-63 in the first WNBA Finals Game 7. Williams earned Finals MVP honors and delivered the expansion franchise a championship in only its second season.</description>
-      <pubDate>Sun, 01 Nov 2026 05:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/wnba-finals-game-7-valkyries-dream-189aa4b8ecb1d1fd8ddfacde3a9d6ac4</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>USC shocks No. 2 Ohio State 30-18 at the Coliseum</title>
-      <link>https://gmg-wdiv-prod.cdn.arcpublishing.com/sports/2026/11/01/usc-stuns-no-2-ohio-state-30-18-with-big-plays-from-jayden-maiava-freshman-trent-mosley/</link>
-      <description>Jayden Maiava passed for 222 yards and Trent Mosley turned a screen into a 69-yard touchdown as USC handed No. 2 Ohio State a 30-18 loss. The Trojans held the Buckeyes without a touchdown for the first 57 minutes and beat a top-five opponent at the Coliseum for the first time since 2015.</description>
-      <pubDate>Sun, 01 Nov 2026 03:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://gmg-wdiv-prod.cdn.arcpublishing.com/sports/2026/11/01/usc-stuns-no-2-ohio-state-30-18-with-big-plays-from-jayden-maiava-freshman-trent-mosley/</guid>
-      <source url="https://www.clickondetroit.com/">WDIV ClickOnDetroit</source>
-    </item>
-
-    <item>
-      <title>Sovereignty returns to capture the Breeders&apos; Cup Classic</title>
-      <link>https://www.reuters.com/sports/horse-racing-sovereignty-returns-win-breeders-cup-classic-2026-11-01/</link>
-      <description>Sovereignty surged past the field to win the $7 million Breeders&apos; Cup Classic at Keeneland, one year after illness forced him out of the race. Junior Alvarado rode the four-year-old to victory for trainer Bill Mott; The Puma finished second and defending champion Forever Young was fifth.</description>
-      <pubDate>Sun, 01 Nov 2026 00:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/horse-racing-sovereignty-returns-win-breeders-cup-classic-2026-11-01/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

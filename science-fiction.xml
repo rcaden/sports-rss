@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acme: Science Fiction and Fantasy News</title>
+    <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
+    <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2026 15:00:00 GMT</lastBuildDate>
+    <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
+    <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Archive of Our Own warns security incident could keep fanfiction site offline for weeks</title>
+      <link>https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/</link>
+      <description>The Organization for Transformative Works disclosed on October 30 that Archive of Our Own (AO3) had been taken offline after evidence of a security incident was discovered. The volunteer-run organization said its investigation was still in its early stages and expected the fanfiction archive to remain unavailable for at least two weeks, potentially as long as four. OTW said no fanworks, bookmarks or kudos had been deleted. It did not believe its user database had been stolen but could not rule out that possibility; account information may include usernames, email addresses, IP addresses and password hashes. It advised users to change passwords reused on other websites. OTW also said donation information is stored separately. A limited or read-only reopening may be possible during recovery. The shutdown is a major disruption for a central institution in online fan culture.</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.transformativeworks.org/update-on-ao3-downtime-october-30-2026/</guid>
+      <category>Fandom</category>
+      <source url="https://www.transformativeworks.org/">Organization for Transformative Works</source>
+    </item>
+
+    <item>
+      <title>Norwescon reopens venue search and invites fans to help shape its future</title>
+      <link>https://www.norwescon.org/2026/11/02/news-from-norwescon-november-2026/</link>
+      <description>Norwescon announced on November 2 that it has reactivated its site selection committee to examine potential convention venues across the greater Puget Sound area. Organizers say they last conducted such a review before the pandemic, and that changes in the hospitality industry make a fresh assessment worthwhile. The convention is asking attendees and other supporters to suggest venues or amenities the committee should consider, while emphasizing that it values its current hotel. The November update also seeks donations for the Shire teen space, notes that club table applications are open, and previews a Black Friday membership sale for Norwescon 49. Hotel suite requests are being accepted as well. For fans interested in how volunteer-run conventions manage long-term planning, the venue review offers a timely look at the organizational decisions behind a major regional gathering.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.norwescon.org/2026/11/02/news-from-norwescon-november-2026/</guid>
+      <category>Conventions</category>
+      <source url="https://www.norwescon.org/">Norwescon</source>
+    </item>
+
+    <item>
+      <title>Philcon marks 90 years since its 1936 beginnings at November convention</title>
+      <link>https://philcon.org/</link>
+      <description>Philcon will celebrate its 90th anniversary November 20–22, 2026, at the DoubleTree by Hilton in Cherry Hill, New Jersey. The Philadelphia Science Fiction Society traces the convention to 1936, making this anniversary a landmark for organized science fiction fandom. The event has generally met annually since its founding, except during World War II. This year&apos;s principal speaker is writer Charlie Jane Anders, with Donato Giancola as artist guest of honor and Sarah Pinsker as musical guest. Philcon also plans a mini-convention devoted to Eric Flint&apos;s 1632 universe, featuring Charles Gannon and other participants connected to the series. Alongside books and writing, the convention&apos;s program encompasses artwork, science, film, television, comics, gaming and costuming. The anniversary is a reminder that participatory science fiction fan culture predates many of the genre&apos;s most familiar modern institutions.</description>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://philcon.org/</guid>
+      <category>History</category>
+      <source url="https://philcon.org/">Philcon</source>
+    </item>
+  </channel>
+</rss>

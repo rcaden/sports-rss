@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:05:41 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Chrome 157 release notes put XSLT removal on the near horizon</title>
+      <link>https://chromeenterprise.google/intl/sp/resources/release-notes/</link>
+      <description>Chrome&apos;s Nov. 4 enterprise notes reiterate that browser support for XSLT is being removed, with stable releases scheduled to stop processing it on Nov. 17 outside approved extensions. That change matters for XML feeds and other documents that still depend on client-side stylesheets for readable browser presentation.</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://chromeenterprise.google/intl/sp/resources/release-notes/#xslt-removal-november-2026</guid>
+      <source url="https://chromeenterprise.google/">Chrome Enterprise</source>
+    </item>
+
+    <item>
+      <title>What would less polarizing political journalism look like?</title>
+      <link>https://trustingnews.org/podcast-episode-political-journalism-is-broken-what-should-we-do-about-it/</link>
+      <description>Joy Mayer, Mónica Guzmán and Jonathan Stray examine how political reporting can serve people across a divided electorate without laundering misinformation. Their discussion addresses ideological gaps between newsrooms and audiences, the limits of both-sides framing, curiosity, accountability and hiring for broader viewpoints.</description>
+      <pubDate>Wed, 04 Nov 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://trustingnews.org/podcast-episode-political-journalism-is-broken-what-should-we-do-about-it/</guid>
+      <source url="https://trustingnews.org/">Trusting News</source>
+    </item>
+
+    <item>
+      <title>Safari Technology Preview 256 improves accessibility and web interoperability</title>
+      <link>https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/</link>
+      <description>WebKit&apos;s latest preview fixes list markers and nested frames for assistive technology, aligns enhanced select styles with other browsers and corrects multiple SVG sizing failures. It also expands canvas text controls and adds security diagnostics for cross-origin isolation.</description>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/</guid>
+      <source url="https://webkit.org/">WebKit</source>
+    </item>
 
     <item>
       <title>Spreaker adds interoperable podcast recommendations through RSS</title>
@@ -115,33 +142,6 @@
       <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://wordpress.org/news/2026/10/wordpress-7-2-beta-2/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
-    </item>
-
-    <item>
-      <title>Firefox roadmap adds offline reading, local speech recognition and per-site VPN rules</title>
-      <link>https://blog.mozilla.org/en/firefox/firefox-roadmap/</link>
-      <description>Mozilla&apos;s updated Firefox roadmap pairs recent performance and mobile-tab improvements with planned offline reading, read-aloud pages, locally processed speech-to-text and per-site VPN controls. The browser team says the work is being developed in public with contributor feedback.</description>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.mozilla.org/en/firefox/firefox-roadmap/</guid>
-      <source url="https://blog.mozilla.org/">Mozilla</source>
-    </item>
-
-    <item>
-      <title>Independent Journalism Atlas maps the hidden &apos;springs&apos; in news deserts</title>
-      <link>https://www.niemanlab.org/2026/10/the-independent-journalism-atlas-looks-at-wells-and-springs-in-news-deserts/</link>
-      <description>A new survey of 46 counties labeled news deserts found information still moving through small independent &apos;wells&apos; and ad hoc &apos;springs,&apos; including meeting livestreams, local sports channels and neighboring outlets. The Atlas argues that mapping these informal sources reveals coverage traditional newsroom counts miss.</description>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/the-independent-journalism-atlas-looks-at-wells-and-springs-in-news-deserts/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>Meta promises publisher consultation before disputed web-scraping terms</title>
-      <link>https://www.niemanlab.org/2026/10/meta-pledges-to-consult-publishers-before-finalizing-its-new-terms/</link>
-      <description>Meta says it will consult news-industry leaders before implementing commercial terms that could permit broad scraping of sites tied to business accounts, even if that requires another delay. A Norwegian court has meanwhile blocked the terms pending review, while publishers continue to demand binding safeguards.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/10/meta-pledges-to-consult-publishers-before-finalizing-its-new-terms/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
   </channel>
 </rss>

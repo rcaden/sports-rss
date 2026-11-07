@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 13:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:37:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Appeals court hands NCAA key eligibility victory</title>
+      <link>https://apnews.com/article/e4798c29e17e7cdc88a9108323c14e9c</link>
+      <description>The 10th U.S. Circuit Court of Appeals reversed a ruling that had granted extra eligibility to athletes who were high school seniors in 2022, a significant win for the NCAA in its wider court fight. The decision does not settle roughly 200 similar state cases involving about 850 athletes.</description>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/e4798c29e17e7cdc88a9108323c14e9c</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Kaden Honeycutt wins NASCAR Truck title at Homestead</title>
+      <link>https://www.nascar.com/news-media/2026/11/06/truck-series-2026-homestead-miami-championship-race-recap-results/</link>
+      <description>Kaden Honeycutt won the season finale at Homestead-Miami Speedway and captured his first NASCAR Craftsman Truck Series championship. A late tire call helped him take control after Lap 120, and he finished 1.038 seconds ahead for his fifth victory of the season.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.nascar.com/news-media/2026/11/06/truck-series-2026-homestead-miami-championship-race-recap-results/</guid>
+      <source url="https://www.nascar.com/">NASCAR</source>
+    </item>
+
+    <item>
+      <title>NFL says Brandon Aiyuk owes 49ers about $13 million</title>
+      <link>https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says/</link>
+      <description>The NFL told Brandon Aiyuk and the players union that the receiver owes San Francisco about $13 million in bonuses, an AP source said. Aiyuk signed a four-year, $120 million extension in 2024 and is seeking reinstatement, deepening his contract dispute with the 49ers.</description>
+      <pubDate>Fri, 06 Nov 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says/</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
 
     <item>
       <title>LIV Golf to wind down after financing deal collapses</title>
@@ -115,33 +142,6 @@
       <pubDate>Tue, 03 Nov 2026 04:47:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/nfl/dandre-swift-scores-3-touchdowns-bears-down-seahawks--flm-2026-11-03/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Kimi Antonelli becomes Formula One&apos;s youngest world champion</title>
-      <link>https://www.reuters.com/sports/formula1/antonelli-becomes-youngest-f1-champion-20-years-old-2026-11-01/</link>
-      <description>Kimi Antonelli clinched the Formula One title at 20 years and 68 days, becoming the youngest champion in series history and Italy&apos;s first since Alberto Ascari in 1953. He finished third in Mexico City behind race winner Max Verstappen and Lewis Hamilton.</description>
-      <pubDate>Sun, 01 Nov 2026 22:32:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/antonelli-becomes-youngest-f1-champion-20-years-old-2026-11-01/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Lamar Jackson&apos;s dislocated thumb puts Ravens&apos; season at risk</title>
-      <link>https://www.reuters.com/sports/nfl-injury-roundup-ravens-qb-peril-after-lamar-jackson-tyler-huntley-hurt--flm-2026-11-02/</link>
-      <description>Baltimore placed Lamar Jackson on injured reserve after surgery for a dislocated right thumb suffered on the first play of a 36-10 loss to Buffalo. Backup Tyler Huntley also left hurt, deepening the quarterback crisis for a 4-4 Ravens team facing a short week.</description>
-      <pubDate>Mon, 02 Nov 2026 03:18:59 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl-injury-roundup-ravens-qb-peril-after-lamar-jackson-tyler-huntley-hurt--flm-2026-11-02/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Arsenal wins at Anfield for first time since 2012</title>
-      <link>https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league</link>
-      <description>Kai Havertz scored the only goal as Arsenal beat Liverpool 1-0, ending a 14-year wait for a league victory at Anfield. The result moved the Gunners three points clear at the top of the Premier League.</description>
-      <pubDate>Sun, 01 Nov 2026 18:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league</guid>
-      <source url="https://www.skysports.com/">Sky Sports</source>
     </item>
   </channel>
 </rss>

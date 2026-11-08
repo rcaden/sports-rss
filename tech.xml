@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Awesome Motive acquires Drip and Sleeknote</title>
+      <link>https://awesomemotive.com/drip-sleeknote-an-email-sms-and-onsite-marketing-platform-are-joining-awesome-motive-family/</link>
+      <description>Awesome Motive&apos;s WPBeginner Growth Fund acquired email and SMS platform Drip and conversion tool Sleeknote. The companies will remain an independent unit under Mogens Møller, while tighter connections with WPForms and MemberPress are planned. Drip says more than 6,000 brands use its service.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://awesomemotive.com/drip-sleeknote-an-email-sms-and-onsite-marketing-platform-are-joining-awesome-motive-family/</guid>
+      <source url="https://awesomemotive.com/">Awesome Motive</source>
+    </item>
+
+    <item>
+      <title>Independent Podcast Awards honor a hyperlocal bus show</title>
+      <link>https://d3181cv23ky2c4.cloudfront.net/press-release/independent-podcasts-awards-26-winners</link>
+      <description>Great Days Out on the Bus from Buxton won 2026 Independent Podcast of the Year, plus travel and artwork honors. Solo producer Maria Passingham&apos;s sound-rich local show led a 28-category program celebrating work made outside major networks; more than 400 people attended the London ceremony.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://d3181cv23ky2c4.cloudfront.net/press-release/independent-podcasts-awards-26-winners</guid>
+      <source url="https://independentpodcastawards.com/">Independent Podcast Awards</source>
+    </item>
+
+    <item>
+      <title>WordPress Studio rebuilds its desktop workspace</title>
+      <link>https://wordpress.com/blog/2026/11/04/wordpress-studio-workspace/</link>
+      <description>WordPress Studio&apos;s redesigned free desktop app puts sites, chats and live previews in one workspace, with unified settings and command access. It supports macOS, Windows and Linux, keeps development local, offers shareable preview links and exposes the same workflow through a command-line interface.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://wordpress.com/blog/2026/11/04/wordpress-studio-workspace/</guid>
+      <source url="https://wordpress.com/blog/">WordPress.com</source>
+    </item>
 
     <item>
       <title>AT Protocol brings Jetstream semantics to private Spaces</title>
@@ -115,33 +142,6 @@
       <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/how-us-news-organizations-will-make-midterm-race-calls-2026-11-01/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>W3C restores the missing early years of the www-talk archive</title>
-      <link>https://www.w3.org/blog/2026/historical-www-talk-archives-made-complete/</link>
-      <description>W3C combined and repaired partial copies of www-talk messages from 1993 through February 1995, regenerated the web archive and preserved old links with redirects. The restored threads include early announcements of Mosaic, CGI, robots.txt, Apache, SSL, cookies and public-domain CERN web software.</description>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.w3.org/blog/2026/historical-www-talk-archives-made-complete/</guid>
-      <source url="https://www.w3.org/">W3C</source>
-    </item>
-
-    <item>
-      <title>W3C backs an open-source polyfill for the experimental WebMCP API</title>
-      <link>https://www.w3.org/blog/2026/w3c-launches-second-pilot-of-program-to-support-open-source-projects/</link>
-      <description>W3C&apos;s second Open Source Program pilot will publish a WebMCP polyfill on npm and track the evolving specification and Web Platform Tests. The project aims to improve early interoperability while browsers experiment with exposing structured web-app functions to compatible clients.</description>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.w3.org/blog/2026/w3c-launches-second-pilot-of-program-to-support-open-source-projects/</guid>
-      <source url="https://www.w3.org/">W3C</source>
-    </item>
-
-    <item>
-      <title>WPVibe passes 100,000 active WordPress installations</title>
-      <link>https://pivotnews.ai/five/mcp-plugin-wpvibe-passes-100-000-wordpress-installs-the</link>
-      <description>WPVibe grew from roughly 2,000 active installations in July to more than 100,000 in six months. The WordPress plugin lets compatible conversational clients manage self-hosted sites through MCP, and its creator says it now handles about five million tool calls daily.</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://pivotnews.ai/five/mcp-plugin-wpvibe-passes-100-000-wordpress-installs-the</guid>
-      <source url="https://pivotnews.ai/">Pivot News</source>
     </item>
   </channel>
 </rss>

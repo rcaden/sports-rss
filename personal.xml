@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>OTW explains why noncommercial fanfiction can be legitimate</title>
+      <link>https://www.transformativeworks.org/faq/if-fanfiction-is-legitimate-wouldnt-that-also-mean-that-publishers-or-studios-could-produce-derivative-works-without-compensating-the-original-authors/</link>
+      <description>The Organization for Transformative Works explains why freely shared fanfiction and a commercial studio adaptation are not legally equivalent. Fair use weighs purpose, transformative character, amount copied and market effect; nonprofit fanworks that add new meaning are in a different position from substitute commercial products.</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 -0400</pubDate>
+      <guid isPermaLink="true">https://www.transformativeworks.org/faq/if-fanfiction-is-legitimate-wouldnt-that-also-mean-that-publishers-or-studios-could-produce-derivative-works-without-compensating-the-original-authors/</guid>
+      <source url="https://www.transformativeworks.org/">Organization for Transformative Works</source>
+    </item>
+
+    <item>
+      <title>Copyright Office preserves the paper trail for restored foreign works</title>
+      <link>https://www.copyright.gov/gatt.html</link>
+      <description>The U.S. Copyright Office&apos;s restored-copyright page explains how the URAA revived protection in 1996 for some foreign works that had entered the U.S. public domain while remaining protected abroad. It links the published Notices of Intent to Enforce, the governing statute and Circular 38B—useful primary records for copyright archaeology.</description>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.copyright.gov/gatt.html</guid>
+      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+    </item>
+
+    <item>
+      <title>Stephen Baxter&apos;s papers are open to researchers in Liverpool</title>
+      <link>https://libguides.liverpool.ac.uk/library/sca/stephenbaxter</link>
+      <description>The University of Liverpool&apos;s updated guide describes an archive of Stephen Baxter typescripts, outlines, proofs and essays covering most of his stories and novels, including The Time Ships and The Light of Other Days. The collection is fully listed online and available to researchers by appointment.</description>
+      <pubDate>Mon, 19 Oct 2026 08:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://libguides.liverpool.ac.uk/library/sca/stephenbaxter</guid>
+      <source url="https://www.liverpool.ac.uk/library/">University of Liverpool Library</source>
+    </item>
 
     <item>
       <title>The Encyclopedia of Science Fiction traces File 770&apos;s print history</title>
@@ -115,33 +142,6 @@
       <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://wordpress.com/support/wordpress-editor/blocks/details-block/</guid>
       <source url="https://wordpress.com/support/">WordPress.com Support</source>
-    </item>
-
-    <item>
-      <title>A veterinarian&apos;s practical guide to safer floors for older dogs</title>
-      <link>https://seniordogvets.org/articles/how-to-make-the-house-easier-to-navigate-for-an-older-dog/</link>
-      <description>Veterinarian Monica Tarantino recommends starting with washable non-skid runners in the few places an older dog hesitates or slips. She also suggests secured mats at food and water, trimmed nails and paw hair, stable ramps, nightlights and a two-week log of changes to discuss with a veterinarian.</description>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://seniordogvets.org/articles/how-to-make-the-house-easier-to-navigate-for-an-older-dog/</guid>
-      <source url="https://seniordogvets.org/">Senior Dog Vets</source>
-    </item>
-
-    <item>
-      <title>Why the dots and misregistration made old comic books beautiful</title>
-      <link>https://printinghistory.org/gabriella-miyares-worlds-dot-dot-four-color-process-age-pulp-comics/</link>
-      <description>The American Printing History Association revisits Gabriella Miyares&apos;s close study of four-color rotary letterpress comics. Coarse CMYK halftone screens, cheap newsprint and imperfect plate registration created the distinctive 1940s-to-1970s look that artists still imitate.</description>
-      <pubDate>Wed, 23 Oct 2013 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://printinghistory.org/gabriella-miyares-worlds-dot-dot-four-color-process-age-pulp-comics/</guid>
-      <source url="https://printinghistory.org/">American Printing History Association</source>
-    </item>
-
-    <item>
-      <title>Catherine Asaro explains how physics and feminism shape her fiction</title>
-      <link>https://dailybruin.com/2020/01/20/alumna-author-imbues-fiction-with-scientific-rigor-feminist-principles</link>
-      <description>In a Daily Bruin profile, Catherine Asaro describes turning theoretical physics into the foundation of her Skolian Empire stories and using powerful female protagonists to challenge the science fiction she grew up reading. She also recalls plotting novels while teaching physics.</description>
-      <pubDate>Tue, 21 Jan 2020 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://dailybruin.com/2020/01/20/alumna-author-imbues-fiction-with-scientific-rigor-feminist-principles</guid>
-      <source url="https://dailybruin.com/">Daily Bruin</source>
     </item>
   </channel>
 </rss>

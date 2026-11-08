@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Drone delivers bananas to chimp cut off by Florida floods</title>
+      <link>https://apnews.com/article/fdeea05bc614d13f7779034b4394211c</link>
+      <description>Flooded roads at Save the Chimps near Fort Pierce prevented staff from reaching 38-year-old Kaleb, so caregivers sent food and blankets by drone. Video showed him taking a banana from the dropped bag before crossing standing water on a rope. All 200 sanctuary chimps stayed safe and fed.</description>
+      <pubDate>Sat, 07 Nov 2026 20:00:13 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/fdeea05bc614d13f7779034b4394211c</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Tiny transmitters reveal the monarch butterfly&apos;s epic migration</title>
+      <link>https://abcnews.com/US/wireStory/monarch-butterflies-tiny-trackers-scientists-follow-mysterious-migration-137804851</link>
+      <description>Scientists and community volunteers are fitting monarch butterflies with solar-powered transmitters weighing about as much as a grain of rice. The tags let researchers and the public follow individual insects on journeys of up to 3,000 miles to Mexico through the free Project Monarch Science app.</description>
+      <pubDate>Tue, 03 Nov 2026 05:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://abcnews.com/US/wireStory/monarch-butterflies-tiny-trackers-scientists-follow-mysterious-migration-137804851</guid>
+      <source url="https://abcnews.com/">ABC News</source>
+    </item>
+
+    <item>
+      <title>Empire Life&apos;s 57-year United Way tradition sets a record</title>
+      <link>https://www.empire.ca/news/2026/06/empire-life-raises-record-breaking-amount-united-way</link>
+      <description>Empire Life employees and retirees raised a record C$304,018 for United Way programs across Canada, exceeding a C$270,000 goal. The insurer matched pledges up to C$125,000. It was the campaign&apos;s tenth straight year above target and the highest total in the company&apos;s 57 years of annual drives.</description>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://www.empire.ca/news/2026/06/empire-life-raises-record-breaking-amount-united-way</guid>
+      <source url="https://www.empire.ca/">Empire Life</source>
+    </item>
 
     <item>
       <title>Giant pandas return to Zoo Atlanta</title>
@@ -115,33 +142,6 @@
       <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.uni-bonn.de/en/news/221-2026</guid>
       <source url="https://www.uni-bonn.de/">University of Bonn</source>
-    </item>
-
-    <item>
-      <title>Sikhs and Hindus help rebuild mosques in Punjab villages</title>
-      <link>https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/</link>
-      <description>Residents of several Indian Punjab villages are restoring or rebuilding mosques destroyed after Partition. Sikh and Hindu neighbors have donated land, money, bricks, cement and labor; one Hindu family hosted a village feast when the new mosque in Punawal was completed.</description>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/rebuilding-mosques-brings-sikhs-hindus-and-muslims-together-after-punjab-violence/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>A weather app now tells dog owners what paws and noses will feel</title>
-      <link>https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/</link>
-      <description>Pawcast by Weather.pet estimates conditions at a dog&apos;s head and paws, including asphalt, concrete and grass temperatures. Its personalized &apos;Dog Feel&apos; reading accounts for breed, coat, age and weight after a veterinary team gathered thousands of surface measurements nationwide.</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/weather-pet-app-generates-forecasts-for-dogs-head-and-paws-based-on-ground-temps-and-more/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-
-    <item>
-      <title>A family&apos;s roadside bravery inspires scholarships for young heroes</title>
-      <link>https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/</link>
-      <description>After strangers tried to rescue 18-year-old Kenli Riney from a burning car, her parents created a foundation honoring young people who show courage and compassion. It has awarded $67,000 to 67 students, including the teenager who performed CPR at the crash scene.</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/strangers-ran-toward-burning-car-to-save-teen-her-mom-now-funds-scholarships-for-heroes-like-them/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
   </channel>
 </rss>

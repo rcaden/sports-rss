@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 13:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Notre Dame knocks off No. 1 Miami in playoff-shaping win</title>
+      <link>https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/08/no-4-notre-dame-takes-big-lead-then-holds-off-no-1-miami-31-24-in-a-classic/</link>
+      <description>CJ Carr threw for 319 yards and three touchdowns as No. 4 Notre Dame built a 21-point lead and held off No. 1 Miami 31-24. The Irish improved to 8-1 and avenged last season&apos;s costly loss to the Hurricanes, strengthening their College Football Playoff position.</description>
+      <pubDate>Sun, 08 Nov 2026 04:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/08/no-4-notre-dame-takes-big-lead-then-holds-off-no-1-miami-31-24-in-a-classic/</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Sidney Crosby climbs to sixth on NHL career scoring list</title>
+      <link>https://abcnews.com/amp/Sports/wireStory/sidney-crosby-takes-sole-possession-6th-nhl-scoring-137950114</link>
+      <description>Sidney Crosby scored twice in Pittsburgh&apos;s 5-2 win over Los Angeles, passing Marcel Dionne for sole possession of sixth on the NHL career scoring list. The 39-year-old reached 1,772 points as the Penguins snapped a four-game losing streak.</description>
+      <pubDate>Sun, 08 Nov 2026 04:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://abcnews.com/amp/Sports/wireStory/sidney-crosby-takes-sole-possession-6th-nhl-scoring-137950114</guid>
+      <source url="https://abcnews.com/">ABC News</source>
+    </item>
+
+    <item>
+      <title>Willy Hutchinson wins WBC light-heavyweight title</title>
+      <link>https://www.reuters.com/sports/britains-hutchinson-beats-buatsi-take-vacant-wbc-light-heavyweight-title-2026-11-08/</link>
+      <description>Willy Hutchinson beat Joshua Buatsi by unanimous decision in Manchester to claim the vacant WBC light-heavyweight championship. The judges scored the all-British rematch 117-112, 115-113 and 115-113, reversing Hutchinson&apos;s defeat to Buatsi in 2024.</description>
+      <pubDate>Sun, 08 Nov 2026 00:21:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/britains-hutchinson-beats-buatsi-take-vacant-wbc-light-heavyweight-title-2026-11-08/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Appeals court hands NCAA key eligibility victory</title>
@@ -114,33 +141,6 @@
       <description>Paris Saint-Germain routed Villarreal 6-0 and became the fastest team to score four goals in a Champions League match. Manchester United recovered from 2-0 down to beat Roma 3-2 behind two late Matheus Cunha goals, while Bayern Munich won 2-0 at Atletico Madrid.</description>
       <pubDate>Wed, 04 Nov 2026 06:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/psg-hit-villarreal-six-bayern-win-man-united-fight-back-2026-11-03/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Court orders throw college basketball eligibility into chaos</title>
-      <link>https://apnews.com/article/cec9148121c0063f215208dea58f4e18</link>
-      <description>Dozens of players opened the college basketball season after judges blocked the NCAA&apos;s new five-year eligibility model. The NCAA says about 200 lawsuits involving 850 athletes were active last week, leaving teams uncertain whether court-approved players will remain eligible through March.</description>
-      <pubDate>Mon, 02 Nov 2026 19:32:49 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/cec9148121c0063f215208dea58f4e18</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Thunder will retire Russell Westbrook&apos;s No. 0</title>
-      <link>https://www.wdbo.com/sports/thunder-honor-former/UYHDR5ZNEQ33FFV7R3G5J4UVB4/</link>
-      <description>Oklahoma City will retire Russell Westbrook&apos;s No. 0 in February. The 2017 MVP spent 11 seasons with the Thunder, led the franchise in games, points, rebounds, assists and steals when he retired, and helped it reach the 2012 NBA Finals and four Western Conference finals.</description>
-      <pubDate>Mon, 02 Nov 2026 21:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.wdbo.com/sports/thunder-honor-former/UYHDR5ZNEQ33FFV7R3G5J4UVB4/</guid>
-      <source url="https://www.wdbo.com/">WDBO</source>
-    </item>
-
-    <item>
-      <title>Bears beat Seahawks as D&apos;Andre Swift scores three touchdowns</title>
-      <link>https://www.reuters.com/sports/nfl/dandre-swift-scores-3-touchdowns-bears-down-seahawks--flm-2026-11-03/</link>
-      <description>D&apos;Andre Swift scored three second-half rushing touchdowns as Chicago beat Seattle 34-17 on Monday night. Caleb Williams threw for 247 yards without a turnover, and the 6-2 Bears won their third straight game since his return from a hamstring injury.</description>
-      <pubDate>Tue, 03 Nov 2026 04:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/dandre-swift-scores-3-touchdowns-bears-down-seahawks--flm-2026-11-03/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

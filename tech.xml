@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>RSS.com expands video podcasting through open feed enclosures</title>
+      <link>https://changelog.rss.com/</link>
+      <description>RSS.com says its HLS video service now carries video through Apple Podcasts and supporting Podcasting 2.0 apps while preserving audio playback elsewhere. Video is placed in the RSS feed as an alternate enclosure, with supported apps including Pocket Casts, Fountain, TrueFans and Podcast Guru.</description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://changelog.rss.com/</guid>
+      <source url="https://changelog.rss.com/">RSS.com Changelog</source>
+    </item>
+
+    <item>
+      <title>Transistor keeps podcast feeds readable without XSLT</title>
+      <link>https://transistor.fm/changelog/</link>
+      <description>Transistor rebuilt the browser presentation of its podcast RSS feeds with CSS ahead of Chrome&apos;s planned removal of XSLT. The new view retains cover art, show information, the feed URL and episode listings, offering a practical way for human-readable feeds to survive a browser-platform change.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://transistor.fm/changelog/</guid>
+      <source url="https://transistor.fm/">Transistor</source>
+    </item>
+
+    <item>
+      <title>Salon ceases publication after 31 years on the web</title>
+      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
+      <description>Salon has stopped publishing after a 31-year run that began when original online journalism was still an experiment. The publication said the economics of independent digital media made its model unsustainable, closing a site whose politics, culture, criticism and essays helped define web-native magazines.</description>
+      <pubDate>Thu, 05 Nov 2026 19:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
+      <source url="https://www.salon.com/">Salon</source>
+    </item>
 
     <item>
       <title>Awesome Motive acquires Drip and Sleeknote</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.journalismfund.eu/news/SM4Dlaunch</guid>
       <source url="https://www.journalismfund.eu/">Journalismfund Europe</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.2 Beta 4 arrives for testing</title>
-      <link>https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/</link>
-      <description>WordPress released the fourth beta of version 7.2, continuing the testing cycle ahead of the planned Dec. 8 release. The project warns against using the beta on production sites and asks developers and site owners to test it in disposable environments and report regressions.</description>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-beta-4/</guid>
-      <source url="https://wordpress.org/news/">WordPress.org</source>
-    </item>
-
-    <item>
-      <title>French audio study finds listening moves freely across platforms</title>
-      <link>https://podnews.net/update/france-audio-research</link>
-      <description>An Audion-YouGov survey says 58% of French adults have started content on one platform and finished it on another, while YouTube leads digital-audio use. Podnews also reports a new Flightcast tool that automatically moves creators&apos; YouTube video catalogs and future uploads to Spotify.</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/france-audio-research</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>How newsrooms make election calls before every ballot is counted</title>
-      <link>https://www.reuters.com/business/media-telecom/how-us-news-organizations-will-make-midterm-race-calls-2026-11-01/</link>
-      <description>Reuters explains how the Associated Press and Decision Desk HQ combine official results, reporting, historical patterns and statistical models to determine when a trailing candidate cannot catch up. Networks and newspapers layer on their own analysis as low trust in election reporting raises the cost of a premature call.</description>
-      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/how-us-news-organizations-will-make-midterm-race-calls-2026-11-01/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

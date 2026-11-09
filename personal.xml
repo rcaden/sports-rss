@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>The earlier St. Augustine Zero Milestone hides in plain sight</title>
+      <link>https://publichumanities.omeka.net/items/show/361</link>
+      <description>A public-history record documents the older coquina-sphere Zero Milestone for the Old Spanish Trail, including a photograph and its location near St. Augustine&apos;s visitor center. The modest marker is distinct from the taller 1928 monument and helps untangle the site&apos;s layered roadside history.</description>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://publichumanities.omeka.net/items/show/361</guid>
+      <source url="https://publichumanities.omeka.net/">Public Humanities</source>
+    </item>
+
+    <item>
+      <title>Brenda W. Clough&apos;s papers document a novelist&apos;s full working process</title>
+      <link>https://aspace.lib.uiowa.edu/repositories/2/resources/3286</link>
+      <description>The University of Iowa&apos;s new finding aid covers 27 boxes of Brenda W. Clough manuscripts, proofs, research, maps, reviews, photographs and Worldcon correspondence. Drafts and supporting material trace books from initial handwriting through publication, while the collection&apos;s copyright terms distinguish research access from republication.</description>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://aspace.lib.uiowa.edu/repositories/2/resources/3286</guid>
+      <source url="https://aspace.lib.uiowa.edu/">University of Iowa Libraries</source>
+    </item>
+
+    <item>
+      <title>Java architects answer practical questions about the platform&apos;s direction</title>
+      <link>https://inside.java/2026/11/05/podcast-074/</link>
+      <description>A recorded Devoxx session brings Java architects together for audience questions on virtual-thread scheduling, deprecations, modules, memory-layout inspection, primitive specialization, string templates, construction rules and automatic heap sizing. The show notes link directly to related talks for deeper follow-up.</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://inside.java/2026/11/05/podcast-074/</guid>
+      <source url="https://inside.java/">Inside.java</source>
+    </item>
 
     <item>
       <title>OTW explains why noncommercial fanfiction can be legitimate</title>
@@ -115,33 +142,6 @@
       <pubDate>Thu, 07 Aug 2014 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://developers.google.com/search/blog/2014/08/https-as-ranking-signal?hl=en</guid>
       <source url="https://developers.google.com/search/">Google Search Central</source>
-    </item>
-
-    <item>
-      <title>Jacksonville shipyard gave 13,500 workers an Election Day holiday in 1944</title>
-      <link>https://jaxhistory.org/st-johns-river-shipbuilding-company-closes-to-allow-employees-can-vote/</link>
-      <description>The St. Johns River Shipbuilding Company closed for 24 hours on Nov. 7, 1944, so its 13,500 employees could vote, then scheduled Sunday work to make up the lost day. The Jacksonville History Center connects the wartime election holiday to the launch of the yard&apos;s 68th Liberty ship the next evening.</description>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxhistory.org/st-johns-river-shipbuilding-company-closes-to-allow-employees-can-vote/</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
-    </item>
-
-    <item>
-      <title>Sixth self-published science fiction competition opens for entries</title>
-      <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
-      <description>SPSFC 6 is accepting unpublished-contest entries through Nov. 29 unless capacity is reached sooner. Eligible books must be self-published science fiction novels of at least 40,000 words, published by Dec. 7, and submitted as EPUB files. Previously entered books get a separate resubmission window later this month.</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
-      <source url="https://spsfc.space/">SPSFC</source>
-    </item>
-
-    <item>
-      <title>How WordPress&apos;s Details block creates disclosure panels without a plugin</title>
-      <link>https://wordpress.com/support/wordpress-editor/blocks/details-block/</link>
-      <description>WordPress&apos;s core Details block hides supplementary material behind a clickable summary and can be used in posts, pages, templates and template parts. The support guide explains nesting other blocks inside it, opening panels by default and using a shared name to make several panels behave like an accordion.</description>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.com/support/wordpress-editor/blocks/details-block/</guid>
-      <source url="https://wordpress.com/support/">WordPress.com Support</source>
     </item>
   </channel>
 </rss>

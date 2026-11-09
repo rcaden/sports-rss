@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Bengals win in Madrid to pull even atop AFC North</title>
+      <link>https://www.reuters.com/sports/nfl-roundup-bengals-rout-falcons-madrid-tie-afc-north-lead--flm-2026-11-09/</link>
+      <description>Joe Burrow threw three touchdown passes and ran for another as Cincinnati beat Atlanta 34-17 in the NFL&apos;s second Madrid game. Ja&apos;Marr Chase had 10 catches for 155 yards, and the Bengals&apos; fourth straight victory moved them to 6-2 and into a tie with Pittsburgh atop the AFC North.</description>
+      <pubDate>Mon, 09 Nov 2026 00:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl-roundup-bengals-rout-falcons-madrid-tie-afc-north-lead--flm-2026-11-09/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Carlos Alcaraz captures his first Paris Masters title</title>
+      <link>https://www.reuters.com/sports/tennis/alcaraz-beats-error-prone-shelton-win-paris-masters-2026-11-08/</link>
+      <description>Carlos Alcaraz beat Ben Shelton 7-6(5), 7-5 to win the Paris Masters on his sixth attempt. The world No. 3 avenged his U.S. Open loss to Shelton, became the first Spanish champion in Paris since David Ferrer in 2012 and collected his ninth ATP 1000 title.</description>
+      <pubDate>Sun, 08 Nov 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/alcaraz-beats-error-prone-shelton-win-paris-masters-2026-11-08/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Mercedes clinches Formula One constructors&apos; title in wet Brazil</title>
+      <link>https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/</link>
+      <description>Mercedes secured its ninth Formula One constructors&apos; championship at a rain-soaked São Paulo Grand Prix, completing a title double one week after Kimi Antonelli won the drivers&apos; crown. Lando Norris won the race for McLaren, while Max Verstappen charged from 21st on the grid to finish second.</description>
+      <pubDate>Sun, 08 Nov 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Notre Dame knocks off No. 1 Miami in playoff-shaping win</title>
@@ -115,33 +142,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/wnba-finals-ratings-ff034a065bdbe499378b6c102f60e70a</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Jets engineer latest four-goal comeback in NHL history</title>
-      <link>https://www.reuters.com/sports/nhl-roundup-jets-stun-habs-with-latest-4-goal-rally-league-history--flm-2026-11-04/</link>
-      <description>Winnipeg erased a 4-0 deficit by scoring four times in 2:06 late in the third, the latest four-goal comeback in NHL history, then beat Montreal 5-4 on Dylan Samberg&apos;s overtime goal. The win ended the Jets&apos; nine-game winless streak.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nhl-roundup-jets-stun-habs-with-latest-4-goal-rally-league-history--flm-2026-11-04/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Miami leads first College Football Playoff rankings</title>
-      <link>https://collegefootballplayoff.com/news/2026/11/3/rankings</link>
-      <description>Unbeaten Miami debuted at No. 1 in the selection committee&apos;s first 2026 ranking, followed by Georgia, Utah and Indiana. Alabama opened fifth, Notre Dame 11th and Ohio State 12th. The committee will issue five more rankings before setting the 12-team bracket on Dec. 6.</description>
-      <pubDate>Wed, 04 Nov 2026 00:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/3/rankings</guid>
-      <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
-    </item>
-
-    <item>
-      <title>PSG scores six as Manchester United rallies from two down</title>
-      <link>https://www.reuters.com/sports/soccer/psg-hit-villarreal-six-bayern-win-man-united-fight-back-2026-11-03/</link>
-      <description>Paris Saint-Germain routed Villarreal 6-0 and became the fastest team to score four goals in a Champions League match. Manchester United recovered from 2-0 down to beat Roma 3-2 behind two late Matheus Cunha goals, while Bayern Munich won 2-0 at Atletico Madrid.</description>
-      <pubDate>Wed, 04 Nov 2026 06:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/psg-hit-villarreal-six-bayern-win-man-united-fight-back-2026-11-03/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

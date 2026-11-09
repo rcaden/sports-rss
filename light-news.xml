@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Students build a 300-drone wish for a Colorado boy</title>
+      <link>https://www.cbsnews.com/colorado/news/colorado-high-school-students-drone-show-make-a-wish/</link>
+      <description>St. Vrain Valley high school students created a custom drone-light show for Nathaniel “Bubba” Brown, a Make-A-Wish recipient who loves lights. The student-run team designed the aerial animations, music and flight plan, turning the Holyoke sky into a colorful celebration for Bubba and his family.</description>
+      <pubDate>Sun, 08 Nov 2026 23:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.cbsnews.com/colorado/news/colorado-high-school-students-drone-show-make-a-wish/</guid>
+      <source url="https://www.cbsnews.com/colorado/">CBS Colorado</source>
+    </item>
+
+    <item>
+      <title>Three inventors recall how two jockstraps became the sports bra</title>
+      <link>https://apnews.com/article/1ce46b856480a31de611cbde93984aec</link>
+      <description>Lisa Lindahl, Polly Smith and Hinda Miller turned a 1977 joke about a women&apos;s jockstrap into the Jogbra. Their seamless prototype arrived as Title IX expanded women&apos;s sports, grew into a billion-dollar product category and earned the trio induction into the National Inventors Hall of Fame.</description>
+      <pubDate>Fri, 06 Nov 2026 18:07:15 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/1ce46b856480a31de611cbde93984aec</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Rugby gives a young U.S. Olympian a place to belong</title>
+      <link>https://www.washingtonpost.com/sports/olympics/2026/11/06/youth-olympics-womens-rugby-ilona-maher/c7582dd6-d9af-11f1-930a-e08f8086f5ac_story.html</link>
+      <description>Fifteen-year-old Eseta Moala says rugby transformed the size that once made sports clothes uncomfortable into a source of strength. Inspired by U.S. star Ilona Maher, Moala joined her sister Luisa on the American rugby sevens team at the Youth Olympics in Dakar—and received a personal video from Maher.</description>
+      <pubDate>Fri, 06 Nov 2026 10:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.washingtonpost.com/sports/olympics/2026/11/06/youth-olympics-womens-rugby-ilona-maher/c7582dd6-d9af-11f1-930a-e08f8086f5ac_story.html</guid>
+      <source url="https://www.washingtonpost.com/">The Washington Post</source>
+    </item>
 
     <item>
       <title>Drone delivers bananas to chimp cut off by Florida floods</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 02 Nov 2026 13:00:00 +0500</pubDate>
       <guid isPermaLink="true">https://www.gov.kz/org/ecogeo/press/news/details/1321913?lang=ru</guid>
       <source url="https://www.gov.kz/">Kazakhstan Ministry of Ecology</source>
-    </item>
-
-    <item>
-      <title>Beavers approved for return to Loch Ness after 500 years</title>
-      <link>https://www.nature.scot/beaver-release-approved-river-ness-catchment</link>
-      <description>NatureScot approved the release of at least 15 beaver families around Loch Ness over three years, restoring an animal last recorded there in 1526-27. The relocated beavers will receive health checks, and the agency says their dams should improve wetlands and help moderate floods and drought.</description>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.nature.scot/beaver-release-approved-river-ness-catchment</guid>
-      <source url="https://www.nature.scot/">NatureScot</source>
-    </item>
-
-    <item>
-      <title>Donor completes a tour of all 85 Australian blood centers</title>
-      <link>https://www.abc.net.au/news/2026-10-30/melbourne-man-donates-blood-across-australia/107319322</link>
-      <description>Melbourne police officer Trevor Bergman made his 545th blood donation in Canberra, completing a decade-long quest to give at every Australian Lifeblood center. Bergman is one of about 150 Australians whose plasma contains the anti-D antibody used to protect babies from a dangerous blood disorder.</description>
-      <pubDate>Fri, 30 Oct 2026 02:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.abc.net.au/news/2026-10-30/melbourne-man-donates-blood-across-australia/107319322</guid>
-      <source url="https://www.abc.net.au/news/">ABC News Australia</source>
-    </item>
-
-    <item>
-      <title>Jumping spiders have two sleep stages and catch up after bad nights</title>
-      <link>https://www.uni-bonn.de/en/news/221-2026</link>
-      <description>University of Bonn researchers found that Portia fimbriata jumping spiders sleep in two distinct stages, including one marked by eye movement and muscle twitches. The spiders were slower to respond while asleep and made up lost rest after disruption, providing unusually strong evidence of regulated sleep in spiders.</description>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.uni-bonn.de/en/news/221-2026</guid>
-      <source url="https://www.uni-bonn.de/">University of Bonn</source>
     </item>
   </channel>
 </rss>

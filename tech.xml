@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>WriteFreely patches critical authentication and federation flaws</title>
+      <link>https://blog.writefreely.org/version-0-17-3</link>
+      <description>WriteFreely 0.17.3 fixes an authentication bypass that could let an unauthenticated attacker use the API as another user. The open-source blogging release also closes private-content exposure through ActivityPub, a WebFinger request flaw and several access-control problems; administrators are urged to update.</description>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blog.writefreely.org/version-0-17-3</guid>
+      <source url="https://writefreely.org/">WriteFreely</source>
+    </item>
+
+    <item>
+      <title>WordPress Credits passes 50 participating institutions</title>
+      <link>https://wordpress.org/news/2026/11/wp-credits-reaches-50/</link>
+      <description>More than 50 colleges and universities across 17 countries now award academic recognition for contributing to WordPress. The free program pairs students with mentors on translation, documentation, learning materials, development and testing; its dashboard counted 364 graduates by Oct. 19.</description>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wp-credits-reaches-50/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
+
+    <item>
+      <title>Spreaker pledges safeguards against unauthorized podcast copies</title>
+      <link>https://podnews.net/update/copycat-podcasts</link>
+      <description>After Podnews documented copied shows on Spreaker, the Triton Digital platform committed to changes aimed at stopping unauthorized imports and protecting creators. The development turns scrutiny of podcast copying into a concrete response and renewed attention to feed ownership.</description>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/copycat-podcasts</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
 
     <item>
       <title>RSS.com expands video podcasting through open feed enclosures</title>
@@ -115,33 +143,6 @@
       <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/</guid>
       <source url="https://webkit.org/">WebKit</source>
-    </item>
-
-    <item>
-      <title>Spreaker adds interoperable podcast recommendations through RSS</title>
-      <link>https://news.spreaker.com/162409-podroll-a-new-way-to-recommend-podcasts-and-grow-your-audience</link>
-      <description>Spreaker now supports the Podroll RSS tag, allowing publishers to recommend any podcast to listeners regardless of hosting platform. Creators can use the feed-level list to cross-promote their own shows, connect a network&apos;s catalog or point audiences toward independent programs they value.</description>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.spreaker.com/162409-podroll-a-new-way-to-recommend-podcasts-and-grow-your-audience</guid>
-      <source url="https://news.spreaker.com/">Spreaker</source>
-    </item>
-
-    <item>
-      <title>Podcast Show London expands around video and the creator economy</title>
-      <link>https://podnews.net/update/podshow-london-27-tix</link>
-      <description>The Podcast Show London says its May 2027 edition will add a video-focused stage, a Creator Economy Zone and a larger exhibition floor. The sixth annual gathering expects more than 500 speakers across over 180 sessions, reflecting how podcasting&apos;s audio and video businesses continue to merge.</description>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/podshow-london-27-tix</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>New fund targets independent newsrooms in European news deserts</title>
-      <link>https://www.journalismfund.eu/news/SM4Dlaunch</link>
-      <description>Sustainable Media for Democracy will provide grants and operational support to about 45 local, community and investigative outlets across Europe. The 24-month program has €1.625 million for direct awards of €5,000 to €60,000, with proposal calls opening in December.</description>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.journalismfund.eu/news/SM4Dlaunch</guid>
-      <source url="https://www.journalismfund.eu/">Journalismfund Europe</source>
     </item>
   </channel>
 </rss>

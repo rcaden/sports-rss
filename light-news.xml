@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>Rehabilitated bald eagle takes flight over North Carolina Zoo</title>
+      <link>https://www.randolphhub.com/article/news/wildlife-rehab-center-celebrates-25-years-with-release-of-healed-eagle</link>
+      <description>A four-year-old female bald eagle found barely responsive at a landfill in September returned to the wild after nearly two months of care. Her Nov. 4 flight over the North Carolina Zoo&apos;s lake also marked the 25th anniversary of its wildlife rehabilitation center.</description>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.randolphhub.com/article/news/wildlife-rehab-center-celebrates-25-years-with-release-of-healed-eagle</guid>
+      <source url="https://www.randolphhub.com/">Randolph Hub</source>
+    </item>
+
+    <item>
+      <title>Volunteers plant nearly 500 pines in New Mexico burn scar</title>
+      <link>https://www.koat.com/article/hundreds-of-trees-planted-in-hermits-peakcalf-canyon-burn-scars/74368461</link>
+      <description>Volunteers, the Rocky Mountain Youth Corps and the Los Vigiles Land Grant have planted nearly 500 ponderosa pine seedlings in the Hermit&apos;s Peak-Calf Canyon burn area since October. Crews hope to put another 500 in the ground before winter.</description>
+      <pubDate>Sun, 08 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.koat.com/article/hundreds-of-trees-planted-in-hermits-peakcalf-canyon-burn-scars/74368461</guid>
+      <source url="https://www.koat.com/">KOAT</source>
+    </item>
+
+    <item>
+      <title>Georgia eighth-grader wins cheer competition as a squad of one</title>
+      <link>https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</link>
+      <description>When the rest of her squad dropped out, eighth-grader Jorgia Walls performed alone at a Georgia cheer competition. She completed the routine before hundreds of spectators and won first place, turning an unexpected setback into an exuberant solo victory.</description>
+      <pubDate>Sun, 08 Nov 2026 00:02:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</guid>
+      <source url="https://www.nbcnews.com/">NBC News</source>
+    </item>
 
     <item>
       <title>Students build a 300-drone wish for a Colorado boy</title>
@@ -115,33 +143,6 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 -0300</pubDate>
       <guid isPermaLink="true">https://unr.edu.ar/en/hallaron-el-colmillo-de-mastodonte-mas-grande-de-sudamerica/</guid>
       <source url="https://unr.edu.ar/">National University of Rosario</source>
-    </item>
-
-    <item>
-      <title>Japanese calligraphy moves closer to UNESCO recognition</title>
-      <link>https://www.nihonshodobunka.jp/colum/index.html</link>
-      <description>A UNESCO evaluation body recommended Japan&apos;s shodo calligraphy for inscription on the Intangible Cultural Heritage list. The recommendation is not the final decision: the intergovernmental committee will consider it during a Nov. 30-Dec. 5 meeting in Xiamen, China.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
-      <guid isPermaLink="true">https://www.nihonshodobunka.jp/colum/index.html</guid>
-      <source url="https://www.nihonshodobunka.jp/">Japan Shodo Culture Association</source>
-    </item>
-
-    <item>
-      <title>Firefighters build a plywood path to free a horse from deep mud</title>
-      <link>https://shrewsburypost.com/2026/11/02/douglas-firefighters-rescue-25-year-old-horse-trapped-in-mud/</link>
-      <description>Crews from several Massachusetts towns used more than 25 sheets of plywood and a highway-department light tower to reach a 25-year-old mare trapped belly-deep in unstable mud. After a two-hour rescue, the horse stood, walked out of the woods and was found to be uninjured.</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.aol.com/articles/trapped-horse-rescued-mud-massachusetts-172446000.html</guid>
-      <source url="https://shrewsburypost.com/">Shrewsbury Post</source>
-    </item>
-
-    <item>
-      <title>Second Amur tiger returns to the wild in Kazakhstan</title>
-      <link>https://www.gov.kz/org/ecogeo/press/news/details/1321913?lang=ru</link>
-      <description>Kazakhstan released a male Amur tiger named Amur into the Ile-Balkhash reserve after veterinary and hunting-skill checks. He joins a female released in July, beginning the restoration of a species absent from the country&apos;s wild for more than 70 years. Both animals wear satellite collars.</description>
-      <pubDate>Mon, 02 Nov 2026 13:00:00 +0500</pubDate>
-      <guid isPermaLink="true">https://www.gov.kz/org/ecogeo/press/news/details/1321913?lang=ru</guid>
-      <source url="https://www.gov.kz/">Kazakhstan Ministry of Ecology</source>
     </item>
   </channel>
 </rss>

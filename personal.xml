@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>Copyright Office digitizes 25,238 historical record books</title>
+      <link>https://copyright.gov/newsnet/2026/1099.html</link>
+      <description>The newly completed collection holds more than 21.7 million images of applications and other records dating from 1870 to 1977. It offers a powerful new trail for researching ownership, registrations and copyright archaeology, with individual-record search planned for a future system update.</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://copyright.gov/newsnet/2026/1099.html</guid>
+      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+    </item>
+
+    <item>
+      <title>Reedsy relaunches Discovery as a paid review service for indie authors</title>
+      <link>https://selfpublishingadvice.org/reedsy-relaunches-discovery/</link>
+      <description>Reedsy Discovery now offers a 350-word editorial review for $299, charged when a reviewer accepts the book, with delivery promised within 30 days. The Alliance of Independent Authors examines the service as a lower-cost rival to Kirkus while noting that Reedsy is an ALLi partner.</description>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://selfpublishingadvice.org/reedsy-relaunches-discovery/</guid>
+      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
+    </item>
+
+    <item>
+      <title>Kathleen Deagan surveys nearly a century of St. Augustine archaeology</title>
+      <link>https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</link>
+      <description>For the St. Augustine Archaeological Association&apos;s 40th anniversary, archaeologist Kathleen Deagan traced the city&apos;s research tradition from the 1930s through 2026. The program highlights the people, excavations and public policies that made St. Augustine unusually strong in both professional and community archaeology.</description>
+      <pubDate>Wed, 04 Nov 2026 23:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</guid>
+      <source url="https://flpublicarchaeology.org/">Florida Public Archaeology Network</source>
+    </item>
 
     <item>
       <title>The earlier St. Augustine Zero Milestone hides in plain sight</title>
@@ -115,33 +143,6 @@
       <pubDate>Wed, 19 Dec 2012 14:56:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.awn.com/animationworld/book-review-lou-scheimer-creating-filmation-generation</guid>
       <source url="https://www.awn.com/">Animation World Network</source>
-    </item>
-
-    <item>
-      <title>How Steve Davidson revived Amazing Stories and then stepped away</title>
-      <link>https://file770.com/steve-davidson-will-stop-running-amazing-stories/</link>
-      <description>File 770&apos;s 2022 account summarizes Steve Davidson&apos;s stewardship of Amazing Stories: he secured the trademark in 2011, rebuilt its online presence, crowdfunded new print issues and organized special projects before transferring management to Kermit Woodall. It is a concise record of what Davidson accomplished.</description>
-      <pubDate>Thu, 03 Nov 2022 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://file770.com/steve-davidson-will-stop-running-amazing-stories/</guid>
-      <source url="https://file770.com/">File 770</source>
-    </item>
-
-    <item>
-      <title>Master Comics 16 introduced Larry Dean, the Flyin&apos; Fool</title>
-      <link>https://www.comics.org/issue/1500/?display=list</link>
-      <description>The Grand Comics Database identifies Larry Dean&apos;s debut as a two-page prose story in Fawcett&apos;s Master Comics 16, on sale June 4, 1941. Carl Formes wrote it under the reversed-name byline LaRac Semrof. The issue also featured Minute Man, Bulletman, El Carim, Captain Marvel Jr. and Spy Smasher.</description>
-      <pubDate>Wed, 04 Jun 1941 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.comics.org/issue/1500/?display=list</guid>
-      <source url="https://www.comics.org/">Grand Comics Database</source>
-    </item>
-
-    <item>
-      <title>Google explains exactly how much HTTPS initially mattered to rankings</title>
-      <link>https://developers.google.com/search/blog/2014/08/https-as-ranking-signal?hl=en</link>
-      <description>Google&apos;s original 2014 announcement called HTTPS a very lightweight ranking signal affecting fewer than 1% of global queries and carrying less weight than content quality. The post also recommends crawlable secure pages, proper certificates and careful site moves, making it useful context for judging the SEO cost of remaining on HTTP.</description>
-      <pubDate>Thu, 07 Aug 2014 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://developers.google.com/search/blog/2014/08/https-as-ranking-signal?hl=en</guid>
-      <source url="https://developers.google.com/search/">Google Search Central</source>
     </item>
   </channel>
 </rss>

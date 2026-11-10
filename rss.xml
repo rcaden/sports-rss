@@ -5,9 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+
+    <item>
+      <title>College Football Playoff expands to 24 teams in 2027</title>
+      <link>https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion</link>
+      <description>The CFP unanimously approved a 24-team field beginning in 2027-28, with first-round byes for the top eight seeds and 16 games played on campuses. ESPN will retain worldwide rights through 2031-32. The current 12-team format remains in place this season.</description>
+      <pubDate>Mon, 09 Nov 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion</guid>
+      <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
+    </item>
+
+    <item>
+      <title>Cooper Flagg joins elite teenage company with 43-point night</title>
+      <link>https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/</link>
+      <description>Cooper Flagg scored 43 points with 10 rebounds and six assists as Dallas rallied past Indiana 125-122. The 19-year-old became only the second teenager in NBA history to produce at least 40 points, 10 rebounds and five assists in a game.</description>
+      <pubDate>Tue, 10 Nov 2026 06:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>McDavid extends point streak as historic assist run ends</title>
+      <link>https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</link>
+      <description>Connor McDavid scored in Edmonton&apos;s 3-1 win over the Rangers, extending his season-opening point streak to 19 games. His assist streak ended at 18 games, tied with Adam Oates for the second-longest in NHL history behind Wayne Gretzky&apos;s 23-game run.</description>
+      <pubDate>Tue, 10 Nov 2026 07:12:39 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Bengals win in Madrid to pull even atop AFC North</title>
@@ -114,33 +142,6 @@
       <description>Trevor Lawrence threw for 242 yards and a touchdown as Jacksonville won for the fifth time in six games. Baltimore, starting rookie Joe Fagnano with Lamar Jackson and Tyler Huntley injured, lost its fourth straight and became the first Ravens team to drop three consecutive games by at least 20 points.</description>
       <pubDate>Fri, 06 Nov 2026 03:11:00 GMT</pubDate>
       <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/jaguars-thrash-the-depleted-ravens-33-10-for-their-5th-win-in-6-games/</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Wembanyama posts 52 points, 24 rebounds and eight blocks</title>
-      <link>https://www.reuters.com/sports/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-24--flm-2026-11-05/</link>
-      <description>Victor Wembanyama set career highs with 52 points and 24 rebounds, added eight blocks and made the deciding free throw with 24.2 seconds left as San Antonio edged Dallas 112-111. He became the first NBA player in 30 seasons with at least 25 points, 10 rebounds and five blocks in one half.</description>
-      <pubDate>Thu, 05 Nov 2026 09:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-24--flm-2026-11-05/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Como scores nine as Liverpool falls in Istanbul</title>
-      <link>https://www.dawn.com/news/2042223/valverde-rescues-real-as-liverpool-let-lead-slip-twice-to-lose-at-fenerbahce</link>
-      <description>Como matched the Champions League&apos;s largest winning margin by routing Lens 9-1, with Tasos Douvikas producing a hat trick and an assist. Liverpool surrendered two leads in a 3-2 loss at Fenerbahce, while stoppage-time goals rescued Real Madrid and Manchester City won on Erling Haaland&apos;s late finish.</description>
-      <pubDate>Thu, 05 Nov 2026 04:28:00 +0500</pubDate>
-      <guid isPermaLink="true">https://www.dawn.com/news/2042223/valverde-rescues-real-as-liverpool-let-lead-slip-twice-to-lose-at-fenerbahce</guid>
-      <source url="https://www.dawn.com/">Dawn</source>
-    </item>
-
-    <item>
-      <title>WNBA Game 7 sets postseason viewership record</title>
-      <link>https://apnews.com/article/wnba-finals-ratings-ff034a065bdbe499378b6c102f60e70a</link>
-      <description>Golden State&apos;s championship victory over Atlanta averaged 3.3 million viewers, the most for any WNBA postseason game and 128% above last season&apos;s clincher. The seven-game Finals averaged 1.88 million, the league&apos;s best since 1999, and every game sold out.</description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/wnba-finals-ratings-ff034a065bdbe499378b6c102f60e70a</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>

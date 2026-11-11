@@ -5,10 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>WordPress 7.2 Beta 5 resolves known PHP 8.6 compatibility issues</title>
+      <link>https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/</link>
+      <description>The final beta before release candidates adds security, accessibility and compatibility fixes, including application-password notifications and better keyboard navigation. WordPress says all known core conflicts with PHP 8.6 are resolved, though plugin and theme testing remains essential before the Dec. 8 release.</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
+
+    <item>
+      <title>Message Heard enters liquidation after cutting staff and freelancers</title>
+      <link>https://podnews.net/article/message-heard-voluntary-liquidation</link>
+      <description>Podnews reports that the UK podcast producer has made staff redundant, ended 14 freelance contracts and entered voluntary liquidation. Multiple contributors say they are owed money, while the company’s history show Conflicted stopped publishing in October without a formal finale.</description>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/article/message-heard-voluntary-liquidation</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+
+    <item>
+      <title>Remote local newsrooms save rent but lose institutional memory</title>
+      <link>https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/</link>
+      <description>A Northwestern Local News Initiative report examines what vanishes when publications give up shared offices: informal training, collaboration and knowledge passed between generations. Nieman Lab lists more than a dozen U.S. papers that have gone remote or sharply downsized since 2020.</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
 
     <item>
       <title>WriteFreely patches critical authentication and federation flaws</title>
@@ -118,31 +144,5 @@
       <source url="https://blog.mozilla.org/">Mozilla</source>
     </item>
 
-    <item>
-      <title>Chrome 157 release notes put XSLT removal on the near horizon</title>
-      <link>https://chromeenterprise.google/intl/sp/resources/release-notes/</link>
-      <description>Chrome&apos;s Nov. 4 enterprise notes reiterate that browser support for XSLT is being removed, with stable releases scheduled to stop processing it on Nov. 17 outside approved extensions. That change matters for XML feeds and other documents that still depend on client-side stylesheets for readable browser presentation.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://chromeenterprise.google/intl/sp/resources/release-notes/#xslt-removal-november-2026</guid>
-      <source url="https://chromeenterprise.google/">Chrome Enterprise</source>
-    </item>
-
-    <item>
-      <title>What would less polarizing political journalism look like?</title>
-      <link>https://trustingnews.org/podcast-episode-political-journalism-is-broken-what-should-we-do-about-it/</link>
-      <description>Joy Mayer, Mónica Guzmán and Jonathan Stray examine how political reporting can serve people across a divided electorate without laundering misinformation. Their discussion addresses ideological gaps between newsrooms and audiences, the limits of both-sides framing, curiosity, accountability and hiring for broader viewpoints.</description>
-      <pubDate>Wed, 04 Nov 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://trustingnews.org/podcast-episode-political-journalism-is-broken-what-should-we-do-about-it/</guid>
-      <source url="https://trustingnews.org/">Trusting News</source>
-    </item>
-
-    <item>
-      <title>Safari Technology Preview 256 improves accessibility and web interoperability</title>
-      <link>https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/</link>
-      <description>WebKit&apos;s latest preview fixes list markers and nested frames for assistive technology, aligns enhanced select styles with other browsers and corrects multiple SVG sizing failures. It also expands canvas text controls and adds security diagnostics for cross-origin isolation.</description>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://webkit.org/blog/18602/release-notes-for-safari-technology-preview-256/</guid>
-      <source url="https://webkit.org/">WebKit</source>
-    </item>
-  </channel>
+</channel>
 </rss>

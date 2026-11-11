@@ -5,10 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Kerala rescue saves more than 19,500 orchids from roadwork</title>
+      <link>https://news.mongabay.com/short-article/2026/11/tens-of-thousands-of-orchids-saved-from-road-development-in-southern-india/</link>
+      <description>Researchers moved 27,324 orchids from trees threatened by road construction in southern India to a beach and two urban wetlands. After 12 to 24 months, nearly 71% were still alive; many flowered and produced seed, turning an emergency rescue into a promising conservation model.</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mongabay.com/short-article/2026/11/tens-of-thousands-of-orchids-saved-from-road-development-in-southern-india/</guid>
+      <source url="https://news.mongabay.com/">Mongabay</source>
+    </item>
+
+    <item>
+      <title>A shy shelter dog finds the patient home she needed</title>
+      <link>https://www.axios.com/local/san-diego/2026/11/10/helen-woodward-animal-center-terrier-mix-adoption</link>
+      <description>Alena, a terrier mix whose kennel anxiety discouraged adopters, found a home six days after an online feature showed her relaxed foster-care personality. Her new family had experience with timid dogs and gives her space to approach on her own terms; the shelter calls it a perfect match.</description>
+      <pubDate>Tue, 10 Nov 2026 19:05:21 GMT</pubDate>
+      <guid isPermaLink="true">https://www.axios.com/local/san-diego/2026/11/10/helen-woodward-animal-center-terrier-mix-adoption</guid>
+      <source url="https://www.axios.com/local/san-diego/">Axios San Diego</source>
+    </item>
+
+    <item>
+      <title>Beaver family returns to the Loch Ness watershed after 500 years</title>
+      <link>https://beavertrust.org/historic-return-of-beavers-to-waters-around-loch-ness/</link>
+      <description>A family of six beavers was released Nov. 4 at the Dundreggan rewilding estate, the first recorded return to the Loch Ness catchment since the species was hunted to extinction in Scotland. The project plans to restore at least 15 family groups across the watershed over three years.</description>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://beavertrust.org/historic-return-of-beavers-to-waters-around-loch-ness/</guid>
+      <source url="https://beavertrust.org/">Beaver Trust</source>
+    </item>
 
     <item>
       <title>Rehabilitated bald eagle takes flight over North Carolina Zoo</title>
@@ -118,31 +144,5 @@
       <source url="https://www.australianwildlife.org/">Australian Wildlife Conservancy</source>
     </item>
 
-    <item>
-      <title>Albatross lays Royal Cam&apos;s first egg before a global audience</title>
-      <link>https://www.doc.govt.nz/news/media-releases/2026-media-releases/egg-citement-toroaalbatross-lays-first-egg-live-on-camera-delighting-viewers/</link>
-      <description>A northern royal albatross known as L laid an egg live on New Zealand&apos;s 24-hour Royal Cam, a first for viewers of the stream. She and her mate are already sharing incubation duty, and rangers will check the egg for fertility after 10 to 12 days. Last season produced a record-equaling 38 fledglings.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +1300</pubDate>
-      <guid isPermaLink="true">https://www.doc.govt.nz/news/media-releases/2026-media-releases/egg-citement-toroaalbatross-lays-first-egg-live-on-camera-delighting-viewers/</guid>
-      <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
-    </item>
-
-    <item>
-      <title>Seabirds stage a record recovery on England&apos;s Solent coast</title>
-      <link>https://www.rspb.org.uk/whats-happening/news/record-year-for-seabirds-on-rspb-reserves-in-the-solent</link>
-      <description>Years of habitat work and volunteer protection helped Sandwich terns rebound at Pagham Harbour from a colony abandoned after the 2022 bird-flu outbreak to at least 756 breeding pairs and 570 fledglings this year. Black-headed gull fledglings jumped from 51 in 2025 to 504 in 2026.</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.rspb.org.uk/whats-happening/news/record-year-for-seabirds-on-rspb-reserves-in-the-solent</guid>
-      <source url="https://www.rspb.org.uk/">RSPB</source>
-    </item>
-
-    <item>
-      <title>South America&apos;s largest known mastodon tusk surfaces in Argentina</title>
-      <link>https://unr.edu.ar/en/hallaron-el-colmillo-de-mastodonte-mas-grande-de-sudamerica/</link>
-      <description>Researchers recovered a 2.34-meter mastodon tusk from a ranch near San Pedro, Argentina, surpassing the continent&apos;s previous documented record. The roughly 500,000-year-old fossil belonged to a four- or five-ton Notiomastodon platensis; both tusks together may have weighed nearly 200 kilograms.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 -0300</pubDate>
-      <guid isPermaLink="true">https://unr.edu.ar/en/hallaron-el-colmillo-de-mastodonte-mas-grande-de-sudamerica/</guid>
-      <source url="https://unr.edu.ar/">National University of Rosario</source>
-    </item>
-  </channel>
+</channel>
 </rss>

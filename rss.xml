@@ -5,10 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>NFL trade deadline reshapes contenders with Cousins, Allen and Downs deals</title>
+      <link>https://www.reuters.com/sports/nfl-trade-deadline-roundup-kirk-cousins-keenan-allen-join-contenders--flm-2026-11-11/</link>
+      <description>The Vikings reacquired Kirk Cousins from Las Vegas for a 2027 third-round pick, while San Francisco added Keenan Allen and Kansas City acquired Josh Downs. Buffalo, Denver and other contenders also made moves before Tuesday’s deadline, giving several playoff races a late-season jolt.</description>
+      <pubDate>Wed, 11 Nov 2026 04:47:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl-trade-deadline-roundup-kirk-cousins-keenan-allen-join-contenders--flm-2026-11-11/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Georgia leads second CFP ranking as Notre Dame surges to No. 5</title>
+      <link>https://collegefootballplayoff.com/news/2026/11/10/rankings</link>
+      <description>Georgia remained No. 1 in the committee’s second ranking, followed by Utah, Alabama and UCLA. Notre Dame made the biggest move near the top, jumping six places to No. 5, while Miami slipped to No. 7. The ranking begins to clarify the race for the expanded postseason field.</description>
+      <pubDate>Wed, 11 Nov 2026 02:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/10/rankings</guid>
+      <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
+    </item>
+
+    <item>
+      <title>Ovechkin ties Capitals assist record on Hutson’s overtime winner</title>
+      <link>https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</link>
+      <description>Alex Ovechkin set up Cole Hutson’s overtime goal in Washington’s 3-2 win at Ottawa, giving him 762 assists and a share of Nicklas Backstrom’s franchise record. The 20-year-old Hutson also assisted on the tying goal before scoring his first NHL overtime winner.</description>
+      <pubDate>Wed, 11 Nov 2026 03:11:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>College Football Playoff expands to 24 teams in 2027</title>
@@ -118,31 +144,5 @@
       <source url="https://apnews.com/">Associated Press</source>
     </item>
 
-    <item>
-      <title>LIV Golf to wind down after financing deal collapses</title>
-      <link>https://www.reuters.com/sports/golf/liv-golf-liquidate-after-financing-deal-falls-apart-2026-11-05/</link>
-      <description>LIV Golf will liquidate in an orderly wind-down after Saudi Arabia&apos;s Public Investment Fund ended its backing and a proposed $300 million financing agreement with BC Partners collapsed. The breakaway circuit spent more than $5 billion after launching in 2022 and will consider offers for its remaining assets.</description>
-      <pubDate>Thu, 05 Nov 2026 17:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/golf/liv-golf-liquidate-after-financing-deal-falls-apart-2026-11-05/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Cristiano Ronaldo ends record-setting Portugal career</title>
-      <link>https://www.fifa.com/en/tournaments/mens/worldcup/articles/cristiano-ronaldo-portugal-retirement</link>
-      <description>Cristiano Ronaldo retired from international soccer at 41 after 23 years with Portugal. His 234 appearances and 146 goals are men&apos;s world records, and he scored at six World Cups. Ronaldo captained Portugal to the 2016 European Championship and Nations League titles in 2019 and 2025.</description>
-      <pubDate>Thu, 05 Nov 2026 05:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.fifa.com/en/tournaments/mens/worldcup/articles/cristiano-ronaldo-portugal-retirement</guid>
-      <source url="https://www.fifa.com/">FIFA</source>
-    </item>
-
-    <item>
-      <title>Jaguars rout depleted Ravens 33-10</title>
-      <link>https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/jaguars-thrash-the-depleted-ravens-33-10-for-their-5th-win-in-6-games/</link>
-      <description>Trevor Lawrence threw for 242 yards and a touchdown as Jacksonville won for the fifth time in six games. Baltimore, starting rookie Joe Fagnano with Lamar Jackson and Tyler Huntley injured, lost its fourth straight and became the first Ravens team to drop three consecutive games by at least 20 points.</description>
-      <pubDate>Fri, 06 Nov 2026 03:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/jaguars-thrash-the-depleted-ravens-33-10-for-their-5th-win-in-6-games/</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-  </channel>
+</channel>
 </rss>

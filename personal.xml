@@ -5,10 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Grand Comics Database maps the complete Marvel Hostess ad run</title>
+      <link>https://www.comics.org/series/24886/details/timeline/</link>
+      <description>The Grand Comics Database timeline turns Marvel’s 1975–81 Hostess ads into a browsable chronology, with issue-level credits and publication details. It is a practical reference for tracing the one-page adventures, checking disputed dates and identifying which comic books carried each snack-cake rescue.</description>
+      <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.comics.org/series/24886/details/timeline/</guid>
+      <source url="https://www.comics.org/">Grand Comics Database</source>
+    </item>
+
+    <item>
+      <title>St. Johns County Clerk opens a useful trail through public records</title>
+      <link>https://stjohnsclerk.com/online-resources/</link>
+      <description>The clerk’s online-resources hub links court records, Official Records, commission documents and property-related filings in one place. For local-history or homeowners-association research, it is a direct route to recorded covenants, amendments, plats and meeting records without relying on secondary summaries.</description>
+      <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
+      <guid isPermaLink="true">https://stjohnsclerk.com/online-resources/</guid>
+      <source url="https://stjohnsclerk.com/">St. Johns County Clerk of the Circuit Court and County Comptroller</source>
+    </item>
+
+    <item>
+      <title>Digital Comic Museum’s Fawcett archive makes Golden Age issues searchable</title>
+      <link>https://digitalcomicmuseum.com/index.php?cid=3</link>
+      <description>Digital Comic Museum gathers downloadable scans of public-domain Fawcett comics across Captain Marvel, western, humor and romance titles. The publisher index is especially useful for copyright archaeology because it exposes issue runs, dates and scan provenance while making hard-to-find material available for close comparison.</description>
+      <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
+      <guid isPermaLink="true">https://digitalcomicmuseum.com/index.php?cid=3</guid>
+      <source url="https://digitalcomicmuseum.com/">Digital Comic Museum</source>
+    </item>
 
     <item>
       <title>Copyright Office digitizes 25,238 historical record books</title>
@@ -118,31 +144,5 @@
       <source url="https://www.staugustinelighthouse.org/">St. Augustine Lighthouse &amp; Maritime Museum</source>
     </item>
 
-    <item>
-      <title>Victoria Schochet Lustbader&apos;s career across science-fiction publishing</title>
-      <link>https://sf-encyclopedia.com/entry/schochet_victoria</link>
-      <description>The Encyclopedia of Science Fiction traces Victoria Schochet Lustbader&apos;s work from managing editor of Analog to senior science-fiction and fantasy editor at Berkley. There she co-edited all five Berkley Showcase original-anthology volumes before becoming a freelance editor and novelist.</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sf-encyclopedia.com/entry/schochet_victoria</guid>
-      <source url="https://sf-encyclopedia.com/">The Encyclopedia of Science Fiction</source>
-    </item>
-
-    <item>
-      <title>Jacksonville workshop explores writing graphic novels for publication</title>
-      <link>https://jaxpubliclibrary.org/blog/free-author-events-and-writers-workshops-adults-november</link>
-      <description>Writer and illustrator Michael Regina will lead a free 90-minute workshop at Jacksonville&apos;s Willow Branch Library on Nov. 17. The session covers practical storytelling tools for combining words and images, along with the publishing challenges and opportunities unique to graphic novels.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://jaxpubliclibrary.org/blog/free-author-events-and-writers-workshops-adults-november</guid>
-      <source url="https://jaxpubliclibrary.org/">Jacksonville Public Library</source>
-    </item>
-
-    <item>
-      <title>Inside Lou Scheimer&apos;s Filmation generation</title>
-      <link>https://www.awn.com/animationworld/book-review-lou-scheimer-creating-filmation-generation</link>
-      <description>Animation World Network reviews Lou Scheimer&apos;s detailed memoir of Filmation, the studio that nearly folded before DC Comics called about a Superman series. Scheimer recounts the rise from Saturday-morning superheroes through Star Trek, Fat Albert, He-Man and BraveStarr, plus labor battles and the fight to keep animation work in the United States.</description>
-      <pubDate>Wed, 19 Dec 2012 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.awn.com/animationworld/book-review-lou-scheimer-creating-filmation-generation</guid>
-      <source url="https://www.awn.com/">Animation World Network</source>
-    </item>
-  </channel>
+</channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>The 398th Bomb Group identifies the Black Widow crew and its final mission</title>
+      <link>https://www.m.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</link>
+      <description>The 398th Bomb Group Memorial Association pairs a crew photograph with the account of B-17G 43-37889, flown on its last mission by James Mitchell’s crew on Jan. 20, 1945. The page names the airmen, explains the crash near Mechtersheim and links the record to MACR 11797.</description>
+      <pubDate>Thu, 12 Nov 2026 13:54:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.m.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</guid>
+      <source url="https://www.398th.org/">398th Bomb Group Memorial Association</source>
+    </item>
+
+    <item>
+      <title>Cirsova Magazine closed to submissions after a decade-long run</title>
+      <link>https://duotrope.com/magazine/cirsova-magazine-19913</link>
+      <description>Duotrope’s archived listing records Cirsova as permanently closed to submissions in September 2026. The page preserves its market profile—quarterly print publication, sword-and-planet and heroic fantasy focus, 2,000–7,500-word fiction range and semi-professional pay—making it a useful snapshot of the magazine’s final operating model.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://duotrope.com/magazine/cirsova-magazine-19913</guid>
+      <source url="https://duotrope.com/">Duotrope</source>
+    </item>
+
+    <item>
+      <title>Laminas XML-RPC 3.1.1 keeps a mature protocol current on PHP 8.5</title>
+      <link>https://packagist.org/packages/laminas/laminas-xmlrpc</link>
+      <description>The Oct. 9 release provides maintained XML-RPC client and server support for PHP 8.2 through 8.5, including value marshalling, faults and introspection. Packagist shows more than 2.6 million installs and 20 dependent packages, evidence that the protocol still has a practical modern footprint.</description>
+      <pubDate>Fri, 09 Oct 2026 10:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://packagist.org/packages/laminas/laminas-xmlrpc</guid>
+      <source url="https://packagist.org/">Packagist</source>
+    </item>
 
     <item>
       <title>Grand Comics Database maps the complete Marvel Hostess ad run</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 19 Oct 2026 08:31:00 GMT</pubDate>
       <guid isPermaLink="true">https://libguides.liverpool.ac.uk/library/sca/stephenbaxter</guid>
       <source url="https://www.liverpool.ac.uk/library/">University of Liverpool Library</source>
-    </item>
-
-    <item>
-      <title>The Encyclopedia of Science Fiction traces File 770&apos;s print history</title>
-      <link>https://sf-encyclopedia.com/entry/file_770</link>
-      <description>The Encyclopedia of Science Fiction&apos;s updated entry reconstructs File 770&apos;s life as a print fanzine: launched in January 1978, bimonthly until 1999, then revived annually for issues 160 through 166 from 2011 to 2016. It also explains the room-number joke behind the title and the continuing website.</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sf-encyclopedia.com/entry/file_770</guid>
-      <source url="https://sf-encyclopedia.com/">The Encyclopedia of Science Fiction</source>
-    </item>
-
-    <item>
-      <title>ServiceNow lays out its developer roadmap</title>
-      <link>https://www.servicenow.com/community/now-dev-blog/the-servicenow-developer-roadmap-top-announcements-from-now-dev/ba-p/3617213</link>
-      <description>ServiceNow&apos;s new developer roadmap highlights Source Control 2.0, a Studio that merges metadata and source views, the Lux interface framework, stronger testing tools, and better flow troubleshooting and playbook reruns. It is a useful map of which platform changes may affect practical development work next.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0800</pubDate>
-      <guid isPermaLink="true">https://www.servicenow.com/community/now-dev-blog/the-servicenow-developer-roadmap-top-announcements-from-now-dev/ba-p/3617213</guid>
-      <source url="https://www.servicenow.com/community/">ServiceNow Community</source>
-    </item>
-
-    <item>
-      <title>A lighthouse excavation finds layers of recent St. Augustine history</title>
-      <link>https://www.staugustinelighthouse.org/2026/02/16/history-in-our-backyard-archaeology-on-the-lighthouse-grounds-2/</link>
-      <description>Archaeologists at the St. Augustine Lighthouse describe a small excavation that uncovered a signpost and a trash pit containing material from the 1950s through 1970s, plus a Kings Brewery bottle made between 1932 and 1938. The dig shows how ordinary modern debris can document a site&apos;s changing daily life.</description>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.staugustinelighthouse.org/2026/02/16/history-in-our-backyard-archaeology-on-the-lighthouse-grounds-2/</guid>
-      <source url="https://www.staugustinelighthouse.org/">St. Augustine Lighthouse &amp; Maritime Museum</source>
     </item>
 
 </channel>

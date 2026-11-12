@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Spurs erase 22-point deficit for 10th consecutive victory</title>
+      <link>https://www.reuters.com/sports/nba-roundup-rockets-top-warriors-stephen-curry-exits-injured--flm-2026-11-12/</link>
+      <description>Victor Wembanyama scored 32 points as San Antonio rallied past Chicago 124-119 for its 10th straight win. Elsewhere, Houston ended Golden State’s eight-game streak after Stephen Curry left with abdominal soreness, while the Lakers became the NBA’s first 11-win team.</description>
+      <pubDate>Thu, 12 Nov 2026 10:03:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-rockets-top-warriors-stephen-curry-exits-injured--flm-2026-11-12/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>NCAA links repeated transfers to sharply lower graduation rates</title>
+      <link>https://apnews.com/article/d1eea4d8a3a78a5e747b0ae1a9c89ede</link>
+      <description>New NCAA data covering about 36,000 athletes found that multiple transfers were generally associated with graduation rates 15 to 20 percentage points below those of athletes who stayed at one school. The gap reached 28 points in major-college football and was steepest for Black athletes.</description>
+      <pubDate>Wed, 11 Nov 2026 17:12:33 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/d1eea4d8a3a78a5e747b0ae1a9c89ede</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>United States withdraws from FIFA U-17 World Cup over safety concerns</title>
+      <link>https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</link>
+      <description>U.S. Soccer pulled its boys’ national team from the 48-team tournament in Qatar, which is scheduled for Nov. 19 through Dec. 13. A letter to players cited current safety circumstances, making the Americans a late withdrawal from one of FIFA’s largest youth events.</description>
+      <pubDate>Wed, 11 Nov 2026 23:25:05 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>NFL trade deadline reshapes contenders with Cousins, Allen and Downs deals</title>
@@ -115,33 +142,6 @@
       <pubDate>Sun, 08 Nov 2026 00:21:44 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/britains-hutchinson-beats-buatsi-take-vacant-wbc-light-heavyweight-title-2026-11-08/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Appeals court hands NCAA key eligibility victory</title>
-      <link>https://apnews.com/article/e4798c29e17e7cdc88a9108323c14e9c</link>
-      <description>The 10th U.S. Circuit Court of Appeals reversed a ruling that had granted extra eligibility to athletes who were high school seniors in 2022, a significant win for the NCAA in its wider court fight. The decision does not settle roughly 200 similar state cases involving about 850 athletes.</description>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/e4798c29e17e7cdc88a9108323c14e9c</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Kaden Honeycutt wins NASCAR Truck title at Homestead</title>
-      <link>https://www.nascar.com/news-media/2026/11/06/truck-series-2026-homestead-miami-championship-race-recap-results/</link>
-      <description>Kaden Honeycutt won the season finale at Homestead-Miami Speedway and captured his first NASCAR Craftsman Truck Series championship. A late tire call helped him take control after Lap 120, and he finished 1.038 seconds ahead for his fifth victory of the season.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.nascar.com/news-media/2026/11/06/truck-series-2026-homestead-miami-championship-race-recap-results/</guid>
-      <source url="https://www.nascar.com/">NASCAR</source>
-    </item>
-
-    <item>
-      <title>NFL says Brandon Aiyuk owes 49ers about $13 million</title>
-      <link>https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says/</link>
-      <description>The NFL told Brandon Aiyuk and the players union that the receiver owes San Francisco about $13 million in bonuses, an AP source said. Aiyuk signed a four-year, $120 million extension in 2024 and is seeking reinstatement, deepening his contract dispute with the 49ers.</description>
-      <pubDate>Fri, 06 Nov 2026 16:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/06/nfl-tells-brandon-aiyuk-he-owes-the-49ers-about-13m-ap-source-says/</guid>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
 
 </channel>

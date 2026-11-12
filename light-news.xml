@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Superhero window washers brighten a day at Children’s Nebraska</title>
+      <link>https://abcnews.com/video/138041563/?fromLive=true</link>
+      <description>Young patients in Omaha looked out their hospital windows on Nov. 11 to find costumed superheroes descending the building with squeegees. The window washers’ recurring tradition turns routine exterior maintenance into a surprise visit from familiar caped figures.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://abcnews.com/video/138041563/?fromLive=true</guid>
+      <source url="https://abcnews.com/">ABC News</source>
+    </item>
+
+    <item>
+      <title>Visitors overlooked 280 Ice Age engravings in a Catalan cave</title>
+      <link>https://antiquity.ac.uk/news/2026/hundreds-ice-age-rock-art-engravings-discovered-hidden-plain-sight</link>
+      <description>Archaeologists identified horses, deer, a bear and abstract designs on walls passed by tourists for decades in Cova de la Font Major. The roughly 26,000-year-old collection is the largest known in Catalonia and the third largest from Mediterranean Iberia.</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://antiquity.ac.uk/news/2026/hundreds-ice-age-rock-art-engravings-discovered-hidden-plain-sight</guid>
+      <source url="https://antiquity.ac.uk/">Antiquity</source>
+    </item>
+
+    <item>
+      <title>Spain’s Cantabrian brown bears double their population</title>
+      <link>https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/</link>
+      <description>Conservation measures helped the population rise from roughly 140 bears early this century to about 370, while their occupied range grew to more than 17,000 square kilometers. Researchers say management plans now need updating as the bears reclaim suitable habitat.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
 
     <item>
       <title>Kerala rescue saves more than 19,500 orchids from roadwork</title>
@@ -115,33 +142,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://www.empire.ca/news/2026/06/empire-life-raises-record-breaking-amount-united-way</guid>
       <source url="https://www.empire.ca/">Empire Life</source>
-    </item>
-
-    <item>
-      <title>Giant pandas return to Zoo Atlanta</title>
-      <link>https://www.gpb.org/news/2026/11/06/lovable-bamboo-binging-bears-are-back-zoo-atlanta-debuts-new-giant-panda-duo-in</link>
-      <description>Zoo Atlanta introduced six-year-old giant pandas Ping Ping and Fu Shuang, whose names mean peace and double happiness. The pair arrived after a two-year panda gap and made their public debut in a renovated habitat, renewing a long-running conservation partnership with China.</description>
-      <pubDate>Fri, 06 Nov 2026 20:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.gpb.org/news/2026/11/06/lovable-bamboo-binging-bears-are-back-zoo-atlanta-debuts-new-giant-panda-duo-in</guid>
-      <source url="https://www.gpb.org/">Georgia Public Broadcasting</source>
-    </item>
-
-    <item>
-      <title>Previously unknown right whale calf spotted in Canada</title>
-      <link>https://www.neaq.org/about-us/press-room/press-releases/in-surprise-sighting-previously-unknown-north-atlantic-right-whale-calf-is-spotted-in-canadian-waters/</link>
-      <description>Researchers confirmed a previously unknown North Atlantic right whale calf after a September 25 sighting near Anticosti Island. Its mother is 38-year-old Silt, and the calf is her sixth. The discovery raises the season total to 24, the fourth-highest on record for a species numbering about 380.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.neaq.org/about-us/press-room/press-releases/in-surprise-sighting-previously-unknown-north-atlantic-right-whale-calf-is-spotted-in-canadian-waters/</guid>
-      <source url="https://www.neaq.org/">New England Aquarium</source>
-    </item>
-
-    <item>
-      <title>A$25 million gift will expand Australian wildlife conservation</title>
-      <link>https://www.australianwildlife.org/en-us/news-and-resources/press-release/landmark-25-million-gift-to-accelerate-wildlife-conservation</link>
-      <description>The Wright Burt Foundation pledged A$25 million to Australian Wildlife Conservancy, part of a A$120 million commitment to 10 organizations. The gift will support land purchases, feral-cat control and threatened-species recovery as AWC works to influence conservation across more than 5% of Australia by 2035.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +1100</pubDate>
-      <guid isPermaLink="true">https://www.australianwildlife.org/en-us/news-and-resources/press-release/landmark-25-million-gift-to-accelerate-wildlife-conservation</guid>
-      <source url="https://www.australianwildlife.org/">Australian Wildlife Conservancy</source>
     </item>
 
 </channel>

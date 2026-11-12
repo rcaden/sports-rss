@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>A personal blog can serve its writer before it serves an audience</title>
+      <link>https://openchannels.fm/the-value-of-blogging-for-yourself/</link>
+      <description>Bob Dunn argues that a blog need not chase reach or polish every entry into an essay. Quick thoughts, links and photos can build a durable personal archive on a site the writer controls, creating value even when nobody else reads a post. It is a crisp case for publishing on your own domain.</description>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openchannels.fm/the-value-of-blogging-for-yourself/</guid>
+      <source url="https://openchannels.fm/">Open Channels FM</source>
+    </item>
+
+    <item>
+      <title>Former Ringer producers launch a podcast about how the web used to feel</title>
+      <link>https://podnews.net/press-release/click-through</link>
+      <description>Bobby Wagner and Alex Bazeley’s independent Click Through turns Wikipedia racing into a weekly show: start at two unrelated pages and navigate between them using only links. Recorded around New York, it treats Wikipedia, websites and digressive browsing as an antidote to platform-controlled discovery.</description>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/press-release/click-through</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+
+    <item>
+      <title>WordCamp Asia 2027 heads to Penang with a $35 ticket</title>
+      <link>https://wordpress.org/news/2026/11/wc-asia-2027-penang/</link>
+      <description>The WordPress community will gather April 9–11 at Penang’s waterfront convention center for Contributor Day and two conference days. The 2026 edition drew 2,627 people and more than 1,500 contributors; registration for the 2027 Contributor Day opens Jan. 27 and is capped at 600.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wc-asia-2027-penang/</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
+    </item>
 
     <item>
       <title>WordPress 7.2 Beta 5 resolves known PHP 8.6 compatibility issues</title>
@@ -115,33 +142,6 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
       <guid isPermaLink="true">https://wordpress.com/blog/2026/11/04/wordpress-studio-workspace/</guid>
       <source url="https://wordpress.com/blog/">WordPress.com</source>
-    </item>
-
-    <item>
-      <title>AT Protocol brings Jetstream semantics to private Spaces</title>
-      <link>https://atproto.com/blog/space-sync</link>
-      <description>AT Protocol says its forthcoming Spaces system will work with existing Jetstream clients through a familiar replay-then-live stream. Self-hosted sync services will borrow short-lived access from authorized users and deliver permitted records without a public relay, reducing the split between public and non-public app development.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://atproto.com/blog/space-sync</guid>
-      <source url="https://atproto.com/">AT Protocol</source>
-    </item>
-
-    <item>
-      <title>Archive-It updates its guide to the CDX/C index</title>
-      <link>https://support.archive-it.org/hc/en-us/articles/115001790023-Access-Archive-It-s-Wayback-index-with-the-CDX-C-API</link>
-      <description>Archive-It&apos;s revised guide explains how to query its Wayback index by URL, collection and date range, select or collapse fields, and locate captures in WARC storage. The documentation is a practical route to auditing web-archive coverage and retrieving capture metadata without relying only on the calendar interface.</description>
-      <pubDate>Fri, 06 Nov 2026 13:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://support.archive-it.org/hc/en-us/articles/115001790023-Access-Archive-It-s-Wayback-index-with-the-CDX-C-API</guid>
-      <source url="https://support.archive-it.org/">Archive-It Help Center</source>
-    </item>
-
-    <item>
-      <title>Firefox roadmap adds offline reading and local speech recognition</title>
-      <link>https://blog.mozilla.org/en/firefox/firefox-roadmap/</link>
-      <description>Mozilla&apos;s updated Firefox roadmap includes a floating Mini Window, read-aloud and offline reading, local speech recognition that keeps audio on the device, site-specific VPN rules and a toolbar control for clearing browsing data. The browser&apos;s built-in PDF viewer also now starts up to 45% faster on desktop.</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.mozilla.org/en/firefox/firefox-roadmap/</guid>
-      <source url="https://blog.mozilla.org/">Mozilla</source>
     </item>
 
 </channel>

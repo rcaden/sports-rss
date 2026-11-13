@@ -5,10 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
     <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>VCON returns with a one-day ‘Pick Your Punk’ rebuilding convention</title>
+      <link>https://vcon.ca/</link>
+      <description>VCON 44 takes place November 14, 2026, at the BCIT Burnaby campus, marking the official return of a convention founded in 1971 and billed as Canada’s oldest fan-run speculative-fiction and games convention. The deliberately compact, one-day event is framed as a rebuilding step after the long-running three-day format went dormant. Under the theme “Pick Your Punk: Living Through the 21st Century,” programming ranges across cyberpunk, solarpunk, steampunk, hopepunk and related modes. Author Holly Schofield and artist Eric Chu are guests of honor, with William Gibson making a special appearance. The historical time peg is unusually strong: this is both VCON’s first event back and its 55th anniversary year.</description>
+      <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
+      <guid isPermaLink="true">https://vcon.ca/</guid>
+      <category>Conventions</category>
+      <source url="https://vcon.ca/">VCON</source>
+    </item>
+    <item>
+      <title>Philcon prepares a 90th-anniversary gathering with a 1632 mini-convention</title>
+      <link>https://philcon.org/</link>
+      <description>Philcon will mark its 90th anniversary November 20–22, 2026, in Cherry Hill, New Jersey. Founded in 1936 by the Philadelphia Science Fiction Society, it identifies itself as the world’s first and longest-running conference devoted to science fiction, fantasy and horror. This year’s principal speaker is Charlie Jane Anders, with Donato Giancola as artist guest and Sarah Pinsker as musical guest. The program also folds in a 1632 MiniCon featuring writers associated with Eric Flint’s alternate-history series, including special guest Charles Gannon. The anniversary lands squarely in fandom’s institutional history: a convention created before the first Worldcon is still using its original fan-society lineage nine decades later.</description>
+      <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
+      <guid isPermaLink="true">https://philcon.org/</guid>
+      <category>Conventions</category>
+      <source url="https://philcon.org/">Philcon</source>
+    </item>
+    <item>
+      <title>Vector opens its Modernisms issue, including a Kim Stanley Robinson interview</title>
+      <link>https://vector-bsfa.com/2026/11/08/modernisms-issue-is-now-open-access/</link>
+      <description>On November 8, 2026, the British Science Fiction Association made Vector 299, originally published in April 2024, freely available online. Guest editor Paul March-Russell assembled an issue on the contested relationship between speculative fiction and modernism, with work by Angela Acosta, Nick Hubble, Paul Kincaid, Nina Allan and Andrew M. Butler. It also includes Henry Farrell’s interview with Kim Stanley Robinson, reviews, Kat Kourbeti’s new regular column and March-Russell’s tribute to Christopher Priest. The date peg is the new open-access release, not the issue’s original publication. For researchers and fan historians, the release turns a members-only magazine issue into a durable, citable public resource.</description>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://vector-bsfa.com/2026/11/08/modernisms-issue-is-now-open-access/</guid>
+      <category>Publishing</category>
+      <source url="https://vector-bsfa.com/">Vector</source>
+    </item>
     <item>
       <title>Nalo Hopkinson receives the inaugural Andrew Pyper Prize for Genre Fiction</title>
       <link>https://quillandquire.com/omni/robert-moor-zak-jones-and-misha-solomon-among-writers-trust-award-winners/</link>
@@ -18,7 +45,6 @@
       <source url="https://quillandquire.com/">Quill &amp; Quire</source>
       <category>Awards</category>
     </item>
-
     <item>
       <title>Wisconsin’s Soulbound Books prepares a storefront devoted to science fiction and fantasy</title>
       <link>https://locusmag.com/2026/11/soulbound-books-to-open-in-wi/</link>
@@ -28,7 +54,6 @@
       <source url="https://locusmag.com/">Locus Magazine</source>
       <category>Publishing</category>
     </item>
-
     <item>
       <title>Chris Barkley and Paul Weimer join Amazing Stories to expand fandom reporting</title>
       <link>https://amazingstories.com/2026/11/chris-barkley-hugo-award-winning-fan-writer-joins-amazing-stories-as-lead-news-editor-and-reporter/</link>
@@ -38,7 +63,6 @@
       <source url="https://amazingstories.com/">Amazing Stories</source>
       <category>Fandom</category>
     </item>
-
     <item>
       <title>Weird Horror ends after 13 issues as Undertow plans to close the magazine site</title>
       <link>https://locusmag.com/2026/11/weird-horror-to-close/</link>
@@ -48,7 +72,6 @@
       <source url="https://locusmag.com/">Locus Magazine</source>
       <category>Publishing</category>
     </item>
-
     <item>
       <title>Goodreads opens 2026 Choice Awards voting across five genre-heavy categories</title>
       <link>https://www.goodreads.com/choiceawards/best-books-2026</link>
@@ -58,7 +81,6 @@
       <source url="https://www.goodreads.com/">Goodreads</source>
       <category>Awards</category>
     </item>
-
     <item>
       <title>SFWA sets November 15 annual business meeting with member questions to follow</title>
       <link>https://sfwa.org/events/?conv_id=149&amp;f_type=Broadcast+Only&amp;sfwa_p=1&amp;sfwa_view=plain</link>
@@ -68,7 +90,6 @@
       <source url="https://sfwa.org/">Science Fiction and Fantasy Writers Association</source>
       <category>Fandom</category>
     </item>
-
     <item>
       <title>M. John Harrison becomes the first established science-fiction author to win the Booker</title>
       <link>https://thebookerprizes.com/media-centre/press-releases/the-end-of-everything-by-m-john-harrison-wins-the-booker-prize-2026</link>
@@ -78,7 +99,6 @@
       <category>Awards</category>
       <source url="https://thebookerprizes.com/">The Booker Prizes</source>
     </item>
-
     <item>
       <title>STARLOG returns to print for its 50th anniversary</title>
       <link>https://www.fangoria.com/the-ultimate-sci-fi-bible-is-back-starlog-returns-to-print-for-its-50th-anniversary/</link>
@@ -88,7 +108,6 @@
       <category>History</category>
       <source url="https://www.fangoria.com/">Fangoria</source>
     </item>
-
     <item>
       <title>Patrick Stewart, Star Trek&apos;s Captain Picard, dies at 86</title>
       <link>https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/</link>
@@ -98,7 +117,6 @@
       <category>People</category>
       <source url="https://www.cbsnews.com/">CBS News</source>
     </item>
-
     <item>
       <title>Steve Davidson, who carried Amazing Stories into its second century, dies at 67</title>
       <link>https://amazingstories.com/2026/11/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</link>
@@ -108,7 +126,6 @@
       <category>People</category>
       <source url="https://amazingstories.com/">Amazing Stories</source>
     </item>
-
     <item>
       <title>FANAC digitizes a cross-section of 1950s through 2000s fan publishing</title>
       <link>https://fanac.org/sitehistory-recent.html</link>
@@ -118,7 +135,6 @@
       <category>Fandom</category>
       <source url="https://fanac.org/">Fanac Fan History Project</source>
     </item>
-
     <item>
       <title>The Man Who Fell to Earth returns to cinemas for its 50th anniversary</title>
       <link>https://www.davidbowie.com/blog/2026/10/6/tmwfte-50th-anniversary-4k-re-release-and-in-uk-cinemas</link>
@@ -127,36 +143,6 @@
       <guid isPermaLink="true">https://www.davidbowie.com/blog/2026/10/6/tmwfte-50th-anniversary-4k-re-release-and-in-uk-cinemas</guid>
       <category>History</category>
       <source url="https://www.davidbowie.com/">DavidBowie.com</source>
-    </item>
-
-    <item>
-      <title>Edgar Rice Burroughs trilogy edition marks his 150th anniversary</title>
-      <link>https://subterraneanpress.com/newstaking-preorders-for-a-new-edgar-rice-burroughs-limited-edition-for-a-limited-time/</link>
-      <description>On November 2, 2026, Subterranean Press opened a limited preorder window for ERB Books&apos; three-volume edition of The Land That Time Forgot trilogy, explicitly issued for the 150th anniversary of Edgar Rice Burroughs&apos; birth on September 1, 1875. The authorized set separates The Land That Time Forgot, The People That Time Forgot and Out of Time&apos;s Abyss into individual leather-bound hardbacks and adds more than 100 illustrations, including over 75 newly commissioned pieces. Contributors include Mark Schultz, William Stout, Bob Eggleton, Frank Frazetta, Roy Krenkel and J. Allen St. John. A portfolio of advertising pieces, notebook pages and correspondence makes the edition as much an exercise in pulp-history preservation as a luxury reprint.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://subterraneanpress.com/newstaking-preorders-for-a-new-edgar-rice-burroughs-limited-edition-for-a-limited-time/</guid>
-      <category>History</category>
-      <source url="https://subterraneanpress.com/">Subterranean Press</source>
-    </item>
-
-    <item>
-      <title>eFanzines posts a substantial November batch of current fan publications</title>
-      <link>https://efanzines.com/</link>
-      <description>On November 2, 2026, eFanzines added seven new issues spanning several corners of print and digital fandom: Nic Farey&apos;s This Here... #105, Leigh Edmonds&apos; The Chatter Box #35, Dale Speirs&apos; Opuntia #641, Perry Middlemiss and David Grigg&apos;s Two Chairs in Print #20, Christopher J. Garcia&apos;s Claims Department #94, and two issues of Garcia&apos;s Hugo-winning The Drink Tank, #466 and #467. The update is a useful snapshot of fanzine culture as a continuing practice rather than only an archival subject. It also demonstrates the site&apos;s preservation role: eFanzines, founded December 8, 2000, maintains current publications beside deep collections of historic fan writing, convention reports and scanned Worldcon material.</description>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://efanzines.com/</guid>
-      <category>Fandom</category>
-      <source url="https://efanzines.com/">eFanzines</source>
-    </item>
-
-    <item>
-      <title>New Star Trek visual history arrives on the original series&apos; 60th anniversary</title>
-      <link>https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand</link>
-      <description>Ten Speed Press will publish Star Trek: The Original Voyages: A Visual History on November 10, 2026, during the franchise&apos;s 60th-anniversary year and exactly 60 years after “The Corbomite Maneuver” first aired on November 10, 1966. Kyle Newman and Jeff Bond&apos;s 416-page book covers the original series, the animated continuation and the first six feature films through 1991. Its archival material includes production photographs, costumes, storyboards, interviews, props, filming models and convention ephemera, alongside toys, comics and magazine covers. That breadth makes the volume potentially valuable to fan historians: it treats Star Trek not only as 79 television episodes and later films, but as a culture carried forward through conventions, collecting, publishing and licensed artifacts.</description>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand</guid>
-      <category>History</category>
-      <source url="https://www.space.com/">Space.com</source>
     </item>
 
 </channel>

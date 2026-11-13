@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Alvarez and Crow-Armstrong sweep unanimous MLB MVP votes</title>
+      <link>https://www.mlb.com/news/2026-mlb-mvp-award-winners</link>
+      <description>Houston’s Yordan Alvarez won the American League MVP and the Cubs’ Pete Crow-Armstrong took the National League award, each unanimously and for the first time. With both Cy Young winners also unanimous, 2026 became the first season since the pitching award began in 1956 with four unanimous selections.</description>
+      <pubDate>Fri, 13 Nov 2026 01:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.mlb.com/news/2026-mlb-mvp-award-winners</guid>
+      <source url="https://www.mlb.com/">MLB.com</source>
+    </item>
+    <item>
+      <title>Pochettino to leave USMNT for Manchester United</title>
+      <link>https://www.reuters.com/sports/soccer/pochettino-leave-us-team-take-over-man-united-head-coach-2026-11-13/</link>
+      <description>Mauricio Pochettino will leave the U.S. men after the Nations League quarterfinal against Haiti and take charge of Manchester United on November 18. Reuters reports his contract runs through 2029. United sits 18th after its worst start in 40 years; Pochettino guided the U.S. to the 2026 World Cup round of 16.</description>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/pochettino-leave-us-team-take-over-man-united-head-coach-2026-11-13/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>NBC Sports voice Dan Hicks dies at 64</title>
+      <link>https://apnews.com/article/b4ac5dac07202a61597ebbe363599197</link>
+      <description>Dan Hicks, whose 35-year NBC career made him a familiar voice of golf, Olympic swimming and Notre Dame football, died after an acute illness. He called 16 Olympics, 27 U.S. Opens and Michael Phelps’ eight-gold performance in Beijing. NBC Sports president Rick Cordella called Hicks a cherished colleague and friend.</description>
+      <pubDate>Thu, 12 Nov 2026 15:27:15 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/b4ac5dac07202a61597ebbe363599197</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
     <item>
       <title>Spurs erase 22-point deficit for 10th consecutive victory</title>
       <link>https://www.reuters.com/sports/nba-roundup-rockets-top-warriors-stephen-curry-exits-injured--flm-2026-11-12/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-rockets-top-warriors-stephen-curry-exits-injured--flm-2026-11-12/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>NCAA links repeated transfers to sharply lower graduation rates</title>
       <link>https://apnews.com/article/d1eea4d8a3a78a5e747b0ae1a9c89ede</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://apnews.com/article/d1eea4d8a3a78a5e747b0ae1a9c89ede</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>United States withdraws from FIFA U-17 World Cup over safety concerns</title>
       <link>https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>NFL trade deadline reshapes contenders with Cousins, Allen and Downs deals</title>
       <link>https://www.reuters.com/sports/nfl-trade-deadline-roundup-kirk-cousins-keenan-allen-join-contenders--flm-2026-11-11/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nfl-trade-deadline-roundup-kirk-cousins-keenan-allen-join-contenders--flm-2026-11-11/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Georgia leads second CFP ranking as Notre Dame surges to No. 5</title>
       <link>https://collegefootballplayoff.com/news/2026/11/10/rankings</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/10/rankings</guid>
       <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
     </item>
-
     <item>
       <title>Ovechkin ties Capitals assist record on Hutson’s overtime winner</title>
       <link>https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>College Football Playoff expands to 24 teams in 2027</title>
       <link>https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion</guid>
       <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
     </item>
-
     <item>
       <title>Cooper Flagg joins elite teenage company with 43-point night</title>
       <link>https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>McDavid extends point streak as historic assist run ends</title>
       <link>https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Bengals win in Madrid to pull even atop AFC North</title>
       <link>https://www.reuters.com/sports/nfl-roundup-bengals-rout-falcons-madrid-tie-afc-north-lead--flm-2026-11-09/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nfl-roundup-bengals-rout-falcons-madrid-tie-afc-north-lead--flm-2026-11-09/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Carlos Alcaraz captures his first Paris Masters title</title>
       <link>https://www.reuters.com/sports/tennis/alcaraz-beats-error-prone-shelton-win-paris-masters-2026-11-08/</link>
@@ -107,40 +121,12 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/tennis/alcaraz-beats-error-prone-shelton-win-paris-masters-2026-11-08/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Mercedes clinches Formula One constructors&apos; title in wet Brazil</title>
       <link>https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/</link>
       <description>Mercedes secured its ninth Formula One constructors&apos; championship at a rain-soaked São Paulo Grand Prix, completing a title double one week after Kimi Antonelli won the drivers&apos; crown. Lando Norris won the race for McLaren, while Max Verstappen charged from 21st on the grid to finish second.</description>
       <pubDate>Sun, 08 Nov 2026 18:51:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Notre Dame knocks off No. 1 Miami in playoff-shaping win</title>
-      <link>https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/08/no-4-notre-dame-takes-big-lead-then-holds-off-no-1-miami-31-24-in-a-classic/</link>
-      <description>CJ Carr threw for 319 yards and three touchdowns as No. 4 Notre Dame built a 21-point lead and held off No. 1 Miami 31-24. The Irish improved to 8-1 and avenged last season&apos;s costly loss to the Hurricanes, strengthening their College Football Playoff position.</description>
-      <pubDate>Sun, 08 Nov 2026 04:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://gmg-kprc-prod.cdn.arcpublishing.com/sports/2026/11/08/no-4-notre-dame-takes-big-lead-then-holds-off-no-1-miami-31-24-in-a-classic/</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Sidney Crosby climbs to sixth on NHL career scoring list</title>
-      <link>https://abcnews.com/amp/Sports/wireStory/sidney-crosby-takes-sole-possession-6th-nhl-scoring-137950114</link>
-      <description>Sidney Crosby scored twice in Pittsburgh&apos;s 5-2 win over Los Angeles, passing Marcel Dionne for sole possession of sixth on the NHL career scoring list. The 39-year-old reached 1,772 points as the Penguins snapped a four-game losing streak.</description>
-      <pubDate>Sun, 08 Nov 2026 04:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/amp/Sports/wireStory/sidney-crosby-takes-sole-possession-6th-nhl-scoring-137950114</guid>
-      <source url="https://abcnews.com/">ABC News</source>
-    </item>
-
-    <item>
-      <title>Willy Hutchinson wins WBC light-heavyweight title</title>
-      <link>https://www.reuters.com/sports/britains-hutchinson-beats-buatsi-take-vacant-wbc-light-heavyweight-title-2026-11-08/</link>
-      <description>Willy Hutchinson beat Joshua Buatsi by unanimous decision in Manchester to claim the vacant WBC light-heavyweight championship. The judges scored the all-British rematch 117-112, 115-113 and 115-113, reversing Hutchinson&apos;s defeat to Buatsi in 2024.</description>
-      <pubDate>Sun, 08 Nov 2026 00:21:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/britains-hutchinson-beats-buatsi-take-vacant-wbc-light-heavyweight-title-2026-11-08/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
 

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>A 1997 Washington Post review finds the Gilgamesh inside How Like a God</title>
+      <link>https://brendaclough.net/washpost.htm</link>
+      <description>Joe Mayhew’s May 25, 1997 Washington Post review called Brenda W. Clough’s How Like a God “solid and even elegant.” The review reads Rob Lewis’s unwanted powers through the Gilgamesh epic and argues that the novel feels more like fantasy than conventional science fiction—a useful contemporary snapshot of the book’s reception.</description>
+      <pubDate>Sun, 25 May 1997 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://brendaclough.net/washpost.htm</guid>
+      <source url="https://brendaclough.net/">Brenda W. Clough</source>
+    </item>
+    <item>
+      <title>FANAC preserves File 770’s December 1996 snapshot of fandom</title>
+      <link>https://www.fanac.org/fanzines/File770/</link>
+      <description>FANAC’s File 770 archive includes issue 115 from December 1996, a 22-page scan supplied by Mark Olson. The issue offers a primary-source view of convention politics, awards, fan publishing and personalities at the end of that year—exactly the sort of searchable institutional memory that disappears when paper collections stay private.</description>
+      <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.fanac.org/fanzines/File770/</guid>
+      <source url="https://www.fanac.org/">FANAC</source>
+    </item>
+    <item>
+      <title>National Archives opens a searchable trail through nine million WWII enlistment records</title>
+      <link>https://www.archives.gov/research/military/ww2/electronic-records.html</link>
+      <description>The National Archives explains how to search and download its electronic Army enlistment files covering 1938–1946. The database holds about nine million records, with fields such as serial number, birthplace, residence, occupation and enlistment date. Its limitations are important: it generally excludes officers and members of other service branches.</description>
+      <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.archives.gov/research/military/ww2/electronic-records.html</guid>
+      <source url="https://www.archives.gov/">National Archives</source>
+    </item>
     <item>
       <title>The 398th Bomb Group identifies the Black Widow crew and its final mission</title>
       <link>https://www.m.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://www.m.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</guid>
       <source url="https://www.398th.org/">398th Bomb Group Memorial Association</source>
     </item>
-
     <item>
       <title>Cirsova Magazine closed to submissions after a decade-long run</title>
       <link>https://duotrope.com/magazine/cirsova-magazine-19913</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://duotrope.com/magazine/cirsova-magazine-19913</guid>
       <source url="https://duotrope.com/">Duotrope</source>
     </item>
-
     <item>
       <title>Laminas XML-RPC 3.1.1 keeps a mature protocol current on PHP 8.5</title>
       <link>https://packagist.org/packages/laminas/laminas-xmlrpc</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://packagist.org/packages/laminas/laminas-xmlrpc</guid>
       <source url="https://packagist.org/">Packagist</source>
     </item>
-
     <item>
       <title>Grand Comics Database maps the complete Marvel Hostess ad run</title>
       <link>https://www.comics.org/series/24886/details/timeline/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://www.comics.org/series/24886/details/timeline/</guid>
       <source url="https://www.comics.org/">Grand Comics Database</source>
     </item>
-
     <item>
       <title>St. Johns County Clerk opens a useful trail through public records</title>
       <link>https://stjohnsclerk.com/online-resources/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://stjohnsclerk.com/online-resources/</guid>
       <source url="https://stjohnsclerk.com/">St. Johns County Clerk of the Circuit Court and County Comptroller</source>
     </item>
-
     <item>
       <title>Digital Comic Museum’s Fawcett archive makes Golden Age issues searchable</title>
       <link>https://digitalcomicmuseum.com/index.php?cid=3</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://digitalcomicmuseum.com/index.php?cid=3</guid>
       <source url="https://digitalcomicmuseum.com/">Digital Comic Museum</source>
     </item>
-
     <item>
       <title>Copyright Office digitizes 25,238 historical record books</title>
       <link>https://copyright.gov/newsnet/2026/1099.html</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://copyright.gov/newsnet/2026/1099.html</guid>
       <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
     </item>
-
     <item>
       <title>Reedsy relaunches Discovery as a paid review service for indie authors</title>
       <link>https://selfpublishingadvice.org/reedsy-relaunches-discovery/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://selfpublishingadvice.org/reedsy-relaunches-discovery/</guid>
       <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
     </item>
-
     <item>
       <title>Kathleen Deagan surveys nearly a century of St. Augustine archaeology</title>
       <link>https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</guid>
       <source url="https://flpublicarchaeology.org/">Florida Public Archaeology Network</source>
     </item>
-
     <item>
       <title>The earlier St. Augustine Zero Milestone hides in plain sight</title>
       <link>https://publichumanities.omeka.net/items/show/361</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://publichumanities.omeka.net/items/show/361</guid>
       <source url="https://publichumanities.omeka.net/">Public Humanities</source>
     </item>
-
     <item>
       <title>Brenda W. Clough&apos;s papers document a novelist&apos;s full working process</title>
       <link>https://aspace.lib.uiowa.edu/repositories/2/resources/3286</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://aspace.lib.uiowa.edu/repositories/2/resources/3286</guid>
       <source url="https://aspace.lib.uiowa.edu/">University of Iowa Libraries</source>
     </item>
-
     <item>
       <title>Java architects answer practical questions about the platform&apos;s direction</title>
       <link>https://inside.java/2026/11/05/podcast-074/</link>
@@ -115,33 +128,6 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://inside.java/2026/11/05/podcast-074/</guid>
       <source url="https://inside.java/">Inside.java</source>
-    </item>
-
-    <item>
-      <title>OTW explains why noncommercial fanfiction can be legitimate</title>
-      <link>https://www.transformativeworks.org/faq/if-fanfiction-is-legitimate-wouldnt-that-also-mean-that-publishers-or-studios-could-produce-derivative-works-without-compensating-the-original-authors/</link>
-      <description>The Organization for Transformative Works explains why freely shared fanfiction and a commercial studio adaptation are not legally equivalent. Fair use weighs purpose, transformative character, amount copied and market effect; nonprofit fanworks that add new meaning are in a different position from substitute commercial products.</description>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 -0400</pubDate>
-      <guid isPermaLink="true">https://www.transformativeworks.org/faq/if-fanfiction-is-legitimate-wouldnt-that-also-mean-that-publishers-or-studios-could-produce-derivative-works-without-compensating-the-original-authors/</guid>
-      <source url="https://www.transformativeworks.org/">Organization for Transformative Works</source>
-    </item>
-
-    <item>
-      <title>Copyright Office preserves the paper trail for restored foreign works</title>
-      <link>https://www.copyright.gov/gatt.html</link>
-      <description>The U.S. Copyright Office&apos;s restored-copyright page explains how the URAA revived protection in 1996 for some foreign works that had entered the U.S. public domain while remaining protected abroad. It links the published Notices of Intent to Enforce, the governing statute and Circular 38B—useful primary records for copyright archaeology.</description>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.copyright.gov/gatt.html</guid>
-      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
-    </item>
-
-    <item>
-      <title>Stephen Baxter&apos;s papers are open to researchers in Liverpool</title>
-      <link>https://libguides.liverpool.ac.uk/library/sca/stephenbaxter</link>
-      <description>The University of Liverpool&apos;s updated guide describes an archive of Stephen Baxter typescripts, outlines, proofs and essays covering most of his stories and novels, including The Time Ships and The Light of Other Days. The collection is fully listed online and available to researchers by appointment.</description>
-      <pubDate>Mon, 19 Oct 2026 08:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://libguides.liverpool.ac.uk/library/sca/stephenbaxter</guid>
-      <source url="https://www.liverpool.ac.uk/library/">University of Liverpool Library</source>
     </item>
 
 </channel>

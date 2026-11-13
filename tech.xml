@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Molly Webster becomes a co-host of Radiolab</title>
+      <link>https://current.org/2026/11/molly-webster-becomes-co-host-of-radiolab/</link>
+      <description>Longtime producer Molly Webster will join Latif Nasser as co-host of Radiolab, succeeding Lulu Miller as the public-radio show approaches its 25th anniversary. Webster has worked on the program since 2012 and created its Gonads and Breathe series. Miller will concentrate on the family-oriented spinoff Terrestrials.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://current.org/2026/11/molly-webster-becomes-co-host-of-radiolab/</guid>
+      <source url="https://current.org/">Current</source>
+    </item>
+    <item>
+      <title>Indonesia considers making platforms pay for news aggregation</title>
+      <link>https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/</link>
+      <description>A proposed Indonesian copyright bill would require large platforms to compensate publishers when aggregating news or displaying previews and snippets. With more than 230 million internet users, Indonesia could become Southeast Asia’s first country with such a regime. Critics question the state-run payment system and permit sanctions.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Lab</source>
+    </item>
+    <item>
+      <title>iHeart denies a report that it plans to sell its podcast division</title>
+      <link>https://podnews.net/update/iheart-sale-not</link>
+      <description>Bloomberg reported that iHeartMedia was exploring a sale of part or all of its podcast operation, but the company said it has no such plan. The division produced $174 million in third-quarter revenue, up 24.6 percent. CEO Bob Pittman says iHeart will begin reporting podcast results separately so investors can better see the unit’s value.</description>
+      <pubDate>Thu, 12 Nov 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/iheart-sale-not</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
     <item>
       <title>A personal blog can serve its writer before it serves an audience</title>
       <link>https://openchannels.fm/the-value-of-blogging-for-yourself/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://openchannels.fm/the-value-of-blogging-for-yourself/</guid>
       <source url="https://openchannels.fm/">Open Channels FM</source>
     </item>
-
     <item>
       <title>Former Ringer producers launch a podcast about how the web used to feel</title>
       <link>https://podnews.net/press-release/click-through</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://podnews.net/press-release/click-through</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
-
     <item>
       <title>WordCamp Asia 2027 heads to Penang with a $35 ticket</title>
       <link>https://wordpress.org/news/2026/11/wc-asia-2027-penang/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://wordpress.org/news/2026/11/wc-asia-2027-penang/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
-
     <item>
       <title>WordPress 7.2 Beta 5 resolves known PHP 8.6 compatibility issues</title>
       <link>https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
-
     <item>
       <title>Message Heard enters liquidation after cutting staff and freelancers</title>
       <link>https://podnews.net/article/message-heard-voluntary-liquidation</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://podnews.net/article/message-heard-voluntary-liquidation</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
-
     <item>
       <title>Remote local newsrooms save rent but lose institutional memory</title>
       <link>https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
-
     <item>
       <title>WriteFreely patches critical authentication and federation flaws</title>
       <link>https://blog.writefreely.org/version-0-17-3</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://blog.writefreely.org/version-0-17-3</guid>
       <source url="https://writefreely.org/">WriteFreely</source>
     </item>
-
     <item>
       <title>WordPress Credits passes 50 participating institutions</title>
       <link>https://wordpress.org/news/2026/11/wp-credits-reaches-50/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://wordpress.org/news/2026/11/wp-credits-reaches-50/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
-
     <item>
       <title>Spreaker pledges safeguards against unauthorized podcast copies</title>
       <link>https://podnews.net/update/copycat-podcasts</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://podnews.net/update/copycat-podcasts</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
-
     <item>
       <title>RSS.com expands video podcasting through open feed enclosures</title>
       <link>https://changelog.rss.com/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://changelog.rss.com/</guid>
       <source url="https://changelog.rss.com/">RSS.com Changelog</source>
     </item>
-
     <item>
       <title>Transistor keeps podcast feeds readable without XSLT</title>
       <link>https://transistor.fm/changelog/</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://transistor.fm/changelog/</guid>
       <source url="https://transistor.fm/">Transistor</source>
     </item>
-
     <item>
       <title>Salon ceases publication after 31 years on the web</title>
       <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
@@ -115,33 +128,6 @@
       <pubDate>Thu, 05 Nov 2026 19:28:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
       <source url="https://www.salon.com/">Salon</source>
-    </item>
-
-    <item>
-      <title>Awesome Motive acquires Drip and Sleeknote</title>
-      <link>https://awesomemotive.com/drip-sleeknote-an-email-sms-and-onsite-marketing-platform-are-joining-awesome-motive-family/</link>
-      <description>Awesome Motive&apos;s WPBeginner Growth Fund acquired email and SMS platform Drip and conversion tool Sleeknote. The companies will remain an independent unit under Mogens Møller, while tighter connections with WPForms and MemberPress are planned. Drip says more than 6,000 brands use its service.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://awesomemotive.com/drip-sleeknote-an-email-sms-and-onsite-marketing-platform-are-joining-awesome-motive-family/</guid>
-      <source url="https://awesomemotive.com/">Awesome Motive</source>
-    </item>
-
-    <item>
-      <title>Independent Podcast Awards honor a hyperlocal bus show</title>
-      <link>https://d3181cv23ky2c4.cloudfront.net/press-release/independent-podcasts-awards-26-winners</link>
-      <description>Great Days Out on the Bus from Buxton won 2026 Independent Podcast of the Year, plus travel and artwork honors. Solo producer Maria Passingham&apos;s sound-rich local show led a 28-category program celebrating work made outside major networks; more than 400 people attended the London ceremony.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://d3181cv23ky2c4.cloudfront.net/press-release/independent-podcasts-awards-26-winners</guid>
-      <source url="https://independentpodcastawards.com/">Independent Podcast Awards</source>
-    </item>
-
-    <item>
-      <title>WordPress Studio rebuilds its desktop workspace</title>
-      <link>https://wordpress.com/blog/2026/11/04/wordpress-studio-workspace/</link>
-      <description>WordPress Studio&apos;s redesigned free desktop app puts sites, chats and live previews in one workspace, with unified settings and command access. It supports macOS, Windows and Linux, keeps development local, offers shareable preview links and exposes the same workflow through a command-line interface.</description>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://wordpress.com/blog/2026/11/04/wordpress-studio-workspace/</guid>
-      <source url="https://wordpress.com/blog/">WordPress.com</source>
     </item>
 
 </channel>

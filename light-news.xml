@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Ultrarunner becomes first woman to run 100 continuous miles in Antarctica</title>
+      <link>https://abcnews.com/video/138072943/?fromLive=true</link>
+      <description>Canadian ultrarunner Stephanie Case became the first woman to complete 100 continuous miles in Antarctica. She covered 38 loops of a 4.2-kilometre course in 17 hours, 31 minutes and 39 seconds, finishing second overall among 28 runners in the extraordinary polar race.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://abcnews.com/video/138072943/?fromLive=true</guid>
+      <source url="https://abcnews.go.com/">ABC News</source>
+    </item>
+    <item>
+      <title>Bronx Zoo gives trafficked parrots a second chance</title>
+      <link>https://programs.wcs.org/press/News-Releases/articleType/ArticleView/articleId/26840/Wildlife-Conservation-Societys-Bronx-Zoo-Helps-to-Rescue-Dozens-of-Birds-Seized-from-Illegal-Wildlife-Pet-Trade-at-USMexico-Border.aspx</link>
+      <description>Dozens of white-fronted Amazon parrots and orange-fronted conures seized from the illegal pet trade at the U.S.-Mexico border are recovering at the Bronx Zoo. A zoo partnership has assisted nine parrot confiscations since 2022; two rescued red-lored Amazons even raised two chicks there this summer.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://programs.wcs.org/press/News-Releases/articleType/ArticleView/articleId/26840/Wildlife-Conservation-Societys-Bronx-Zoo-Helps-to-Rescue-Dozens-of-Birds-Seized-from-Illegal-Wildlife-Pet-Trade-at-USMexico-Border.aspx</guid>
+      <source url="https://www.wcs.org/">Wildlife Conservation Society</source>
+    </item>
+    <item>
+      <title>Lowe’s coworkers throw their ‘store mom’ a first 100th-birthday party</title>
+      <link>https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/</link>
+      <description>After a stroke, Gretchen Sollo began walking the aisles of a Lowe’s in Bradley, Illinois, and has logged an estimated 1,500 miles there over five years. Staff adopted her as their “store mom” and gathered with family to give Sollo her first workplace birthday party as she turned 100.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
     <item>
       <title>Superhero window washers brighten a day at Children’s Nebraska</title>
       <link>https://abcnews.com/video/138041563/?fromLive=true</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://abcnews.com/video/138041563/?fromLive=true</guid>
       <source url="https://abcnews.com/">ABC News</source>
     </item>
-
     <item>
       <title>Visitors overlooked 280 Ice Age engravings in a Catalan cave</title>
       <link>https://antiquity.ac.uk/news/2026/hundreds-ice-age-rock-art-engravings-discovered-hidden-plain-sight</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://antiquity.ac.uk/news/2026/hundreds-ice-age-rock-art-engravings-discovered-hidden-plain-sight</guid>
       <source url="https://antiquity.ac.uk/">Antiquity</source>
     </item>
-
     <item>
       <title>Spain’s Cantabrian brown bears double their population</title>
       <link>https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
-
     <item>
       <title>Kerala rescue saves more than 19,500 orchids from roadwork</title>
       <link>https://news.mongabay.com/short-article/2026/11/tens-of-thousands-of-orchids-saved-from-road-development-in-southern-india/</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://news.mongabay.com/short-article/2026/11/tens-of-thousands-of-orchids-saved-from-road-development-in-southern-india/</guid>
       <source url="https://news.mongabay.com/">Mongabay</source>
     </item>
-
     <item>
       <title>A shy shelter dog finds the patient home she needed</title>
       <link>https://www.axios.com/local/san-diego/2026/11/10/helen-woodward-animal-center-terrier-mix-adoption</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://www.axios.com/local/san-diego/2026/11/10/helen-woodward-animal-center-terrier-mix-adoption</guid>
       <source url="https://www.axios.com/local/san-diego/">Axios San Diego</source>
     </item>
-
     <item>
       <title>Beaver family returns to the Loch Ness watershed after 500 years</title>
       <link>https://beavertrust.org/historic-return-of-beavers-to-waters-around-loch-ness/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://beavertrust.org/historic-return-of-beavers-to-waters-around-loch-ness/</guid>
       <source url="https://beavertrust.org/">Beaver Trust</source>
     </item>
-
     <item>
       <title>Rehabilitated bald eagle takes flight over North Carolina Zoo</title>
       <link>https://www.randolphhub.com/article/news/wildlife-rehab-center-celebrates-25-years-with-release-of-healed-eagle</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://www.randolphhub.com/article/news/wildlife-rehab-center-celebrates-25-years-with-release-of-healed-eagle</guid>
       <source url="https://www.randolphhub.com/">Randolph Hub</source>
     </item>
-
     <item>
       <title>Volunteers plant nearly 500 pines in New Mexico burn scar</title>
       <link>https://www.koat.com/article/hundreds-of-trees-planted-in-hermits-peakcalf-canyon-burn-scars/74368461</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://www.koat.com/article/hundreds-of-trees-planted-in-hermits-peakcalf-canyon-burn-scars/74368461</guid>
       <source url="https://www.koat.com/">KOAT</source>
     </item>
-
     <item>
       <title>Georgia eighth-grader wins cheer competition as a squad of one</title>
       <link>https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</guid>
       <source url="https://www.nbcnews.com/">NBC News</source>
     </item>
-
     <item>
       <title>Students build a 300-drone wish for a Colorado boy</title>
       <link>https://www.cbsnews.com/colorado/news/colorado-high-school-students-drone-show-make-a-wish/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://www.cbsnews.com/colorado/news/colorado-high-school-students-drone-show-make-a-wish/</guid>
       <source url="https://www.cbsnews.com/colorado/">CBS Colorado</source>
     </item>
-
     <item>
       <title>Three inventors recall how two jockstraps became the sports bra</title>
       <link>https://apnews.com/article/1ce46b856480a31de611cbde93984aec</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://apnews.com/article/1ce46b856480a31de611cbde93984aec</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Rugby gives a young U.S. Olympian a place to belong</title>
       <link>https://www.washingtonpost.com/sports/olympics/2026/11/06/youth-olympics-womens-rugby-ilona-maher/c7582dd6-d9af-11f1-930a-e08f8086f5ac_story.html</link>
@@ -115,33 +128,6 @@
       <pubDate>Fri, 06 Nov 2026 10:17:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.washingtonpost.com/sports/olympics/2026/11/06/youth-olympics-womens-rugby-ilona-maher/c7582dd6-d9af-11f1-930a-e08f8086f5ac_story.html</guid>
       <source url="https://www.washingtonpost.com/">The Washington Post</source>
-    </item>
-
-    <item>
-      <title>Drone delivers bananas to chimp cut off by Florida floods</title>
-      <link>https://apnews.com/article/fdeea05bc614d13f7779034b4394211c</link>
-      <description>Flooded roads at Save the Chimps near Fort Pierce prevented staff from reaching 38-year-old Kaleb, so caregivers sent food and blankets by drone. Video showed him taking a banana from the dropped bag before crossing standing water on a rope. All 200 sanctuary chimps stayed safe and fed.</description>
-      <pubDate>Sat, 07 Nov 2026 20:00:13 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/fdeea05bc614d13f7779034b4394211c</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Tiny transmitters reveal the monarch butterfly&apos;s epic migration</title>
-      <link>https://abcnews.com/US/wireStory/monarch-butterflies-tiny-trackers-scientists-follow-mysterious-migration-137804851</link>
-      <description>Scientists and community volunteers are fitting monarch butterflies with solar-powered transmitters weighing about as much as a grain of rice. The tags let researchers and the public follow individual insects on journeys of up to 3,000 miles to Mexico through the free Project Monarch Science app.</description>
-      <pubDate>Tue, 03 Nov 2026 05:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/US/wireStory/monarch-butterflies-tiny-trackers-scientists-follow-mysterious-migration-137804851</guid>
-      <source url="https://abcnews.com/">ABC News</source>
-    </item>
-
-    <item>
-      <title>Empire Life&apos;s 57-year United Way tradition sets a record</title>
-      <link>https://www.empire.ca/news/2026/06/empire-life-raises-record-breaking-amount-united-way</link>
-      <description>Empire Life employees and retirees raised a record C$304,018 for United Way programs across Canada, exceeding a C$270,000 goal. The insurer matched pledges up to C$125,000. It was the campaign&apos;s tenth straight year above target and the highest total in the company&apos;s 57 years of annual drives.</description>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://www.empire.ca/news/2026/06/empire-life-raises-record-breaking-amount-united-way</guid>
-      <source url="https://www.empire.ca/">Empire Life</source>
     </item>
 
 </channel>

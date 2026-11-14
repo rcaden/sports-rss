@@ -5,10 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
     <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>J. J. Pierce, Galaxy editor and combative New Wave critic, dies at 85</title>
+      <link>https://sfcrowsnest.info/j-j-pierce-obituary-galaxy-new-wave-critic/</link>
+      <description>An obituary published November 10, 2026, reports that John Jeremy Pierce died November 1 at age 85. Pierce edited the fanzine Renaissance in the late 1960s, arguing forcefully for traditional speculative rigor against the New Wave, and briefly edited Galaxy in 1977. He later wrote histories including Foundations of Science Fiction and Great Themes of Science Fiction. Darrell Schweitzer, a friend of more than 50 years, supplied the news through Pierce’s widow, Marcia; the obituary cautions that finer details remain provisional pending a formal notice. Pierce was also the son of Bell Labs engineer John R. Pierce, who coined the word “transistor,” giving his biography an unusual bridge between technological and genre history.</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sfcrowsnest.info/j-j-pierce-obituary-galaxy-new-wave-critic/</guid>
+      <category>People</category>
+      <source url="https://sfcrowsnest.info/">SFcrowsnest</source>
+    </item>
+    <item>
+      <title>ICon report marks 30 years of organized Israeli science-fiction fandom</title>
+      <link>https://locusmag.com/2026/11/icon-2026/</link>
+      <description>Locus published its ICon 2026 report on November 13, supplying a timely institutional snapshot in the Israeli Society for Science Fiction and Fantasy’s 30th year. The September 29–October 1 festival in Tel Aviv drew roughly 12,000 visits across three days and offered nearly 350 panels, lectures, games, workshops and performances. ICon itself is counted as either 28 or 29 years old depending on the lineage used, a familiar complication in convention history. The society, founded in May 1996, also runs conventions, reading groups, awards, grants and an online magazine. For fandom historians, the scale is noteworthy: a national fan organization created in the mid-1990s now sustains one of the field’s largest recurring volunteer-centered festivals.</description>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 -0800</pubDate>
+      <guid isPermaLink="true">https://locusmag.com/2026/11/icon-2026/</guid>
+      <category>Fandom</category>
+      <source url="https://locusmag.com/">Locus</source>
+    </item>
+    <item>
+      <title>Trieste festival names Species and The Squirrel among its 2026 winners</title>
+      <link>https://www.sciencefictionfestival.org/i-vincitori-della-26a-edizione-del-trieste-sciencefiction-festival/</link>
+      <description>The Trieste Science+Fiction Festival announced its 26th-edition winners on November 8, 2026. Marion Le Corroller’s French-Belgian body-horror film Species (Sanguine) received the Asteroide Award for emerging genre filmmakers; the jury praised its use of horror to diagnose precarious work and a generation’s narrowing future. Markus Lehmusruusu’s Finnish-led The Squirrel won the feature Méliès d’Argent, while Alexander Peskador’s Rolling Mother took the short-film Méliès honor. The awards conclude a festival whose lineage reaches back to Trieste’s International Science Fiction Film Festival of 1963–1982. That institutional continuity, along with the Méliès network’s role in circulating European fantastic cinema, makes the results more than a routine movie-awards list.</description>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+      <guid isPermaLink="true">https://www.sciencefictionfestival.org/i-vincitori-della-26a-edizione-del-trieste-sciencefiction-festival/</guid>
+      <category>Awards</category>
+      <source url="https://www.sciencefictionfestival.org/">Trieste Science+Fiction Festival</source>
+    </item>
     <item>
       <title>VCON returns with a one-day ‘Pick Your Punk’ rebuilding convention</title>
       <link>https://vcon.ca/</link>
@@ -116,33 +143,6 @@
       <guid isPermaLink="true">https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/</guid>
       <category>People</category>
       <source url="https://www.cbsnews.com/">CBS News</source>
-    </item>
-    <item>
-      <title>Steve Davidson, who carried Amazing Stories into its second century, dies at 67</title>
-      <link>https://amazingstories.com/2026/11/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</link>
-      <description>Amazing Stories announced on November 4, 2026, that publisher Steve Davidson died that day at age 67. Davidson acquired the historic magazine in 2012, rebuilt it first as a website and returned it to print through a 2018 Kickstarter. His death is a major new development in the story of a title founded by Hugo Gernsback in April 1926 as the first magazine devoted entirely to science fiction. The announcement credits Davidson with preserving that history while creating space for contemporary writers and fans. Kermit Woodall, who had taken over management when Davidson stepped back in 2022, says Amazing Stories will continue under his ownership and leadership during its centennial year.</description>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://amazingstories.com/2026/11/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</guid>
-      <category>People</category>
-      <source url="https://amazingstories.com/">Amazing Stories</source>
-    </item>
-    <item>
-      <title>FANAC digitizes a cross-section of 1950s through 2000s fan publishing</title>
-      <link>https://fanac.org/sitehistory-recent.html</link>
-      <description>The Fanac Fan History Project&apos;s November 7, 2026 update added 17 scanned fanzine issues and one 1955 FAPA membership card. The batch ranges from Ectoplasm #1 (April 1951) and five issues of Ron Bennett&apos;s Burp! from 1954–55 to BCSFAzine #320 from January 2000. It also brings online three issues of H. P. Sanderson&apos;s Blunt, plus work edited by Rosemary Hickey, Elinor Busby, Lenny Bailes and others. The mix is useful institutional archaeology: clubzines, apazines and one-shot publications that are easily lost when collections remain private. FANAC says Joe Siclari supplied the scans unless otherwise noted, and the files are available through the linked update history.</description>
-      <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://fanac.org/sitehistory-recent.html</guid>
-      <category>Fandom</category>
-      <source url="https://fanac.org/">Fanac Fan History Project</source>
-    </item>
-    <item>
-      <title>The Man Who Fell to Earth returns to cinemas for its 50th anniversary</title>
-      <link>https://www.davidbowie.com/blog/2026/10/6/tmwfte-50th-anniversary-4k-re-release-and-in-uk-cinemas</link>
-      <description>A timely 50th-anniversary restoration brings Nicolas Roeg&apos;s The Man Who Fell to Earth back to UK cinemas on November 13, 2026, followed by a five-disc collector&apos;s edition on November 16. The official October 6 announcement says the set includes the 4K film, Blu-ray, soundtrack, a 100-page booklet with a new Candy Clark interview and a 40-minute documentary, Bowie &amp; Roeg: Aliens in America. Released in 1976 and adapted from Walter Tevis&apos;s novel, the film gave David Bowie his first major screen role as the stranded extraterrestrial Thomas Jerome Newton. The anniversary package also draws on archival interviews with Roeg and rarely seen production images, making it more substantial than a routine rerelease.</description>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.davidbowie.com/blog/2026/10/6/tmwfte-50th-anniversary-4k-re-release-and-in-uk-cinemas</guid>
-      <category>History</category>
-      <source url="https://www.davidbowie.com/">DavidBowie.com</source>
     </item>
 
 </channel>

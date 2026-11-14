@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Reprint copies a live WordPress site into a portable local workspace</title>
+      <link>https://wordpress.org/news/2026/11/reprint-your-site/</link>
+      <description>WordPress introduced Reprint, a free open-source PHP tool that copies a site’s database and files over HTTP to a laptop, development server or new host. It can pull a live site into WordPress Playground in the browser, providing a practical migration, debugging and staging path without depending on a host-specific transfer system.</description>
+      <pubDate>Fri, 13 Nov 2026 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/reprint-your-site/</guid>
+      <source url="https://wordpress.org/">WordPress</source>
+    </item>
+    <item>
+      <title>Journalism groups cancel conferences as event economics deteriorate</title>
+      <link>https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/</link>
+      <description>Nieman Lab reports that the Online News Association, OpenNews and other journalism groups are canceling conferences or cutting staff as travel, venue and production costs rise while grants shrink. Events once provided major revenue and professional ties, making the retreat another sign of weakening infrastructure around independent newsrooms.</description>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Lab</source>
+    </item>
+    <item>
+      <title>San Jose Earthquakes pass from John Fisher to Alden co-founder Heath Freeman</title>
+      <link>https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</link>
+      <description>Heath Freeman, a founding member and president of Alden Global Capital, will acquire the Earthquakes and PayPal Park from John Fisher and partners. MLS governors approved the transfer, expected to close within weeks. The reported $625 million valuation ends nearly two decades of Fisher ownership and gives San Jose a new local sports power center.</description>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
+      <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
+    </item>
     <item>
       <title>Molly Webster becomes a co-host of Radiolab</title>
       <link>https://current.org/2026/11/molly-webster-becomes-co-host-of-radiolab/</link>
@@ -104,30 +128,6 @@
       <pubDate>Tue, 10 Nov 2026 06:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://podnews.net/update/copycat-podcasts</guid>
       <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>RSS.com expands video podcasting through open feed enclosures</title>
-      <link>https://changelog.rss.com/</link>
-      <description>RSS.com says its HLS video service now carries video through Apple Podcasts and supporting Podcasting 2.0 apps while preserving audio playback elsewhere. Video is placed in the RSS feed as an alternate enclosure, with supported apps including Pocket Casts, Fountain, TrueFans and Podcast Guru.</description>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://changelog.rss.com/</guid>
-      <source url="https://changelog.rss.com/">RSS.com Changelog</source>
-    </item>
-    <item>
-      <title>Transistor keeps podcast feeds readable without XSLT</title>
-      <link>https://transistor.fm/changelog/</link>
-      <description>Transistor rebuilt the browser presentation of its podcast RSS feeds with CSS ahead of Chrome&apos;s planned removal of XSLT. The new view retains cover art, show information, the feed URL and episode listings, offering a practical way for human-readable feeds to survive a browser-platform change.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://transistor.fm/changelog/</guid>
-      <source url="https://transistor.fm/">Transistor</source>
-    </item>
-    <item>
-      <title>Salon ceases publication after 31 years on the web</title>
-      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
-      <description>Salon has stopped publishing after a 31-year run that began when original online journalism was still an experiment. The publication said the economics of independent digital media made its model unsustainable, closing a site whose politics, culture, criticism and essays helped define web-native magazines.</description>
-      <pubDate>Thu, 05 Nov 2026 19:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
-      <source url="https://www.salon.com/">Salon</source>
     </item>
 
 </channel>

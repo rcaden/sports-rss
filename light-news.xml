@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Martin Luther King Jr.’s lost handwritten speech draft resurfaces</title>
+      <link>https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/</link>
+      <description>A heavily revised handwritten draft prepared by Martin Luther King Jr. on the morning of the March on Washington has emerged after six decades. Xernona Clayton found it in her late husband Edward Clayton’s desk in the 1990s and is auctioning it through Christie’s to benefit charities including the King Center.</description>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Florida neighbor braves floodwater to rescue vulnerable residents</title>
+      <link>https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/</link>
+      <description>Rick Addante crossed shoulder-deep water in Palm Bay after a 1,000-year rain event to reach two vulnerable neighbors—an 80-year-old recovering from heart surgery and a wheelchair user with ALS. He helped move them to safety as Florida wildlife officers arrived with airboats, calling the effort a community-wide rescue.</description>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Genome sequencing helps stop an infant’s 110 daily seizures</title>
+      <link>https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/</link>
+      <description>Doctors in Dubai used whole-genome sequencing to identify the rare gene variant behind infant Adnan’s seizures, which struck about every 13 minutes. A compassionate-use treatment targeting the associated ion channel stopped them, and he remained seizure-free for weeks after beginning the experimental oral medicine.</description>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
     <item>
       <title>Ultrarunner becomes first woman to run 100 continuous miles in Antarctica</title>
       <link>https://abcnews.com/video/138072943/?fromLive=true</link>
@@ -104,30 +128,6 @@
       <pubDate>Sun, 08 Nov 2026 00:02:14 GMT</pubDate>
       <guid isPermaLink="true">https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</guid>
       <source url="https://www.nbcnews.com/">NBC News</source>
-    </item>
-    <item>
-      <title>Students build a 300-drone wish for a Colorado boy</title>
-      <link>https://www.cbsnews.com/colorado/news/colorado-high-school-students-drone-show-make-a-wish/</link>
-      <description>St. Vrain Valley high school students created a custom drone-light show for Nathaniel “Bubba” Brown, a Make-A-Wish recipient who loves lights. The student-run team designed the aerial animations, music and flight plan, turning the Holyoke sky into a colorful celebration for Bubba and his family.</description>
-      <pubDate>Sun, 08 Nov 2026 23:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.cbsnews.com/colorado/news/colorado-high-school-students-drone-show-make-a-wish/</guid>
-      <source url="https://www.cbsnews.com/colorado/">CBS Colorado</source>
-    </item>
-    <item>
-      <title>Three inventors recall how two jockstraps became the sports bra</title>
-      <link>https://apnews.com/article/1ce46b856480a31de611cbde93984aec</link>
-      <description>Lisa Lindahl, Polly Smith and Hinda Miller turned a 1977 joke about a women&apos;s jockstrap into the Jogbra. Their seamless prototype arrived as Title IX expanded women&apos;s sports, grew into a billion-dollar product category and earned the trio induction into the National Inventors Hall of Fame.</description>
-      <pubDate>Fri, 06 Nov 2026 18:07:15 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/1ce46b856480a31de611cbde93984aec</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Rugby gives a young U.S. Olympian a place to belong</title>
-      <link>https://www.washingtonpost.com/sports/olympics/2026/11/06/youth-olympics-womens-rugby-ilona-maher/c7582dd6-d9af-11f1-930a-e08f8086f5ac_story.html</link>
-      <description>Fifteen-year-old Eseta Moala says rugby transformed the size that once made sports clothes uncomfortable into a source of strength. Inspired by U.S. star Ilona Maher, Moala joined her sister Luisa on the American rugby sevens team at the Youth Olympics in Dakar—and received a personal video from Maher.</description>
-      <pubDate>Fri, 06 Nov 2026 10:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.washingtonpost.com/sports/olympics/2026/11/06/youth-olympics-womens-rugby-ilona-maher/c7582dd6-d9af-11f1-930a-e08f8086f5ac_story.html</guid>
-      <source url="https://www.washingtonpost.com/">The Washington Post</source>
     </item>
 
 </channel>

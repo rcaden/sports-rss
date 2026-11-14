@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Daniel Pinkwater’s 85th birthday invites a trip through his 500-episode archive</title>
+      <link>https://pinkwater.com/podcast-archive/</link>
+      <description>Daniel Pinkwater turns 85 on November 15, 2026. His official site preserves more than 500 podcast episodes made from 2007 through 2017: complete and serialized readings, unpublished stories, interviews, listener questions and assorted comic detours. It is a unusually deep free archive of a writer whose work straddles children’s books, comics, radio and eccentric speculative fiction.</description>
+      <pubDate>Sat, 14 Nov 2026 13:44:55 GMT</pubDate>
+      <guid isPermaLink="true">https://pinkwater.com/podcast-archive/</guid>
+      <source url="https://pinkwater.com/">Daniel Pinkwater</source>
+    </item>
+    <item>
+      <title>A 398th Bomb Group crew page identifies Byron Hughes aboard the Black Widow</title>
+      <link>https://ww.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</link>
+      <description>The 398th Bomb Group Memorial Association identifies 2nd Lt. Byron R. Hughes Jr. as navigator in James Mitchell’s 601st Squadron crew photo. Its notes reconstruct the January 20, 1945 loss of B-17G 43-37889, the Black Widow: flak near Mannheim, pilot Mitchell staying at the controls, and the crew’s bailout and capture.</description>
+      <pubDate>Sat, 14 Nov 2026 13:44:55 GMT</pubDate>
+      <guid isPermaLink="true">https://ww.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</guid>
+      <source url="https://www.398th.org/">398th Bomb Group Memorial Association</source>
+    </item>
+    <item>
+      <title>St. Augustine’s Living History Saunter turns St. George Street into a timeline</title>
+      <link>https://www.floridashistoriccoast.com/events/living-history-saunter/</link>
+      <description>Historic Florida Militia interpreters gather on St. George Street from 5:30 to 8:30 p.m. on November 14 for a free walk through St. Augustine’s colonial eras. Participants portray soldiers, sailors, settlers and tradespeople from the city’s Spanish and British periods, giving local history a human scale beyond museum cases and plaques.</description>
+      <pubDate>Sat, 14 Nov 2026 13:44:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.floridashistoriccoast.com/events/living-history-saunter/</guid>
+      <source url="https://www.floridashistoriccoast.com/">Florida’s Historic Coast</source>
+    </item>
     <item>
       <title>A 1997 Washington Post review finds the Gilgamesh inside How Like a God</title>
       <link>https://brendaclough.net/washpost.htm</link>
@@ -104,30 +128,6 @@
       <pubDate>Wed, 04 Nov 2026 23:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</guid>
       <source url="https://flpublicarchaeology.org/">Florida Public Archaeology Network</source>
-    </item>
-    <item>
-      <title>The earlier St. Augustine Zero Milestone hides in plain sight</title>
-      <link>https://publichumanities.omeka.net/items/show/361</link>
-      <description>A public-history record documents the older coquina-sphere Zero Milestone for the Old Spanish Trail, including a photograph and its location near St. Augustine&apos;s visitor center. The modest marker is distinct from the taller 1928 monument and helps untangle the site&apos;s layered roadside history.</description>
-      <pubDate>Fri, 06 Aug 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://publichumanities.omeka.net/items/show/361</guid>
-      <source url="https://publichumanities.omeka.net/">Public Humanities</source>
-    </item>
-    <item>
-      <title>Brenda W. Clough&apos;s papers document a novelist&apos;s full working process</title>
-      <link>https://aspace.lib.uiowa.edu/repositories/2/resources/3286</link>
-      <description>The University of Iowa&apos;s new finding aid covers 27 boxes of Brenda W. Clough manuscripts, proofs, research, maps, reviews, photographs and Worldcon correspondence. Drafts and supporting material trace books from initial handwriting through publication, while the collection&apos;s copyright terms distinguish research access from republication.</description>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0500</pubDate>
-      <guid isPermaLink="true">https://aspace.lib.uiowa.edu/repositories/2/resources/3286</guid>
-      <source url="https://aspace.lib.uiowa.edu/">University of Iowa Libraries</source>
-    </item>
-    <item>
-      <title>Java architects answer practical questions about the platform&apos;s direction</title>
-      <link>https://inside.java/2026/11/05/podcast-074/</link>
-      <description>A recorded Devoxx session brings Java architects together for audience questions on virtual-thread scheduling, deprecations, modules, memory-layout inspection, primitive specialization, string templates, construction rules and automatic heap sizing. The show notes link directly to related talks for deeper follow-up.</description>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://inside.java/2026/11/05/podcast-074/</guid>
-      <source url="https://inside.java/">Inside.java</source>
     </item>
 
 </channel>

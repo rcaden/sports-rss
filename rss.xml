@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Nationwide ground stop scrambles weekend sports travel</title>
+      <link>https://apnews.com/article/091ecf4f82a6158473357feeb05cf593</link>
+      <description>A four-hour FAA ground stop forced teams across college football, the NBA, NHL and women’s basketball to improvise. No. 19 Mississippi’s game at Oklahoma moved to Sunday; Auburn and Purdue switched to buses; several kickoffs shifted; and Cleveland planned to land only eight hours before facing Dallas.</description>
+      <pubDate>Fri, 13 Nov 2026 23:14:06 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/091ecf4f82a6158473357feeb05cf593</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>IIHF challenges ruling that reinstated Russian teams</title>
+      <link>https://www.reuters.com/sports/ice-hockey-iihf-files-challenge-with-cas-over-decision-reinstate-russia-media-2026-11-14/</link>
+      <description>The International Ice Hockey Federation challenged a Court of Arbitration for Sport order admitting Russian teams to five tournaments, according to The Athletic and TSN. The challenge reportedly says two panel members failed to disclose Russian ties. Canada also says it will bar Russian participants from the World Juniors.</description>
+      <pubDate>Sat, 14 Nov 2026 00:28:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/ice-hockey-iihf-files-challenge-with-cas-over-decision-reinstate-russia-media-2026-11-14/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>NC State brings Philip Rivers home as head coach</title>
+      <link>https://gopack.com/news/2026/11/13/rivers-named-head-coach-for-nc-state-football</link>
+      <description>NC State hired former Wolfpack and NFL quarterback Philip Rivers to lead its football program. Rivers set ACC career records for passing yards, completions and attempts from 2000–03, but enters the college job without prior coaching experience at that level. The university plans to introduce him Monday.</description>
+      <pubDate>Fri, 13 Nov 2026 13:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://gopack.com/news/2026/11/13/rivers-named-head-coach-for-nc-state-football</guid>
+      <source url="https://gopack.com/">NC State Athletics</source>
+    </item>
     <item>
       <title>Alvarez and Crow-Armstrong sweep unanimous MLB MVP votes</title>
       <link>https://www.mlb.com/news/2026-mlb-mvp-award-winners</link>
@@ -103,30 +127,6 @@
       <description>Connor McDavid scored in Edmonton&apos;s 3-1 win over the Rangers, extending his season-opening point streak to 19 games. His assist streak ended at 18 games, tied with Adam Oates for the second-longest in NHL history behind Wayne Gretzky&apos;s 23-game run.</description>
       <pubDate>Tue, 10 Nov 2026 07:12:39 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Bengals win in Madrid to pull even atop AFC North</title>
-      <link>https://www.reuters.com/sports/nfl-roundup-bengals-rout-falcons-madrid-tie-afc-north-lead--flm-2026-11-09/</link>
-      <description>Joe Burrow threw three touchdown passes and ran for another as Cincinnati beat Atlanta 34-17 in the NFL&apos;s second Madrid game. Ja&apos;Marr Chase had 10 catches for 155 yards, and the Bengals&apos; fourth straight victory moved them to 6-2 and into a tie with Pittsburgh atop the AFC North.</description>
-      <pubDate>Mon, 09 Nov 2026 00:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl-roundup-bengals-rout-falcons-madrid-tie-afc-north-lead--flm-2026-11-09/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Carlos Alcaraz captures his first Paris Masters title</title>
-      <link>https://www.reuters.com/sports/tennis/alcaraz-beats-error-prone-shelton-win-paris-masters-2026-11-08/</link>
-      <description>Carlos Alcaraz beat Ben Shelton 7-6(5), 7-5 to win the Paris Masters on his sixth attempt. The world No. 3 avenged his U.S. Open loss to Shelton, became the first Spanish champion in Paris since David Ferrer in 2012 and collected his ninth ATP 1000 title.</description>
-      <pubDate>Sun, 08 Nov 2026 16:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/alcaraz-beats-error-prone-shelton-win-paris-masters-2026-11-08/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Mercedes clinches Formula One constructors&apos; title in wet Brazil</title>
-      <link>https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/</link>
-      <description>Mercedes secured its ninth Formula One constructors&apos; championship at a rain-soaked São Paulo Grand Prix, completing a title double one week after Kimi Antonelli won the drivers&apos; crown. Lando Norris won the race for McLaren, while Max Verstappen charged from 21st on the grid to finish second.</description>
-      <pubDate>Sun, 08 Nov 2026 18:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/norris-wins-brazil-mercedes-take-constructors-title-2026-11-08/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
 

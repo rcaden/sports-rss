@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:44:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>USMNT overwhelms Haiti in Pochettino’s penultimate match</title>
+      <link>https://www.ussoccer.com/stories/2026/11/usmnt-vs-haiti-match-recap-highlights-concacaf-nations-league-miami-florida</link>
+      <description>Christian Pulisic scored twice as the United States beat Haiti 6-0 in Miami in the first leg of their Concacaf Nations League quarterfinal. Five goals came after halftime, giving Mauricio Pochettino a commanding advantage before his final scheduled match as U.S. coach.</description>
+      <pubDate>Sun, 15 Nov 2026 00:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ussoccer.com/stories/2026/11/usmnt-vs-haiti-match-recap-highlights-concacaf-nations-league-miami-florida</guid>
+      <source url="https://www.ussoccer.com/">U.S. Soccer</source>
+    </item>
+    <item>
+      <title>No. 2 Utah survives Arizona on late 70-yard touchdown</title>
+      <link>https://d2um8593lh23fa.cloudfront.net/news/2026/11/15/football-dampier-leads-no-2-utah-past-no-23-arizona-as-utes-stay-unbeaten</link>
+      <description>Devon Dampier hit Larry Whittemore for a 70-yard touchdown with 2:25 left, lifting Utah past Arizona 40-39. Daniel Bray ran for 197 yards, and the Utes improved to 10-0, their first such start under a first-year head coach.</description>
+      <pubDate>Sun, 15 Nov 2026 06:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://d2um8593lh23fa.cloudfront.net/news/2026/11/15/football-dampier-leads-no-2-utah-past-no-23-arizona-as-utes-stay-unbeaten</guid>
+      <source url="https://utahutes.com/">Utah Athletics</source>
+    </item>
+    <item>
+      <title>McDavid reaches 50 points as Levi blanks Toronto</title>
+      <link>https://www.nhl.com/oilers/news/edmonton-oilers-toronto-maple-leafs-game-recap-november-14-2026-x1781</link>
+      <description>Connor McDavid extended his season-opening point streak to 21 games and reached 50 points as Edmonton beat Toronto 1-0. Devon Levi recorded his first NHL shutout, while the Maple Leafs absorbed a sixth consecutive home loss.</description>
+      <pubDate>Sun, 15 Nov 2026 03:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.nhl.com/oilers/news/edmonton-oilers-toronto-maple-leafs-game-recap-november-14-2026-x1781</guid>
+      <source url="https://www.nhl.com/">NHL.com</source>
+    </item>
     <item>
       <title>Nationwide ground stop scrambles weekend sports travel</title>
       <link>https://apnews.com/article/091ecf4f82a6158473357feeb05cf593</link>
@@ -103,30 +127,6 @@
       <description>Alex Ovechkin set up Cole Hutson’s overtime goal in Washington’s 3-2 win at Ottawa, giving him 762 assists and a share of Nicklas Backstrom’s franchise record. The 20-year-old Hutson also assisted on the tying goal before scoring his first NHL overtime winner.</description>
       <pubDate>Wed, 11 Nov 2026 03:11:19 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>College Football Playoff expands to 24 teams in 2027</title>
-      <link>https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion</link>
-      <description>The CFP unanimously approved a 24-team field beginning in 2027-28, with first-round byes for the top eight seeds and 16 games played on campuses. ESPN will retain worldwide rights through 2031-32. The current 12-team format remains in place this season.</description>
-      <pubDate>Mon, 09 Nov 2026 16:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/9/24-team-expansion</guid>
-      <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
-    </item>
-    <item>
-      <title>Cooper Flagg joins elite teenage company with 43-point night</title>
-      <link>https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/</link>
-      <description>Cooper Flagg scored 43 points with 10 rebounds and six assists as Dallas rallied past Indiana 125-122. The 19-year-old became only the second teenager in NBA history to produce at least 40 points, 10 rebounds and five assists in a game.</description>
-      <pubDate>Tue, 10 Nov 2026 06:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-cooper-flagg-becomes-second-teen-with-40-10-5-game--flm-2026-11-10/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>McDavid extends point streak as historic assist run ends</title>
-      <link>https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</link>
-      <description>Connor McDavid scored in Edmonton&apos;s 3-1 win over the Rangers, extending his season-opening point streak to 19 games. His assist streak ended at 18 games, tied with Adam Oates for the second-longest in NHL history behind Wayne Gretzky&apos;s 23-game run.</description>
-      <pubDate>Tue, 10 Nov 2026 07:12:39 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/connor-mcdavids-assist-streak-ends-oilers-defeat-rangers--flm-2026-11-10/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
 

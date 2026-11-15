@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:44:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Pep Comics archive pinpoints the Press Guardian’s public-domain run</title>
+      <link>https://onlinebooks.library.upenn.edu/webbin/serial?id=pepcomics</link>
+      <description>The University of Pennsylvania’s serial archive identifies Pep Comics issues available online and notes that the first copyright-renewed issue is No. 74, dated March 1949. Paired with Grand Comics Database indexes, it provides a practical starting point for tracing Perry Chase’s Press Guardian stories through the public-domain years.</description>
+      <pubDate>Mon, 01 Jan 1940 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://onlinebooks.library.upenn.edu/webbin/serial?id=pepcomics</guid>
+      <source url="https://onlinebooks.library.upenn.edu/">The Online Books Page</source>
+    </item>
+    <item>
+      <title>R.C. Harvey traces Bringing Up Father from Jiggs to its final strip</title>
+      <link>https://www.tcj.com/bringing-up-father-and-the-rest-of-the-comic-page/</link>
+      <description>R.C. Harvey’s illustrated history follows George McManus from early newspaper features to Bringing Up Father, explaining the immigrant-class comedy behind Jiggs and Maggie. It fixes the strip’s debut at January 2, 1913, and records its uninterrupted run through May 28, 2000.</description>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tcj.com/bringing-up-father-and-the-rest-of-the-comic-page/</guid>
+      <source url="https://www.tcj.com/">The Comics Journal</source>
+    </item>
+    <item>
+      <title>Jacksonville library opens a century of local newspapers to home researchers</title>
+      <link>https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</link>
+      <description>Jacksonville Public Library expanded online access to three local newspaper archives: the Florida Times-Union from 1883 onward, the Beaches Leader from 1963, and the Jacksonville Journal from 1901 to 1988. Library cardholders can search the collections remotely.</description>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</guid>
+      <source url="https://jaxpubliclibrary.org/">Jacksonville Public Library</source>
+    </item>
     <item>
       <title>Daniel Pinkwater’s 85th birthday invites a trip through his 500-episode archive</title>
       <link>https://pinkwater.com/podcast-archive/</link>
@@ -104,30 +128,6 @@
       <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
       <guid isPermaLink="true">https://digitalcomicmuseum.com/index.php?cid=3</guid>
       <source url="https://digitalcomicmuseum.com/">Digital Comic Museum</source>
-    </item>
-    <item>
-      <title>Copyright Office digitizes 25,238 historical record books</title>
-      <link>https://copyright.gov/newsnet/2026/1099.html</link>
-      <description>The newly completed collection holds more than 21.7 million images of applications and other records dating from 1870 to 1977. It offers a powerful new trail for researching ownership, registrations and copyright archaeology, with individual-record search planned for a future system update.</description>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://copyright.gov/newsnet/2026/1099.html</guid>
-      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
-    </item>
-    <item>
-      <title>Reedsy relaunches Discovery as a paid review service for indie authors</title>
-      <link>https://selfpublishingadvice.org/reedsy-relaunches-discovery/</link>
-      <description>Reedsy Discovery now offers a 350-word editorial review for $299, charged when a reviewer accepts the book, with delivery promised within 30 days. The Alliance of Independent Authors examines the service as a lower-cost rival to Kirkus while noting that Reedsy is an ALLi partner.</description>
-      <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://selfpublishingadvice.org/reedsy-relaunches-discovery/</guid>
-      <source url="https://selfpublishingadvice.org/">Self-Publishing Advice Center</source>
-    </item>
-    <item>
-      <title>Kathleen Deagan surveys nearly a century of St. Augustine archaeology</title>
-      <link>https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</link>
-      <description>For the St. Augustine Archaeological Association&apos;s 40th anniversary, archaeologist Kathleen Deagan traced the city&apos;s research tradition from the 1930s through 2026. The program highlights the people, excavations and public policies that made St. Augustine unusually strong in both professional and community archaeology.</description>
-      <pubDate>Wed, 04 Nov 2026 23:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://arbg.flpublicarchaeology.org/events/saaa-talk-st-aug-retrospect-kathy-deagan/</guid>
-      <source url="https://flpublicarchaeology.org/">Florida Public Archaeology Network</source>
     </item>
 
 </channel>

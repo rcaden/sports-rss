@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 13:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:44:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Brighton couple turn grimy road signs into a daily public service</title>
+      <link>https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/</link>
+      <description>Paul and Ruth Richmond-Watson began scrubbing hard-to-read street signs around Brighton, England, after looking for a hobby they could share. The newlyweds now clean at least one sign a day with their own equipment and hope eventually to take the project across Britain.</description>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Diaries reveal the Guernsey shopkeeper who hid Allied commandos</title>
+      <link>https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/</link>
+      <description>Family diaries have brought renewed attention to Ada Le Poidevin, who sheltered three British soldiers left behind after a 1940 raid on Nazi-occupied Guernsey. The account, emerging four decades after her death, adds an intimate chapter to the island’s wartime history.</description>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/</guid>
+      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
+    </item>
+    <item>
+      <title>Two horses briefly take a Detroit city bus</title>
+      <link>https://apnews.com/article/5b755a5181b24433384e3de6e8fe8245</link>
+      <description>A Detroit bus driver made an unusual stop when two riders led their horses through the front door, stood with them aboard and then exited. The riders were connected to Urban City Cowboys, which was holding a fundraiser; the city said the episode would become a safety-training lesson.</description>
+      <pubDate>Fri, 13 Nov 2026 20:04:15 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/5b755a5181b24433384e3de6e8fe8245</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
     <item>
       <title>Martin Luther King Jr.’s lost handwritten speech draft resurfaces</title>
       <link>https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://beavertrust.org/historic-return-of-beavers-to-waters-around-loch-ness/</guid>
       <source url="https://beavertrust.org/">Beaver Trust</source>
-    </item>
-    <item>
-      <title>Rehabilitated bald eagle takes flight over North Carolina Zoo</title>
-      <link>https://www.randolphhub.com/article/news/wildlife-rehab-center-celebrates-25-years-with-release-of-healed-eagle</link>
-      <description>A four-year-old female bald eagle found barely responsive at a landfill in September returned to the wild after nearly two months of care. Her Nov. 4 flight over the North Carolina Zoo&apos;s lake also marked the 25th anniversary of its wildlife rehabilitation center.</description>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.randolphhub.com/article/news/wildlife-rehab-center-celebrates-25-years-with-release-of-healed-eagle</guid>
-      <source url="https://www.randolphhub.com/">Randolph Hub</source>
-    </item>
-    <item>
-      <title>Volunteers plant nearly 500 pines in New Mexico burn scar</title>
-      <link>https://www.koat.com/article/hundreds-of-trees-planted-in-hermits-peakcalf-canyon-burn-scars/74368461</link>
-      <description>Volunteers, the Rocky Mountain Youth Corps and the Los Vigiles Land Grant have planted nearly 500 ponderosa pine seedlings in the Hermit&apos;s Peak-Calf Canyon burn area since October. Crews hope to put another 500 in the ground before winter.</description>
-      <pubDate>Sun, 08 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.koat.com/article/hundreds-of-trees-planted-in-hermits-peakcalf-canyon-burn-scars/74368461</guid>
-      <source url="https://www.koat.com/">KOAT</source>
-    </item>
-    <item>
-      <title>Georgia eighth-grader wins cheer competition as a squad of one</title>
-      <link>https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</link>
-      <description>When the rest of her squad dropped out, eighth-grader Jorgia Walls performed alone at a Georgia cheer competition. She completed the routine before hundreds of spectators and won first place, turning an unexpected setback into an exuberant solo victory.</description>
-      <pubDate>Sun, 08 Nov 2026 00:02:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.yahoo.com/news/videos/cheerleader-performs-triumphant-solo-routine-000214598.html</guid>
-      <source url="https://www.nbcnews.com/">NBC News</source>
     </item>
 
 </channel>

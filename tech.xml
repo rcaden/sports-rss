@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>WordPress 7.2 introduces a standard Secrets API</title>
+      <link>https://make.wordpress.org/core/2026/11/11/the-secrets-api-in-wordpress-7-2/</link>
+      <description>WordPress 7.2 will give core, plugins and hosts a common way to store credentials encrypted at rest. The API supports rotation, versioned values and a host-provided drop-in, while self-hosted installations must define WP_SECRETS_KEY before secrets can be saved.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://make.wordpress.org/core/2026/11/11/the-secrets-api-in-wordpress-7-2/</guid>
+      <source url="https://make.wordpress.org/core/">WordPress Core</source>
+    </item>
+    <item>
+      <title>The Bulwark and Vox Media form broad current-affairs partnership</title>
+      <link>https://www.voxmedia.com/2026/11/11/the-bulwark-and-vox-media-form-partnership-creating-top-slate-of-current-affairs-programming/</link>
+      <description>Vox Media will handle advertising, podcast hosting and cross-promotion for The Bulwark under a partnership promising nearly 200 hours of current-affairs programming each month in 2027. The deal joins a growing independent political newsroom with Vox’s distribution and sales infrastructure.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.voxmedia.com/2026/11/11/the-bulwark-and-vox-media-form-partnership-creating-top-slate-of-current-affairs-programming/</guid>
+      <source url="https://www.voxmedia.com/">Vox Media</source>
+    </item>
+    <item>
+      <title>Atmosphere cooperative organizes builders around the open social web</title>
+      <link>https://blog.atmosphere.community/a/3mzzn77fgy623-introducing-the-atmosphere-community-cooperative</link>
+      <description>Developers, organizers and artists have launched the Atmosphere Community Cooperative to build shared tools, services and community around AT Protocol. Its member-governed structure is an experiment in giving the people who create an interoperable social ecosystem a direct stake in its direction.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blog.atmosphere.community/a/3mzzn77fgy623-introducing-the-atmosphere-community-cooperative</guid>
+      <source url="https://blog.atmosphere.community/">Atmosphere Community</source>
+    </item>
     <item>
       <title>Podnews maps podcast apps by open feature support</title>
       <link>https://podnews.net/article/new-podcast-apps</link>
@@ -104,30 +128,6 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://wordpress.org/news/2026/11/wc-asia-2027-penang/</guid>
       <source url="https://wordpress.org/news/">WordPress News</source>
-    </item>
-    <item>
-      <title>WordPress 7.2 Beta 5 resolves known PHP 8.6 compatibility issues</title>
-      <link>https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/</link>
-      <description>The final beta before release candidates adds security, accessibility and compatibility fixes, including application-password notifications and better keyboard navigation. WordPress says all known core conflicts with PHP 8.6 are resolved, though plugin and theme testing remains essential before the Dec. 8 release.</description>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-beta-5/</guid>
-      <source url="https://wordpress.org/news/">WordPress News</source>
-    </item>
-    <item>
-      <title>Message Heard enters liquidation after cutting staff and freelancers</title>
-      <link>https://podnews.net/article/message-heard-voluntary-liquidation</link>
-      <description>Podnews reports that the UK podcast producer has made staff redundant, ended 14 freelance contracts and entered voluntary liquidation. Multiple contributors say they are owed money, while the company’s history show Conflicted stopped publishing in October without a formal finale.</description>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/article/message-heard-voluntary-liquidation</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>Remote local newsrooms save rent but lose institutional memory</title>
-      <link>https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/</link>
-      <description>A Northwestern Local News Initiative report examines what vanishes when publications give up shared offices: informal training, collaboration and knowledge passed between generations. Nieman Lab lists more than a dozen U.S. papers that have gone remote or sharply downsized since 2020.</description>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
 
 </channel>

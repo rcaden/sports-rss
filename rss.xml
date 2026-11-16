@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Cousins wins Minnesota return as Vikings rout Packers</title>
+      <link>https://www.reuters.com/sports/nfl/kirk-cousins-guides-vikings-big-win-over-packers-minnesota-return--flm-2026-11-15/</link>
+      <description>Kirk Cousins threw two touchdown passes in his first game back with Minnesota, and the Vikings beat Green Bay 30-10. Minnesota’s defense produced eight sacks and four takeaways, completing a season sweep of the Packers and creating a three-way tie atop the NFC North.</description>
+      <pubDate>Sun, 15 Nov 2026 21:25:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/kirk-cousins-guides-vikings-big-win-over-packers-minnesota-return--flm-2026-11-15/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Andreeva completes unbeaten run to win WTA Finals debut</title>
+      <link>https://www.reuters.com/sports/tennis/unbeaten-andreeva-captures-wta-finals-crown-debut-2026-11-15/</link>
+      <description>Mirra Andreeva defeated Elina Svitolina 7-5, 6-3 to win the WTA Finals in her first appearance. The 19-year-old went unbeaten and did not drop a set in five matches, adding the season-ending championship to a breakthrough year.</description>
+      <pubDate>Sun, 15 Nov 2026 22:09:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/unbeaten-andreeva-captures-wta-finals-crown-debut-2026-11-15/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Edmonton wins record 15th Grey Cup in six-lead-change thriller</title>
+      <link>https://www.cfl.prod.s.cfl.ca/article/elks-top-alouettes-to-capture-113th-grey-cup</link>
+      <description>Cody Fajardo threw two touchdown passes and ran for two more as the Edmonton Elks beat Montreal 37-30 in the 113th Grey Cup. The game featured six lead changes; Edmonton claimed its record 15th CFL championship and first since 2015.</description>
+      <pubDate>Mon, 16 Nov 2026 03:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.cfl.prod.s.cfl.ca/article/elks-top-alouettes-to-capture-113th-grey-cup</guid>
+      <source url="https://www.cfl.ca/">Canadian Football League</source>
+    </item>
     <item>
       <title>USMNT overwhelms Haiti in Pochettino’s penultimate match</title>
       <link>https://www.ussoccer.com/stories/2026/11/usmnt-vs-haiti-match-recap-highlights-concacaf-nations-league-miami-florida</link>
@@ -103,30 +127,6 @@
       <description>U.S. Soccer pulled its boys’ national team from the 48-team tournament in Qatar, which is scheduled for Nov. 19 through Dec. 13. A letter to players cited current safety circumstances, making the Americans a late withdrawal from one of FIFA’s largest youth events.</description>
       <pubDate>Wed, 11 Nov 2026 23:25:05 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>NFL trade deadline reshapes contenders with Cousins, Allen and Downs deals</title>
-      <link>https://www.reuters.com/sports/nfl-trade-deadline-roundup-kirk-cousins-keenan-allen-join-contenders--flm-2026-11-11/</link>
-      <description>The Vikings reacquired Kirk Cousins from Las Vegas for a 2027 third-round pick, while San Francisco added Keenan Allen and Kansas City acquired Josh Downs. Buffalo, Denver and other contenders also made moves before Tuesday’s deadline, giving several playoff races a late-season jolt.</description>
-      <pubDate>Wed, 11 Nov 2026 04:47:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl-trade-deadline-roundup-kirk-cousins-keenan-allen-join-contenders--flm-2026-11-11/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Georgia leads second CFP ranking as Notre Dame surges to No. 5</title>
-      <link>https://collegefootballplayoff.com/news/2026/11/10/rankings</link>
-      <description>Georgia remained No. 1 in the committee’s second ranking, followed by Utah, Alabama and UCLA. Notre Dame made the biggest move near the top, jumping six places to No. 5, while Miami slipped to No. 7. The ranking begins to clarify the race for the expanded postseason field.</description>
-      <pubDate>Wed, 11 Nov 2026 02:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://collegefootballplayoff.com/news/2026/11/10/rankings</guid>
-      <source url="https://collegefootballplayoff.com/">College Football Playoff</source>
-    </item>
-    <item>
-      <title>Ovechkin ties Capitals assist record on Hutson’s overtime winner</title>
-      <link>https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</link>
-      <description>Alex Ovechkin set up Cole Hutson’s overtime goal in Washington’s 3-2 win at Ottawa, giving him 762 assists and a share of Nicklas Backstrom’s franchise record. The 20-year-old Hutson also assisted on the tying goal before scoring his first NHL overtime winner.</description>
-      <pubDate>Wed, 11 Nov 2026 03:11:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nhl/cole-hutsons-ot-goal-lifts-capitals-past-senators--flm-2026-11-11/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
 

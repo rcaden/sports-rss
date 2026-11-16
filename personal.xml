@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Inside Hollywood’s surviving temple to movie books and scripts</title>
+      <link>https://secretlosangeles.com/larry-edmunds-bookshop-la-hollywood-cinema-archive/</link>
+      <description>Larry Edmunds Bookshop has served film obsessives since 1938, stocking movie histories, biographies, vintage scripts, posters and photographs. This tour of the restored neon-lit Hollywood institution is a useful companion to any search for the vanished specialty bookstores that once made screenplays easy to browse.</description>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://secretlosangeles.com/larry-edmunds-bookshop-la-hollywood-cinema-archive/</guid>
+      <source url="https://secretlosangeles.com/">Secret Los Angeles</source>
+    </item>
+    <item>
+      <title>How SendGrid turns incoming email into an application webhook</title>
+      <link>https://sendgrid.com/en-us/blog/learn-how-to-accept-incoming-email-to-rails-apps-via-sendgrids-parse-api</link>
+      <description>SendGrid’s Inbound Parse feature accepts mail addressed to a configured subdomain and posts the parsed headers, text, HTML and attachments to an application URL. The walkthrough uses Rails, but the DNS and webhook pattern applies to any web stack that needs to receive email rather than merely send it.</description>
+      <pubDate>Mon, 06 May 2013 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sendgrid.com/en-us/blog/learn-how-to-accept-incoming-email-to-rails-apps-via-sendgrids-parse-api</guid>
+      <source url="https://sendgrid.com/">SendGrid</source>
+    </item>
+    <item>
+      <title>The practical differences between iPhone 15 Pro and Pro Max</title>
+      <link>https://www.macrumors.com/guide/iphone-15-pro-vs-15-pro-max/0/</link>
+      <description>Both 2023 Pro models share the A17 Pro chip, titanium frame and USB-C, but the Max has a 6.7-inch display, longer battery life and 5x telephoto lens. The smaller Pro is lighter, uses a 6.1-inch screen and has 3x optical zoom; storage also starts at 128GB instead of 256GB.</description>
+      <pubDate>Tue, 19 Sep 2023 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.macrumors.com/guide/iphone-15-pro-vs-15-pro-max/0/</guid>
+      <source url="https://www.macrumors.com/">MacRumors</source>
+    </item>
     <item>
       <title>Pep Comics archive pinpoints the Press Guardian’s public-domain run</title>
       <link>https://onlinebooks.library.upenn.edu/webbin/serial?id=pepcomics</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 09 Oct 2026 10:41:00 GMT</pubDate>
       <guid isPermaLink="true">https://packagist.org/packages/laminas/laminas-xmlrpc</guid>
       <source url="https://packagist.org/">Packagist</source>
-    </item>
-    <item>
-      <title>Grand Comics Database maps the complete Marvel Hostess ad run</title>
-      <link>https://www.comics.org/series/24886/details/timeline/</link>
-      <description>The Grand Comics Database timeline turns Marvel’s 1975–81 Hostess ads into a browsable chronology, with issue-level credits and publication details. It is a practical reference for tracing the one-page adventures, checking disputed dates and identifying which comic books carried each snack-cake rescue.</description>
-      <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.comics.org/series/24886/details/timeline/</guid>
-      <source url="https://www.comics.org/">Grand Comics Database</source>
-    </item>
-    <item>
-      <title>St. Johns County Clerk opens a useful trail through public records</title>
-      <link>https://stjohnsclerk.com/online-resources/</link>
-      <description>The clerk’s online-resources hub links court records, Official Records, commission documents and property-related filings in one place. For local-history or homeowners-association research, it is a direct route to recorded covenants, amendments, plats and meeting records without relying on secondary summaries.</description>
-      <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
-      <guid isPermaLink="true">https://stjohnsclerk.com/online-resources/</guid>
-      <source url="https://stjohnsclerk.com/">St. Johns County Clerk of the Circuit Court and County Comptroller</source>
-    </item>
-    <item>
-      <title>Digital Comic Museum’s Fawcett archive makes Golden Age issues searchable</title>
-      <link>https://digitalcomicmuseum.com/index.php?cid=3</link>
-      <description>Digital Comic Museum gathers downloadable scans of public-domain Fawcett comics across Captain Marvel, western, humor and romance titles. The publisher index is especially useful for copyright archaeology because it exposes issue runs, dates and scan provenance while making hard-to-find material available for close comparison.</description>
-      <pubDate>Wed, 11 Nov 2026 13:53:19 GMT</pubDate>
-      <guid isPermaLink="true">https://digitalcomicmuseum.com/index.php?cid=3</guid>
-      <source url="https://digitalcomicmuseum.com/">Digital Comic Museum</source>
     </item>
 
 </channel>

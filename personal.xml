@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>How to read a publisher royalty statement and its reserves</title>
+      <link>https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</link>
+      <description>Cornell University Press explains the columns authors encounter on royalty statements, including sales, returns, prior balances and reserves against future returns. Particularly useful is its distinction between the reserve withheld this period and reserves from earlier periods that have now been released.</description>
+      <pubDate>Tue, 27 May 2025 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</guid>
+      <source url="https://www.cornellpress.cornell.edu/">Cornell University Press</source>
+    </item>
+    <item>
+      <title>Why the 1984 Lensman anime remains trapped in rights limbo</title>
+      <link>https://www.animenation.net/blog/ask-john-will-the-lensman-anime-ever-be-re-released/</link>
+      <description>This history traces the licensing problems behind the vanished Lensman film and television series. It reports that Harmony Gold never finalized its U.S. license, Streamline withdrew its releases after the Smith estate threatened legal action, and any revival would require negotiations whose cost may exceed the small vintage-anime market.</description>
+      <pubDate>Thu, 18 Jul 2013 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.animenation.net/blog/ask-john-will-the-lensman-anime-ever-be-re-released/</guid>
+      <source url="https://www.animenation.net/">AnimeNation</source>
+    </item>
+    <item>
+      <title>Copyright Office finishes digitizing 26,000 historical record books</title>
+      <link>https://www.copyright.gov/newsnet/2026/1099.html?loclr=twcop</link>
+      <description>The U.S. Copyright Office has completed digitization of more than 26,000 record books containing registrations, assignments, notices and other documents from 1870 through 1977. The images are available in a Library of Congress preview collection, with searchable metadata planned for the Copyright Public Records System.</description>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1099.html?loclr=twcop</guid>
+      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+    </item>
     <item>
       <title>Inside Hollywood’s surviving temple to movie books and scripts</title>
       <link>https://secretlosangeles.com/larry-edmunds-bookshop-la-hollywood-cinema-archive/</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
       <guid isPermaLink="true">https://www.archives.gov/research/military/ww2/electronic-records.html</guid>
       <source url="https://www.archives.gov/">National Archives</source>
-    </item>
-    <item>
-      <title>The 398th Bomb Group identifies the Black Widow crew and its final mission</title>
-      <link>https://www.m.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</link>
-      <description>The 398th Bomb Group Memorial Association pairs a crew photograph with the account of B-17G 43-37889, flown on its last mission by James Mitchell’s crew on Jan. 20, 1945. The page names the airmen, explains the crash near Mechtersheim and links the record to MACR 11797.</description>
-      <pubDate>Thu, 12 Nov 2026 13:54:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.m.398th.org/Images/Images_Crews/Text/Flight/Mitchell_601_Late1944.html</guid>
-      <source url="https://www.398th.org/">398th Bomb Group Memorial Association</source>
-    </item>
-    <item>
-      <title>Cirsova Magazine closed to submissions after a decade-long run</title>
-      <link>https://duotrope.com/magazine/cirsova-magazine-19913</link>
-      <description>Duotrope’s archived listing records Cirsova as permanently closed to submissions in September 2026. The page preserves its market profile—quarterly print publication, sword-and-planet and heroic fantasy focus, 2,000–7,500-word fiction range and semi-professional pay—making it a useful snapshot of the magazine’s final operating model.</description>
-      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://duotrope.com/magazine/cirsova-magazine-19913</guid>
-      <source url="https://duotrope.com/">Duotrope</source>
-    </item>
-    <item>
-      <title>Laminas XML-RPC 3.1.1 keeps a mature protocol current on PHP 8.5</title>
-      <link>https://packagist.org/packages/laminas/laminas-xmlrpc</link>
-      <description>The Oct. 9 release provides maintained XML-RPC client and server support for PHP 8.2 through 8.5, including value marshalling, faults and introspection. Packagist shows more than 2.6 million installs and 20 dependent packages, evidence that the protocol still has a practical modern footprint.</description>
-      <pubDate>Fri, 09 Oct 2026 10:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://packagist.org/packages/laminas/laminas-xmlrpc</guid>
-      <source url="https://packagist.org/">Packagist</source>
     </item>
 
 </channel>

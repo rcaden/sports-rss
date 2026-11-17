@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Buffett donates another $5.5 billion to family foundations</title>
+      <link>https://www.berkshirehathaway.com/news/nov1626.pdf</link>
+      <description>Warren Buffett converted 1,800 Berkshire Hathaway Class A shares and donated the resulting stock, worth roughly $5.5 billion, to four family foundations. His Thanksgiving letter again urged readers to practice kindness, arguing that goodness grows when it is shared.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.berkshirehathaway.com/news/nov1626.pdf</guid>
+      <source url="https://www.berkshirehathaway.com/">Berkshire Hathaway</source>
+    </item>
+    <item>
+      <title>Millions of red crabs begin Christmas Island migration</title>
+      <link>https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/</link>
+      <description>Christmas Island’s annual red-crab migration is underway, sending millions of bright crustaceans from the forest toward the sea. The national park has opened bridges and road crossings for the travelers and is carrying live video of the spectacle for viewers far from the Indian Ocean.</description>
+      <pubDate>Mon, 16 Nov 2026 12:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/</guid>
+      <source url="https://christmasislandnationalpark.gov.au/">Christmas Island National Park</source>
+    </item>
+    <item>
+      <title>Volunteer drives 1,400 kilometres to save stranded turtle</title>
+      <link>https://www.abc.net.au/news/2026-11-16/wildlife-carer-road-trip-stranded-loggerhead-turtle-esperance/107384666</link>
+      <description>Wildlife carer Letesha Heslewood made a 16-hour round trip across Western Australia to collect a stranded loggerhead turtle nicknamed Shaggy. The exhausted animal is now eating squid and recovering in a heated tank at Bunbury’s Dolphin Discovery Centre.</description>
+      <pubDate>Mon, 16 Nov 2026 02:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-11-16/wildlife-carer-road-trip-stranded-loggerhead-turtle-esperance/107384666</guid>
+      <source url="https://www.abc.net.au/news/">ABC News</source>
+    </item>
     <item>
       <title>Cat found alive after Brooklyn collapse reunites with family</title>
       <link>https://apnews.com/article/f4f0e8007c19d735bce0ef140b93ee0f</link>
@@ -103,30 +127,6 @@
       <description>After a stroke, Gretchen Sollo began walking the aisles of a Lowe’s in Bradley, Illinois, and has logged an estimated 1,500 miles there over five years. Staff adopted her as their “store mom” and gathered with family to give Sollo her first workplace birthday party as she turned 100.</description>
       <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Superhero window washers brighten a day at Children’s Nebraska</title>
-      <link>https://abcnews.com/video/138041563/?fromLive=true</link>
-      <description>Young patients in Omaha looked out their hospital windows on Nov. 11 to find costumed superheroes descending the building with squeegees. The window washers’ recurring tradition turns routine exterior maintenance into a surprise visit from familiar caped figures.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/video/138041563/?fromLive=true</guid>
-      <source url="https://abcnews.com/">ABC News</source>
-    </item>
-    <item>
-      <title>Visitors overlooked 280 Ice Age engravings in a Catalan cave</title>
-      <link>https://antiquity.ac.uk/news/2026/hundreds-ice-age-rock-art-engravings-discovered-hidden-plain-sight</link>
-      <description>Archaeologists identified horses, deer, a bear and abstract designs on walls passed by tourists for decades in Cova de la Font Major. The roughly 26,000-year-old collection is the largest known in Catalonia and the third largest from Mediterranean Iberia.</description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://antiquity.ac.uk/news/2026/hundreds-ice-age-rock-art-engravings-discovered-hidden-plain-sight</guid>
-      <source url="https://antiquity.ac.uk/">Antiquity</source>
-    </item>
-    <item>
-      <title>Spain’s Cantabrian brown bears double their population</title>
-      <link>https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/</link>
-      <description>Conservation measures helped the population rise from roughly 140 bears early this century to about 370, while their occupied range grew to more than 17,000 square kilometers. Researchers say management plans now need updating as the bears reclaim suitable habitat.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/spain-sees-incredible-doubling-of-her-brown-bear-population-and-its-breeding-range/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
 

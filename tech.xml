@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>AT Protocol prepares a public beta for permissioned data spaces</title>
+      <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
+      <description>AT Protocol will open the public beta of Spaces on December 1. The new layer lets developers build permissioned communities and private or semi-private data sets while keeping accounts portable across applications; updated personal data servers and development tools are available now.</description>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</guid>
+      <source url="https://atproto.com/">AT Protocol</source>
+    </item>
+    <item>
+      <title>Apple prepares to bring video podcasts to Apple TV</title>
+      <link>https://podnews.net/update/apple-tv-apple-podcasts</link>
+      <description>Apple is preparing an Apple Podcasts app for Apple TV, giving video podcasters another route to the living room. Podnews says the app will support synchronized playback across devices and arrive as video becomes a larger part of podcast distribution without replacing standard feed delivery.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/apple-tv-apple-podcasts</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+    <item>
+      <title>Maria Ressa argues journalism must confront platform power</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book</link>
+      <description>Nobel laureate Maria Ressa describes how concentrated platform ownership weakened the shared facts democracies need and left journalism struggling to hold power accountable. Her prescription joins newsroom independence, public-interest technology and sustained civic pressure rather than treating the information crisis as a simple product problem.</description>
+      <pubDate>Mon, 16 Nov 2026 11:00:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book</guid>
+      <source url="https://www.theguardian.com/">The Guardian</source>
+    </item>
     <item>
       <title>WordPress 7.2 introduces a standard Secrets API</title>
       <link>https://make.wordpress.org/core/2026/11/11/the-secrets-api-in-wordpress-7-2/</link>
@@ -104,30 +128,6 @@
       <pubDate>Thu, 12 Nov 2026 11:53:00 GMT</pubDate>
       <guid isPermaLink="true">https://podnews.net/update/iheart-sale-not</guid>
       <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>A personal blog can serve its writer before it serves an audience</title>
-      <link>https://openchannels.fm/the-value-of-blogging-for-yourself/</link>
-      <description>Bob Dunn argues that a blog need not chase reach or polish every entry into an essay. Quick thoughts, links and photos can build a durable personal archive on a site the writer controls, creating value even when nobody else reads a post. It is a crisp case for publishing on your own domain.</description>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openchannels.fm/the-value-of-blogging-for-yourself/</guid>
-      <source url="https://openchannels.fm/">Open Channels FM</source>
-    </item>
-    <item>
-      <title>Former Ringer producers launch a podcast about how the web used to feel</title>
-      <link>https://podnews.net/press-release/click-through</link>
-      <description>Bobby Wagner and Alex Bazeley’s independent Click Through turns Wikipedia racing into a weekly show: start at two unrelated pages and navigate between them using only links. Recorded around New York, it treats Wikipedia, websites and digressive browsing as an antidote to platform-controlled discovery.</description>
-      <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/press-release/click-through</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>WordCamp Asia 2027 heads to Penang with a $35 ticket</title>
-      <link>https://wordpress.org/news/2026/11/wc-asia-2027-penang/</link>
-      <description>The WordPress community will gather April 9–11 at Penang’s waterfront convention center for Contributor Day and two conference days. The 2026 edition drew 2,627 people and more than 1,500 contributors; registration for the 2027 Contributor Day opens Jan. 27 and is capped at 600.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wc-asia-2027-penang/</guid>
-      <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
 
 </channel>

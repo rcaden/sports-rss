@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>United States beats Canada for women’s hockey world title</title>
+      <link>https://www.iihf.com/en/events/2026/ww/news/76956/usacan</link>
+      <description>The United States defeated Canada 6-2 to win the IIHF Women’s World Championship in Herning. Hilary Knight scored twice and finished with a tournament-record nine goals, while the Americans claimed their second straight world title and 13th overall.</description>
+      <pubDate>Mon, 16 Nov 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.iihf.com/en/events/2026/ww/news/76956/usacan</guid>
+      <source url="https://www.iihf.com/">International Ice Hockey Federation</source>
+    </item>
+    <item>
+      <title>Patriots lose Drake Maye indefinitely to ankle injury</title>
+      <link>https://www.sportsnet.ca/nfl/article/report-patriots-qb-drake-maye-facing-significant-leg-injury/</link>
+      <description>New England quarterback Drake Maye is out indefinitely with a significant ankle injury suffered on the opening drive of the Patriots’ 35-10 loss to Detroit in Munich. The Associated Press reports that surgery remains possible, a major blow to the AFC East leaders.</description>
+      <pubDate>Mon, 16 Nov 2026 17:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.sportsnet.ca/nfl/article/report-patriots-qb-drake-maye-facing-significant-leg-injury/</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>PGA Tour rules out special return program for former LIV players</title>
+      <link>https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/</link>
+      <description>PGA Tour chief executive Brian Rolapp said the tour does not plan another special pathway for players who left for LIV Golf, which is winding down after its financing collapsed. Former LIV golfers seeking to return will have to use the tour’s existing eligibility routes.</description>
+      <pubDate>Mon, 16 Nov 2026 23:48:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Cousins wins Minnesota return as Vikings rout Packers</title>
       <link>https://www.reuters.com/sports/nfl/kirk-cousins-guides-vikings-big-win-over-packers-minnesota-return--flm-2026-11-15/</link>
@@ -104,30 +128,6 @@
       <pubDate>Thu, 12 Nov 2026 15:27:15 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/b4ac5dac07202a61597ebbe363599197</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Spurs erase 22-point deficit for 10th consecutive victory</title>
-      <link>https://www.reuters.com/sports/nba-roundup-rockets-top-warriors-stephen-curry-exits-injured--flm-2026-11-12/</link>
-      <description>Victor Wembanyama scored 32 points as San Antonio rallied past Chicago 124-119 for its 10th straight win. Elsewhere, Houston ended Golden State’s eight-game streak after Stephen Curry left with abdominal soreness, while the Lakers became the NBA’s first 11-win team.</description>
-      <pubDate>Thu, 12 Nov 2026 10:03:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nba-roundup-rockets-top-warriors-stephen-curry-exits-injured--flm-2026-11-12/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>NCAA links repeated transfers to sharply lower graduation rates</title>
-      <link>https://apnews.com/article/d1eea4d8a3a78a5e747b0ae1a9c89ede</link>
-      <description>New NCAA data covering about 36,000 athletes found that multiple transfers were generally associated with graduation rates 15 to 20 percentage points below those of athletes who stayed at one school. The gap reached 28 points in major-college football and was steepest for Black athletes.</description>
-      <pubDate>Wed, 11 Nov 2026 17:12:33 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/d1eea4d8a3a78a5e747b0ae1a9c89ede</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>United States withdraws from FIFA U-17 World Cup over safety concerns</title>
-      <link>https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</link>
-      <description>U.S. Soccer pulled its boys’ national team from the 48-team tournament in Qatar, which is scheduled for Nov. 19 through Dec. 13. A letter to players cited current safety circumstances, making the Americans a late withdrawal from one of FIFA’s largest youth events.</description>
-      <pubDate>Wed, 11 Nov 2026 23:25:05 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/us-pulls-mens-under-17-team-world-cup-qatar-over-safety-concerns-2026-11-11/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
 
 </channel>

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:09:45 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Pope forgives the pilgrim whose thrown rosary hit him in the eye</title>
+      <link>https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</link>
+      <description>Pope Leo XIV laughed off the rosary that struck his eye during a popemobile ride before a Lima Mass attended by about 1.5 million people. He said the throw reflected profound faith, joked that Peru was something he carried in his heart and eye, and forgave the enthusiastic pilgrim.</description>
+      <pubDate>Tue, 17 Nov 2026 08:52:28 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>Baby oysters return to a Scottish firth after more than a century</title>
+      <link>https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years</link>
+      <description>Native oysters are reproducing in the Dornoch Firth for the first time since the population was fished out in the late 1800s. Scientists and volunteers have restored more than 140,000 juveniles since 2017; the newly found babies show that the reef can now begin rebuilding itself.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years</guid>
+      <source url="https://www.hw.ac.uk/">Heriot-Watt University</source>
+    </item>
+    <item>
+      <title>Healthy corals can nurse bleached neighbors back to health</title>
+      <link>https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</link>
+      <description>Researchers found that a healthy coral touching a bleached one can fuse with it and form a bridge carrying nutrients and symbiotic algae. The damaged coral continued recovering after the helper was removed, suggesting a surprisingly simple path toward future reef restoration.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</guid>
+      <source url="https://www.nsf.gov/">U.S. National Science Foundation</source>
+    </item>
     <item>
       <title>Buffett donates another $5.5 billion to family foundations</title>
       <link>https://www.berkshirehathaway.com/news/nov1626.pdf</link>
@@ -103,30 +127,6 @@
       <description>Doctors in Dubai used whole-genome sequencing to identify the rare gene variant behind infant Adnan’s seizures, which struck about every 13 minutes. A compassionate-use treatment targeting the associated ion channel stopped them, and he remained seizure-free for weeks after beginning the experimental oral medicine.</description>
       <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Ultrarunner becomes first woman to run 100 continuous miles in Antarctica</title>
-      <link>https://abcnews.com/video/138072943/?fromLive=true</link>
-      <description>Canadian ultrarunner Stephanie Case became the first woman to complete 100 continuous miles in Antarctica. She covered 38 loops of a 4.2-kilometre course in 17 hours, 31 minutes and 39 seconds, finishing second overall among 28 runners in the extraordinary polar race.</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/video/138072943/?fromLive=true</guid>
-      <source url="https://abcnews.go.com/">ABC News</source>
-    </item>
-    <item>
-      <title>Bronx Zoo gives trafficked parrots a second chance</title>
-      <link>https://programs.wcs.org/press/News-Releases/articleType/ArticleView/articleId/26840/Wildlife-Conservation-Societys-Bronx-Zoo-Helps-to-Rescue-Dozens-of-Birds-Seized-from-Illegal-Wildlife-Pet-Trade-at-USMexico-Border.aspx</link>
-      <description>Dozens of white-fronted Amazon parrots and orange-fronted conures seized from the illegal pet trade at the U.S.-Mexico border are recovering at the Bronx Zoo. A zoo partnership has assisted nine parrot confiscations since 2022; two rescued red-lored Amazons even raised two chicks there this summer.</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://programs.wcs.org/press/News-Releases/articleType/ArticleView/articleId/26840/Wildlife-Conservation-Societys-Bronx-Zoo-Helps-to-Rescue-Dozens-of-Birds-Seized-from-Illegal-Wildlife-Pet-Trade-at-USMexico-Border.aspx</guid>
-      <source url="https://www.wcs.org/">Wildlife Conservation Society</source>
-    </item>
-    <item>
-      <title>Lowe’s coworkers throw their ‘store mom’ a first 100th-birthday party</title>
-      <link>https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/</link>
-      <description>After a stroke, Gretchen Sollo began walking the aisles of a Lowe’s in Bradley, Illinois, and has logged an estimated 1,500 miles there over five years. Staff adopted her as their “store mom” and gathered with family to give Sollo her first workplace birthday party as she turned 100.</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/100-year-old-store-mom-first-birthday-party/</guid>
       <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
 

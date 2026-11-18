@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:09:45 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>WordPress 7.2 reaches its first release candidate</title>
+      <link>https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</link>
+      <description>WordPress 7.2 RC1 is available for testing ahead of the December 8 final release. Recent fixes cover media uploads, accessibility, revision previews, plugin dependencies and the Interactivity API; plugin and theme authors are urged to complete compatibility testing without using RC1 on production sites.</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</guid>
+      <source url="https://wordpress.org/">WordPress.org</source>
+    </item>
+    <item>
+      <title>Overcast tests manual ad skipping while trying to protect creators</title>
+      <link>https://podnews.net/article/overcast-smart-skip-ad-skipping</link>
+      <description>Independent podcast app Overcast is testing Smart Skip for premium users. It detects an ad break but never skips automatically, stops before the final call to action and ignores a show’s own membership or product promotions—an attempt by developer Marco Arment to meet listener demand without undermining open-feed economics.</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/article/overcast-smart-skip-ad-skipping</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+    <item>
+      <title>A 10,000-site crawl finds RSS alive but increasingly hidden</title>
+      <link>https://rssly.io/state-of-rss-2026</link>
+      <description>A crawl of the 10,000 most popular domains found a discoverable working feed on 24% of readable sites. RSS accounted for 94% of working feeds, but 57% of sites that advertised one in 2016 no longer do; several still update the old address, suggesting feed discovery has declined faster than feed publishing.</description>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://rssly.io/state-of-rss-2026</guid>
+      <source url="https://rssly.io/">RSSly</source>
+    </item>
     <item>
       <title>AT Protocol prepares a public beta for permissioned data spaces</title>
       <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 13 Nov 2026 21:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
       <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
-    </item>
-    <item>
-      <title>Molly Webster becomes a co-host of Radiolab</title>
-      <link>https://current.org/2026/11/molly-webster-becomes-co-host-of-radiolab/</link>
-      <description>Longtime producer Molly Webster will join Latif Nasser as co-host of Radiolab, succeeding Lulu Miller as the public-radio show approaches its 25th anniversary. Webster has worked on the program since 2012 and created its Gonads and Breathe series. Miller will concentrate on the family-oriented spinoff Terrestrials.</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://current.org/2026/11/molly-webster-becomes-co-host-of-radiolab/</guid>
-      <source url="https://current.org/">Current</source>
-    </item>
-    <item>
-      <title>Indonesia considers making platforms pay for news aggregation</title>
-      <link>https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/</link>
-      <description>A proposed Indonesian copyright bill would require large platforms to compensate publishers when aggregating news or displaying previews and snippets. With more than 230 million internet users, Indonesia could become Southeast Asia’s first country with such a regime. Critics question the state-run payment system and permit sanctions.</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Lab</source>
-    </item>
-    <item>
-      <title>iHeart denies a report that it plans to sell its podcast division</title>
-      <link>https://podnews.net/update/iheart-sale-not</link>
-      <description>Bloomberg reported that iHeartMedia was exploring a sale of part or all of its podcast operation, but the company said it has no such plan. The division produced $174 million in third-quarter revenue, up 24.6 percent. CEO Bob Pittman says iHeart will begin reporting podcast results separately so investors can better see the unit’s value.</description>
-      <pubDate>Thu, 12 Nov 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/iheart-sale-not</guid>
-      <source url="https://podnews.net/">Podnews</source>
     </item>
 
 </channel>

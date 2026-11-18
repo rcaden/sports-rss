@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:09:45 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>A practical map to Florida HOA covenants and amendments</title>
+      <link>https://hoaguideflorida.com/learn/buyers/how-to-find-florida-hoa-governing-documents/</link>
+      <description>This guide explains why a Florida HOA’s declaration and amendments are found in county official records, while articles of incorporation are filed with Sunbiz and board-made rules often must come from the association. It includes links for all 67 counties and useful search terms when a clerk’s document types are unclear.</description>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hoaguideflorida.com/learn/buyers/how-to-find-florida-hoa-governing-documents/</guid>
+      <source url="https://hoaguideflorida.com/">HOA Guide Florida</source>
+    </item>
+    <item>
+      <title>The advanced numbers behind Colorado’s disappointing season</title>
+      <link>https://sports.yahoo.com/articles/advanced-analytics-colorado-vs-houston-023000605.html</link>
+      <description>This pre-Houston snapshot uses ESPN’s Football Power Index and related efficiency measures to explain Colorado’s 2026 struggles after a 3-6 start. It separates the Buffaloes’ reputation from their opponent-adjusted performance and offers a useful baseline for comparing them with North Texas.</description>
+      <pubDate>Thu, 12 Nov 2026 02:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sports.yahoo.com/articles/advanced-analytics-colorado-vs-houston-023000605.html</guid>
+      <source url="https://sports.yahoo.com/">Yahoo Sports</source>
+    </item>
+    <item>
+      <title>A birthday-ready guide to Weird Tales writer Mary Elizabeth Counselman</title>
+      <link>https://encyclopediaofalabama.org/article/mary-counselman/</link>
+      <description>Born November 19, 1911, Mary Elizabeth Counselman wrote 30 horror and fantasy stories for Weird Tales, including “The Three Marked Pennies,” composed when she was 15. This detailed biography traces her Alabama settings, newspaper work, unusual women-centered pulp fiction and later Arkham House collection.</description>
+      <pubDate>Mon, 25 Jul 2016 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://encyclopediaofalabama.org/article/mary-counselman/</guid>
+      <source url="https://encyclopediaofalabama.org/">Encyclopedia of Alabama</source>
+    </item>
     <item>
       <title>How to read a publisher royalty statement and its reserves</title>
       <link>https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</link>
@@ -104,30 +128,6 @@
       <pubDate>Sat, 14 Nov 2026 13:44:55 GMT</pubDate>
       <guid isPermaLink="true">https://www.floridashistoriccoast.com/events/living-history-saunter/</guid>
       <source url="https://www.floridashistoriccoast.com/">Florida’s Historic Coast</source>
-    </item>
-    <item>
-      <title>A 1997 Washington Post review finds the Gilgamesh inside How Like a God</title>
-      <link>https://brendaclough.net/washpost.htm</link>
-      <description>Joe Mayhew’s May 25, 1997 Washington Post review called Brenda W. Clough’s How Like a God “solid and even elegant.” The review reads Rob Lewis’s unwanted powers through the Gilgamesh epic and argues that the novel feels more like fantasy than conventional science fiction—a useful contemporary snapshot of the book’s reception.</description>
-      <pubDate>Sun, 25 May 1997 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://brendaclough.net/washpost.htm</guid>
-      <source url="https://brendaclough.net/">Brenda W. Clough</source>
-    </item>
-    <item>
-      <title>FANAC preserves File 770’s December 1996 snapshot of fandom</title>
-      <link>https://www.fanac.org/fanzines/File770/</link>
-      <description>FANAC’s File 770 archive includes issue 115 from December 1996, a 22-page scan supplied by Mark Olson. The issue offers a primary-source view of convention politics, awards, fan publishing and personalities at the end of that year—exactly the sort of searchable institutional memory that disappears when paper collections stay private.</description>
-      <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.fanac.org/fanzines/File770/</guid>
-      <source url="https://www.fanac.org/">FANAC</source>
-    </item>
-    <item>
-      <title>National Archives opens a searchable trail through nine million WWII enlistment records</title>
-      <link>https://www.archives.gov/research/military/ww2/electronic-records.html</link>
-      <description>The National Archives explains how to search and download its electronic Army enlistment files covering 1938–1946. The database holds about nine million records, with fields such as serial number, birthplace, residence, occupation and enlistment date. Its limitations are important: it generally excludes officers and members of other service branches.</description>
-      <pubDate>Fri, 13 Nov 2026 13:36:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.archives.gov/research/military/ww2/electronic-records.html</guid>
-      <source url="https://www.archives.gov/">National Archives</source>
     </item>
 
 </channel>

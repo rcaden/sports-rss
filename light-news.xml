@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:31:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>FDA approves first treatment shown to extend lives in severe childhood disease</title>
+      <link>https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</link>
+      <description>The FDA approved Lembaz, the first treatment shown to help people with infantile-onset Niemann-Pick disease type C live longer. The rare disorder causes cholesterol and other lipids to accumulate in cells; the approval follows two decades of foundational work by National Institutes of Health researchers.</description>
+      <pubDate>Tue, 17 Nov 2026 19:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</guid>
+      <source url="https://www.fda.gov/">U.S. Food and Drug Administration</source>
+    </item>
+    <item>
+      <title>Cincinnati Zoo gives Fiona a gentle shake to help pass a swallowed hat</title>
+      <link>https://apnews.com/article/04bef9e3d2d89f6ba4260d4daabe5c13</link>
+      <description>Fiona the hippo is getting unconventional help after swallowing a visitor’s hat: Cincinnati Zoo veterinarians tried a vibration plate to encourage the obstruction to move. An ultrasound showed her intestines still working to pass it, and the zoo continues to monitor its famously resilient star.</description>
+      <pubDate>Wed, 18 Nov 2026 17:03:02 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/04bef9e3d2d89f6ba4260d4daabe5c13</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>El Dorado turns unwanted aviation fame into a pronunciation lesson</title>
+      <link>https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</link>
+      <description>After a communications failure near El Dorado, Arkansas, was blamed for a nationwide flight disruption, the city used its sudden notoriety to clear up something locals hear constantly: the name is pronounced “El Duh Ray Duh.” Officials are redirecting attention toward the town’s people, history and attractions.</description>
+      <pubDate>Mon, 16 Nov 2026 22:46:14 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
     <item>
       <title>Pope forgives the pilgrim whose thrown rosary hit him in the eye</title>
       <link>https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 13 Nov 2026 20:04:15 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/5b755a5181b24433384e3de6e8fe8245</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Martin Luther King Jr.’s lost handwritten speech draft resurfaces</title>
-      <link>https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/</link>
-      <description>A heavily revised handwritten draft prepared by Martin Luther King Jr. on the morning of the March on Washington has emerged after six decades. Xernona Clayton found it in her late husband Edward Clayton’s desk in the 1990s and is auctioning it through Christie’s to benefit charities including the King Center.</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/dr-kings-lost-draft-of-i-have-a-dream-emerges-from-a-desk-drawer/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Florida neighbor braves floodwater to rescue vulnerable residents</title>
-      <link>https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/</link>
-      <description>Rick Addante crossed shoulder-deep water in Palm Bay after a 1,000-year rain event to reach two vulnerable neighbors—an 80-year-old recovering from heart surgery and a wheelchair user with ALS. He helped move them to safety as Florida wildlife officers arrived with airboats, calling the effort a community-wide rescue.</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/update-stories-of-daring-rescues-continue-to-surface-from-flooded-florida-communities/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Genome sequencing helps stop an infant’s 110 daily seizures</title>
-      <link>https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/</link>
-      <description>Doctors in Dubai used whole-genome sequencing to identify the rare gene variant behind infant Adnan’s seizures, which struck about every 13 minutes. A compassionate-use treatment targeting the associated ion channel stopped them, and he remained seizure-free for weeks after beginning the experimental oral medicine.</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/infant-goes-from-110-seizures-a-day-to-seizure-free-after-rare-treatment/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
     </item>
 
 </channel>

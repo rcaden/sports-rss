@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:31:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>MLB owners refuse to budge on cap as December lockout nears</title>
+      <link>https://apnews.com/article/44f4f09e643d2a86f612be53a020460d</link>
+      <description>Commissioner Rob Manfred said owners will not ratify a labor deal without a salary cap and floor, while the players’ union still calls a cap a nonstarter. The current agreement expires December 1, putting baseball on course for a lockout that could halt signings and threaten the 2027 season.</description>
+      <pubDate>Wed, 18 Nov 2026 20:35:47 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/44f4f09e643d2a86f612be53a020460d</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>World Cup winner Juan Mata retires after 20-year career</title>
+      <link>https://www.reuters.com/sports/soccer/world-cup-winner-juan-mata-announces-retirement-38-2026-11-18/</link>
+      <description>Juan Mata retired at 38 after two decades that included Spain’s 2010 World Cup and 2012 European Championship, a Champions League title with Chelsea and major trophies with Manchester United. The admired playmaker finished his club career in Australia with Melbourne Victory.</description>
+      <pubDate>Wed, 18 Nov 2026 10:21:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/world-cup-winner-juan-mata-announces-retirement-38-2026-11-18/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Ashley Sanchez caps record season with NWSL MVP award</title>
+      <link>https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</link>
+      <description>North Carolina Courage forward Ashley Sanchez won the 2026 NWSL Most Valuable Player award after scoring 20 goals, tying the league’s single-season record and setting a new mark for an American player. The league also named its Best XI and other season award winners ahead of Saturday’s championship.</description>
+      <pubDate>Wed, 18 Nov 2026 23:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</guid>
+      <source url="https://www.nwslsoccer.com/">National Women’s Soccer League</source>
+    </item>
     <item>
       <title>Diallo enters FIFA race as UEFA-backed challenger to Infantino</title>
       <link>https://apnews.com/article/31882135ed1465967fad2c6071ea1db6</link>
@@ -104,30 +128,6 @@
       <pubDate>Sun, 15 Nov 2026 03:07:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.nhl.com/oilers/news/edmonton-oilers-toronto-maple-leafs-game-recap-november-14-2026-x1781</guid>
       <source url="https://www.nhl.com/">NHL.com</source>
-    </item>
-    <item>
-      <title>Nationwide ground stop scrambles weekend sports travel</title>
-      <link>https://apnews.com/article/091ecf4f82a6158473357feeb05cf593</link>
-      <description>A four-hour FAA ground stop forced teams across college football, the NBA, NHL and women’s basketball to improvise. No. 19 Mississippi’s game at Oklahoma moved to Sunday; Auburn and Purdue switched to buses; several kickoffs shifted; and Cleveland planned to land only eight hours before facing Dallas.</description>
-      <pubDate>Fri, 13 Nov 2026 23:14:06 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/091ecf4f82a6158473357feeb05cf593</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>IIHF challenges ruling that reinstated Russian teams</title>
-      <link>https://www.reuters.com/sports/ice-hockey-iihf-files-challenge-with-cas-over-decision-reinstate-russia-media-2026-11-14/</link>
-      <description>The International Ice Hockey Federation challenged a Court of Arbitration for Sport order admitting Russian teams to five tournaments, according to The Athletic and TSN. The challenge reportedly says two panel members failed to disclose Russian ties. Canada also says it will bar Russian participants from the World Juniors.</description>
-      <pubDate>Sat, 14 Nov 2026 00:28:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/ice-hockey-iihf-files-challenge-with-cas-over-decision-reinstate-russia-media-2026-11-14/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>NC State brings Philip Rivers home as head coach</title>
-      <link>https://gopack.com/news/2026/11/13/rivers-named-head-coach-for-nc-state-football</link>
-      <description>NC State hired former Wolfpack and NFL quarterback Philip Rivers to lead its football program. Rivers set ACC career records for passing yards, completions and attempts from 2000–03, but enters the college job without prior coaching experience at that level. The university plans to introduce him Monday.</description>
-      <pubDate>Fri, 13 Nov 2026 13:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://gopack.com/news/2026/11/13/rivers-named-head-coach-for-nc-state-football</guid>
-      <source url="https://gopack.com/">NC State Athletics</source>
     </item>
 
 </channel>

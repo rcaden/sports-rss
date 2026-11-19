@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:31:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>WordPress 7.1.5 closes 20 security holes and urges immediate updates</title>
+      <link>https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</link>
+      <description>WordPress released 7.1.5 with fixes for SQL injection, privilege escalation, cross-site scripting, REST and XML-RPC information disclosure, and a Template Part flaw that could lead to remote code execution. Maintainers recommend updating immediately; applicable fixes are also being backported through branch 4.7.</description>
+      <pubDate>Wed, 18 Nov 2026 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</guid>
+      <source url="https://wordpress.org/">WordPress.org</source>
+    </item>
+    <item>
+      <title>Entrepreneurs On Fire sells for up to $9 million</title>
+      <link>https://podnews.net/update/eof-9million</link>
+      <description>The independent business podcast Entrepreneurs On Fire has been sold to Pathos Communications for $3 million in cash plus as much as $6 million in performance payments. Founder John Lee Dumas will remain host for at least three years, making the deal a revealing valuation of a profitable, personality-led podcast brand.</description>
+      <pubDate>Wed, 18 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://podnews.net/update/eof-9million</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+    <item>
+      <title>Archive Team races to preserve Apple’s support forums before Friday shutdown</title>
+      <link>https://wiki.archiveteam.org/index.php?title=Projects</link>
+      <description>Archive Team lists Apple Discussions as an urgent preservation project before the Apple Support Community closes November 20. The user-to-user troubleshooting archive dates to the 1998 Apple Tech Exchange, making the rescue an unusually large effort to retain practical personal-computing history that Apple has not promised to keep online.</description>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wiki.archiveteam.org/index.php?title=Projects</guid>
+      <source url="https://wiki.archiveteam.org/">Archive Team</source>
+    </item>
     <item>
       <title>WordPress 7.2 reaches its first release candidate</title>
       <link>https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</link>
@@ -104,30 +128,6 @@
       <pubDate>Fri, 13 Nov 2026 10:15:00 GMT</pubDate>
       <guid isPermaLink="true">https://podnews.net/update/bartlett-beaten</guid>
       <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>Reprint copies a live WordPress site into a portable local workspace</title>
-      <link>https://wordpress.org/news/2026/11/reprint-your-site/</link>
-      <description>WordPress introduced Reprint, a free open-source PHP tool that copies a site’s database and files over HTTP to a laptop, development server or new host. It can pull a live site into WordPress Playground in the browser, providing a practical migration, debugging and staging path without depending on a host-specific transfer system.</description>
-      <pubDate>Fri, 13 Nov 2026 14:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/11/reprint-your-site/</guid>
-      <source url="https://wordpress.org/">WordPress</source>
-    </item>
-    <item>
-      <title>Journalism groups cancel conferences as event economics deteriorate</title>
-      <link>https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/</link>
-      <description>Nieman Lab reports that the Online News Association, OpenNews and other journalism groups are canceling conferences or cutting staff as travel, venue and production costs rise while grants shrink. Events once provided major revenue and professional ties, making the retreat another sign of weakening infrastructure around independent newsrooms.</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Lab</source>
-    </item>
-    <item>
-      <title>San Jose Earthquakes pass from John Fisher to Alden co-founder Heath Freeman</title>
-      <link>https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</link>
-      <description>Heath Freeman, a founding member and president of Alden Global Capital, will acquire the Earthquakes and PayPal Park from John Fisher and partners. MLS governors approved the transfer, expected to close within weeks. The reported $625 million valuation ends nearly two decades of Fisher ownership and gives San Jose a new local sports power center.</description>
-      <pubDate>Fri, 13 Nov 2026 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
-      <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
     </item>
 
 </channel>

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Romanian prison festival gives 59 inmates a public stage</title>
+      <link>https://apnews.com/article/976c91f5ba9011f7aad5b91bcdc1c096</link>
+      <description>Fifty-nine inmates from seven prisons performed at Bucharest’s Nottara Theatre in the 15th Dana Cenusa festival. The program pairs prisoners with theater professionals and uses applause, collaboration and roles ranging from Beckett to original monologues to build confidence and prepare participants for life after custody.</description>
+      <pubDate>Thu, 19 Nov 2026 18:35:16 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/976c91f5ba9011f7aad5b91bcdc1c096</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>Italy’s hedgehog hospital names every tiny patient as an act of hope</title>
+      <link>https://apnews.com/article/c18121482335b2edd06befef05485a56</link>
+      <description>At La Ninna rescue center in Piedmont, underweight hoglets receive incubators, fluids, oxygen and individual names before a hoped-for spring release. The donation-funded clinic was caring for about 300 hedgehogs by mid-November, many born too late to reach the weight needed for winter hibernation.</description>
+      <pubDate>Thu, 19 Nov 2026 21:21:49 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/c18121482335b2edd06befef05485a56</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+    <item>
+      <title>Ancient Rome’s long-buried Ulpia Library welcomes visitors again</title>
+      <link>https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</link>
+      <description>The restored western building of Trajan’s Ulpia Library is opening to the public after being inaccessible for nearly a century. Visitors can see surviving marble, column fragments and projections explaining a repository that once held Greek scrolls and public records; its Latin-language twin remains beneath a church.</description>
+      <pubDate>Thu, 19 Nov 2026 20:15:55 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
     <item>
       <title>FDA approves first treatment shown to extend lives in severe childhood disease</title>
       <link>https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</link>
@@ -105,30 +129,4 @@
       <guid isPermaLink="true">https://abcnews.com/US/wireStory/georgia-okeeffe-painting-buried-new-york-apartment-closet-138155231</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-    <item>
-      <title>Brighton couple turn grimy road signs into a daily public service</title>
-      <link>https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/</link>
-      <description>Paul and Ruth Richmond-Watson began scrubbing hard-to-read street signs around Brighton, England, after looking for a hobby they could share. The newlyweds now clean at least one sign a day with their own equipment and hope eventually to take the project across Britain.</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Diaries reveal the Guernsey shopkeeper who hid Allied commandos</title>
-      <link>https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/</link>
-      <description>Family diaries have brought renewed attention to Ada Le Poidevin, who sheltered three British soldiers left behind after a 1940 raid on Nazi-occupied Guernsey. The account, emerging four decades after her death, adds an intimate chapter to the island’s wartime history.</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodnewsnetwork.org/heroic-bravery-of-woman-who-hid-troops-from-nazis-in-wwii/</guid>
-      <source url="https://www.goodnewsnetwork.org/">Good News Network</source>
-    </item>
-    <item>
-      <title>Two horses briefly take a Detroit city bus</title>
-      <link>https://apnews.com/article/5b755a5181b24433384e3de6e8fe8245</link>
-      <description>A Detroit bus driver made an unusual stop when two riders led their horses through the front door, stood with them aboard and then exited. The riders were connected to Urban City Cowboys, which was holding a fundraiser; the city said the episode would become a safety-training lesson.</description>
-      <pubDate>Fri, 13 Nov 2026 20:04:15 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/5b755a5181b24433384e3de6e8fe8245</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
 
-</channel>
-</rss>

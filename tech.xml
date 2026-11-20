@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Webnerd News turns open-web discovery into follows and shared feeds</title>
+      <link>https://www.louisgray.com/2026/11/webnerd-news-fights-silos.html</link>
+      <description>Louis Gray’s new news view starts with user-chosen RSS feeds and transparent topic bundles, then adds one-click following and sharing to a public RSS stream. The design treats discovery as a path to lasting subscriptions and outbound traffic rather than another closed destination governed by a ranking algorithm.</description>
+      <pubDate>Thu, 19 Nov 2026 01:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.louisgray.com/2026/11/webnerd-news-fights-silos.html</guid>
+      <source url="https://www.louisgray.com/">louisgray.com</source>
+    </item>
+    <item>
+      <title>ICANN opens public review of 1,610 proposed top-level domains</title>
+      <link>https://www.icann.org/en/announcements/details/icann-confirms-2026-round-applications-input-and-objections-period-begins-17-11-2026-en</link>
+      <description>ICANN published the final application list for its 2026 generic top-level-domain round and opened comments and formal objections through March 16, 2027. The process includes 1,610 applications and 226 contention sets, giving the public a rare chance to flag confusion, legal-rights or community concerns before evaluation.</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.icann.org/en/announcements/details/icann-confirms-2026-round-applications-input-and-objections-period-begins-17-11-2026-en</guid>
+      <source url="https://www.icann.org/">ICANN</source>
+    </item>
+    <item>
+      <title>Static Radio builds a live dial from independent podcast feeds</title>
+      <link>https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</link>
+      <description>A two-person Chicago studio has launched Static Radio, a free app with nine always-on stations assembled from roughly 1,000 independent podcasts. Everyone hears the same moment, but episodes stream in full from publishers’ own RSS feeds, preserving download attribution while replacing search and recommendation feeds with human curation.</description>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</guid>
+      <source url="https://www.radioworld.com/">Radio World</source>
+    </item>
     <item>
       <title>WordPress 7.1.5 closes 20 security holes and urges immediate updates</title>
       <link>https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</link>
@@ -105,30 +129,4 @@
       <guid isPermaLink="true">https://blog.atmosphere.community/a/3mzzn77fgy623-introducing-the-atmosphere-community-cooperative</guid>
       <source url="https://blog.atmosphere.community/">Atmosphere Community</source>
     </item>
-    <item>
-      <title>Podnews maps podcast apps by open feature support</title>
-      <link>https://podnews.net/article/new-podcast-apps</link>
-      <description>Podnews updated its searchable catalog of newer podcast apps, with filters for transcripts, chapters, funding, location, alternate enclosures, people and value payments. The list makes it easier to see which players implement Podcasting 2.0 features across mobile, desktop and the web.</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/article/new-podcast-apps</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-    <item>
-      <title>WordPress 7.2 adds random discovery across posts and archives</title>
-      <link>https://make.wordpress.org/core/2026/11/05/your-content-is-going-to-get-more-random/</link>
-      <description>WordPress 7.2 will add a /random/ route that redirects visitors to a random published post and can also work inside category and author archives. Site owners can customize the base, exclude post types or disable the feature, creating a built-in path back into older writing.</description>
-      <pubDate>Thu, 05 Nov 2026 02:59:12 GMT</pubDate>
-      <guid isPermaLink="true">https://make.wordpress.org/core/2026/11/05/your-content-is-going-to-get-more-random/</guid>
-      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
-    </item>
-    <item>
-      <title>Raj Shamani’s Figuring Out passes 22 million subscribers</title>
-      <link>https://podnews.net/update/bartlett-beaten</link>
-      <description>Podnews reports that Figuring Out with Raj Shamani has reached 22.1 million YouTube subscribers, moving ahead of The Diary of a CEO and The Joe Rogan Experience. The India-based show launched in 2021, a striking shift in the global center of gravity for creator-led podcast video.</description>
-      <pubDate>Fri, 13 Nov 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/bartlett-beaten</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
 
-</channel>
-</rss>

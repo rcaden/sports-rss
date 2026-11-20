@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>A careful guide to deciding when old serial issues are public domain</title>
+      <link>https://digital.library.upenn.edu/books/cce/decisions.html</link>
+      <description>The Online Books Page lays out a decision tree for newspapers, magazines and similar serials, including registration, notice, renewal and independently copyrighted contributions. Its examples explain why a public-domain issue can still contain protected comics, and why publication date and issue date are not always the same.</description>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://digital.library.upenn.edu/books/cce/decisions.html</guid>
+      <source url="https://onlinebooks.library.upenn.edu/">The Online Books Page</source>
+    </item>
+    <item>
+      <title>SPSFC 6 opens entries for self-published science-fiction novels</title>
+      <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
+      <description>The sixth Self-Published Science Fiction Competition is taking first-time entries through November 29 unless it fills earlier. Eligible books must be self-published science-fiction novels of at least 40,000 words, published by December 7; each author gets one entry, and prior non-semifinalists enter during a later resubmission window.</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
+      <source url="https://spsfc.space/">Self-Published Science Fiction Competition</source>
+    </item>
+    <item>
+      <title>A practical tour of WordPress RSS feeds, GUIDs and migration traps</title>
+      <link>https://sandywp.com/blog/wordpress-rss-feed</link>
+      <description>This guide goes beyond finding WordPress’s `/feed/` URL to explain alternate feeds, caching, discovery tags and what happens after a domain move. Its most useful warning is to preserve each post’s GUID: changing those identifiers can make feed readers treat an archive as newly published and redeliver every item.</description>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sandywp.com/blog/wordpress-rss-feed</guid>
+      <source url="https://sandywp.com/">SandyWP</source>
+    </item>
     <item>
       <title>AWS updates its practical guide to choosing Lightsail, Beanstalk or EC2</title>
       <link>https://docs.aws.amazon.com/decision-guides/latest/decision-guides/lightsail-elastic-beanstalk-ec2.html</link>
@@ -105,30 +129,4 @@
       <guid isPermaLink="true">https://www.macrumors.com/guide/iphone-15-pro-vs-15-pro-max/0/</guid>
       <source url="https://www.macrumors.com/">MacRumors</source>
     </item>
-    <item>
-      <title>Pep Comics archive pinpoints the Press Guardian’s public-domain run</title>
-      <link>https://onlinebooks.library.upenn.edu/webbin/serial?id=pepcomics</link>
-      <description>The University of Pennsylvania’s serial archive identifies Pep Comics issues available online and notes that the first copyright-renewed issue is No. 74, dated March 1949. Paired with Grand Comics Database indexes, it provides a practical starting point for tracing Perry Chase’s Press Guardian stories through the public-domain years.</description>
-      <pubDate>Mon, 01 Jan 1940 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://onlinebooks.library.upenn.edu/webbin/serial?id=pepcomics</guid>
-      <source url="https://onlinebooks.library.upenn.edu/">The Online Books Page</source>
-    </item>
-    <item>
-      <title>R.C. Harvey traces Bringing Up Father from Jiggs to its final strip</title>
-      <link>https://www.tcj.com/bringing-up-father-and-the-rest-of-the-comic-page/</link>
-      <description>R.C. Harvey’s illustrated history follows George McManus from early newspaper features to Bringing Up Father, explaining the immigrant-class comedy behind Jiggs and Maggie. It fixes the strip’s debut at January 2, 1913, and records its uninterrupted run through May 28, 2000.</description>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tcj.com/bringing-up-father-and-the-rest-of-the-comic-page/</guid>
-      <source url="https://www.tcj.com/">The Comics Journal</source>
-    </item>
-    <item>
-      <title>Jacksonville library opens a century of local newspapers to home researchers</title>
-      <link>https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</link>
-      <description>Jacksonville Public Library expanded online access to three local newspaper archives: the Florida Times-Union from 1883 onward, the Beaches Leader from 1963, and the Jacksonville Journal from 1901 to 1988. Library cardholders can search the collections remotely.</description>
-      <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</guid>
-      <source url="https://jaxpubliclibrary.org/">Jacksonville Public Library</source>
-    </item>
 
-</channel>
-</rss>

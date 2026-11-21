@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Colts waive Daniel Jones and turn back to Anthony Richardson</title>
+      <link>https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones</link>
+      <description>Indianapolis waived Daniel Jones and named Anthony Richardson Sr. its starter for Sunday against the Giants. Coach Shane Steichen said the 3-8 Colts needed a change after Jones threw 13 interceptions with a 65.4 passer rating. Richardson will make his first start since 2024.</description>
+      <pubDate>Fri, 20 Nov 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones</guid>
+      <source url="https://www.colts.com/">Indianapolis Colts</source>
+    </item>
+
+    <item>
+      <title>Harry Kane faces months out after ankle surgery</title>
+      <link>https://fcbayern.com/en/news/2026/11/successful-surgery-for-harry-kane</link>
+      <description>Harry Kane underwent successful surgery after tearing a syndesmosis ligament in his left ankle during Bayern Munich’s win at Köln. Bayern said the England captain will be sidelined for the next few months, a major blow to the club and national team during the heart of the season.</description>
+      <pubDate>Sat, 21 Nov 2026 10:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://fcbayern.com/en/news/2026/11/successful-surgery-for-harry-kane</guid>
+      <source url="https://fcbayern.com/">FC Bayern Munich</source>
+    </item>
+
+    <item>
+      <title>ATP approves $350 million compensation plan for top 250 players</title>
+      <link>https://www.reuters.com/sports/tennis/atp-approves-350-million-compensation-plan-delays-doubles-decision-2026-11-20/</link>
+      <description>The ATP approved a compensation program worth more than $350 million that will begin in 2028, with potential payments reaching $1.1 million for top-100 singles players and extending through No. 250. The tour delayed a proposed overhaul of doubles while it continues consultation.</description>
+      <pubDate>Fri, 20 Nov 2026 10:01:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/atp-approves-350-million-compensation-plan-delays-doubles-decision-2026-11-20/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Pete Rose receives posthumous pardon for tax convictions</title>
@@ -17,6 +44,7 @@
       <guid isPermaLink="true">https://apnews.com/article/14f398d4c657ccf55cb8a77cc7e60915</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>NFL suspends Rams star Puka Nacua for three games</title>
       <link>https://www.nfl.com/news/puka-nacua-suspension-rams-nfl</link>
@@ -25,6 +53,7 @@
       <guid isPermaLink="true">https://www.nfl.com/news/puka-nacua-suspension-rams-nfl</guid>
       <source url="https://www.nfl.com/">NFL.com</source>
     </item>
+
     <item>
       <title>Formula One will begin using full-time stewards in 2027</title>
       <link>https://www.reuters.com/sports/formula1/fia-introduce-full-time-formula-one-stewards-2027-2026-11-19/</link>
@@ -33,6 +62,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/formula1/fia-introduce-full-time-formula-one-stewards-2027-2026-11-19/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>MLB owners refuse to budge on cap as December lockout nears</title>
       <link>https://apnews.com/article/44f4f09e643d2a86f612be53a020460d</link>
@@ -41,6 +71,7 @@
       <guid isPermaLink="true">https://apnews.com/article/44f4f09e643d2a86f612be53a020460d</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>World Cup winner Juan Mata retires after 20-year career</title>
       <link>https://www.reuters.com/sports/soccer/world-cup-winner-juan-mata-announces-retirement-38-2026-11-18/</link>
@@ -49,6 +80,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/world-cup-winner-juan-mata-announces-retirement-38-2026-11-18/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>Ashley Sanchez caps record season with NWSL MVP award</title>
       <link>https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</link>
@@ -57,6 +89,7 @@
       <guid isPermaLink="true">https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</guid>
       <source url="https://www.nwslsoccer.com/">National Women’s Soccer League</source>
     </item>
+
     <item>
       <title>Diallo enters FIFA race as UEFA-backed challenger to Infantino</title>
       <link>https://apnews.com/article/31882135ed1465967fad2c6071ea1db6</link>
@@ -65,6 +98,7 @@
       <guid isPermaLink="true">https://apnews.com/article/31882135ed1465967fad2c6071ea1db6</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>Tiger Woods sets December return after more than two years away</title>
       <link>https://www.reuters.com/sports/golf/woods-to-make-competitive-return-decembers-hero-world-challenge-2026-11-17/</link>
@@ -73,6 +107,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/golf/woods-to-make-competitive-return-decembers-hero-world-challenge-2026-11-17/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>WNBA considers reclaiming investor stake as commissioner search continues</title>
       <link>https://www.reuters.com/sports/report-wnba-commissioner-seeks-league-stake-buyback--flm-2026-11-18/</link>
@@ -81,6 +116,7 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/report-wnba-commissioner-seeks-league-stake-buyback--flm-2026-11-18/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
+
     <item>
       <title>United States beats Canada for women’s hockey world title</title>
       <link>https://www.iihf.com/en/events/2026/ww/news/76956/usacan</link>
@@ -89,6 +125,7 @@
       <guid isPermaLink="true">https://www.iihf.com/en/events/2026/ww/news/76956/usacan</guid>
       <source url="https://www.iihf.com/">International Ice Hockey Federation</source>
     </item>
+
     <item>
       <title>Patriots lose Drake Maye indefinitely to ankle injury</title>
       <link>https://www.sportsnet.ca/nfl/article/report-patriots-qb-drake-maye-facing-significant-leg-injury/</link>
@@ -97,6 +134,7 @@
       <guid isPermaLink="true">https://www.sportsnet.ca/nfl/article/report-patriots-qb-drake-maye-facing-significant-leg-injury/</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>PGA Tour rules out special return program for former LIV players</title>
       <link>https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/</link>
@@ -105,28 +143,5 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-    <item>
-      <title>Cousins wins Minnesota return as Vikings rout Packers</title>
-      <link>https://www.reuters.com/sports/nfl/kirk-cousins-guides-vikings-big-win-over-packers-minnesota-return--flm-2026-11-15/</link>
-      <description>Kirk Cousins threw two touchdown passes in his first game back with Minnesota, and the Vikings beat Green Bay 30-10. Minnesota’s defense produced eight sacks and four takeaways, completing a season sweep of the Packers and creating a three-way tie atop the NFC North.</description>
-      <pubDate>Sun, 15 Nov 2026 21:25:45 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/kirk-cousins-guides-vikings-big-win-over-packers-minnesota-return--flm-2026-11-15/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Andreeva completes unbeaten run to win WTA Finals debut</title>
-      <link>https://www.reuters.com/sports/tennis/unbeaten-andreeva-captures-wta-finals-crown-debut-2026-11-15/</link>
-      <description>Mirra Andreeva defeated Elina Svitolina 7-5, 6-3 to win the WTA Finals in her first appearance. The 19-year-old went unbeaten and did not drop a set in five matches, adding the season-ending championship to a breakthrough year.</description>
-      <pubDate>Sun, 15 Nov 2026 22:09:32 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/unbeaten-andreeva-captures-wta-finals-crown-debut-2026-11-15/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Edmonton wins record 15th Grey Cup in six-lead-change thriller</title>
-      <link>https://www.cfl.prod.s.cfl.ca/article/elks-top-alouettes-to-capture-113th-grey-cup</link>
-      <description>Cody Fajardo threw two touchdown passes and ran for two more as the Edmonton Elks beat Montreal 37-30 in the 113th Grey Cup. The game featured six lead changes; Edmonton claimed its record 15th CFL championship and first since 2015.</description>
-      <pubDate>Mon, 16 Nov 2026 03:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.cfl.prod.s.cfl.ca/article/elks-top-alouettes-to-capture-113th-grey-cup</guid>
-      <source url="https://www.cfl.ca/">Canadian Football League</source>
-    </item>
-
+  </channel>
+</rss>

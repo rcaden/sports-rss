@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>PHP 8.6 arrives with partial function application and safer defaults</title>
+      <link>https://www.php.net/releases/8.6/en.php</link>
+      <description>PHP 8.6 adds partial function application, the Time\Duration and Io\Poll APIs, a clamp function and more secure session defaults. The migration guide deserves attention before a server upgrade, but the release offers practical improvements for modernizing a long-lived PHP codebase.</description>
+      <pubDate>Thu, 19 Nov 2026 14:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.php.net/releases/8.6/en.php</guid>
+      <source url="https://www.php.net/">PHP</source>
+    </item>
+
+    <item>
+      <title>Betty Boop ruling explains why trademark cannot recreate expired copyright</title>
+      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2011/02/23/09-56317.pdf</link>
+      <description>The Ninth Circuit’s Fleischer Studios v. A.V.E.L.A. opinion is a useful case study for public-domain character publishing. It rejected an attempt to use trademark law as a substitute for expired copyright in Betty Boop imagery, while leaving room for claims tied to genuinely source-identifying uses.</description>
+      <pubDate>Wed, 23 Feb 2011 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://cdn.ca9.uscourts.gov/datastore/opinions/2011/02/23/09-56317.pdf</guid>
+      <source url="https://www.ca9.uscourts.gov/">U.S. Court of Appeals for the Ninth Circuit</source>
+    </item>
+
+    <item>
+      <title>Jacksonville library opens searchable access to three newspaper archives</title>
+      <link>https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</link>
+      <description>Jacksonville Public Library now offers cardholders online access to the Florida Times-Union back to 1883, the Beaches Leader back to 1963 and the Jacksonville Journal from 1901 through 1988. Full-page scans preserve photographs, comics, advertisements and neighborhood details useful for local-history research.</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</guid>
+      <source url="https://jaxpubliclibrary.org/">Jacksonville Public Library</source>
+    </item>
 
     <item>
       <title>A careful guide to deciding when old serial issues are public domain</title>
@@ -17,6 +44,7 @@
       <guid isPermaLink="true">https://digital.library.upenn.edu/books/cce/decisions.html</guid>
       <source url="https://onlinebooks.library.upenn.edu/">The Online Books Page</source>
     </item>
+
     <item>
       <title>SPSFC 6 opens entries for self-published science-fiction novels</title>
       <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
@@ -25,6 +53,7 @@
       <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
       <source url="https://spsfc.space/">Self-Published Science Fiction Competition</source>
     </item>
+
     <item>
       <title>A practical tour of WordPress RSS feeds, GUIDs and migration traps</title>
       <link>https://sandywp.com/blog/wordpress-rss-feed</link>
@@ -33,6 +62,7 @@
       <guid isPermaLink="true">https://sandywp.com/blog/wordpress-rss-feed</guid>
       <source url="https://sandywp.com/">SandyWP</source>
     </item>
+
     <item>
       <title>AWS updates its practical guide to choosing Lightsail, Beanstalk or EC2</title>
       <link>https://docs.aws.amazon.com/decision-guides/latest/decision-guides/lightsail-elastic-beanstalk-ec2.html</link>
@@ -41,6 +71,7 @@
       <guid isPermaLink="true">https://docs.aws.amazon.com/decision-guides/latest/decision-guides/lightsail-elastic-beanstalk-ec2.html</guid>
       <source url="https://docs.aws.amazon.com/">Amazon Web Services</source>
     </item>
+
     <item>
       <title>PHP’s official migration guide maps the breaking jump from 7.4 to 8.0</title>
       <link>https://www.php.net/manual/en/migration80.incompatible.php</link>
@@ -49,6 +80,7 @@
       <guid isPermaLink="true">https://www.php.net/manual/en/migration80.incompatible.php</guid>
       <source url="https://www.php.net/">PHP</source>
     </item>
+
     <item>
       <title>NASCAR’s official guide puts every 2026 television and streaming outlet in one place</title>
       <link>https://www.nascar.com/news-media/2026/11/15/nascar-tv-guide/</link>
@@ -57,6 +89,7 @@
       <guid isPermaLink="true">https://www.nascar.com/news-media/2026/11/15/nascar-tv-guide/</guid>
       <source url="https://www.nascar.com/">NASCAR</source>
     </item>
+
     <item>
       <title>A practical map to Florida HOA covenants and amendments</title>
       <link>https://hoaguideflorida.com/learn/buyers/how-to-find-florida-hoa-governing-documents/</link>
@@ -65,6 +98,7 @@
       <guid isPermaLink="true">https://hoaguideflorida.com/learn/buyers/how-to-find-florida-hoa-governing-documents/</guid>
       <source url="https://hoaguideflorida.com/">HOA Guide Florida</source>
     </item>
+
     <item>
       <title>The advanced numbers behind Colorado’s disappointing season</title>
       <link>https://sports.yahoo.com/articles/advanced-analytics-colorado-vs-houston-023000605.html</link>
@@ -73,6 +107,7 @@
       <guid isPermaLink="true">https://sports.yahoo.com/articles/advanced-analytics-colorado-vs-houston-023000605.html</guid>
       <source url="https://sports.yahoo.com/">Yahoo Sports</source>
     </item>
+
     <item>
       <title>A birthday-ready guide to Weird Tales writer Mary Elizabeth Counselman</title>
       <link>https://encyclopediaofalabama.org/article/mary-counselman/</link>
@@ -81,6 +116,7 @@
       <guid isPermaLink="true">https://encyclopediaofalabama.org/article/mary-counselman/</guid>
       <source url="https://encyclopediaofalabama.org/">Encyclopedia of Alabama</source>
     </item>
+
     <item>
       <title>How to read a publisher royalty statement and its reserves</title>
       <link>https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</link>
@@ -89,6 +125,7 @@
       <guid isPermaLink="true">https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</guid>
       <source url="https://www.cornellpress.cornell.edu/">Cornell University Press</source>
     </item>
+
     <item>
       <title>Why the 1984 Lensman anime remains trapped in rights limbo</title>
       <link>https://www.animenation.net/blog/ask-john-will-the-lensman-anime-ever-be-re-released/</link>
@@ -97,6 +134,7 @@
       <guid isPermaLink="true">https://www.animenation.net/blog/ask-john-will-the-lensman-anime-ever-be-re-released/</guid>
       <source url="https://www.animenation.net/">AnimeNation</source>
     </item>
+
     <item>
       <title>Copyright Office finishes digitizing 26,000 historical record books</title>
       <link>https://www.copyright.gov/newsnet/2026/1099.html?loclr=twcop</link>
@@ -105,28 +143,5 @@
       <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1099.html?loclr=twcop</guid>
       <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
     </item>
-    <item>
-      <title>Inside Hollywood’s surviving temple to movie books and scripts</title>
-      <link>https://secretlosangeles.com/larry-edmunds-bookshop-la-hollywood-cinema-archive/</link>
-      <description>Larry Edmunds Bookshop has served film obsessives since 1938, stocking movie histories, biographies, vintage scripts, posters and photographs. This tour of the restored neon-lit Hollywood institution is a useful companion to any search for the vanished specialty bookstores that once made screenplays easy to browse.</description>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://secretlosangeles.com/larry-edmunds-bookshop-la-hollywood-cinema-archive/</guid>
-      <source url="https://secretlosangeles.com/">Secret Los Angeles</source>
-    </item>
-    <item>
-      <title>How SendGrid turns incoming email into an application webhook</title>
-      <link>https://sendgrid.com/en-us/blog/learn-how-to-accept-incoming-email-to-rails-apps-via-sendgrids-parse-api</link>
-      <description>SendGrid’s Inbound Parse feature accepts mail addressed to a configured subdomain and posts the parsed headers, text, HTML and attachments to an application URL. The walkthrough uses Rails, but the DNS and webhook pattern applies to any web stack that needs to receive email rather than merely send it.</description>
-      <pubDate>Mon, 06 May 2013 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sendgrid.com/en-us/blog/learn-how-to-accept-incoming-email-to-rails-apps-via-sendgrids-parse-api</guid>
-      <source url="https://sendgrid.com/">SendGrid</source>
-    </item>
-    <item>
-      <title>The practical differences between iPhone 15 Pro and Pro Max</title>
-      <link>https://www.macrumors.com/guide/iphone-15-pro-vs-15-pro-max/0/</link>
-      <description>Both 2023 Pro models share the A17 Pro chip, titanium frame and USB-C, but the Max has a 6.7-inch display, longer battery life and 5x telephoto lens. The smaller Pro is lighter, uses a 6.1-inch screen and has 3x optical zoom; storage also starts at 128GB instead of 256GB.</description>
-      <pubDate>Tue, 19 Sep 2023 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.macrumors.com/guide/iphone-15-pro-vs-15-pro-max/0/</guid>
-      <source url="https://www.macrumors.com/">MacRumors</source>
-    </item>
-
+  </channel>
+</rss>

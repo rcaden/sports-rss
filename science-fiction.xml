@@ -5,9 +5,39 @@
     <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
     <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Jayant V. Narlikar’s Marathi cyber-thriller Virus reaches English readers</title>
+      <link>https://csi.asu.edu/books/virus-coming-november-2026/</link>
+      <description>Arizona State University’s Center for Science and the Imagination published its announcement on September 1 for the November 17 release of Virus, Jayant V. Narlikar’s 1996 Marathi science-fiction novel. The late astrophysicist’s cyber-thriller imagines a hostile computer virus threatening national infrastructure, pairing scientific speculation with political intrigue. This annotated English edition, issued with MIT Press, makes the novel widely available in English after three decades and adds essays, an interview, contextual notes and a bonus story. The November 17 publication is the current news peg; the source page predates it. For readers interested in non-Anglophone genre history, scientific authorship and archival recovery, the edition offers both a rediscovered novel and documentation of its place in Indian science fiction.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://csi.asu.edu/books/virus-coming-november-2026/</guid>
+      <source url="https://csi.asu.edu/">ASU Center for Science and the Imagination</source>
+      <category>Publishing</category>
+    </item>
+
+    <item>
+      <title>Novacon 55 remembers John Dowd while asking fandom to adapt and sustain</title>
+      <link>https://sfcrowsnest.info/novacon-55-convention-report-by-rosie-oliver-convention-report/</link>
+      <description>A convention report published November 20 looks back at Novacon 55, held November 6–8 at the Palace Hotel in Buxton under the theme “Adapt and Sustain.” Guest of honor Una McCormack joined programming on adaptation, environmental fiction and the future of fandom. The weekend also included a wake for John Dowd, whose extraordinary run stretched from Novacon 12 in 1982 through Novacon 54 in 2024. That memorial gives the report unusual value as a record of British fan continuity, while panels on adaptations and “wet dystopias” show the convention engaging present concerns. The November 20 report is the news peg; its detailed account preserves both institutional memory and the texture of a current regional convention.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sfcrowsnest.info/novacon-55-convention-report-by-rosie-oliver-convention-report/</guid>
+      <source url="https://sfcrowsnest.info/">SFcrowsnest</source>
+      <category>Conventions</category>
+    </item>
+
+    <item>
+      <title>Utah adds Sarah J. Maas fantasy novel to statewide school ban list</title>
+      <link>https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/</link>
+      <description>The Salt Lake Tribune reported November 18 that Utah added Sarah J. Maas’s Kingdom of Ash to its statewide school-removal list after a third district barred the book on November 17. The fantasy novel becomes the list’s 45th title, triggering removal from every public-school library under Utah law. The report says schools must dispose of banned copies rather than redistribute them, making the decision consequential beyond a single district. The November 17 action and November 18 report provide the current time peg. For genre readers, the case joins a bestselling fantasy author to an expanding censorship mechanism and raises practical questions about collection policy, local review and the destruction of books already purchased for students.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/</guid>
+      <source url="https://www.sltrib.com/">The Salt Lake Tribune</source>
+      <category>Controversy</category>
+    </item>
 
     <item>
       <title>Amazing Stories marks its centennial with a new issue and a new publisher</title>
@@ -18,6 +48,7 @@
       <category>Publishing</category>
       <source url="https://amazingstories.com/">Amazing Stories</source>
     </item>
+
     <item>
       <title>Paradiso 17 wins the 2026 National Book Award for Fiction</title>
       <link>https://www.nationalbook.org/awards2026/winners/</link>
@@ -27,6 +58,7 @@
       <category>Awards</category>
       <source url="https://www.nationalbook.org/">National Book Foundation</source>
     </item>
+
     <item>
       <title>Wisconsin sisters prepare to open a science-fiction and fantasy bookstore</title>
       <link>https://ibmadison.com/sci-fi-focused-bookstore-to-open-in-downtown-waunakee-this-winter/</link>
@@ -36,6 +68,7 @@
       <category>Publishing</category>
       <source url="https://ibmadison.com/">In Business Madison</source>
     </item>
+
     <item>
       <title>Philcon opens its 90th-anniversary weekend with fandom history on the program</title>
       <link>https://alexshvartsman.com/2026/11/18/philcon-2026/</link>
@@ -45,6 +78,7 @@
       <category>Conventions</category>
       <source url="https://alexshvartsman.com/">Alex Shvartsman</source>
     </item>
+
     <item>
       <title>FANAC adds a fresh cache of rare fanzines and convention photographs</title>
       <link>https://fanac.org/sitehistory-recent.html</link>
@@ -54,6 +88,7 @@
       <category>Fandom</category>
       <source url="https://fanac.org/">FANAC Fan History Project</source>
     </item>
+
     <item>
       <title>Alex Shvartsman turns 51 after a year that added a new novel and more translation work</title>
       <link>https://www.blackgate.com/2018/11/19/birthday-reviews-alex-shvartsmans-staff-meeting-as-seen-by-the-spam-filter/</link>
@@ -63,6 +98,7 @@
       <category>People</category>
       <source url="https://www.blackgate.com/">Black Gate</source>
     </item>
+
     <item>
       <title>Alan Dean Foster turns 80 after helping put Star Wars on the page</title>
       <link>https://ascstarwarsnetwork.com/on-this-day-in-star-wars-history-18-november-alan-dean-foster-and-the-galaxy-on-the-page/</link>
@@ -72,6 +108,7 @@
       <source url="https://ascstarwarsnetwork.com/">ASC Star Wars Network</source>
       <category>People</category>
     </item>
+
     <item>
       <title>Heinlein’s “Misfit” television adaptation reaches its 75th anniversary</title>
       <link>https://amazingstories.com/2017/11/lost-forever-1951-1952-science-fiction-tv-series/</link>
@@ -81,6 +118,7 @@
       <source url="https://amazingstories.com/">Amazing Stories</source>
       <category>History</category>
     </item>
+
     <item>
       <title>Steve Davidson, publisher who revived Amazing Stories, dies at 67</title>
       <link>https://skiffyandfanty.com/blog/announcements/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</link>
@@ -90,6 +128,7 @@
       <source url="https://skiffyandfanty.com/">The Skiffy and Fanty Show</source>
       <category>People</category>
     </item>
+
     <item>
       <title>M. John Harrison becomes the Booker Prize’s first science-fiction-world winner</title>
       <link>https://thebookerprizes.com/media-centre/press-releases/the-end-of-everything-by-m-john-harrison-wins-the-booker-prize-2026</link>
@@ -99,6 +138,7 @@
       <source url="https://thebookerprizes.com/">The Booker Prizes</source>
       <category>Awards</category>
     </item>
+
     <item>
       <title>Starlog returns to print as an annual on its 50th anniversary</title>
       <link>https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary</link>
@@ -108,6 +148,7 @@
       <source url="https://www.space.com/">Space.com</source>
       <category>Publishing</category>
     </item>
+
     <item>
       <title>Jean-Louis Trudel remembered one year after his death in Vilnius</title>
       <link>https://cirst.uqam.ca/actualites/deces-de-jean-louis-trudel/</link>
@@ -117,31 +158,5 @@
       <source url="https://cirst.uqam.ca/">Centre interuniversitaire de recherche sur la science et la technologie</source>
       <category>People</category>
     </item>
-    <item>
-      <title>Harry Potter’s first film reaches its 25th anniversary</title>
-      <link>https://www.harrypotter.com/news/celebrate-25-years-of-harry-potter-and-the-philosophers-stone-film-magic</link>
-      <description>November 16, 2026, marks 25 years since Harry Potter and the Philosopher’s Stone — released in the United States as Sorcerer’s Stone — premiered on November 16, 2001. Chris Columbus’s adaptation introduced Daniel Radcliffe, Rupert Grint and Emma Watson to movie audiences and became 2001’s top-grossing film worldwide, beginning an eight-film series that reshaped fantasy publishing’s screen afterlife and a generation of convention fandom. The official anniversary program has included theatrical reissues, studio-tour features and new merchandise throughout 2026. The linked official overview was published earlier in the anniversary year; today’s date, rather than that page’s publication, supplies the historical peg.</description>
-      <pubDate>Wed, 21 Jan 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.harrypotter.com/news/celebrate-25-years-of-harry-potter-and-the-philosophers-stone-film-magic</guid>
-      <category>History</category>
-      <source url="https://www.harrypotter.com/">HarryPotter.com</source>
-    </item>
-    <item>
-      <title>Jemisin, Block and Thompson enter New York State Writers Hall of Fame</title>
-      <link>https://www.eventbrite.com/e/new-york-state-writers-hall-of-fame-2026-induction-tickets-2002079880818</link>
-      <description>N. K. Jemisin, Lawrence Block and the late Kay Thompson are scheduled for induction into the New York State Writers Hall of Fame on November 17, 2026, at Manhattan’s Lotos Club. The ceremony’s proximity — tomorrow — is the news peg. Jemisin, a Brooklyn writer, became the first author to win three consecutive Hugo Awards for Best Novel with the Broken Earth trilogy; Block’s long New York career spans the Matthew Scudder and Bernie Rhodenbarr mysteries; Thompson created Eloise. The Empire State Center for the Book’s event listing confirms the lineup and timing, bringing speculative fiction, crime writing and children’s literature together in one institutional honor.</description>
-      <pubDate>Tue, 06 Oct 2026 17:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.eventbrite.com/e/new-york-state-writers-hall-of-fame-2026-induction-tickets-2002079880818</guid>
-      <category>Awards</category>
-      <source url="https://empirestatebook.org/">Empire State Center for the Book</source>
-    </item>
-    <item>
-      <title>Black Cat Weekly’s successor debuts without its science-fiction mix</title>
-      <link>https://blackcatmysteries.substack.com/p/level-best-books-acquires-black-cat</link>
-      <description>Black Cat Mysteries published its first monthly issue on November 13, 2026, completing Level Best Books’ takeover and redesign of Black Cat Weekly after issue 270. The September 29 acquisition announcement, linked here, said the new magazine would concentrate on mystery, crime and suspense, ending the predecessor’s weekly mixture of new and classic mystery, adventure, fantasy and science fiction. Black Cat Weekly began in September 2021 under Wildside Press founder John Betancourt and became a dependable market for short fiction and pulp-era reprints. The debut date is this week’s peg; for genre readers, the change means one fewer recurring venue mixing speculative work with mystery traditions.</description>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blackcatmysteries.substack.com/p/level-best-books-acquires-black-cat</guid>
-      <category>Publishing</category>
-      <source url="https://blackcatmysteries.substack.com/">Black Cat Mysteries</source>
-    </item>
-
+  </channel>
+</rss>

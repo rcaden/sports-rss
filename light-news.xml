@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>French archivists rescue family memories one home movie at a time</title>
+      <link>https://apnews.com/article/e90c603e13d4fbb7511a89f199912b61</link>
+      <description>A traveling French archive project digitized 22 hours of 8mm and Super 8 home movies during a stop in Antibes, returning forgotten weddings, vacations and childhood scenes to families. The reels also yielded unexpected history, including rare footage of Brigitte Bardot at a local event.</description>
+      <pubDate>Thu, 19 Nov 2026 01:23:15 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/e90c603e13d4fbb7511a89f199912b61</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Coyotes test California&apos;s giant wildlife crossing before opening day</title>
+      <link>https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</link>
+      <description>Coyotes have already crossed the 1,250-foot Wallis Annenberg Wildlife Crossing over U.S. 101 near Los Angeles, weeks before its December 2 public opening. Inspired by mountain lion P-22, the landscaped bridge is designed to reconnect habitat split by one of the nation’s busiest freeways.</description>
+      <pubDate>Wed, 18 Nov 2026 09:09:04 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Seventy-five sea turtles hatch from the first nests recorded on the U.S. West Coast</title>
+      <link>https://www.aquariumofpacific.org/press/info/olive_ridley_sea_turtle_eggs_hatch_at_the_aquarium_of_the_pacific/newsroom</link>
+      <description>The Aquarium of the Pacific released 75 olive ridley hatchlings from two unprecedented Southern California nests after a 58-day incubation. Experts had never documented sea turtles nesting on the U.S. West Coast, making the tiny swimmers both a scientific first and a hopeful conservation story.</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.aquariumofpacific.org/press/info/olive_ridley_sea_turtle_eggs_hatch_at_the_aquarium_of_the_pacific/newsroom</guid>
+      <source url="https://www.aquariumofpacific.org/">Aquarium of the Pacific</source>
+    </item>
 
     <item>
       <title>Romanian prison festival gives 59 inmates a public stage</title>
@@ -17,6 +44,7 @@
       <guid isPermaLink="true">https://apnews.com/article/976c91f5ba9011f7aad5b91bcdc1c096</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>Italy’s hedgehog hospital names every tiny patient as an act of hope</title>
       <link>https://apnews.com/article/c18121482335b2edd06befef05485a56</link>
@@ -25,6 +53,7 @@
       <guid isPermaLink="true">https://apnews.com/article/c18121482335b2edd06befef05485a56</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>Ancient Rome’s long-buried Ulpia Library welcomes visitors again</title>
       <link>https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</link>
@@ -33,6 +62,7 @@
       <guid isPermaLink="true">https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>FDA approves first treatment shown to extend lives in severe childhood disease</title>
       <link>https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</link>
@@ -41,6 +71,7 @@
       <guid isPermaLink="true">https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</guid>
       <source url="https://www.fda.gov/">U.S. Food and Drug Administration</source>
     </item>
+
     <item>
       <title>Cincinnati Zoo gives Fiona a gentle shake to help pass a swallowed hat</title>
       <link>https://apnews.com/article/04bef9e3d2d89f6ba4260d4daabe5c13</link>
@@ -49,6 +80,7 @@
       <guid isPermaLink="true">https://apnews.com/article/04bef9e3d2d89f6ba4260d4daabe5c13</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>El Dorado turns unwanted aviation fame into a pronunciation lesson</title>
       <link>https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</link>
@@ -57,6 +89,7 @@
       <guid isPermaLink="true">https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>Pope forgives the pilgrim whose thrown rosary hit him in the eye</title>
       <link>https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</link>
@@ -65,6 +98,7 @@
       <guid isPermaLink="true">https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
+
     <item>
       <title>Baby oysters return to a Scottish firth after more than a century</title>
       <link>https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years</link>
@@ -73,6 +107,7 @@
       <guid isPermaLink="true">https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years</guid>
       <source url="https://www.hw.ac.uk/">Heriot-Watt University</source>
     </item>
+
     <item>
       <title>Healthy corals can nurse bleached neighbors back to health</title>
       <link>https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</link>
@@ -81,6 +116,7 @@
       <guid isPermaLink="true">https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</guid>
       <source url="https://www.nsf.gov/">U.S. National Science Foundation</source>
     </item>
+
     <item>
       <title>Buffett donates another $5.5 billion to family foundations</title>
       <link>https://www.berkshirehathaway.com/news/nov1626.pdf</link>
@@ -89,6 +125,7 @@
       <guid isPermaLink="true">https://www.berkshirehathaway.com/news/nov1626.pdf</guid>
       <source url="https://www.berkshirehathaway.com/">Berkshire Hathaway</source>
     </item>
+
     <item>
       <title>Millions of red crabs begin Christmas Island migration</title>
       <link>https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/</link>
@@ -97,6 +134,7 @@
       <guid isPermaLink="true">https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/</guid>
       <source url="https://christmasislandnationalpark.gov.au/">Christmas Island National Park</source>
     </item>
+
     <item>
       <title>Volunteer drives 1,400 kilometres to save stranded turtle</title>
       <link>https://www.abc.net.au/news/2026-11-16/wildlife-carer-road-trip-stranded-loggerhead-turtle-esperance/107384666</link>
@@ -105,28 +143,5 @@
       <guid isPermaLink="true">https://www.abc.net.au/news/2026-11-16/wildlife-carer-road-trip-stranded-loggerhead-turtle-esperance/107384666</guid>
       <source url="https://www.abc.net.au/news/">ABC News</source>
     </item>
-    <item>
-      <title>Cat found alive after Brooklyn collapse reunites with family</title>
-      <link>https://apnews.com/article/f4f0e8007c19d735bce0ef140b93ee0f</link>
-      <description>A cat named Isaac was found alive in the debris days after a Brooklyn building collapse and returned to 13-year-old Zariah Coleman. Flatbush Cats and city workers helped recover him, giving a displaced family one welcome reunion amid the cleanup.</description>
-      <pubDate>Sun, 15 Nov 2026 23:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/f4f0e8007c19d735bce0ef140b93ee0f</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Rubik’s Cube production returns to its Hungarian birthplace</title>
-      <link>https://abcnews.com/International/wireStory/iconic-puzzle-home-production-rubiks-cube-returns-hungary-138101469</link>
-      <description>A new automated line in Jászberény has brought Rubik’s Cube production back to Hungary, where Ernő Rubik invented the puzzle in 1974. More than 500 million cubes have been sold, and the current speed-solving record is 2.51 seconds.</description>
-      <pubDate>Fri, 13 Nov 2026 05:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/International/wireStory/iconic-puzzle-home-production-rubiks-cube-returns-hungary-138101469</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Long-lost Georgia O’Keeffe painting emerges from Manhattan closet</title>
-      <link>https://abcnews.com/US/wireStory/georgia-okeeffe-painting-buried-new-york-apartment-closet-138155231</link>
-      <description>A 1930 Georgia O’Keeffe painting hidden in an East Village apartment closet since the 1980s is headed to Christie’s, where it could fetch more than $3 million. O’Keeffe gave the work to the owner’s family in 1963, and its rediscovery restores a missing piece of the artist’s record.</description>
-      <pubDate>Sun, 15 Nov 2026 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/US/wireStory/georgia-okeeffe-painting-buried-new-york-apartment-closet-138155231</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
+  </channel>
+</rss>

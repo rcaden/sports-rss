@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Reddit ends RSS support without a general replacement</title>
+      <link>https://support.reddithelp.com/hc/en-us/articles/55472297340308-Changelog-November-10-2026</link>
+      <description>Reddit’s November changelog says RSS support ended November 13. The company offers no replacement for feeds outside moderated communities, directing moderators to a Discord relay for some alerts. The change removes a longstanding read-only bridge between Reddit and independent feed readers.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://support.reddithelp.com/hc/en-us/articles/55472297340308-Changelog-November-10-2026</guid>
+      <source url="https://support.reddithelp.com/">Reddit Help</source>
+    </item>
+
+    <item>
+      <title>Indie software needs financing built for durable small businesses</title>
+      <link>https://werd.io/zirp-era-startups-are-shutting-in-droves-indie-tools-need-a-different-kind-of-support/</link>
+      <description>Ben Werdmuller argues that many useful independent tools were pushed toward venture-scale growth they could never sustain. He makes the case for bootstrapping, recurring revenue, revenue-based investment and community support that rewards durable services instead of demanding an unlikely giant exit.</description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://werd.io/zirp-era-startups-are-shutting-in-droves-indie-tools-need-a-different-kind-of-support/</guid>
+      <source url="https://werd.io/">Werd.io</source>
+    </item>
+
+    <item>
+      <title>WordPress 7.2 Field Guide details more than 440 core changes</title>
+      <link>https://make.wordpress.org/core/2026/11/20/wordpress-7-2-field-guide/</link>
+      <description>The WordPress 7.2 Field Guide turns the release candidate into a practical developer checklist: more than 440 Core tickets, roughly 150 enhancements, 260 fixes and 40 editor issues. Highlights include SVG admin icons, a /random/ endpoint, SQL-mode work and preparation for jQuery 4.</description>
+      <pubDate>Fri, 20 Nov 2026 13:16:10 GMT</pubDate>
+      <guid isPermaLink="true">https://make.wordpress.org/core/2026/11/20/wordpress-7-2-field-guide/</guid>
+      <source url="https://make.wordpress.org/core/">WordPress Core</source>
+    </item>
 
     <item>
       <title>Webnerd News turns open-web discovery into follows and shared feeds</title>
@@ -17,6 +44,7 @@
       <guid isPermaLink="true">https://www.louisgray.com/2026/11/webnerd-news-fights-silos.html</guid>
       <source url="https://www.louisgray.com/">louisgray.com</source>
     </item>
+
     <item>
       <title>ICANN opens public review of 1,610 proposed top-level domains</title>
       <link>https://www.icann.org/en/announcements/details/icann-confirms-2026-round-applications-input-and-objections-period-begins-17-11-2026-en</link>
@@ -25,6 +53,7 @@
       <guid isPermaLink="true">https://www.icann.org/en/announcements/details/icann-confirms-2026-round-applications-input-and-objections-period-begins-17-11-2026-en</guid>
       <source url="https://www.icann.org/">ICANN</source>
     </item>
+
     <item>
       <title>Static Radio builds a live dial from independent podcast feeds</title>
       <link>https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</link>
@@ -33,6 +62,7 @@
       <guid isPermaLink="true">https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</guid>
       <source url="https://www.radioworld.com/">Radio World</source>
     </item>
+
     <item>
       <title>WordPress 7.1.5 closes 20 security holes and urges immediate updates</title>
       <link>https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</link>
@@ -41,6 +71,7 @@
       <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</guid>
       <source url="https://wordpress.org/">WordPress.org</source>
     </item>
+
     <item>
       <title>Entrepreneurs On Fire sells for up to $9 million</title>
       <link>https://podnews.net/update/eof-9million</link>
@@ -49,6 +80,7 @@
       <guid isPermaLink="true">https://podnews.net/update/eof-9million</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
+
     <item>
       <title>Archive Team races to preserve Apple’s support forums before Friday shutdown</title>
       <link>https://wiki.archiveteam.org/index.php?title=Projects</link>
@@ -57,6 +89,7 @@
       <guid isPermaLink="true">https://wiki.archiveteam.org/index.php?title=Projects</guid>
       <source url="https://wiki.archiveteam.org/">Archive Team</source>
     </item>
+
     <item>
       <title>WordPress 7.2 reaches its first release candidate</title>
       <link>https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</link>
@@ -65,6 +98,7 @@
       <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</guid>
       <source url="https://wordpress.org/">WordPress.org</source>
     </item>
+
     <item>
       <title>Overcast tests manual ad skipping while trying to protect creators</title>
       <link>https://podnews.net/article/overcast-smart-skip-ad-skipping</link>
@@ -73,6 +107,7 @@
       <guid isPermaLink="true">https://podnews.net/article/overcast-smart-skip-ad-skipping</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
+
     <item>
       <title>A 10,000-site crawl finds RSS alive but increasingly hidden</title>
       <link>https://rssly.io/state-of-rss-2026</link>
@@ -81,6 +116,7 @@
       <guid isPermaLink="true">https://rssly.io/state-of-rss-2026</guid>
       <source url="https://rssly.io/">RSSly</source>
     </item>
+
     <item>
       <title>AT Protocol prepares a public beta for permissioned data spaces</title>
       <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
@@ -89,6 +125,7 @@
       <guid isPermaLink="true">https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</guid>
       <source url="https://atproto.com/">AT Protocol</source>
     </item>
+
     <item>
       <title>Apple prepares to bring video podcasts to Apple TV</title>
       <link>https://podnews.net/update/apple-tv-apple-podcasts</link>
@@ -97,6 +134,7 @@
       <guid isPermaLink="true">https://podnews.net/update/apple-tv-apple-podcasts</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
+
     <item>
       <title>Maria Ressa argues journalism must confront platform power</title>
       <link>https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book</link>
@@ -105,28 +143,5 @@
       <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book</guid>
       <source url="https://www.theguardian.com/">The Guardian</source>
     </item>
-    <item>
-      <title>WordPress 7.2 introduces a standard Secrets API</title>
-      <link>https://make.wordpress.org/core/2026/11/11/the-secrets-api-in-wordpress-7-2/</link>
-      <description>WordPress 7.2 will give core, plugins and hosts a common way to store credentials encrypted at rest. The API supports rotation, versioned values and a host-provided drop-in, while self-hosted installations must define WP_SECRETS_KEY before secrets can be saved.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://make.wordpress.org/core/2026/11/11/the-secrets-api-in-wordpress-7-2/</guid>
-      <source url="https://make.wordpress.org/core/">WordPress Core</source>
-    </item>
-    <item>
-      <title>The Bulwark and Vox Media form broad current-affairs partnership</title>
-      <link>https://www.voxmedia.com/2026/11/11/the-bulwark-and-vox-media-form-partnership-creating-top-slate-of-current-affairs-programming/</link>
-      <description>Vox Media will handle advertising, podcast hosting and cross-promotion for The Bulwark under a partnership promising nearly 200 hours of current-affairs programming each month in 2027. The deal joins a growing independent political newsroom with Vox’s distribution and sales infrastructure.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.voxmedia.com/2026/11/11/the-bulwark-and-vox-media-form-partnership-creating-top-slate-of-current-affairs-programming/</guid>
-      <source url="https://www.voxmedia.com/">Vox Media</source>
-    </item>
-    <item>
-      <title>Atmosphere cooperative organizes builders around the open social web</title>
-      <link>https://blog.atmosphere.community/a/3mzzn77fgy623-introducing-the-atmosphere-community-cooperative</link>
-      <description>Developers, organizers and artists have launched the Atmosphere Community Cooperative to build shared tools, services and community around AT Protocol. Its member-governed structure is an experiment in giving the people who create an interoperable social ecosystem a direct stake in its direction.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.atmosphere.community/a/3mzzn77fgy623-introducing-the-atmosphere-community-cooperative</guid>
-      <source url="https://blog.atmosphere.community/">Atmosphere Community</source>
-    </item>
-
+  </channel>
+</rss>

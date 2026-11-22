@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:43:34 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Shuri Castle’s main hall rises again in Okinawa</title>
+      <link>https://apnews.com/article/3ac5a220df1efa2be0a6d32529518314</link>
+      <description>Seven years after a fire destroyed Shuri Castle’s main buildings, Okinawa unveiled the rebuilt Seiden main hall. Its deep-red exterior and dragon ornaments again crown the former Ryukyu Kingdom site, a treasured symbol of the islands’ distinct history. The public opening begins Monday while restoration continues.</description>
+      <pubDate>Sun, 22 Nov 2026 12:13:32 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/3ac5a220df1efa2be0a6d32529518314</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Orphaned baby marmoset finds a surrogate mum named Minty</title>
+      <link>https://news.met.police.uk/news/orphaned-baby-marmoset-is-named-after-met-officer-who-rescued-him-515298?site=uk</link>
+      <description>A five-month-old marmoset rescued from a London garden shed has been named Gino after the police officer who found him. Weighing just 140 grams and showing early rickets, he is recovering at Monkey World in Dorset, where an adult marmoset named Minty has taken him under her wing.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.met.police.uk/news/orphaned-baby-marmoset-is-named-after-met-officer-who-rescued-him-515298?site=uk</guid>
+      <source url="https://news.met.police.uk/">Metropolitan Police</source>
+    </item>
+
+    <item>
+      <title>Whale breath gives scientists whole genomes without a biopsy</title>
+      <link>https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot</link>
+      <description>Researchers used drones to collect misty “blow” from humpback whales and sequence entire genomes without touching the animals. Among 58 samples from 26 whales, the breath DNA closely matched traditional biopsies and revealed three previously undocumented mitochondrial variants, offering a gentler tool for conservation.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot</guid>
+      <source url="https://news.st-andrews.ac.uk/">University of St Andrews</source>
+    </item>
 
     <item>
       <title>French archivists rescue family memories one home movie at a time</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</guid>
       <source url="https://www.nsf.gov/">U.S. National Science Foundation</source>
-    </item>
-
-    <item>
-      <title>Buffett donates another $5.5 billion to family foundations</title>
-      <link>https://www.berkshirehathaway.com/news/nov1626.pdf</link>
-      <description>Warren Buffett converted 1,800 Berkshire Hathaway Class A shares and donated the resulting stock, worth roughly $5.5 billion, to four family foundations. His Thanksgiving letter again urged readers to practice kindness, arguing that goodness grows when it is shared.</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.berkshirehathaway.com/news/nov1626.pdf</guid>
-      <source url="https://www.berkshirehathaway.com/">Berkshire Hathaway</source>
-    </item>
-
-    <item>
-      <title>Millions of red crabs begin Christmas Island migration</title>
-      <link>https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/</link>
-      <description>Christmas Island’s annual red-crab migration is underway, sending millions of bright crustaceans from the forest toward the sea. The national park has opened bridges and road crossings for the travelers and is carrying live video of the spectacle for viewers far from the Indian Ocean.</description>
-      <pubDate>Mon, 16 Nov 2026 12:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://christmasislandnationalpark.gov.au/red-crab-migration/2026-red-crab-migration-livestreams/</guid>
-      <source url="https://christmasislandnationalpark.gov.au/">Christmas Island National Park</source>
-    </item>
-
-    <item>
-      <title>Volunteer drives 1,400 kilometres to save stranded turtle</title>
-      <link>https://www.abc.net.au/news/2026-11-16/wildlife-carer-road-trip-stranded-loggerhead-turtle-esperance/107384666</link>
-      <description>Wildlife carer Letesha Heslewood made a 16-hour round trip across Western Australia to collect a stranded loggerhead turtle nicknamed Shaggy. The exhausted animal is now eating squid and recovering in a heated tank at Bunbury’s Dolphin Discovery Centre.</description>
-      <pubDate>Mon, 16 Nov 2026 02:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.abc.net.au/news/2026-11-16/wildlife-carer-road-trip-stranded-loggerhead-turtle-esperance/107384666</guid>
-      <source url="https://www.abc.net.au/news/">ABC News</source>
     </item>
   </channel>
 </rss>

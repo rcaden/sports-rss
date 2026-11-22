@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:44:11 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>NewsBlur rebuilds its mobile web reader</title>
+      <link>https://blog.newsblur.com/2026/11/20/mobile-web-version-of-newsblur/</link>
+      <description>NewsBlur replaced its long-neglected mobile site with a responsive version of the desktop reader. The rewrite shares one codebase, adds touch-friendly layouts and swipe gestures, respects the browser back button, and makes the feed list paint immediately—useful progress for an independent, web-native RSS reader.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blog.newsblur.com/2026/11/20/mobile-web-version-of-newsblur/</guid>
+      <source url="https://blog.newsblur.com/">NewsBlur Blog</source>
+    </item>
+
+    <item>
+      <title>Feeder counts more than 300,000 recently active RSS feeds</title>
+      <link>https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</link>
+      <description>Feeder’s newly updated answer to “Is RSS dead?” uses its own index as evidence: more than 300,000 followed feeds published something in the previous 30 days. The article also maps RSS’s quiet infrastructure role across publishers and podcast apps, a measurable counterpoint to recurring declarations that the format has vanished.</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</guid>
+      <source url="https://feeder.co/">Feeder</source>
+    </item>
+
+    <item>
+      <title>Public media faces a choice beyond simply restoring federal funds</title>
+      <link>https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/</link>
+      <description>With a new Congress arriving January 3 after the Corporation for Public Broadcasting’s dissolution, Nieman Lab examines whether lawmakers should recreate the old system or build something more local and democratic. Proposals include public media centers governed by communities rather than another return to the previous structure.</description>
+      <pubDate>Thu, 19 Nov 2026 19:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
 
     <item>
       <title>Reddit ends RSS support without a general replacement</title>
@@ -115,33 +142,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://rssly.io/state-of-rss-2026</guid>
       <source url="https://rssly.io/">RSSly</source>
-    </item>
-
-    <item>
-      <title>AT Protocol prepares a public beta for permissioned data spaces</title>
-      <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
-      <description>AT Protocol will open the public beta of Spaces on December 1. The new layer lets developers build permissioned communities and private or semi-private data sets while keeping accounts portable across applications; updated personal data servers and development tools are available now.</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</guid>
-      <source url="https://atproto.com/">AT Protocol</source>
-    </item>
-
-    <item>
-      <title>Apple prepares to bring video podcasts to Apple TV</title>
-      <link>https://podnews.net/update/apple-tv-apple-podcasts</link>
-      <description>Apple is preparing an Apple Podcasts app for Apple TV, giving video podcasters another route to the living room. Podnews says the app will support synchronized playback across devices and arrive as video becomes a larger part of podcast distribution without replacing standard feed delivery.</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/apple-tv-apple-podcasts</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>Maria Ressa argues journalism must confront platform power</title>
-      <link>https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book</link>
-      <description>Nobel laureate Maria Ressa describes how concentrated platform ownership weakened the shared facts democracies need and left journalism struggling to hold power accountable. Her prescription joins newsroom independence, public-interest technology and sustained civic pressure rather than treating the information crisis as a simple product problem.</description>
-      <pubDate>Mon, 16 Nov 2026 11:00:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book</guid>
-      <source url="https://www.theguardian.com/">The Guardian</source>
     </item>
   </channel>
 </rss>

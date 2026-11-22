@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:43:52 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Why library ebooks can have waiting lists</title>
+      <link>https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</link>
+      <description>OverDrive’s concise explanation of digital lending answers a deceptively thorny question: libraries buy individual ebook or audiobook copies, and most publisher licenses permit only one borrower per copy at a time. Collection budgets determine how many copies are available, so a file that is easy to duplicate can still produce a long hold queue.</description>
+      <pubDate>Tue, 18 Aug 2026 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</guid>
+      <source url="https://help.overdrive.com/">OverDrive Help</source>
+    </item>
+
+    <item>
+      <title>A sourced field guide to what enters the public domain in 2027</title>
+      <link>https://commonscut.com/public-domain-2027</link>
+      <description>Commons Cut’s living guide tracks U.S. works expected to enter the public domain on January 1, 2027: publications from 1931 and sound recordings from 1926. It usefully flags renewal, foreign-work and version-specific complications, while linking its claims to catalogs and other evidence for deeper copyright archaeology.</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://commonscut.com/public-domain-2027</guid>
+      <source url="https://commonscut.com/">Commons Cut</source>
+    </item>
+
+    <item>
+      <title>MIT built a full calculus course for independent learners</title>
+      <link>https://news.mit.edu/2010/mitocw-independent-learners</link>
+      <description>MIT’s OpenCourseWare Scholar project turned Calculus I into a self-contained course for people studying outside a classroom. It supplies lectures, recitations, worked examples, problem sets and exams, assumes high-school algebra and trigonometry, and estimates about 150 hours of work—a serious, free route back into mathematics.</description>
+      <pubDate>Wed, 12 Jan 2011 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mit.edu/2010/mitocw-independent-learners</guid>
+      <source url="https://news.mit.edu/">MIT News</source>
+    </item>
 
     <item>
       <title>PHP 8.6 arrives with partial function application and safer defaults</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 25 Jul 2016 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://encyclopediaofalabama.org/article/mary-counselman/</guid>
       <source url="https://encyclopediaofalabama.org/">Encyclopedia of Alabama</source>
-    </item>
-
-    <item>
-      <title>How to read a publisher royalty statement and its reserves</title>
-      <link>https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</link>
-      <description>Cornell University Press explains the columns authors encounter on royalty statements, including sales, returns, prior balances and reserves against future returns. Particularly useful is its distinction between the reserve withheld this period and reserves from earlier periods that have now been released.</description>
-      <pubDate>Tue, 27 May 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://dhjhkxawhe8q4.cloudfront.net/cornell-university-press-wp/wp-content/uploads/2026/01/26153216/Understanding-Your-Royalty-Statements-05.27.25.pdf</guid>
-      <source url="https://www.cornellpress.cornell.edu/">Cornell University Press</source>
-    </item>
-
-    <item>
-      <title>Why the 1984 Lensman anime remains trapped in rights limbo</title>
-      <link>https://www.animenation.net/blog/ask-john-will-the-lensman-anime-ever-be-re-released/</link>
-      <description>This history traces the licensing problems behind the vanished Lensman film and television series. It reports that Harmony Gold never finalized its U.S. license, Streamline withdrew its releases after the Smith estate threatened legal action, and any revival would require negotiations whose cost may exceed the small vintage-anime market.</description>
-      <pubDate>Thu, 18 Jul 2013 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.animenation.net/blog/ask-john-will-the-lensman-anime-ever-be-re-released/</guid>
-      <source url="https://www.animenation.net/">AnimeNation</source>
-    </item>
-
-    <item>
-      <title>Copyright Office finishes digitizing 26,000 historical record books</title>
-      <link>https://www.copyright.gov/newsnet/2026/1099.html?loclr=twcop</link>
-      <description>The U.S. Copyright Office has completed digitization of more than 26,000 record books containing registrations, assignments, notices and other documents from 1870 through 1977. The images are available in a Library of Congress preview collection, with searchable metadata planned for the Copyright Public Records System.</description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1099.html?loclr=twcop</guid>
-      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
     </item>
   </channel>
 </rss>

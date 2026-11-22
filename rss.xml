@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:43:15 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Kansas City Current capture first NWSL championship</title>
+      <link>https://www.reuters.com/sports/soccer/current-beat-spirit-first-nwsl-championship-win-2026-11-22/</link>
+      <description>Kansas City defeated the Washington Spirit 2-1 to win the club’s first NWSL championship. Vanessa DiBernardo scored in the first half and Debinha converted a second-half penalty before Croix Bethune’s late goal made the finish tense. The title caps a landmark season for the Current.</description>
+      <pubDate>Sun, 22 Nov 2026 03:43:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/current-beat-spirit-first-nwsl-championship-win-2026-11-22/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Nebraska stuns No. 16 Ohio State and ends 31-game ranked skid</title>
+      <link>https://abcnews.com/Sports/wireStory/nebraska-ends-31-game-losing-streak-ap-top-138348620</link>
+      <description>Nebraska beat No. 16 Ohio State 31-28, ending a 31-game losing streak against AP Top 25 opponents that dated to 2016. Anthony Colandrea threw three touchdown passes as the Cornhuskers dealt a severe blow to the Buckeyes’ College Football Playoff hopes.</description>
+      <pubDate>Sat, 21 Nov 2026 20:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://abcnews.com/Sports/wireStory/nebraska-ends-31-game-losing-streak-ap-top-138348620</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Wembanyama makes NBA history in 50-point Spurs rout</title>
+      <link>https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line</link>
+      <description>Victor Wembanyama had 50 points, 19 rebounds, five blocks and four steals as San Antonio beat New Orleans 114-91. He became the first player since the three-point line began to combine 50 points, five blocks and five made threes, adding another unprecedented line to his young career.</description>
+      <pubDate>Sun, 22 Nov 2026 09:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line</guid>
+      <source url="https://www.nba.com/">NBA.com</source>
+    </item>
 
     <item>
       <title>Colts waive Daniel Jones and turn back to Anthony Richardson</title>
@@ -114,33 +141,6 @@
       <description>The WNBA is examining ways to regain or restructure the 16% stake sold to investors for $75 million in 2022, according to a report cited by Reuters. The issue comes as franchise values rise and the league considers more than a dozen candidates to succeed retiring commissioner Cathy Engelbert.</description>
       <pubDate>Wed, 18 Nov 2026 01:44:57 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/report-wnba-commissioner-seeks-league-stake-buyback--flm-2026-11-18/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>United States beats Canada for women’s hockey world title</title>
-      <link>https://www.iihf.com/en/events/2026/ww/news/76956/usacan</link>
-      <description>The United States defeated Canada 6-2 to win the IIHF Women’s World Championship in Herning. Hilary Knight scored twice and finished with a tournament-record nine goals, while the Americans claimed their second straight world title and 13th overall.</description>
-      <pubDate>Mon, 16 Nov 2026 21:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.iihf.com/en/events/2026/ww/news/76956/usacan</guid>
-      <source url="https://www.iihf.com/">International Ice Hockey Federation</source>
-    </item>
-
-    <item>
-      <title>Patriots lose Drake Maye indefinitely to ankle injury</title>
-      <link>https://www.sportsnet.ca/nfl/article/report-patriots-qb-drake-maye-facing-significant-leg-injury/</link>
-      <description>New England quarterback Drake Maye is out indefinitely with a significant ankle injury suffered on the opening drive of the Patriots’ 35-10 loss to Detroit in Munich. The Associated Press reports that surgery remains possible, a major blow to the AFC East leaders.</description>
-      <pubDate>Mon, 16 Nov 2026 17:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.sportsnet.ca/nfl/article/report-patriots-qb-drake-maye-facing-significant-leg-injury/</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>PGA Tour rules out special return program for former LIV players</title>
-      <link>https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/</link>
-      <description>PGA Tour chief executive Brian Rolapp said the tour does not plan another special pathway for players who left for LIV Golf, which is winding down after its financing collapsed. Former LIV golfers seeking to return will have to use the tour’s existing eligibility routes.</description>
-      <pubDate>Mon, 16 Nov 2026 23:48:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/golf/pga-tour-not-planning-return-program-ex-liv-players-ceo-says-2026-11-16/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

@@ -5,9 +5,39 @@
     <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
     <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 13:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:45:06 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Project Gutenberg rebuilds after vandalism takes its archive offline</title>
+      <link>https://bsky.app/profile/gutenberg.org/post/3n2lyzpdgwc2a</link>
+      <description>Project Gutenberg said on November 20 that its free-ebook site was undergoing a “deep rebuilding” after vandalism, extending an outage that began November 15. Status updates say attackers repeatedly altered the site, volunteers found injected code in page footers, and administrators began rebuilding operational tools and server software from scratch. The books themselves were reported safe, but mirror operators were asked to report files containing the spam text “asiafilm.” Founded in 1971, Gutenberg is a foundational volunteer archive for public-domain literature, including a deep collection of early science fiction, pulps and genre-adjacent classics. The November 20 notice is the news peg; it also underscores how much fandom’s historical record depends on small nonprofit infrastructures maintained by volunteers.</description>
+      <pubDate>Fri, 20 Nov 2026 12:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://bsky.app/profile/gutenberg.org/post/3n2lyzpdgwc2a</guid>
+      <source url="https://www.gutenberg.org/">Project Gutenberg</source>
+      <category>History</category>
+    </item>
+
+    <item>
+      <title>Gallifrey One begins second wave of 2027 guest announcements</title>
+      <link>https://www.gallifreyone.com/category/gallifrey-one-2027/</link>
+      <description>Gallifrey One opened its second wave of 2027 guest announcements on November 20, naming Tony Lee, Peter Anghelides and Lizzie Hopley for The Magnificent 37 of Gallifrey One. Lee’s credits span Doctor Who comics and audio, while Anghelides runs Big Finish’s Doctor Who Short Trips and Blake’s 7 ranges; Hopley has worked extensively as both actor and writer for Big Finish. The Los Angeles convention runs in February 2027 and had already announced Ninth Doctor actor Christopher Eccleston as its headline guest on November 14. The new wave matters beyond celebrity booking: it emphasizes writers, editors, audio producers and performers who connect modern Doctor Who fandom with the long institutional histories of licensed fiction, fan conventions and Big Finish’s decades of audio drama.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.gallifreyone.com/category/gallifrey-one-2027/</guid>
+      <source url="https://www.gallifreyone.com/">Gallifrey One</source>
+      <category>Conventions</category>
+    </item>
+
+    <item>
+      <title>Chen Qiufan, Baoshu and Gu Shi win Xingyun Awards gold</title>
+      <link>https://www.chinawriter.com.cn/n1/2026/1117/c404079-40835698.html</link>
+      <description>The 17th Xingyun Awards for Chinese science fiction were presented in Chengdu on November 15, with the China Writers Association reporting the results on November 17. Chen Qiufan’s Ocean Break won the novel gold award, Baoshu’s “Future Stories” took novella gold, and Gu Shi’s “To the Other Shore” won short-story gold. A Chinese translation of Neil McAleer’s Arthur C. Clarke biography received the translation gold, while Science Fiction World earned the Xingqiao gold award for building bridges between Chinese and international science fiction. Organizers said more than 300 representatives participated and the surrounding Chengdu Science Fiction Week reached 47 countries and regions. The awards, founded in 2010, provide a useful snapshot of Chinese-language genre institutions, generational continuity and international exchange.</description>
+      <pubDate>Tue, 17 Nov 2026 08:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.chinawriter.com.cn/n1/2026/1117/c404079-40835698.html</guid>
+      <source url="https://www.chinawriter.com.cn/">China Writers Association</source>
+      <category>Awards</category>
+    </item>
 
     <item>
       <title>Jayant V. Narlikar’s Marathi cyber-thriller Virus reaches English readers</title>
@@ -126,36 +156,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://skiffyandfanty.com/blog/announcements/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</guid>
       <source url="https://skiffyandfanty.com/">The Skiffy and Fanty Show</source>
-      <category>People</category>
-    </item>
-
-    <item>
-      <title>M. John Harrison becomes the Booker Prize’s first science-fiction-world winner</title>
-      <link>https://thebookerprizes.com/media-centre/press-releases/the-end-of-everything-by-m-john-harrison-wins-the-booker-prize-2026</link>
-      <description>M. John Harrison won the 2026 Booker Prize on November 9 for The End of Everything, a dystopian satire published by Serpent’s Tail. At 81, Harrison is the prize’s oldest winner; Booker chief executive Gaby Wood also called him its first laureate to emerge from the established science-fiction world. The £50,000 award crowns a career that shaped British New Wave and later space opera while repeatedly resisting narrow genre labels. It is also Serpent’s Tail’s first Booker victory. The linked official release is dated November 2, before the ceremony, and records the result and judges’ reasoning; the November 9 announcement is the news peg that brings Harrison’s long relationship with both literary and genre institutions into focus.</description>
-      <pubDate>Mon, 02 Nov 2026 21:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://thebookerprizes.com/media-centre/press-releases/the-end-of-everything-by-m-john-harrison-wins-the-booker-prize-2026</guid>
-      <source url="https://thebookerprizes.com/">The Booker Prizes</source>
-      <category>Awards</category>
-    </item>
-
-    <item>
-      <title>Starlog returns to print as an annual on its 50th anniversary</title>
-      <link>https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary</link>
-      <description>Starlog returned to newsstands on November 13 with issue 375, ending a 17-year absence from print and marking 50 years since the magazine’s 1976 debut. The revived title will appear annually under editor-in-chief Annalee Newitz, with a new logo based on the original design and a cover by Gabriel Yeganyan. For fans who learned genre news from its interviews, convention reports and production photography, the format matters as much as the revival: this is a physical magazine, not merely a familiar trademark attached to a website. Space.com published the linked preview on November 8, five days before release, making the anniversary comeback a current publishing event with unusually strong fandom-memory appeal.</description>
-      <pubDate>Sun, 08 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary</guid>
-      <source url="https://www.space.com/">Space.com</source>
-      <category>Publishing</category>
-    </item>
-
-    <item>
-      <title>Jean-Louis Trudel remembered one year after his death in Vilnius</title>
-      <link>https://cirst.uqam.ca/actualites/deces-de-jean-louis-trudel/</link>
-      <description>November 17 marks one year since Canadian author, editor and science-fiction historian Jean-Louis Trudel died in Vilnius on November 17, 2025, while serving as a writer in residence. He was 58. The Montreal-born scholar trained in physics, astronomy and the history of science, wrote roughly 30 books, and became a central chronicler of French-language Canadian speculative fiction. He also collaborated with Yves Meynard under the shared name Laurent McAllister, linking literary production with the institutional memory he preserved as critic and historian. CIRST published the linked memorial on November 20, 2025, three days after his death; today’s first anniversary supplies the verified time peg for revisiting a career that connected francophone fandom, publishing and scholarship.</description>
-      <pubDate>Thu, 20 Nov 2025 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://cirst.uqam.ca/actualites/deces-de-jean-louis-trudel/</guid>
-      <source url="https://cirst.uqam.ca/">Centre interuniversitaire de recherche sur la science et la technologie</source>
       <category>People</category>
     </item>
   </channel>

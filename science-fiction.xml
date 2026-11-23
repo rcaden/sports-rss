@@ -5,9 +5,39 @@
     <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
     <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:11:45 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Poul Anderson’s centenary marks a life across science fiction and fantasy</title>
+      <link>https://sf-encyclopedia.com/entry/anderson_poul</link>
+      <description>Poul Anderson was born on November 25, 1926, making November 25, 2026 the centenary of one of science fiction’s most prolific and versatile writers. Trained as a physicist, Anderson ranged from hard science fiction such as Tau Zero to alternate history, space opera, historical fantasy and the Time Patrol stories. He won seven Hugo Awards and three Nebulas, served as SFWA president, became an SFWA Grand Master and entered the Science Fiction Hall of Fame. He was also deeply embedded in fandom, joining the Minneapolis Fantasy Society and helping found the Society for Creative Anachronism. The Encyclopedia of Science Fiction entry was updated October 26; its publication predates the centenary peg but provides a current, substantial career assessment.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sf-encyclopedia.com/entry/anderson_poul</guid>
+      <source url="https://sf-encyclopedia.com/">The Encyclopedia of Science Fiction</source>
+      <category>People</category>
+    </item>
+
+    <item>
+      <title>Tor withdraws Ilona Andrews cover after provenance failure</title>
+      <link>https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/</link>
+      <description>Ilona and Gordon Andrews reported on November 20 that Tor Publishing Group withdrew the revealed cover for This Crown Will Not Rule Me after learning that undisclosed image-generation software had been used. The authors said their book contract forbids such tools and Tor’s art contracts do too. Tor accepted responsibility for the failed review, apologized to the authors and readers, promised stronger internal checks, and said none of the disputed imagery will appear on finished books. Readers and artists first raised concerns, prompting the authors to request proof of human-created art. The incident matters beyond one September 2027 fantasy release: it tests whether contractual bans and publisher policies can reliably establish provenance in commercial illustration, and how quickly publishers respond when their safeguards fail.</description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/</guid>
+      <source url="https://ilona-andrews.com/">Ilona Andrews</source>
+      <category>Controversy</category>
+    </item>
+
+    <item>
+      <title>Manzieri and Barkan win 2026 Frank R. Paul Awards</title>
+      <link>https://www.fantascienza.com/index.php/32171/maurizio-manzieri-ha-vinto-di-nuovo-il-frank-r-paul-award</link>
+      <description>The 2026 Frank R. Paul Awards were presented at Philcon on November 20, with Fantascienza reporting the results on November 23. Maurizio Manzieri won Best Book Cover for an Allan Kaster anthology of robot stories, becoming the first artist to win the category in consecutive years. Gal Barkan received Best Magazine Cover for Star*Line. Each winner receives $500 and a trophy based on Frank R. Paul’s September 1935 Wonder Stories “Tiger-bot” cover. The award’s lineage connects contemporary genre illustration with the artist whose spectacular machinery helped define early magazine science fiction. This year’s ceremony also carried a strong historical peg: Philcon, founded in 1936 and regarded as the oldest continuing science-fiction convention, was celebrating its 90th anniversary.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.fantascienza.com/index.php/32171/maurizio-manzieri-ha-vinto-di-nuovo-il-frank-r-paul-award</guid>
+      <source url="https://www.fantascienza.com/">Fantascienza.com</source>
+      <category>Awards</category>
+    </item>
 
     <item>
       <title>Project Gutenberg rebuilds after vandalism takes its archive offline</title>
@@ -127,36 +157,6 @@
       <guid isPermaLink="true">https://www.blackgate.com/2018/11/19/birthday-reviews-alex-shvartsmans-staff-meeting-as-seen-by-the-spam-filter/</guid>
       <category>People</category>
       <source url="https://www.blackgate.com/">Black Gate</source>
-    </item>
-
-    <item>
-      <title>Alan Dean Foster turns 80 after helping put Star Wars on the page</title>
-      <link>https://ascstarwarsnetwork.com/on-this-day-in-star-wars-history-18-november-alan-dean-foster-and-the-galaxy-on-the-page/</link>
-      <description>November 18, 2026, is the 80th birthday of Alan Dean Foster, born November 18, 1946. Before audiences had seen Star Wars, Foster turned its screenplay and production art into the 1976 novelization published under George Lucas’s name. His contract also produced Splinter of the Mind’s Eye, the 1978 adventure conceived so it could support a relatively inexpensive film sequel if necessary. Foster went on to write more than 100 books, including the Humanx Commonwealth and Spellsinger series and novelizations for Alien, Star Trek and other franchises. The linked anniversary essay was published today and draws on Foster’s Texas A&amp;M archive biography and first-person accounts, making the date both a career milestone and a reminder of how paperback novelizations expanded screen fandom.</description>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ascstarwarsnetwork.com/on-this-day-in-star-wars-history-18-november-alan-dean-foster-and-the-galaxy-on-the-page/</guid>
-      <source url="https://ascstarwarsnetwork.com/">ASC Star Wars Network</source>
-      <category>People</category>
-    </item>
-
-    <item>
-      <title>Heinlein’s “Misfit” television adaptation reaches its 75th anniversary</title>
-      <link>https://amazingstories.com/2017/11/lost-forever-1951-1952-science-fiction-tv-series/</link>
-      <description>On November 18, 1951—75 years ago today—CBS aired “Misfit,” the fourth episode of its live science-fiction anthology Out There. Joseph Kramm adapted Robert A. Heinlein’s 1939 Astounding story about young men reshaping an asteroid’s orbit, part of a twelve-episode series that also drew on stories by John D. MacDonald, Theodore Sturgeon, Katherine MacLean and Frank Belknap Long. Almost none of the broadcasts are known to survive, leaving schedules, scripts and contemporary notices to document an unusually serious early attempt to put magazine science fiction on television. The linked Amazing Stories retrospective was published in November 2017; the original broadcast date supplies today’s verified 75th-anniversary peg.</description>
-      <pubDate>Sat, 18 Nov 2017 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://amazingstories.com/2017/11/lost-forever-1951-1952-science-fiction-tv-series/</guid>
-      <source url="https://amazingstories.com/">Amazing Stories</source>
-      <category>History</category>
-    </item>
-
-    <item>
-      <title>Steve Davidson, publisher who revived Amazing Stories, dies at 67</title>
-      <link>https://skiffyandfanty.com/blog/announcements/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</link>
-      <description>Publisher and editor Steve Davidson died November 4, 2026, at 67; the linked obituary was published November 5. Davidson acquired Amazing Stories in 2012, restored the landmark title as a website, and returned it to print through a successful 2018 crowdfunding campaign. He also co-edited a sequence of Best of Amazing Stories reprint anthologies and worked to keep the magazine’s history available while opening it to contemporary writers and artists. His death during Amazing’s centennial year gives the loss particular resonance for fandom: Davidson’s stewardship connected Hugo Gernsback’s 1926 institution to its current online incarnation and helped the oldest science-fiction magazine begin a second century.</description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://skiffyandfanty.com/blog/announcements/steve-davidson-publisher-who-revived-amazing-stories-dies-at-67/</guid>
-      <source url="https://skiffyandfanty.com/">The Skiffy and Fanty Show</source>
-      <category>People</category>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:11:19 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>AT Protocol prepares permissioned Spaces for a December 1 beta</title>
+      <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
+      <description>AT Protocol says its Spaces extension will enter public beta December 1, adding permissioned data for private groups, newsletters and other shared applications. Reference servers will gain support through an update, while new documentation and an SDK aim to let independent developers build interoperable social tools for millions of accounts.</description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</guid>
+      <source url="https://atproto.com/">AT Protocol</source>
+    </item>
+
+    <item>
+      <title>WordPress.com documents an open-feed path to podcast distribution</title>
+      <link>https://wordpress.com/support/audio/podcast/</link>
+      <description>WordPress.com’s newly reviewed podcast guide shows how even a free site can publish a submission-ready RSS feed while hosting audio elsewhere, then distribute episodes to Apple, Spotify, YouTube Music, Pocket Casts and Podcast Index. It is a practical example of the open feed remaining the portable spine beneath many listening apps.</description>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://wordpress.com/support/audio/podcast/</guid>
+      <source url="https://wordpress.com/support/">WordPress.com Support</source>
+    </item>
+
+    <item>
+      <title>NPR makes rebuilding its app central to its next strategy</title>
+      <link>https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</link>
+      <description>NPR’s 2027–2029 plan calls for a service-first, app-first destination, targeting five million weekly platform users and a 40 million monthly digital audience by 2029. The shift reflects a public media network trying to preserve radio while building direct digital relationships and giving member stations a better place in the product.</description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
 
     <item>
       <title>NewsBlur rebuilds its mobile web reader</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://wiki.archiveteam.org/index.php?title=Projects</guid>
       <source url="https://wiki.archiveteam.org/">Archive Team</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.2 reaches its first release candidate</title>
-      <link>https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</link>
-      <description>WordPress 7.2 RC1 is available for testing ahead of the December 8 final release. Recent fixes cover media uploads, accessibility, revision previews, plugin dependencies and the Interactivity API; plugin and theme authors are urged to complete compatibility testing without using RC1 on production sites.</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-2-release-candidate-1/</guid>
-      <source url="https://wordpress.org/">WordPress.org</source>
-    </item>
-
-    <item>
-      <title>Overcast tests manual ad skipping while trying to protect creators</title>
-      <link>https://podnews.net/article/overcast-smart-skip-ad-skipping</link>
-      <description>Independent podcast app Overcast is testing Smart Skip for premium users. It detects an ad break but never skips automatically, stops before the final call to action and ignores a show’s own membership or product promotions—an attempt by developer Marco Arment to meet listener demand without undermining open-feed economics.</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/article/overcast-smart-skip-ad-skipping</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>A 10,000-site crawl finds RSS alive but increasingly hidden</title>
-      <link>https://rssly.io/state-of-rss-2026</link>
-      <description>A crawl of the 10,000 most popular domains found a discoverable working feed on 24% of readable sites. RSS accounted for 94% of working feeds, but 57% of sites that advertised one in 2016 no longer do; several still update the old address, suggesting feed discovery has declined faster than feed publishing.</description>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://rssly.io/state-of-rss-2026</guid>
-      <source url="https://rssly.io/">RSSly</source>
     </item>
   </channel>
 </rss>

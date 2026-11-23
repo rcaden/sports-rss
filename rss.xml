@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:43:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:10:08 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Mets agree to record $450 million deal with Tarik Skubal</title>
+      <link>https://apnews.com/article/f4cd370e5bc2e048f7e823b4bb5bf008</link>
+      <description>Two-time Cy Young winner Tarik Skubal agreed to a nine-year, $450 million contract with the Mets, an AP source said. The deal, pending a physical, would set pitcher records for total value and $50 million average salary. AP reported a full no-trade clause and a $45 million signing bonus.</description>
+      <pubDate>Sun, 22 Nov 2026 22:16:57 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/f4cd370e5bc2e048f7e823b4bb5bf008</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Tom Jackson, Broncos great and ESPN mainstay, dies at 75</title>
+      <link>https://apnews.com/article/bba71b580bd5120afcbad215af5b9f72</link>
+      <description>Tom Jackson, a leader of Denver’s Orange Crush defense and Chris Berman’s longtime partner on ESPN’s NFL Primetime, died Friday at 75. The three-time Pro Bowler played 14 seasons for the Broncos, then spent 32 years at ESPN helping define how a generation watched Sunday highlights.</description>
+      <pubDate>Sun, 22 Nov 2026 16:17:57 GMT</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/bba71b580bd5120afcbad215af5b9f72</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Russia’s return to international sports meets European resistance</title>
+      <link>https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</link>
+      <description>Russia’s push to re-enter international competition is colliding with visa denials, boycotts and legal challenges across Europe. Reuters reports a December 15 CAS ruling could shape participation ahead of the 2027 European Games, a key qualifying route for the 2028 Los Angeles Olympics.</description>
+      <pubDate>Mon, 23 Nov 2026 12:40:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Kansas City Current capture first NWSL championship</title>
@@ -115,33 +142,6 @@
       <pubDate>Wed, 18 Nov 2026 23:45:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</guid>
       <source url="https://www.nwslsoccer.com/">National Women’s Soccer League</source>
-    </item>
-
-    <item>
-      <title>Diallo enters FIFA race as UEFA-backed challenger to Infantino</title>
-      <link>https://apnews.com/article/31882135ed1465967fad2c6071ea1db6</link>
-      <description>French federation president Philippe Diallo formally entered the March 18 FIFA election, joining Japan’s Kozo Tashima in challenging Gianni Infantino. Backed by UEFA, Diallo said recent FIFA decisions had broken trust in the governing body and promised a campaign centered on solidarity and accountability.</description>
-      <pubDate>Tue, 17 Nov 2026 10:07:05 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/31882135ed1465967fad2c6071ea1db6</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Tiger Woods sets December return after more than two years away</title>
-      <link>https://www.reuters.com/sports/golf/woods-to-make-competitive-return-decembers-hero-world-challenge-2026-11-17/</link>
-      <description>Tiger Woods will return to official competition at the Hero World Challenge on December 3-6, ending an absence of more than two years from world-ranking events. The 50-year-old tournament host joins a 20-player Bahamas field after back, Achilles and legal setbacks delayed his comeback.</description>
-      <pubDate>Tue, 17 Nov 2026 14:54:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/golf/woods-to-make-competitive-return-decembers-hero-world-challenge-2026-11-17/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>WNBA considers reclaiming investor stake as commissioner search continues</title>
-      <link>https://www.reuters.com/sports/report-wnba-commissioner-seeks-league-stake-buyback--flm-2026-11-18/</link>
-      <description>The WNBA is examining ways to regain or restructure the 16% stake sold to investors for $75 million in 2022, according to a report cited by Reuters. The issue comes as franchise values rise and the league considers more than a dozen candidates to succeed retiring commissioner Cathy Engelbert.</description>
-      <pubDate>Wed, 18 Nov 2026 01:44:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/report-wnba-commissioner-seeks-league-stake-buyback--flm-2026-11-18/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

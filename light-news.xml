@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:10:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>New Zealand’s longest lizards return home after 30 years</title>
+      <link>https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-zealands-longest-lizard-returned-to-wild/</link>
+      <description>Eleven threatened niho taniwha, or chevron skinks, have returned to Aotea/Great Barrier Island after three decades at Auckland Zoo. The 30-centimeter lizards were released into predator-controlled forest with bamboo refuges and tiny radio transmitters, joining ten others returned in July.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-zealands-longest-lizard-returned-to-wild/</guid>
+      <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
+    </item>
+
+    <item>
+      <title>Zeus the cat commutes 37 miles to London and back</title>
+      <link>https://www.bbc.com/news/articles/c6x2exd5ee4ro</link>
+      <description>Four-year-old Zeus boarded an evening train in Braintree and rode 37 miles to London Liverpool Street. Station staff kept the seasoned traveler safe in their office, then a Greater Anglia employee escorted him home. His owner says the sociable cat wears two trackers and has caught trains before.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6x2exd5ee4ro</guid>
+      <source url="https://www.bbc.com/news">BBC News</source>
+    </item>
+
+    <item>
+      <title>Otters bring hope to Kuala Lumpur’s once-filthy river</title>
+      <link>https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</link>
+      <description>Families of vulnerable smooth-coated otters are turning up along Kuala Lumpur’s Klang River, once rated in Malaysia’s worst pollution class. Years of cleanup have improved the river to moderately polluted, and conservationists hope the playful fish-eaters will rally support for cleaner water and restored banks.</description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</guid>
+      <source url="https://news.mongabay.com/">Mongabay</source>
+    </item>
 
     <item>
       <title>Shuri Castle’s main hall rises again in Okinawa</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 16 Nov 2026 22:46:14 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</guid>
       <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Pope forgives the pilgrim whose thrown rosary hit him in the eye</title>
-      <link>https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</link>
-      <description>Pope Leo XIV laughed off the rosary that struck his eye during a popemobile ride before a Lima Mass attended by about 1.5 million people. He said the throw reflected profound faith, joked that Peru was something he carried in his heart and eye, and forgave the enthusiastic pilgrim.</description>
-      <pubDate>Tue, 17 Nov 2026 08:52:28 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/0a1c02ea91c22da3dd5a6386a5fc1efc</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Baby oysters return to a Scottish firth after more than a century</title>
-      <link>https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years</link>
-      <description>Native oysters are reproducing in the Dornoch Firth for the first time since the population was fished out in the late 1800s. Scientists and volunteers have restored more than 140,000 juveniles since 2017; the newly found babies show that the reef can now begin rebuilding itself.</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.hw.ac.uk/news/2026/first-oysters-born-in-dornoch-firth-for-over-100-years</guid>
-      <source url="https://www.hw.ac.uk/">Heriot-Watt University</source>
-    </item>
-
-    <item>
-      <title>Healthy corals can nurse bleached neighbors back to health</title>
-      <link>https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</link>
-      <description>Researchers found that a healthy coral touching a bleached one can fuse with it and form a bridge carrying nutrients and symbiotic algae. The damaged coral continued recovering after the helper was removed, suggesting a surprisingly simple path toward future reef restoration.</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.nsf.gov/geo/updates/healthy-corals-can-restore-dying-corals-just-one-touch</guid>
-      <source url="https://www.nsf.gov/">U.S. National Science Foundation</source>
     </item>
   </channel>
 </rss>

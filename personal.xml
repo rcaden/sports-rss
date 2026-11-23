@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:10:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Tracing Lovecraft’s one-week stay in New Orleans</title>
+      <link>https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</link>
+      <description>This compact research note reconstructs H.P. Lovecraft’s June 1932 week in New Orleans with fellow Weird Tales writer E. Hoffmann Price. It identifies Price’s apartment at 305 Royal Street, Lovecraft’s inexpensive St. Charles Street hotel, their long conversations and the surviving memoir and correspondence that document the visit.</description>
+      <pubDate>Thu, 02 Feb 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</guid>
+      <source url="https://jurn.link/tentaclii/">Tentaclii</source>
+    </item>
+
+    <item>
+      <title>How Poydras Market shaped a lost New Orleans neighborhood</title>
+      <link>https://prcno.org/new-district-enlivens-historic-neighborhood/</link>
+      <description>Before parking lots hollowed out the blocks above Lafayette Square, the bustling Poydras Market supported restaurants, shops, saloons, stables and industry for nearly a century. This illustrated history connects the market’s vanished commercial ecosystem to the modern South Market District and includes an 1864–65 photograph.</description>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://prcno.org/new-district-enlivens-historic-neighborhood/</guid>
+      <source url="https://prcno.org/">Preservation Resource Center of New Orleans</source>
+    </item>
+
+    <item>
+      <title>What ServiceNow Zurich’s modern JavaScript engine actually supports</title>
+      <link>https://www.servicenow.com/docs/r/zurich/api-reference/scripts/c_JS_engine_upgrade.html</link>
+      <description>ServiceNow’s Zurich documentation explains where server-side scripts can use ECMAScript 2021 features such as optional chaining, destructuring, const, let and arrow functions. It also distinguishes modern, ES5 Standards and Compatibility modes—useful when upgrading scoped applications without unexpectedly changing older script behavior.</description>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/api-reference/scripts/c_JS_engine_upgrade.html</guid>
+      <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
+    </item>
 
     <item>
       <title>Why library ebooks can have waiting lists</title>
@@ -115,33 +142,6 @@
       <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.nascar.com/news-media/2026/11/15/nascar-tv-guide/</guid>
       <source url="https://www.nascar.com/">NASCAR</source>
-    </item>
-
-    <item>
-      <title>A practical map to Florida HOA covenants and amendments</title>
-      <link>https://hoaguideflorida.com/learn/buyers/how-to-find-florida-hoa-governing-documents/</link>
-      <description>This guide explains why a Florida HOA’s declaration and amendments are found in county official records, while articles of incorporation are filed with Sunbiz and board-made rules often must come from the association. It includes links for all 67 counties and useful search terms when a clerk’s document types are unclear.</description>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hoaguideflorida.com/learn/buyers/how-to-find-florida-hoa-governing-documents/</guid>
-      <source url="https://hoaguideflorida.com/">HOA Guide Florida</source>
-    </item>
-
-    <item>
-      <title>The advanced numbers behind Colorado’s disappointing season</title>
-      <link>https://sports.yahoo.com/articles/advanced-analytics-colorado-vs-houston-023000605.html</link>
-      <description>This pre-Houston snapshot uses ESPN’s Football Power Index and related efficiency measures to explain Colorado’s 2026 struggles after a 3-6 start. It separates the Buffaloes’ reputation from their opponent-adjusted performance and offers a useful baseline for comparing them with North Texas.</description>
-      <pubDate>Thu, 12 Nov 2026 02:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sports.yahoo.com/articles/advanced-analytics-colorado-vs-houston-023000605.html</guid>
-      <source url="https://sports.yahoo.com/">Yahoo Sports</source>
-    </item>
-
-    <item>
-      <title>A birthday-ready guide to Weird Tales writer Mary Elizabeth Counselman</title>
-      <link>https://encyclopediaofalabama.org/article/mary-counselman/</link>
-      <description>Born November 19, 1911, Mary Elizabeth Counselman wrote 30 horror and fantasy stories for Weird Tales, including “The Three Marked Pennies,” composed when she was 15. This detailed biography traces her Alabama settings, newspaper work, unusual women-centered pulp fiction and later Arkham House collection.</description>
-      <pubDate>Mon, 25 Jul 2016 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://encyclopediaofalabama.org/article/mary-counselman/</guid>
-      <source url="https://encyclopediaofalabama.org/">Encyclopedia of Alabama</source>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:59:21 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>A one-person tech newsroom reaches an $800,000 run rate</title>
+      <link>https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</link>
+      <description>Inc. profiles Alex Konrad’s bootstrapped Upstarts Media, a newsletter, podcast and events business launched after he left Forbes. With about 13,000 newsletter subscribers, roughly 1,000 paying readers and sponsorships supplying most revenue, the operation is on pace for about $800,000 this year—but its dependence on one reporter is also its central risk.</description>
+      <pubDate>Mon, 23 Nov 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</guid>
+      <source url="https://www.inc.com/">Inc.</source>
+    </item>
+
+    <item>
+      <title>Firefox cuts Android app-link startup time by about 20 percent</title>
+      <link>https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</link>
+      <description>Mozilla says Firefox for Android now opens links from other apps about 20% faster than in January. The browser begins network work earlier, delays most extension startup and replaces an animated splash screen. On a Samsung A55 reference phone, one news-site launch fell from 2,054 milliseconds to 1,597.</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</guid>
+      <source url="https://blog.mozilla.org/">Mozilla</source>
+    </item>
+
+    <item>
+      <title>Firefox reduces the identifying details exposed to fingerprinting scripts</title>
+      <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
+      <description>Mozilla’s study of measurements from nearly 25 million Firefox users found that protecting a small set of browser features can sharply weaken fingerprinting. Firefox now obscures details such as exact processor counts and desktop layout information, while Mozilla published its methods and a browser test suite for independent scrutiny.</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</guid>
+      <source url="https://blog.mozilla.org/security/">Mozilla Security Blog</source>
+    </item>
 
     <item>
       <title>AT Protocol prepares permissioned Spaces for a December 1 beta</title>
@@ -115,33 +142,6 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</guid>
       <source url="https://www.radioworld.com/">Radio World</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.1.5 closes 20 security holes and urges immediate updates</title>
-      <link>https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</link>
-      <description>WordPress released 7.1.5 with fixes for SQL injection, privilege escalation, cross-site scripting, REST and XML-RPC information disclosure, and a Template Part flaw that could lead to remote code execution. Maintainers recommend updating immediately; applicable fixes are also being backported through branch 4.7.</description>
-      <pubDate>Wed, 18 Nov 2026 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</guid>
-      <source url="https://wordpress.org/">WordPress.org</source>
-    </item>
-
-    <item>
-      <title>Entrepreneurs On Fire sells for up to $9 million</title>
-      <link>https://podnews.net/update/eof-9million</link>
-      <description>The independent business podcast Entrepreneurs On Fire has been sold to Pathos Communications for $3 million in cash plus as much as $6 million in performance payments. Founder John Lee Dumas will remain host for at least three years, making the deal a revealing valuation of a profitable, personality-led podcast brand.</description>
-      <pubDate>Wed, 18 Nov 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://podnews.net/update/eof-9million</guid>
-      <source url="https://podnews.net/">Podnews</source>
-    </item>
-
-    <item>
-      <title>Archive Team races to preserve Apple’s support forums before Friday shutdown</title>
-      <link>https://wiki.archiveteam.org/index.php?title=Projects</link>
-      <description>Archive Team lists Apple Discussions as an urgent preservation project before the Apple Support Community closes November 20. The user-to-user troubleshooting archive dates to the 1998 Apple Tech Exchange, making the rescue an unusually large effort to retain practical personal-computing history that Apple has not promised to keep online.</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wiki.archiveteam.org/index.php?title=Projects</guid>
-      <source url="https://wiki.archiveteam.org/">Archive Team</source>
     </item>
   </channel>
 </rss>

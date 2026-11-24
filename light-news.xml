@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:58:36 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Bagot goats take on a steep conservation job in Greenwich Park</title>
+      <link>https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</link>
+      <description>Britain’s oldest native goat breed is spending November 23–27 browsing thorny growth below the Royal Observatory. The small, sure-footed Bagot goats can reach Castle Hill Bank where machines and volunteers struggle, helping protect a famous view while making room for more plant life.</description>
+      <pubDate>Mon, 23 Nov 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</guid>
+      <source url="https://www.royalparks.org.uk/">The Royal Parks</source>
+    </item>
+
+    <item>
+      <title>Conservation partners return the 1,000th Jamaican rock iguana to the wild</title>
+      <link>https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</link>
+      <description>A November 14 release of 33 iguanas in Jamaica’s Hellshire Hills pushed a decades-long recovery program past 1,000 animals returned to the wild. The species was thought extinct until 1990. Head-starting now gives hatchlings time to grow before they face predators in their native dry forest.</description>
+      <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</guid>
+      <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
+    </item>
+
+    <item>
+      <title>Four rescued manatees head back to Florida for the final leg of rehabilitation</title>
+      <link>https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</link>
+      <description>Redrock, Rosalyn, Erie and Hundo traveled safely from Ohio zoos to Florida rehabilitation centers, bringing each closer to a winter release in native waters. Custom foam-lined crates, blankets, misting and careful air-and-road coordination kept the large passengers comfortable along the way.</description>
+      <pubDate>Fri, 20 Nov 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</guid>
+      <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
+    </item>
 
     <item>
       <title>New Zealand’s longest lizards return home after 30 years</title>
@@ -114,33 +141,6 @@
       <description>The restored western building of Trajan’s Ulpia Library is opening to the public after being inaccessible for nearly a century. Visitors can see surviving marble, column fragments and projections explaining a repository that once held Greek scrolls and public records; its Latin-language twin remains beneath a church.</description>
       <pubDate>Thu, 19 Nov 2026 20:15:55 GMT</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>FDA approves first treatment shown to extend lives in severe childhood disease</title>
-      <link>https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</link>
-      <description>The FDA approved Lembaz, the first treatment shown to help people with infantile-onset Niemann-Pick disease type C live longer. The rare disorder causes cholesterol and other lipids to accumulate in cells; the approval follows two decades of foundational work by National Institutes of Health researchers.</description>
-      <pubDate>Tue, 17 Nov 2026 19:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer</guid>
-      <source url="https://www.fda.gov/">U.S. Food and Drug Administration</source>
-    </item>
-
-    <item>
-      <title>Cincinnati Zoo gives Fiona a gentle shake to help pass a swallowed hat</title>
-      <link>https://apnews.com/article/04bef9e3d2d89f6ba4260d4daabe5c13</link>
-      <description>Fiona the hippo is getting unconventional help after swallowing a visitor’s hat: Cincinnati Zoo veterinarians tried a vibration plate to encourage the obstruction to move. An ultrasound showed her intestines still working to pass it, and the zoo continues to monitor its famously resilient star.</description>
-      <pubDate>Wed, 18 Nov 2026 17:03:02 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/04bef9e3d2d89f6ba4260d4daabe5c13</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>El Dorado turns unwanted aviation fame into a pronunciation lesson</title>
-      <link>https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</link>
-      <description>After a communications failure near El Dorado, Arkansas, was blamed for a nationwide flight disruption, the city used its sudden notoriety to clear up something locals hear constantly: the name is pronounced “El Duh Ray Duh.” Officials are redirecting attention toward the town’s people, history and attractions.</description>
-      <pubDate>Mon, 16 Nov 2026 22:46:14 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/a94b8fbdcbd5ba6b0843ed1cfa74ebf8</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>

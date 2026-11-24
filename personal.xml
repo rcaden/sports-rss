@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:59:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>The odd hotel-room origins of fantasy football</title>
+      <link>https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</link>
+      <description>The Pro Football Hall of Fame traces fantasy football to an October 1962 Raiders road trip, when Bill Winkenbach, Bill Tunnell and Scotty Stirling sketched rules in a Manhattan hotel. The first GOPPPL draft followed in August 1963, with George Blanda as the first selection; a public league arrived in 1969.</description>
+      <pubDate>Mon, 07 Sep 2020 20:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</guid>
+      <source url="https://www.profootballhof.com/">Pro Football Hall of Fame</source>
+    </item>
+
+    <item>
+      <title>Inside the Jacksonville History Center’s 2,000-foot archive</title>
+      <link>https://jaxhistory.org/meet-the-archives-staff/</link>
+      <description>Jacksonville’s historical archive holds more than 2,000 linear feet of letters, manuscripts and ephemera, plus over 100,000 photographs and negatives, maps, films, books and artifacts. Archivist Erin Mustard explains how preservation storage and catalog descriptions keep 200 years of local records usable for researchers.</description>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://jaxhistory.org/meet-the-archives-staff/</guid>
+      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+    </item>
+
+    <item>
+      <title>ServiceNow’s module system brings imports, TypeScript and npm dependencies to scoped apps</title>
+      <link>https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</link>
+      <description>ServiceNow’s Zurich documentation explains how scoped applications can organize reusable JavaScript or TypeScript modules with named and default exports, import server APIs explicitly, and declare third-party packages in package.json. It also documents important limits: no global apps, Node.js APIs or undeclared cross-scope access.</description>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</guid>
+      <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
+    </item>
 
     <item>
       <title>Tracing Lovecraft’s one-week stay in New Orleans</title>
@@ -115,33 +142,6 @@
       <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://sandywp.com/blog/wordpress-rss-feed</guid>
       <source url="https://sandywp.com/">SandyWP</source>
-    </item>
-
-    <item>
-      <title>AWS updates its practical guide to choosing Lightsail, Beanstalk or EC2</title>
-      <link>https://docs.aws.amazon.com/decision-guides/latest/decision-guides/lightsail-elastic-beanstalk-ec2.html</link>
-      <description>AWS’s September 29 decision guide compares the three hosting paths by control, pricing, deployment and growth. It describes Lightsail as the predictable, unified choice for straightforward websites, Beanstalk as managed application deployment and EC2 as the option for maximum infrastructure flexibility.</description>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://docs.aws.amazon.com/decision-guides/latest/decision-guides/lightsail-elastic-beanstalk-ec2.html</guid>
-      <source url="https://docs.aws.amazon.com/">Amazon Web Services</source>
-    </item>
-
-    <item>
-      <title>PHP’s official migration guide maps the breaking jump from 7.4 to 8.0</title>
-      <link>https://www.php.net/manual/en/migration80.incompatible.php</link>
-      <description>The PHP manual’s incompatibility list is the best first checklist before moving an old site to PHP 8. It covers fatal inheritance-signature errors, stricter string and number handling, removed functions, resource-to-object changes and altered return values—the changes most likely to surface in long-lived WordPress-era code.</description>
-      <pubDate>Thu, 23 Nov 2023 16:58:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.php.net/manual/en/migration80.incompatible.php</guid>
-      <source url="https://www.php.net/">PHP</source>
-    </item>
-
-    <item>
-      <title>NASCAR’s official guide puts every 2026 television and streaming outlet in one place</title>
-      <link>https://www.nascar.com/news-media/2026/11/15/nascar-tv-guide/</link>
-      <description>NASCAR’s updated viewing guide links the season’s television and streaming homes: FOX, FS1 and FS2; Prime Video; TNT Sports; NBC and USA; The CW; plus app and international options. The page is refreshed weekly, making it a useful bookmark when races and supporting series move between networks.</description>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.nascar.com/news-media/2026/11/15/nascar-tv-guide/</guid>
-      <source url="https://www.nascar.com/">NASCAR</source>
     </item>
   </channel>
 </rss>

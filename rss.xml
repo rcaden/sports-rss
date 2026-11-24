@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:58:15 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>FIFA confirms hosts for the 2031 and 2035 Women’s World Cups</title>
+      <link>https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</link>
+      <description>FIFA appointed the United States, Mexico, Costa Rica and Jamaica to host the expanded 48-team Women’s World Cup in 2031. England, Northern Ireland, Scotland and Wales will stage the 2035 tournament. Both unopposed bids were approved by acclamation at an extraordinary congress.</description>
+      <pubDate>Mon, 23 Nov 2026 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</guid>
+      <source url="https://www.fifa.com/">FIFA</source>
+    </item>
+
+    <item>
+      <title>Players answer MLB’s salary-cap demand with full media-revenue sharing</title>
+      <link>https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</link>
+      <description>One week before an expected lockout, the players’ union proposed equal sharing of all media revenue among MLB’s 30 clubs without a salary cap. AP’s Ronald Blum reports owners countered with a $1 million minimum salary for 2027 and bonuses, but the central dispute remains unresolved.</description>
+      <pubDate>Mon, 23 Nov 2026 19:33:47 GMT</pubDate>
+      <guid isPermaLink="true">https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
+
+    <item>
+      <title>Commanders stun Bengals with last-second field goal</title>
+      <link>https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</link>
+      <description>Jayden Daniels hit rookie Antonio Williams for gains of 22 and 42 yards in the final minute, setting up Drew Stevens’ 26-yard field goal as time expired in Washington’s 22-20 upset of Cincinnati. Stevens made five field goals, and the 4-5-1 Commanders kept their season alive.</description>
+      <pubDate>Tue, 24 Nov 2026 05:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
 
     <item>
       <title>Mets agree to record $450 million deal with Tarik Skubal</title>
@@ -115,33 +142,6 @@
       <pubDate>Thu, 19 Nov 2026 21:30:15 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/formula1/fia-introduce-full-time-formula-one-stewards-2027-2026-11-19/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>MLB owners refuse to budge on cap as December lockout nears</title>
-      <link>https://apnews.com/article/44f4f09e643d2a86f612be53a020460d</link>
-      <description>Commissioner Rob Manfred said owners will not ratify a labor deal without a salary cap and floor, while the players’ union still calls a cap a nonstarter. The current agreement expires December 1, putting baseball on course for a lockout that could halt signings and threaten the 2027 season.</description>
-      <pubDate>Wed, 18 Nov 2026 20:35:47 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/44f4f09e643d2a86f612be53a020460d</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>World Cup winner Juan Mata retires after 20-year career</title>
-      <link>https://www.reuters.com/sports/soccer/world-cup-winner-juan-mata-announces-retirement-38-2026-11-18/</link>
-      <description>Juan Mata retired at 38 after two decades that included Spain’s 2010 World Cup and 2012 European Championship, a Champions League title with Chelsea and major trophies with Manchester United. The admired playmaker finished his club career in Australia with Melbourne Victory.</description>
-      <pubDate>Wed, 18 Nov 2026 10:21:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/world-cup-winner-juan-mata-announces-retirement-38-2026-11-18/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Ashley Sanchez caps record season with NWSL MVP award</title>
-      <link>https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</link>
-      <description>North Carolina Courage forward Ashley Sanchez won the 2026 NWSL Most Valuable Player award after scoring 20 goals, tying the league’s single-season record and setting a new mark for an American player. The league also named its Best XI and other season award winners ahead of Saturday’s championship.</description>
-      <pubDate>Wed, 18 Nov 2026 23:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.nwslsoccer.com/news/national-women-s-soccer-league-announces-award-winners-for-2026-season</guid>
-      <source url="https://www.nwslsoccer.com/">National Women’s Soccer League</source>
     </item>
   </channel>
 </rss>

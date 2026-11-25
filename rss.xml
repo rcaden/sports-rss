@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:58:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:47:55 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Steelers bench Aaron Rodgers and turn to Mason Rudolph</title>
+      <link>https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</link>
+      <description>Pittsburgh will make Aaron Rodgers inactive and start Mason Rudolph against Denver on Friday, Reuters reported. The 6-4 Steelers remain in playoff contention, but Rodgers has completed 60.9% of his passes with an 86.6 rating. The move puts a decorated veteran on the sideline at a pivotal point in the season.</description>
+      <pubDate>Wed, 25 Nov 2026 06:08:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Jannik Sinner faces extended layoff after knee surgery</title>
+      <link>https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</link>
+      <description>Jannik Sinner underwent surgery in Finland on the iliotibial band in his right knee and could miss up to four months, putting his Australian Open participation in doubt. The procedure followed a persistent problem that had limited the former world No. 1 and reshapes the opening stretch of the 2027 tennis season.</description>
+      <pubDate>Tue, 24 Nov 2026 17:11:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+
+    <item>
+      <title>United States will host the 2028 Copa América</title>
+      <link>https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</link>
+      <description>CONMEBOL and Concacaf confirmed that the United States will stage the 2028 Copa América from June 9 through July 9. The 16-team field will include all 10 South American associations and six Concacaf qualifiers. Host cities and stadiums will be announced later.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</guid>
+      <source url="https://copaamerica.com/">CONMEBOL Copa América</source>
+    </item>
 
     <item>
       <title>FIFA confirms hosts for the 2031 and 2035 Women’s World Cups</title>
@@ -114,33 +141,6 @@
       <description>The ATP approved a compensation program worth more than $350 million that will begin in 2028, with potential payments reaching $1.1 million for top-100 singles players and extending through No. 250. The tour delayed a proposed overhaul of doubles while it continues consultation.</description>
       <pubDate>Fri, 20 Nov 2026 10:01:52 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/tennis/atp-approves-350-million-compensation-plan-delays-doubles-decision-2026-11-20/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-
-    <item>
-      <title>Pete Rose receives posthumous pardon for tax convictions</title>
-      <link>https://apnews.com/article/14f398d4c657ccf55cb8a77cc7e60915</link>
-      <description>President Donald Trump posthumously pardoned Pete Rose for the tax convictions that sent baseball’s career hits leader to prison in 1990. The pardon does not erase Rose’s gambling history, but it follows MLB’s 2025 decision to restore eligibility after death and leaves his Hall of Fame case for the 2028 ballot at the earliest.</description>
-      <pubDate>Thu, 19 Nov 2026 21:31:55 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/14f398d4c657ccf55cb8a77cc7e60915</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>NFL suspends Rams star Puka Nacua for three games</title>
-      <link>https://www.nfl.com/news/puka-nacua-suspension-rams-nfl</link>
-      <description>The NFL suspended All-Pro Rams receiver Puka Nacua for three games under its personal conduct policy. Because Nacua is already on injured reserve with knee and toe injuries, he can serve the unpaid suspension without missing additional games and is eligible to return in December.</description>
-      <pubDate>Thu, 19 Nov 2026 20:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.nfl.com/news/puka-nacua-suspension-rams-nfl</guid>
-      <source url="https://www.nfl.com/">NFL.com</source>
-    </item>
-
-    <item>
-      <title>Formula One will begin using full-time stewards in 2027</title>
-      <link>https://www.reuters.com/sports/formula1/fia-introduce-full-time-formula-one-stewards-2027-2026-11-19/</link>
-      <description>The FIA will phase in full-time Formula One stewards next season to improve consistency in decisions that often draw scrutiny from drivers and teams. Reuters reports the governing body ultimately wants a department of 12 to 15 officials, while retaining part-time and former-driver stewards alongside them.</description>
-      <pubDate>Thu, 19 Nov 2026 21:30:15 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/formula1/fia-introduce-full-time-formula-one-stewards-2027-2026-11-19/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>

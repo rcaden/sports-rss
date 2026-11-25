@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:48:58 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Small local news sites find traffic gains in newsletters, obits and service journalism</title>
+      <link>https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</link>
+      <description>Nieman Lab’s latest ranking of local for-profit news sites shows that useful, distinctive coverage can still travel. Big gainers drew readers through obituary follow-ups, newsletter distribution and service pieces such as a guide to the 690-mile World’s Longest Yard Sale—practical evidence that small publishers can win attention without chasing national scale.</description>
+      <pubDate>Mon, 23 Nov 2026 17:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+
+    <item>
+      <title>WebKit adds an interface for Global Privacy Control</title>
+      <link>https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</link>
+      <description>WebKit now lets apps built with WKWebView or WebPage for SwiftUI expose a user setting for Global Privacy Control, the emerging signal for opting out of data sale, sharing and cross-context targeted advertising. The change gives independent browser and app developers a standards-based privacy control across Apple’s current operating systems.</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</guid>
+      <source url="https://webkit.org/">WebKit</source>
+    </item>
+
+    <item>
+      <title>San Jose Earthquakes announce a change of ownership</title>
+      <link>https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</link>
+      <description>Heath Freeman will acquire the San Jose Earthquakes and PayPal Park from John Fisher and partners after unanimous approval by Major League Soccer’s Board of Governors. The deal, whose financial terms were not disclosed, is expected to close in the coming weeks and gives a founding MLS club new stewardship in Silicon Valley.</description>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
+      <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
+    </item>
 
     <item>
       <title>A one-person tech newsroom reaches an $800,000 run rate</title>
@@ -115,33 +142,6 @@
       <pubDate>Fri, 20 Nov 2026 13:16:10 GMT</pubDate>
       <guid isPermaLink="true">https://make.wordpress.org/core/2026/11/20/wordpress-7-2-field-guide/</guid>
       <source url="https://make.wordpress.org/core/">WordPress Core</source>
-    </item>
-
-    <item>
-      <title>Webnerd News turns open-web discovery into follows and shared feeds</title>
-      <link>https://www.louisgray.com/2026/11/webnerd-news-fights-silos.html</link>
-      <description>Louis Gray’s new news view starts with user-chosen RSS feeds and transparent topic bundles, then adds one-click following and sharing to a public RSS stream. The design treats discovery as a path to lasting subscriptions and outbound traffic rather than another closed destination governed by a ranking algorithm.</description>
-      <pubDate>Thu, 19 Nov 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.louisgray.com/2026/11/webnerd-news-fights-silos.html</guid>
-      <source url="https://www.louisgray.com/">louisgray.com</source>
-    </item>
-
-    <item>
-      <title>ICANN opens public review of 1,610 proposed top-level domains</title>
-      <link>https://www.icann.org/en/announcements/details/icann-confirms-2026-round-applications-input-and-objections-period-begins-17-11-2026-en</link>
-      <description>ICANN published the final application list for its 2026 generic top-level-domain round and opened comments and formal objections through March 16, 2027. The process includes 1,610 applications and 226 contention sets, giving the public a rare chance to flag confusion, legal-rights or community concerns before evaluation.</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.icann.org/en/announcements/details/icann-confirms-2026-round-applications-input-and-objections-period-begins-17-11-2026-en</guid>
-      <source url="https://www.icann.org/">ICANN</source>
-    </item>
-
-    <item>
-      <title>Static Radio builds a live dial from independent podcast feeds</title>
-      <link>https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</link>
-      <description>A two-person Chicago studio has launched Static Radio, a free app with nine always-on stations assembled from roughly 1,000 independent podcasts. Everyone hears the same moment, but episodes stream in full from publishers’ own RSS feeds, preserving download attribution while replacing search and recommendation feeds with human curation.</description>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.radioworld.com/news-and-business/news-makers/static-radio-community-radio-for-podcasts</guid>
-      <source url="https://www.radioworld.com/">Radio World</source>
     </item>
   </channel>
 </rss>

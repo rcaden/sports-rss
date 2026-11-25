@@ -5,9 +5,36 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:58:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:48:14 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Kiwi return to Wellington’s hills after more than 150 years</title>
+      <link>https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</link>
+      <description>More than 250 kiwi now roam the hills around New Zealand’s capital after a Māori-led project deployed 5,300 traps across nearly 60,000 acres to control stoats. Capital Kiwi says chick survival has topped 90% under the program, restoring the flightless birds to a landscape where they had been absent for more than 150 years.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</guid>
+      <source url="https://news.mongabay.com/">Mongabay</source>
+    </item>
+
+    <item>
+      <title>‘Retired’ parakeet pair surprise keepers with a new family</title>
+      <link>https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</link>
+      <description>Sophia and Prince Polo, two orange-fronted parakeets thought to be past breeding age, produced chicks at Christchurch’s Orana Wildlife Park—and Sophia laid another clutch a month later. The critically endangered New Zealand species has twice been declared extinct and numbers only about 450 birds.</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</guid>
+      <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
+    </item>
+
+    <item>
+      <title>Volunteers turn difficult cursive letters into searchable history</title>
+      <link>https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</link>
+      <description>Volunteers at Bowling Green State University are deciphering handwritten letters and converting them into searchable text. The project makes fragile records easier for researchers and the public to discover while giving people who still read cursive a practical way to preserve women’s history and other stories locked in archives.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</guid>
+      <source url="https://www.goodgoodgood.co/">Good Good Good</source>
+    </item>
 
     <item>
       <title>Bagot goats take on a steep conservation job in Greenwich Park</title>
@@ -115,33 +142,6 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.aquariumofpacific.org/press/info/olive_ridley_sea_turtle_eggs_hatch_at_the_aquarium_of_the_pacific/newsroom</guid>
       <source url="https://www.aquariumofpacific.org/">Aquarium of the Pacific</source>
-    </item>
-
-    <item>
-      <title>Romanian prison festival gives 59 inmates a public stage</title>
-      <link>https://apnews.com/article/976c91f5ba9011f7aad5b91bcdc1c096</link>
-      <description>Fifty-nine inmates from seven prisons performed at Bucharest’s Nottara Theatre in the 15th Dana Cenusa festival. The program pairs prisoners with theater professionals and uses applause, collaboration and roles ranging from Beckett to original monologues to build confidence and prepare participants for life after custody.</description>
-      <pubDate>Thu, 19 Nov 2026 18:35:16 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/976c91f5ba9011f7aad5b91bcdc1c096</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Italy’s hedgehog hospital names every tiny patient as an act of hope</title>
-      <link>https://apnews.com/article/c18121482335b2edd06befef05485a56</link>
-      <description>At La Ninna rescue center in Piedmont, underweight hoglets receive incubators, fluids, oxygen and individual names before a hoped-for spring release. The donation-funded clinic was caring for about 300 hedgehogs by mid-November, many born too late to reach the weight needed for winter hibernation.</description>
-      <pubDate>Thu, 19 Nov 2026 21:21:49 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/c18121482335b2edd06befef05485a56</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Ancient Rome’s long-buried Ulpia Library welcomes visitors again</title>
-      <link>https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</link>
-      <description>The restored western building of Trajan’s Ulpia Library is opening to the public after being inaccessible for nearly a century. Visitors can see surviving marble, column fragments and projections explaining a repository that once held Greek scrolls and public records; its Latin-language twin remains beneath a church.</description>
-      <pubDate>Thu, 19 Nov 2026 20:15:55 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/be5efcda2ab1f3a7f3e6189bf8c1a15b</guid>
-      <source url="https://apnews.com/">Associated Press</source>
     </item>
   </channel>
 </rss>

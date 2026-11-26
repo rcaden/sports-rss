@@ -5,10 +5,18 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>News about fantasy sports experts, analysts, shows and outlets.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/fantasy-experts.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Tony Romo joins Betr as chief predictions officer</title>
+      <link>https://www.prnewswire.com/news-releases/betr-names-tony-romo-chief-predictions-officer-302950824.html</link>
+      <description>Betr named former CBS analyst Tony Romo its inaugural chief predictions officer and an equity stakeholder. The company said Romo will make original predictions and content across its gaming products, including Betr Picks, marking a new media and product role for the former quarterback.</description>
+      <pubDate>Wed, 25 Nov 2026 21:03:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:fantasy-tony-romo-betr</guid>
+      <source url="https://www.betr.app/">Betr Holdings, Inc.</source>
+    </item>
     <item>
       <title>Jeff Mans returns to SiriusXM Fantasy Sports Radio after unexplained absence</title>
       <link>https://www.fantasyguru.com/elite-sports</link>
@@ -17,7 +25,6 @@
       <guid isPermaLink="true">https://www.fantasyguru.com/elite-sports</guid>
       <source url="https://www.fantasyguru.com/">Fantasy Guru</source>
     </item>
-
     <item>
       <title>Jeff Mans addresses his continuing SiriusXM absence without explaining it</title>
       <link>https://manspod.podbean.com/</link>
@@ -26,7 +33,6 @@
       <guid isPermaLink="true">https://manspod.podbean.com/</guid>
       <source url="https://manspod.podbean.com/">One MANS Opinion</source>
     </item>
-
     <item>
           <title>Jeff Mans surfaces on Fantasy Sports Daily amid unexplained SiriusXM absence</title>
           <link>https://fantasysportsdaily.podbean.com/e/fantasy-sports-daily-with-jeff-mans-oct27-2026/</link>
@@ -35,7 +41,6 @@
           <guid isPermaLink="true">https://fantasysportsdaily.podbean.com/e/fantasy-sports-daily-with-jeff-mans-oct27-2026/</guid>
           <source url="https://fantasysportsdaily.podbean.com/">Fantasy Sports Daily</source>
         </item>
-
     <item>
           <title>Matthew Berry launches daily Pregame show on Roku</title>
           <link>https://www.publicnow.com/view/24989695A1A1A80295D5710050A4C5BDB10CE77B</link>

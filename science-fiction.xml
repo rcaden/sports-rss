@@ -5,10 +5,37 @@
     <link>https://rcaden.github.io/sports-rss/science-fiction.xml</link>
     <description>Science fiction and fantasy fandom news, publishing, conventions, and history.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:49:41 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/science-fiction.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Titan Books acquires two RR Khashman fantasy novels</title>
+      <link>https://www.thebookseller.com/rights/titan-books-snaps-up-venetian-inspired-epic-fantasy-debut-by-rr-khashman</link>
+      <description>On November 25, 2026, The Bookseller reported that Titan Books acquired world English-language rights to two novels by Future Worlds Prize-shortlisted author Rakan Khashman, writing as RR Khashman. Commissioning editor Daniel Carpenter bought the rights from James McGowan at BookEnds Literary Agency; Penguin Random House Audio separately acquired audio rights. The debut, With Death and Dance, is scheduled for July 2028. Set in a Venetian-inspired city, it follows two cursed thieves whose attempted robbery becomes a murder mystery after their intended victim is found dead. The deal is notable both as a two-book commitment to a debut writer and as another example of Titan’s continued investment in secondary-world fantasy with a strong crime-story engine.</description>
+      <category>Publishing</category>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sf-khashman-titan-deal</guid>
+      <source url="https://www.thebookseller.com/">The Bookseller</source>
+    </item>
+    <item>
+      <title>Inaugural Children’s Booker names its ‘Great Eight’ shortlist</title>
+      <link>https://thebookerprizes.com/media-centre/press-releases/childrens-booker-prize-2027-announced</link>
+      <description>The Booker Prize Foundation announced the inaugural Children’s Booker Prize shortlist on November 24, 2026. The eight books, spanning novels, graphic novels and illustrated stories for readers ages eight to 12, include work by Guy Bass, Catherine Bruton, Eoin Colfer and Andrew Donkin, Iqbal Hussain, Liz Hyder, Mikey Please, Jessica Scott-Whyte and Shaun Tan. Four child judges chosen from more than 4,000 applicants will join the adult panel in selecting the winner, to be announced February 2, 2027. Each shortlisted book receives £2,500, while the winner receives £50,000. For genre readers, the list’s mix of fantasy, time travel, monsters and otherworldly visitors makes the new institution worth watching from its first year.</description>
+      <category>Awards</category>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sf-childrens-booker-shortlist</guid>
+      <source url="https://thebookerprizes.com/">The Booker Prizes</source>
+    </item>
+    <item>
+      <title>Former Dragon Con co-founder Edward Kramer sentenced to prison</title>
+      <link>https://www.gwinnettcounty.com/-/news-events/news-releases/news-details/dracon-con-co-founder-jailed-for-child-molestation-case</link>
+      <description>Gwinnett County announced on November 17, 2026, that Edward Kramer was sentenced to 40 years, with the first five in prison, after a judge revoked his first-offender status for probation violations. Kramer had entered a 2013 plea on three child-molestation counts stemming from his 2000 arrest. Prosecutors said the violations included photographing a child, contacting young males through social media and viewing pornography involving young males. Kramer co-founded Dragon Con but has had no connection to the convention or its organization since a 2013 cash-out merger. The sentence is a consequential development in a case that shadowed Atlanta fandom and Dragon Con for years; the county’s release is the primary official account of the hearing and punishment.</description>
+      <category>Controversy</category>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sf-edward-kramer-sentence</guid>
+      <source url="https://www.gwinnettcounty.com/">Gwinnett County</source>
+    </item>
     <item>
       <title>Karen Lansdale, writer and artist, dies at 74</title>
       <link>https://locusmag.com/2026/11/karen-lansdale-1952-2026/</link>
@@ -18,7 +45,6 @@
       <guid isPermaLink="true">https://locusmag.com/2026/11/karen-lansdale-1952-2026/</guid>
       <source url="https://locusmag.com/">Locus Magazine</source>
     </item>
-
     <item>
       <title>FanFiAddict launches boutique genre imprint FFA Publishing</title>
       <link>https://fanfiaddict.com/announcing-ffa-publishing/</link>
@@ -28,7 +54,6 @@
       <guid isPermaLink="true">https://fanfiaddict.com/announcing-ffa-publishing/</guid>
       <source url="https://fanfiaddict.com/">FanFiAddict</source>
     </item>
-
     <item>
       <title>Children of the Nameless enters print with a charity tie-in</title>
       <link>https://subterraneanpress.com/newshighlighting-children-of-the-nameless-by-brandon-sanderson/</link>
@@ -38,7 +63,6 @@
       <guid isPermaLink="true">https://subterraneanpress.com/newshighlighting-children-of-the-nameless-by-brandon-sanderson/</guid>
       <source url="https://subterraneanpress.com/">Subterranean Press</source>
     </item>
-
     <item>
       <title>The Red Winter wins the 2026 Speakies science-fiction and fantasy prize</title>
       <link>https://podcastingtoday.co.uk/british-audio-awards-highlight-innovation-in-audio-storytelling/</link>
@@ -48,7 +72,6 @@
       <source url="https://podcastingtoday.co.uk/">PodcastingToday</source>
       <category>Awards</category>
     </item>
-
     <item>
       <title>Star Trek’s first two-part story reaches its 60th anniversary</title>
       <link>https://www.paramountplus.com/shows/video/835965417/</link>
@@ -58,7 +81,6 @@
       <source url="https://www.paramountplus.com/">Paramount+</source>
       <category>History</category>
     </item>
-
     <item>
       <title>Doctor Who’s The Deadly Assassin finale turns 50</title>
       <link>https://www.doctorwho.tv/stories/the-deadly-assassin</link>
@@ -68,7 +90,6 @@
       <source url="https://www.doctorwho.tv/">Doctor Who</source>
       <category>History</category>
     </item>
-
     <item>
       <title>Poul Anderson’s centenary marks a life across science fiction and fantasy</title>
       <link>https://sf-encyclopedia.com/entry/anderson_poul</link>
@@ -78,17 +99,6 @@
       <source url="https://sf-encyclopedia.com/">The Encyclopedia of Science Fiction</source>
       <category>People</category>
     </item>
-
-    <item>
-      <title>Tor withdraws Ilona Andrews cover after provenance failure</title>
-      <link>https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/</link>
-      <description>Ilona and Gordon Andrews reported on November 20 that Tor Publishing Group withdrew the revealed cover for This Crown Will Not Rule Me after learning that undisclosed image-generation software had been used. The authors said their book contract forbids such tools and Tor’s art contracts do too. Tor accepted responsibility for the failed review, apologized to the authors and readers, promised stronger internal checks, and said none of the disputed imagery will appear on finished books. Readers and artists first raised concerns, prompting the authors to request proof of human-created art. The incident matters beyond one September 2027 fantasy release: it tests whether contractual bans and publisher policies can reliably establish provenance in commercial illustration, and how quickly publishers respond when their safeguards fail.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ilona-andrews.com/blog/generative-ai-on-this-crowns-cover/</guid>
-      <source url="https://ilona-andrews.com/">Ilona Andrews</source>
-      <category>Controversy</category>
-    </item>
-
     <item>
       <title>Manzieri and Barkan win 2026 Frank R. Paul Awards</title>
       <link>https://www.fantascienza.com/index.php/32171/maurizio-manzieri-ha-vinto-di-nuovo-il-frank-r-paul-award</link>
@@ -98,7 +108,6 @@
       <source url="https://www.fantascienza.com/">Fantascienza.com</source>
       <category>Awards</category>
     </item>
-
     <item>
       <title>Project Gutenberg rebuilds after vandalism takes its archive offline</title>
       <link>https://bsky.app/profile/gutenberg.org/post/3n2lyzpdgwc2a</link>
@@ -108,7 +117,6 @@
       <source url="https://www.gutenberg.org/">Project Gutenberg</source>
       <category>History</category>
     </item>
-
     <item>
       <title>Gallifrey One begins second wave of 2027 guest announcements</title>
       <link>https://www.gallifreyone.com/category/gallifrey-one-2027/</link>
@@ -118,7 +126,6 @@
       <source url="https://www.gallifreyone.com/">Gallifrey One</source>
       <category>Conventions</category>
     </item>
-
     <item>
       <title>Chen Qiufan, Baoshu and Gu Shi win Xingyun Awards gold</title>
       <link>https://www.chinawriter.com.cn/n1/2026/1117/c404079-40835698.html</link>
@@ -128,7 +135,6 @@
       <source url="https://www.chinawriter.com.cn/">China Writers Association</source>
       <category>Awards</category>
     </item>
-
     <item>
       <title>Jayant V. Narlikar’s Marathi cyber-thriller Virus reaches English readers</title>
       <link>https://csi.asu.edu/books/virus-coming-november-2026/</link>
@@ -137,26 +143,6 @@
       <guid isPermaLink="true">https://csi.asu.edu/books/virus-coming-november-2026/</guid>
       <source url="https://csi.asu.edu/">ASU Center for Science and the Imagination</source>
       <category>Publishing</category>
-    </item>
-
-    <item>
-      <title>Novacon 55 remembers John Dowd while asking fandom to adapt and sustain</title>
-      <link>https://sfcrowsnest.info/novacon-55-convention-report-by-rosie-oliver-convention-report/</link>
-      <description>A convention report published November 20 looks back at Novacon 55, held November 6–8 at the Palace Hotel in Buxton under the theme “Adapt and Sustain.” Guest of honor Una McCormack joined programming on adaptation, environmental fiction and the future of fandom. The weekend also included a wake for John Dowd, whose extraordinary run stretched from Novacon 12 in 1982 through Novacon 54 in 2024. That memorial gives the report unusual value as a record of British fan continuity, while panels on adaptations and “wet dystopias” show the convention engaging present concerns. The November 20 report is the news peg; its detailed account preserves both institutional memory and the texture of a current regional convention.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sfcrowsnest.info/novacon-55-convention-report-by-rosie-oliver-convention-report/</guid>
-      <source url="https://sfcrowsnest.info/">SFcrowsnest</source>
-      <category>Conventions</category>
-    </item>
-
-    <item>
-      <title>Utah adds Sarah J. Maas fantasy novel to statewide school ban list</title>
-      <link>https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/</link>
-      <description>The Salt Lake Tribune reported November 18 that Utah added Sarah J. Maas’s Kingdom of Ash to its statewide school-removal list after a third district barred the book on November 17. The fantasy novel becomes the list’s 45th title, triggering removal from every public-school library under Utah law. The report says schools must dispose of banned copies rather than redistribute them, making the decision consequential beyond a single district. The November 17 action and November 18 report provide the current time peg. For genre readers, the case joins a bestselling fantasy author to an expanding censorship mechanism and raises practical questions about collection policy, local review and the destruction of books already purchased for students.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.sltrib.com/news/education/2026/11/18/utah-school-book-ban-list-reaches/</guid>
-      <source url="https://www.sltrib.com/">The Salt Lake Tribune</source>
-      <category>Controversy</category>
     </item>
   </channel>
 </rss>

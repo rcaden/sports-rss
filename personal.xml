@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>WordPress 7.2 reaches full PHP 8.6 compatibility</title>
+      <link>https://make.wordpress.org/core/2026/11/23/wordpress-and-php-8-6/</link>
+      <description>WordPress core contributors say every known PHP 8.6 compatibility issue is resolved in WordPress 7.2 Beta 5. The developer note explains the fixes and flags changes plugin and theme authors should test, including font MIME detection, image handling and deprecated functions.</description>
+      <pubDate>Mon, 23 Nov 2026 22:25:11 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-wordpress-php-86</guid>
+      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
+    </item>
+    <item>
+      <title>How two world wars made Jacksonville a Navy town</title>
+      <link>https://jaxhistory.org/a-navy-town-past-and-present/</link>
+      <description>Jacksonville History Center CEO Alan Bliss connects the city’s wartime shipbuilding booms to its modern identity. World War I drove industrial growth and migration; World War II cemented the military presence that now includes Mayport, NAS Jacksonville and nearby Kings Bay.</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-jacksonville-navy-town</guid>
+      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+    </item>
+    <item>
+      <title>A practical guide to 2.5 million pages of vintage media history</title>
+      <link>https://casrai.org/guides/media-history-digital-library</link>
+      <description>This guide maps the Media History Digital Library’s free collection of more than 2.5 million digitized pages from film, broadcasting and recorded-sound trade papers, fan magazines and yearbooks. It explains Lantern full-text search, copyright context and the best collections for research.</description>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-media-history-digital-library</guid>
+      <source url="https://casrai.org/">CASRAI</source>
+    </item>
     <item>
       <title>Copyright Office finishes digitizing 25,238 historical record books</title>
       <link>https://www.copyright.gov/newsnet/2026/1099.html</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1099.html</guid>
       <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
     </item>
-
     <item>
       <title>SPSFC 6 entry window closes November 29</title>
       <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
       <source url="https://spsfc.space/">Self-Published Science Fiction Competition</source>
     </item>
-
     <item>
       <title>A fresh census finds RSS still widespread across major sites</title>
       <link>https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</guid>
       <source url="https://feeder.co/">Feeder</source>
     </item>
-
     <item>
       <title>The odd hotel-room origins of fantasy football</title>
       <link>https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</guid>
       <source url="https://www.profootballhof.com/">Pro Football Hall of Fame</source>
     </item>
-
     <item>
       <title>Inside the Jacksonville History Center’s 2,000-foot archive</title>
       <link>https://jaxhistory.org/meet-the-archives-staff/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://jaxhistory.org/meet-the-archives-staff/</guid>
       <source url="https://jaxhistory.org/">Jacksonville History Center</source>
     </item>
-
     <item>
       <title>ServiceNow’s module system brings imports, TypeScript and npm dependencies to scoped apps</title>
       <link>https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</guid>
       <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
     </item>
-
     <item>
       <title>Tracing Lovecraft’s one-week stay in New Orleans</title>
       <link>https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</guid>
       <source url="https://jurn.link/tentaclii/">Tentaclii</source>
     </item>
-
     <item>
       <title>How Poydras Market shaped a lost New Orleans neighborhood</title>
       <link>https://prcno.org/new-district-enlivens-historic-neighborhood/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://prcno.org/new-district-enlivens-historic-neighborhood/</guid>
       <source url="https://prcno.org/">Preservation Resource Center of New Orleans</source>
     </item>
-
     <item>
       <title>What ServiceNow Zurich’s modern JavaScript engine actually supports</title>
       <link>https://www.servicenow.com/docs/r/zurich/api-reference/scripts/c_JS_engine_upgrade.html</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/api-reference/scripts/c_JS_engine_upgrade.html</guid>
       <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
     </item>
-
     <item>
       <title>Why library ebooks can have waiting lists</title>
       <link>https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</guid>
       <source url="https://help.overdrive.com/">OverDrive Help</source>
     </item>
-
     <item>
       <title>A sourced field guide to what enters the public domain in 2027</title>
       <link>https://commonscut.com/public-domain-2027</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://commonscut.com/public-domain-2027</guid>
       <source url="https://commonscut.com/">Commons Cut</source>
     </item>
-
     <item>
       <title>MIT built a full calculus course for independent learners</title>
       <link>https://news.mit.edu/2010/mitocw-independent-learners</link>
@@ -115,33 +128,6 @@
       <pubDate>Wed, 12 Jan 2011 05:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://news.mit.edu/2010/mitocw-independent-learners</guid>
       <source url="https://news.mit.edu/">MIT News</source>
-    </item>
-
-    <item>
-      <title>PHP 8.6 arrives with partial function application and safer defaults</title>
-      <link>https://www.php.net/releases/8.6/en.php</link>
-      <description>PHP 8.6 adds partial function application, the Time\Duration and Io\Poll APIs, a clamp function and more secure session defaults. The migration guide deserves attention before a server upgrade, but the release offers practical improvements for modernizing a long-lived PHP codebase.</description>
-      <pubDate>Thu, 19 Nov 2026 14:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.php.net/releases/8.6/en.php</guid>
-      <source url="https://www.php.net/">PHP</source>
-    </item>
-
-    <item>
-      <title>Betty Boop ruling explains why trademark cannot recreate expired copyright</title>
-      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2011/02/23/09-56317.pdf</link>
-      <description>The Ninth Circuit’s Fleischer Studios v. A.V.E.L.A. opinion is a useful case study for public-domain character publishing. It rejected an attempt to use trademark law as a substitute for expired copyright in Betty Boop imagery, while leaving room for claims tied to genuinely source-identifying uses.</description>
-      <pubDate>Wed, 23 Feb 2011 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://cdn.ca9.uscourts.gov/datastore/opinions/2011/02/23/09-56317.pdf</guid>
-      <source url="https://www.ca9.uscourts.gov/">U.S. Court of Appeals for the Ninth Circuit</source>
-    </item>
-
-    <item>
-      <title>Jacksonville library opens searchable access to three newspaper archives</title>
-      <link>https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</link>
-      <description>Jacksonville Public Library now offers cardholders online access to the Florida Times-Union back to 1883, the Beaches Leader back to 1963 and the Jacksonville Journal from 1901 through 1988. Full-page scans preserve photographs, comics, advertisements and neighborhood details useful for local-history research.</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxpubliclibrary.org/blog/bring-local-history-life-search-historical-newspapers-online</guid>
-      <source url="https://jaxpubliclibrary.org/">Jacksonville Public Library</source>
     </item>
   </channel>
 </rss>

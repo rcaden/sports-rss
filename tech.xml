@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:48:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Podcast trade group backs migration safeguards and measurement standards</title>
+      <link>https://podnews.net/press-release/ppa-advocacy-2026</link>
+      <description>The Podcast Professionals Association endorsed the Podcast Migration Code of Practice and called for transparent, consistent audience measurement. It also urged player developers to weigh the economic effects of easier ad skipping while preserving listener choice—a useful attempt to put shared rules around an interoperable medium.</description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-podcast-ppa-advocacy</guid>
+      <source url="https://podnews.net/">Podcast Professionals Association</source>
+    </item>
+    <item>
+      <title>Wall Street Journal shifts to a bot whitelist</title>
+      <link>https://www.niemanlab.org/2026/11/the-wall-street-journal-joins-growing-list-of-publishers-disallowing-bots-by-default/</link>
+      <description>Dow Jones now disallows bots by default across the Wall Street Journal, Barron’s and MarketWatch, permitting selected crawlers through a whitelist. Nieman Lab reports that publishers are using robots.txt restrictions to reduce bandwidth costs, seek licensing agreements and respond to falling human referrals.</description>
+      <pubDate>Tue, 24 Nov 2026 19:27:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-wsj-bot-whitelist</guid>
+      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+    </item>
+    <item>
+      <title>W3C advances WebAssembly 3.0 candidate drafts</title>
+      <link>https://www.w3.org/standards/history/wasm-core-2/</link>
+      <description>The W3C published another Candidate Recommendation Draft of the WebAssembly core specification on November 24. The continuing 3.0 work matters to independent web developers because it strengthens a portable, open low-level code format that can run across browsers and other interoperable environments.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-wasm-3-candidate-draft</guid>
+      <source url="https://www.w3.org/">World Wide Web Consortium</source>
+    </item>
     <item>
       <title>Small local news sites find traffic gains in newsletters, obits and service journalism</title>
       <link>https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
-
     <item>
       <title>WebKit adds an interface for Global Privacy Control</title>
       <link>https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</guid>
       <source url="https://webkit.org/">WebKit</source>
     </item>
-
     <item>
       <title>San Jose Earthquakes announce a change of ownership</title>
       <link>https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
       <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
     </item>
-
     <item>
       <title>A one-person tech newsroom reaches an $800,000 run rate</title>
       <link>https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</guid>
       <source url="https://www.inc.com/">Inc.</source>
     </item>
-
     <item>
       <title>Firefox cuts Android app-link startup time by about 20 percent</title>
       <link>https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</guid>
       <source url="https://blog.mozilla.org/">Mozilla</source>
     </item>
-
     <item>
       <title>Firefox reduces the identifying details exposed to fingerprinting scripts</title>
       <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</guid>
       <source url="https://blog.mozilla.org/security/">Mozilla Security Blog</source>
     </item>
-
     <item>
       <title>AT Protocol prepares permissioned Spaces for a December 1 beta</title>
       <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</guid>
       <source url="https://atproto.com/">AT Protocol</source>
     </item>
-
     <item>
       <title>WordPress.com documents an open-feed path to podcast distribution</title>
       <link>https://wordpress.com/support/audio/podcast/</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://wordpress.com/support/audio/podcast/</guid>
       <source url="https://wordpress.com/support/">WordPress.com Support</source>
     </item>
-
     <item>
       <title>NPR makes rebuilding its app central to its next strategy</title>
       <link>https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
-
     <item>
       <title>NewsBlur rebuilds its mobile web reader</title>
       <link>https://blog.newsblur.com/2026/11/20/mobile-web-version-of-newsblur/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://blog.newsblur.com/2026/11/20/mobile-web-version-of-newsblur/</guid>
       <source url="https://blog.newsblur.com/">NewsBlur Blog</source>
     </item>
-
     <item>
       <title>Feeder counts more than 300,000 recently active RSS feeds</title>
       <link>https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</guid>
       <source url="https://feeder.co/">Feeder</source>
     </item>
-
     <item>
       <title>Public media faces a choice beyond simply restoring federal funds</title>
       <link>https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/</link>
@@ -115,33 +128,6 @@
       <pubDate>Thu, 19 Nov 2026 19:58:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-
-    <item>
-      <title>Reddit ends RSS support without a general replacement</title>
-      <link>https://support.reddithelp.com/hc/en-us/articles/55472297340308-Changelog-November-10-2026</link>
-      <description>Reddit’s November changelog says RSS support ended November 13. The company offers no replacement for feeds outside moderated communities, directing moderators to a Discord relay for some alerts. The change removes a longstanding read-only bridge between Reddit and independent feed readers.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://support.reddithelp.com/hc/en-us/articles/55472297340308-Changelog-November-10-2026</guid>
-      <source url="https://support.reddithelp.com/">Reddit Help</source>
-    </item>
-
-    <item>
-      <title>Indie software needs financing built for durable small businesses</title>
-      <link>https://werd.io/zirp-era-startups-are-shutting-in-droves-indie-tools-need-a-different-kind-of-support/</link>
-      <description>Ben Werdmuller argues that many useful independent tools were pushed toward venture-scale growth they could never sustain. He makes the case for bootstrapping, recurring revenue, revenue-based investment and community support that rewards durable services instead of demanding an unlikely giant exit.</description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://werd.io/zirp-era-startups-are-shutting-in-droves-indie-tools-need-a-different-kind-of-support/</guid>
-      <source url="https://werd.io/">Werd.io</source>
-    </item>
-
-    <item>
-      <title>WordPress 7.2 Field Guide details more than 440 core changes</title>
-      <link>https://make.wordpress.org/core/2026/11/20/wordpress-7-2-field-guide/</link>
-      <description>The WordPress 7.2 Field Guide turns the release candidate into a practical developer checklist: more than 440 Core tickets, roughly 150 enhancements, 260 fixes and 40 editor issues. Highlights include SVG admin icons, a /random/ endpoint, SQL-mode work and preparation for jQuery 4.</description>
-      <pubDate>Fri, 20 Nov 2026 13:16:10 GMT</pubDate>
-      <guid isPermaLink="true">https://make.wordpress.org/core/2026/11/20/wordpress-7-2-field-guide/</guid>
-      <source url="https://make.wordpress.org/core/">WordPress Core</source>
     </item>
   </channel>
 </rss>

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Steelers release Aaron Rodgers after criticism of Mike McCarthy</title>
+      <link>https://www.reuters.com/sports/rodgers-says-he-wont-return-steelers-claims-head-coach-mccarthy-fell-asleep-2026-11-25/</link>
+      <description>The Steelers released Aaron Rodgers one day after benching him, a significant escalation after the quarterback said coach Mike McCarthy fell asleep during team meetings. Rodgers, 42, had led Pittsburgh to a 5-6 record in his second season with the club. Reuters reported the dispute and the team’s decision.</description>
+      <pubDate>Wed, 25 Nov 2026 20:56:18 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-rodgers-steelers-release</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>MLB sues players union as December 1 lockout approaches</title>
+      <link>https://frontofficesports.com/article/mlb-sues-players-union-to-counter-nuclear-option-as-lockout-looms/?_bhlid=5063d4a8784b796f4955b9a968ef41ae6afb6a93</link>
+      <description>Major League Baseball asked a federal court to declare its planned December 1 lockout lawful under antitrust law, seeking to head off a possible union challenge. The unusual preemptive suit underscores how far owners and players remain apart as the collective bargaining agreement nears expiration.</description>
+      <pubDate>Wed, 25 Nov 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-mlb-union-lockout-lawsuit</guid>
+      <source url="https://frontofficesports.com/">Front Office Sports</source>
+    </item>
+    <item>
+      <title>NBA unveils €10 billion arena plan for European league</title>
+      <link>https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe</link>
+      <description>The NBA announced a plan backed by global investors to commit at least €10 billion to new and renovated arenas and entertainment districts across Europe. The initiative would support the NBA-FIBA professional league ecosystem targeted for 2027, a major step toward the league’s long-discussed European expansion.</description>
+      <pubDate>Wed, 25 Nov 2026 18:24:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-nba-europe-arena-plan</guid>
+      <source url="https://www.nba.com/">NBA</source>
+    </item>
     <item>
       <title>Steelers bench Aaron Rodgers and turn to Mason Rudolph</title>
       <link>https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Jannik Sinner faces extended layoff after knee surgery</title>
       <link>https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>United States will host the 2028 Copa América</title>
       <link>https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</guid>
       <source url="https://copaamerica.com/">CONMEBOL Copa América</source>
     </item>
-
     <item>
       <title>FIFA confirms hosts for the 2031 and 2035 Women’s World Cups</title>
       <link>https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</guid>
       <source url="https://www.fifa.com/">FIFA</source>
     </item>
-
     <item>
       <title>Players answer MLB’s salary-cap demand with full media-revenue sharing</title>
       <link>https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Commanders stun Bengals with last-second field goal</title>
       <link>https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Mets agree to record $450 million deal with Tarik Skubal</title>
       <link>https://apnews.com/article/f4cd370e5bc2e048f7e823b4bb5bf008</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://apnews.com/article/f4cd370e5bc2e048f7e823b4bb5bf008</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Tom Jackson, Broncos great and ESPN mainstay, dies at 75</title>
       <link>https://apnews.com/article/bba71b580bd5120afcbad215af5b9f72</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://apnews.com/article/bba71b580bd5120afcbad215af5b9f72</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Russia’s return to international sports meets European resistance</title>
       <link>https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Kansas City Current capture first NWSL championship</title>
       <link>https://www.reuters.com/sports/soccer/current-beat-spirit-first-nwsl-championship-win-2026-11-22/</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sports/soccer/current-beat-spirit-first-nwsl-championship-win-2026-11-22/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
-
     <item>
       <title>Nebraska stuns No. 16 Ohio State and ends 31-game ranked skid</title>
       <link>https://abcnews.com/Sports/wireStory/nebraska-ends-31-game-losing-streak-ap-top-138348620</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://abcnews.com/Sports/wireStory/nebraska-ends-31-game-losing-streak-ap-top-138348620</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Wembanyama makes NBA history in 50-point Spurs rout</title>
       <link>https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line</link>
@@ -115,33 +128,6 @@
       <pubDate>Sun, 22 Nov 2026 09:59:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line</guid>
       <source url="https://www.nba.com/">NBA.com</source>
-    </item>
-
-    <item>
-      <title>Colts waive Daniel Jones and turn back to Anthony Richardson</title>
-      <link>https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones</link>
-      <description>Indianapolis waived Daniel Jones and named Anthony Richardson Sr. its starter for Sunday against the Giants. Coach Shane Steichen said the 3-8 Colts needed a change after Jones threw 13 interceptions with a 65.4 passer rating. Richardson will make his first start since 2024.</description>
-      <pubDate>Fri, 20 Nov 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.colts.com/news/shane-steichen-explains-colts-decision-to-start-anthony-richardson-sr-waive-daniel-jones</guid>
-      <source url="https://www.colts.com/">Indianapolis Colts</source>
-    </item>
-
-    <item>
-      <title>Harry Kane faces months out after ankle surgery</title>
-      <link>https://fcbayern.com/en/news/2026/11/successful-surgery-for-harry-kane</link>
-      <description>Harry Kane underwent successful surgery after tearing a syndesmosis ligament in his left ankle during Bayern Munich’s win at Köln. Bayern said the England captain will be sidelined for the next few months, a major blow to the club and national team during the heart of the season.</description>
-      <pubDate>Sat, 21 Nov 2026 10:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://fcbayern.com/en/news/2026/11/successful-surgery-for-harry-kane</guid>
-      <source url="https://fcbayern.com/">FC Bayern Munich</source>
-    </item>
-
-    <item>
-      <title>ATP approves $350 million compensation plan for top 250 players</title>
-      <link>https://www.reuters.com/sports/tennis/atp-approves-350-million-compensation-plan-delays-doubles-decision-2026-11-20/</link>
-      <description>The ATP approved a compensation program worth more than $350 million that will begin in 2028, with potential payments reaching $1.1 million for top-100 singles players and extending through No. 250. The tour delayed a proposed overhaul of doubles while it continues consultation.</description>
-      <pubDate>Fri, 20 Nov 2026 10:01:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/atp-approves-350-million-compensation-plan-delays-doubles-decision-2026-11-20/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
     </item>
   </channel>
 </rss>

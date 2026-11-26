@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Medieval chain mail surfaces from a 1495 royal shipwreck</title>
+      <link>https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/</link>
+      <description>Divers exploring Denmark’s royal flagship Gribshunden, which sank in 1495 off Sweden, recovered fragments of copper-alloy chain mail. Researchers think the armor may have belonged to German mercenaries traveling with King Hans, adding a tactile clue to life aboard a Renaissance warship.</description>
+      <pubDate>Wed, 25 Nov 2026 20:44:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-gribshunden-chain-mail</guid>
+      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+    </item>
+    <item>
+      <title>Teachers discover Texas’ second known buffalo jump</title>
+      <link>https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/</link>
+      <description>A group of science teachers hiking in Caprock Canyons found hundreds of bison bones below a cliff, leading archaeologists to identify only the second buffalo jump documented in Texas. Evidence suggests Indigenous hunters used the site for roughly 3,000 years.</description>
+      <pubDate>Wed, 25 Nov 2026 13:10:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-texas-buffalo-jump</guid>
+      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+    </item>
+    <item>
+      <title>New book introduces 60 of New York’s bodega cats</title>
+      <link>https://www.quarto.com/books/9798317901585/bodega-cats-of-new-york</link>
+      <description>Bodega Cats of New York collects portraits and stories of 60 shop cats from all five boroughs. Dan Rimada’s profiles and Gulce Kilkis’ 150 photographs turn the familiar counter-top guardians into neighborhood characters, with 240 pages devoted to cats, stores and the people who care for them.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-bodega-cats-book</guid>
+      <source url="https://www.quarto.com/">Quarto</source>
+    </item>
     <item>
       <title>Kiwi return to Wellington’s hills after more than 150 years</title>
       <link>https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</link>
@@ -17,7 +41,6 @@
       <guid isPermaLink="true">https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</guid>
       <source url="https://news.mongabay.com/">Mongabay</source>
     </item>
-
     <item>
       <title>‘Retired’ parakeet pair surprise keepers with a new family</title>
       <link>https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</link>
@@ -26,7 +49,6 @@
       <guid isPermaLink="true">https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</guid>
       <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
     </item>
-
     <item>
       <title>Volunteers turn difficult cursive letters into searchable history</title>
       <link>https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</link>
@@ -35,7 +57,6 @@
       <guid isPermaLink="true">https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</guid>
       <source url="https://www.goodgoodgood.co/">Good Good Good</source>
     </item>
-
     <item>
       <title>Bagot goats take on a steep conservation job in Greenwich Park</title>
       <link>https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</link>
@@ -44,7 +65,6 @@
       <guid isPermaLink="true">https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</guid>
       <source url="https://www.royalparks.org.uk/">The Royal Parks</source>
     </item>
-
     <item>
       <title>Conservation partners return the 1,000th Jamaican rock iguana to the wild</title>
       <link>https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</link>
@@ -53,7 +73,6 @@
       <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</guid>
       <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
     </item>
-
     <item>
       <title>Four rescued manatees head back to Florida for the final leg of rehabilitation</title>
       <link>https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</link>
@@ -62,7 +81,6 @@
       <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</guid>
       <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
     </item>
-
     <item>
       <title>New Zealand’s longest lizards return home after 30 years</title>
       <link>https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-zealands-longest-lizard-returned-to-wild/</link>
@@ -71,7 +89,6 @@
       <guid isPermaLink="true">https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-zealands-longest-lizard-returned-to-wild/</guid>
       <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
     </item>
-
     <item>
       <title>Zeus the cat commutes 37 miles to London and back</title>
       <link>https://www.bbc.com/news/articles/c6x2exd5ee4ro</link>
@@ -80,7 +97,6 @@
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c6x2exd5ee4ro</guid>
       <source url="https://www.bbc.com/news">BBC News</source>
     </item>
-
     <item>
       <title>Otters bring hope to Kuala Lumpur’s once-filthy river</title>
       <link>https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</link>
@@ -89,7 +105,6 @@
       <guid isPermaLink="true">https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</guid>
       <source url="https://news.mongabay.com/">Mongabay</source>
     </item>
-
     <item>
       <title>Shuri Castle’s main hall rises again in Okinawa</title>
       <link>https://apnews.com/article/3ac5a220df1efa2be0a6d32529518314</link>
@@ -98,7 +113,6 @@
       <guid isPermaLink="true">https://apnews.com/article/3ac5a220df1efa2be0a6d32529518314</guid>
       <source url="https://apnews.com/">Associated Press</source>
     </item>
-
     <item>
       <title>Orphaned baby marmoset finds a surrogate mum named Minty</title>
       <link>https://news.met.police.uk/news/orphaned-baby-marmoset-is-named-after-met-officer-who-rescued-him-515298?site=uk</link>
@@ -107,7 +121,6 @@
       <guid isPermaLink="true">https://news.met.police.uk/news/orphaned-baby-marmoset-is-named-after-met-officer-who-rescued-him-515298?site=uk</guid>
       <source url="https://news.met.police.uk/">Metropolitan Police</source>
     </item>
-
     <item>
       <title>Whale breath gives scientists whole genomes without a biopsy</title>
       <link>https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot</link>
@@ -115,33 +128,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot</guid>
       <source url="https://news.st-andrews.ac.uk/">University of St Andrews</source>
-    </item>
-
-    <item>
-      <title>French archivists rescue family memories one home movie at a time</title>
-      <link>https://apnews.com/article/e90c603e13d4fbb7511a89f199912b61</link>
-      <description>A traveling French archive project digitized 22 hours of 8mm and Super 8 home movies during a stop in Antibes, returning forgotten weddings, vacations and childhood scenes to families. The reels also yielded unexpected history, including rare footage of Brigitte Bardot at a local event.</description>
-      <pubDate>Thu, 19 Nov 2026 01:23:15 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/e90c603e13d4fbb7511a89f199912b61</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Coyotes test California&apos;s giant wildlife crossing before opening day</title>
-      <link>https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</link>
-      <description>Coyotes have already crossed the 1,250-foot Wallis Annenberg Wildlife Crossing over U.S. 101 near Los Angeles, weeks before its December 2 public opening. Inspired by mountain lion P-22, the landscaped bridge is designed to reconnect habitat split by one of the nation’s busiest freeways.</description>
-      <pubDate>Wed, 18 Nov 2026 09:09:04 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-
-    <item>
-      <title>Seventy-five sea turtles hatch from the first nests recorded on the U.S. West Coast</title>
-      <link>https://www.aquariumofpacific.org/press/info/olive_ridley_sea_turtle_eggs_hatch_at_the_aquarium_of_the_pacific/newsroom</link>
-      <description>The Aquarium of the Pacific released 75 olive ridley hatchlings from two unprecedented Southern California nests after a 58-day incubation. Experts had never documented sea turtles nesting on the U.S. West Coast, making the tiny swimmers both a scientific first and a hopeful conservation story.</description>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.aquariumofpacific.org/press/info/olive_ridley_sea_turtle_eggs_hatch_at_the_aquarium_of_the_pacific/newsroom</guid>
-      <source url="https://www.aquariumofpacific.org/">Aquarium of the Pacific</source>
     </item>
   </channel>
 </rss>

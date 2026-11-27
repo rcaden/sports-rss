@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:27:26 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Virginia&apos;s network of Bee Cities grows to 21</title>
+      <link>https://www.goodnewsgoodvibes.com/en/article/virginia-21-bee-cities-second-most-in-us-lynchburg-pollinators</link>
+      <description>Virginia now has 21 certified Bee Cities, the second-highest state total in the country. Participating communities commit to planting native flowers, reducing pesticide use and teaching residents how to support bees and other pollinators; Lynchburg is among the latest to join.</description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-virginia-bee-cities</guid>
+      <source url="https://www.goodnewsgoodvibes.com/">Good News Good Vibes</source>
+    </item>
+    <item>
+      <title>One-in-a-million yellow burbot turns up in New York harbor</title>
+      <link>https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/</link>
+      <description>Biologists surveying Lake Ontario&apos;s Oswego Harbor found a burbot with vivid yellow-orange coloring caused by xanthochromism, a rare pigment condition estimated at roughly one in a million. The striking fish gave researchers an unusually visible example of a phenomenon seldom documented in the species.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-yellow-burbot-oswego</guid>
+      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+    </item>
+    <item>
+      <title>Coyotes are already using California&apos;s giant wildlife crossing</title>
+      <link>https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</link>
+      <description>Wildlife cameras have recorded coyotes crossing the nearly completed Wallis Annenberg Wildlife Crossing over U.S. 101 near Los Angeles. The landscaped bridge, billed as the world&apos;s largest wildlife crossing, is designed to reconnect habitat split by the freeway and is due to open December 2.</description>
+      <pubDate>Wed, 18 Nov 2026 09:09:04 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-wildlife-crossing-coyotes</guid>
+      <source url="https://apnews.com/">Associated Press</source>
+    </item>
     <item>
       <title>Medieval chain mail surfaces from a 1495 royal shipwreck</title>
       <link>https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/</link>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</guid>
       <source url="https://news.mongabay.com/">Mongabay</source>
-    </item>
-    <item>
-      <title>Shuri Castle’s main hall rises again in Okinawa</title>
-      <link>https://apnews.com/article/3ac5a220df1efa2be0a6d32529518314</link>
-      <description>Seven years after a fire destroyed Shuri Castle’s main buildings, Okinawa unveiled the rebuilt Seiden main hall. Its deep-red exterior and dragon ornaments again crown the former Ryukyu Kingdom site, a treasured symbol of the islands’ distinct history. The public opening begins Monday while restoration continues.</description>
-      <pubDate>Sun, 22 Nov 2026 12:13:32 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/3ac5a220df1efa2be0a6d32529518314</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Orphaned baby marmoset finds a surrogate mum named Minty</title>
-      <link>https://news.met.police.uk/news/orphaned-baby-marmoset-is-named-after-met-officer-who-rescued-him-515298?site=uk</link>
-      <description>A five-month-old marmoset rescued from a London garden shed has been named Gino after the police officer who found him. Weighing just 140 grams and showing early rickets, he is recovering at Monkey World in Dorset, where an adult marmoset named Minty has taken him under her wing.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.met.police.uk/news/orphaned-baby-marmoset-is-named-after-met-officer-who-rescued-him-515298?site=uk</guid>
-      <source url="https://news.met.police.uk/">Metropolitan Police</source>
-    </item>
-    <item>
-      <title>Whale breath gives scientists whole genomes without a biopsy</title>
-      <link>https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot</link>
-      <description>Researchers used drones to collect misty “blow” from humpback whales and sequence entire genomes without touching the animals. Among 58 samples from 26 whales, the breath DNA closely matched traditional biopsies and revealed three previously undocumented mitochondrial variants, offering a gentler tool for conservation.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.st-andrews.ac.uk/archive/whole-genome-sequencing-using-whale-snot</guid>
-      <source url="https://news.st-andrews.ac.uk/">University of St Andrews</source>
     </item>
   </channel>
 </rss>

@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:27:47 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>The current Del Rey edition of On a Pale Horse</title>
+      <link>https://www.penguinrandomhouse.com/books/4316/on-a-pale-horse-by-piers-anthony/</link>
+      <description>Penguin Random House&apos;s catalog page confirms that Piers Anthony&apos;s On a Pale Horse remains active as a Del Rey mass-market paperback under ISBN 9780345338587, with the edition dated September 12, 1986. The listing supplies a useful primary record for tracing why this particular package has stayed in circulation.</description>
+      <pubDate>Fri, 12 Sep 1986 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-on-a-pale-horse-edition</guid>
+      <source url="https://www.penguinrandomhouse.com/">Penguin Random House</source>
+    </item>
+    <item>
+      <title>Why publishers keep dependable backlist editions in print</title>
+      <link>https://www2.publishersweekly.com/pw/print/20170417/73335-always-in-season-backlist-backbones-2017.html</link>
+      <description>Publishers Weekly examines how steady backlist sales support publishers for years, often without a redesign. Editors describe covers that keep working in niche channels and titles whose demand continues long after launch, useful context for investigating why a decades-old paperback edition can remain the market standard.</description>
+      <pubDate>Mon, 17 Apr 2017 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-backlist-editions</guid>
+      <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
+    </item>
+    <item>
+      <title>St. Augustine prepares to swear in its first Black mayor</title>
+      <link>https://sjcitizen.com/history-in-the-making-st-augustines-first-black-mayor-to-be-sworn-in-at-lightner-museum/</link>
+      <description>Cynthia Garris will become St. Augustine&apos;s first Black mayor on December 7. Anticipated attendance moved the ceremony to the Lightner Museum&apos;s Historic Pool. Garris, elected as the city&apos;s first Black woman commissioner in 2022, succeeds Nancy Sikes-Kline after 18 years in elected office.</description>
+      <pubDate>Tue, 24 Nov 2026 15:52:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-st-augustine-garris-mayor</guid>
+      <source url="https://sjcitizen.com/">St. Johns Citizen</source>
+    </item>
     <item>
       <title>WordPress 7.2 reaches full PHP 8.6 compatibility</title>
       <link>https://make.wordpress.org/core/2026/11/23/wordpress-and-php-8-6/</link>
@@ -48,14 +72,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
       <source url="https://spsfc.space/">Self-Published Science Fiction Competition</source>
-    </item>
-    <item>
-      <title>A fresh census finds RSS still widespread across major sites</title>
-      <link>https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</link>
-      <description>Feeder reports that 942 of the 1,000 most-followed websites it checked still publish working RSS feeds. The survey also notes where support has disappeared and explains how podcasts, WordPress, YouTube and Mastodon continue to generate feeds even when sites hide the familiar orange icon.</description>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</guid>
-      <source url="https://feeder.co/">Feeder</source>
     </item>
     <item>
       <title>The odd hotel-room origins of fantasy football</title>
@@ -112,22 +128,6 @@
       <pubDate>Tue, 18 Aug 2026 15:34:00 GMT</pubDate>
       <guid isPermaLink="true">https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</guid>
       <source url="https://help.overdrive.com/">OverDrive Help</source>
-    </item>
-    <item>
-      <title>A sourced field guide to what enters the public domain in 2027</title>
-      <link>https://commonscut.com/public-domain-2027</link>
-      <description>Commons Cut’s living guide tracks U.S. works expected to enter the public domain on January 1, 2027: publications from 1931 and sound recordings from 1926. It usefully flags renewal, foreign-work and version-specific complications, while linking its claims to catalogs and other evidence for deeper copyright archaeology.</description>
-      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://commonscut.com/public-domain-2027</guid>
-      <source url="https://commonscut.com/">Commons Cut</source>
-    </item>
-    <item>
-      <title>MIT built a full calculus course for independent learners</title>
-      <link>https://news.mit.edu/2010/mitocw-independent-learners</link>
-      <description>MIT’s OpenCourseWare Scholar project turned Calculus I into a self-contained course for people studying outside a classroom. It supplies lectures, recitations, worked examples, problem sets and exams, assumes high-school algebra and trigonometry, and estimates about 150 hours of work—a serious, free route back into mathematics.</description>
-      <pubDate>Wed, 12 Jan 2011 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mit.edu/2010/mitocw-independent-learners</guid>
-      <source url="https://news.mit.edu/">MIT News</source>
     </item>
   </channel>
 </rss>

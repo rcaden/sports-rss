@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:28:06 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Fake podcast interview invitations are charging would-be guests</title>
+      <link>https://podnews.net/update/fake-interviews-scam</link>
+      <description>Podnews warns of scam invitations that impersonate prominent podcast or radio hosts and then demand fees as high as $260. Bo Bennett documented repeated approaches and the checks that exposed them, offering practical defenses for independent publishers whose names and audiences make plausible bait.</description>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-podcast-interview-scams</guid>
+      <source url="https://podnews.net/">Podnews</source>
+    </item>
+    <item>
+      <title>Cloudflare releases Kitesurf browser engine under Apache 2.0</title>
+      <link>https://blog.cloudflare.com/kitesurf-open-source</link>
+      <description>Cloudflare has opened Kitesurf, a stateless browser engine built to run on Workers. It parses HTML, CSS and JavaScript, can render screenshots and exposes Chrome DevTools Protocol and Puppeteer interfaces. The Apache 2.0 release lets developers inspect, modify and self-host the stack.</description>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-cloudflare-kitesurf</guid>
+      <source url="https://blog.cloudflare.com/">Cloudflare Blog</source>
+    </item>
+    <item>
+      <title>W3C says user agents owe users protection, honesty and loyalty</title>
+      <link>https://www.w3.org/blog/2026/tag-note-explained-user-agents/</link>
+      <description>A new W3C Technical Architecture Group note argues that software acting for people on the web should prioritize their interests, protect privacy, explain consequential actions and support portability. The guidance applies beyond browsers to search tools, email clients, credential managers and digital wallets.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-w3c-user-agents</guid>
+      <source url="https://www.w3.org/">W3C</source>
+    </item>
     <item>
       <title>Podcast trade group backs migration safeguards and measurement standards</title>
       <link>https://podnews.net/press-release/ppa-advocacy-2026</link>
@@ -103,30 +127,6 @@
       <description>NPR’s 2027–2029 plan calls for a service-first, app-first destination, targeting five million weekly platform users and a 40 million monthly digital audience by 2029. The shift reflects a public media network trying to preserve radio while building direct digital relationships and giving member stations a better place in the product.</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
-    <item>
-      <title>NewsBlur rebuilds its mobile web reader</title>
-      <link>https://blog.newsblur.com/2026/11/20/mobile-web-version-of-newsblur/</link>
-      <description>NewsBlur replaced its long-neglected mobile site with a responsive version of the desktop reader. The rewrite shares one codebase, adds touch-friendly layouts and swipe gestures, respects the browser back button, and makes the feed list paint immediately—useful progress for an independent, web-native RSS reader.</description>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.newsblur.com/2026/11/20/mobile-web-version-of-newsblur/</guid>
-      <source url="https://blog.newsblur.com/">NewsBlur Blog</source>
-    </item>
-    <item>
-      <title>Feeder counts more than 300,000 recently active RSS feeds</title>
-      <link>https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</link>
-      <description>Feeder’s newly updated answer to “Is RSS dead?” uses its own index as evidence: more than 300,000 followed feeds published something in the previous 30 days. The article also maps RSS’s quiet infrastructure role across publishers and podcast apps, a measurable counterpoint to recurring declarations that the format has vanished.</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://feeder.co/knowledge-base/rss-basics/is-rss-dead/</guid>
-      <source url="https://feeder.co/">Feeder</source>
-    </item>
-    <item>
-      <title>Public media faces a choice beyond simply restoring federal funds</title>
-      <link>https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/</link>
-      <description>With a new Congress arriving January 3 after the Corporation for Public Broadcasting’s dissolution, Nieman Lab examines whether lawmakers should recreate the old system or build something more local and democratic. Proposals include public media centers governed by communities rather than another return to the previous structure.</description>
-      <pubDate>Thu, 19 Nov 2026 19:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/</guid>
       <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
     </item>
   </channel>

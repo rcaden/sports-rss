@@ -5,10 +5,34 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:27:04 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Bass&apos; 57-yard field goal gives Bills a rainy win over Chiefs</title>
+      <link>https://www.reuters.com/sports/nfl-roundup-bills-bears-eagles-emerge-with-last-minute-wins--flm-2026-11-27/</link>
+      <description>Tyler Bass kicked a 57-yard field goal as time expired, lifting Buffalo over Kansas City 13-10 in heavy rain. The AFC-leading Bills improved to 10-1 with their seventh straight victory; James Cook III rushed for 117 yards and a touchdown, while Patrick Mahomes was held to 174 passing yards.</description>
+      <pubDate>Fri, 27 Nov 2026 05:39:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-bills-chiefs-bass</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Jeff Petry retires after 1,048 NHL games</title>
+      <link>https://www.reuters.com/sports/d-jeff-petry-retires-after-1048-games-with-six-teams--flm-2026-11-26/</link>
+      <description>Defenseman Jeff Petry retired after 16 NHL seasons and 1,048 games with Edmonton, Montreal, Pittsburgh, Detroit, Florida and Minnesota. The 38-year-old finished with 102 goals and 394 points, reached the 2021 Stanley Cup Final with the Canadiens and represented the United States internationally.</description>
+      <pubDate>Thu, 26 Nov 2026 18:27:57 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-jeff-petry-retires</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
+    <item>
+      <title>Rams win first Thanksgiving Eve game behind Blake Corum</title>
+      <link>https://www.reuters.com/sports/nfl/blake-corum-runs-184-yards-rams-dump-packers-extend-win-streak--flm-2026-11-26/</link>
+      <description>Blake Corum ran for a career-high 184 yards as the Rams beat Green Bay 26-13 in the NFL&apos;s first Thanksgiving Eve game. Los Angeles won its sixth straight, moved to 9-2 and strengthened its NFC position while holding the Packers without a touchdown until the fourth quarter.</description>
+      <pubDate>Thu, 26 Nov 2026 04:54:17 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-rams-packers-corum</guid>
+      <source url="https://www.reuters.com/">Reuters</source>
+    </item>
     <item>
       <title>Steelers release Aaron Rodgers after criticism of Mike McCarthy</title>
       <link>https://www.reuters.com/sports/rodgers-says-he-wont-return-steelers-claims-head-coach-mccarthy-fell-asleep-2026-11-25/</link>
@@ -104,30 +128,6 @@
       <pubDate>Mon, 23 Nov 2026 12:40:17 GMT</pubDate>
       <guid isPermaLink="true">https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</guid>
       <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Kansas City Current capture first NWSL championship</title>
-      <link>https://www.reuters.com/sports/soccer/current-beat-spirit-first-nwsl-championship-win-2026-11-22/</link>
-      <description>Kansas City defeated the Washington Spirit 2-1 to win the club’s first NWSL championship. Vanessa DiBernardo scored in the first half and Debinha converted a second-half penalty before Croix Bethune’s late goal made the finish tense. The title caps a landmark season for the Current.</description>
-      <pubDate>Sun, 22 Nov 2026 03:43:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/soccer/current-beat-spirit-first-nwsl-championship-win-2026-11-22/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
-    <item>
-      <title>Nebraska stuns No. 16 Ohio State and ends 31-game ranked skid</title>
-      <link>https://abcnews.com/Sports/wireStory/nebraska-ends-31-game-losing-streak-ap-top-138348620</link>
-      <description>Nebraska beat No. 16 Ohio State 31-28, ending a 31-game losing streak against AP Top 25 opponents that dated to 2016. Anthony Colandrea threw three touchdown passes as the Cornhuskers dealt a severe blow to the Buckeyes’ College Football Playoff hopes.</description>
-      <pubDate>Sat, 21 Nov 2026 20:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://abcnews.com/Sports/wireStory/nebraska-ends-31-game-losing-streak-ap-top-138348620</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
-    <item>
-      <title>Wembanyama makes NBA history in 50-point Spurs rout</title>
-      <link>https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line</link>
-      <description>Victor Wembanyama had 50 points, 19 rebounds, five blocks and four steals as San Antonio beat New Orleans 114-91. He became the first player since the three-point line began to combine 50 points, five blocks and five made threes, adding another unprecedented line to his young career.</description>
-      <pubDate>Sun, 22 Nov 2026 09:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line</guid>
-      <source url="https://www.nba.com/">NBA.com</source>
     </item>
   </channel>
 </rss>

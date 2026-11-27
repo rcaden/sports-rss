@@ -5,10 +5,18 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>News about fantasy sports experts, analysts, shows and outlets.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:28:21 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/fantasy-experts.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
 
+    <item>
+      <title>Underdog launches Rips Games trading-card product</title>
+      <link>https://www.underdogsports.com/news/underdog-launches-rips-games-strengthens-rg</link>
+      <description>Underdog launched Rips Games, a product that combines animated games with draws of real physical trading cards. The company introduced four game formats and said its GuardDog controls include spending limits and cool-off tools, extending the fantasy operator into card collecting.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:fantasy-underdog-rips-games</guid>
+      <source url="https://www.underdogsports.com/">Underdog</source>
+    </item>
     <item>
       <title>Tony Romo joins Betr as chief predictions officer</title>
       <link>https://www.prnewswire.com/news-releases/betr-names-tony-romo-chief-predictions-officer-302950824.html</link>

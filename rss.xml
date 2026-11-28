@@ -5,129 +5,128 @@
     <link>https://rcaden.github.io/sports-rss/</link>
     <description>Three noteworthy sports stories.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:30:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/rss.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
-
-    <item>
-      <title>Bass&apos; 57-yard field goal gives Bills a rainy win over Chiefs</title>
-      <link>https://www.reuters.com/sports/nfl-roundup-bills-bears-eagles-emerge-with-last-minute-wins--flm-2026-11-27/</link>
-      <description>Tyler Bass kicked a 57-yard field goal as time expired, lifting Buffalo over Kansas City 13-10 in heavy rain. The AFC-leading Bills improved to 10-1 with their seventh straight victory; James Cook III rushed for 117 yards and a touchdown, while Patrick Mahomes was held to 174 passing yards.</description>
-      <pubDate>Fri, 27 Nov 2026 05:39:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-bills-chiefs-bass</guid>
+      <item>
+      <title>Columbus knocks defending champion Inter Miami out of MLS playoffs</title>
+      <link>https://www.reuters.com/sports/soccer/columbus-knock-out-messis-inter-miami-with-stoppage-time-winner-2026-11-28/</link>
+      <description>Santiago Rodríguez scored in the 92nd minute as Columbus beat Lionel Messi and Inter Miami 1-0, completing a two-game sweep of the defending MLS Cup champion. Miami had been seeking the league&apos;s first repeat title since the Los Angeles Galaxy in 2011-12; Columbus advances to the Eastern Conference semifinals.</description>
+      <pubDate>Sat, 28 Nov 2026 03:43:49 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:sports-columbus-inter-miami</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
     <item>
-      <title>Jeff Petry retires after 1,048 NHL games</title>
-      <link>https://www.reuters.com/sports/d-jeff-petry-retires-after-1048-games-with-six-teams--flm-2026-11-26/</link>
-      <description>Defenseman Jeff Petry retired after 16 NHL seasons and 1,048 games with Edmonton, Montreal, Pittsburgh, Detroit, Florida and Minnesota. The 38-year-old finished with 102 goals and 394 points, reached the 2021 Stanley Cup Final with the Canadiens and represented the United States internationally.</description>
-      <pubDate>Thu, 26 Nov 2026 18:27:57 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-jeff-petry-retires</guid>
+      <title>Jackson Koivun wins the Skins Game with a $2 million wedge shot</title>
+      <link>https://www.reuters.com/sports/golf/jackson-koivun-21-fires-2m-wedge-shot-claim-skins-game--flm-2026-11-27/</link>
+      <description>Jackson Koivun, 21, claimed the revived Skins Game by hitting his final wedge closest to the pin for a $2 million skin. The PGA Tour rookie finished with $2.375 million, defeating Brooks Koepka, Justin Thomas and Wyndham Clark in the Thanksgiving event.</description>
+      <pubDate>Fri, 27 Nov 2026 23:32:34 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:sports-koivun-skins-game</guid>
       <source url="https://www.reuters.com/">Reuters</source>
     </item>
     <item>
-      <title>Rams win first Thanksgiving Eve game behind Blake Corum</title>
-      <link>https://www.reuters.com/sports/nfl/blake-corum-runs-184-yards-rams-dump-packers-extend-win-streak--flm-2026-11-26/</link>
-      <description>Blake Corum ran for a career-high 184 yards as the Rams beat Green Bay 26-13 in the NFL&apos;s first Thanksgiving Eve game. Los Angeles won its sixth straight, moved to 9-2 and strengthened its NFC position while holding the Packers without a touchdown until the fourth quarter.</description>
-      <pubDate>Thu, 26 Nov 2026 04:54:17 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-rams-packers-corum</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
+      <title>USWNT routs El Salvador to qualify for the 2027 World Cup</title>
+      <link>https://www.ussoccer.com/stories/2026/11/uswnt-vs-el-salvador-match-recap-highlights-concacaf-w-championship</link>
+      <description>Ashley Sanchez scored a hat trick in less than seven minutes as the United States beat El Salvador 8-0 and secured a place at the 2027 Women&apos;s World Cup in Brazil. The Americans scored seven times before halftime and became the 20th nation to qualify for the 32-team tournament.</description>
+      <pubDate>Sat, 28 Nov 2026 03:42:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:sports-uswnt-world-cup-qualification</guid>
+      <source url="https://www.ussoccer.com/">U.S. Soccer</source>
     </item>
     <item>
-      <title>Steelers release Aaron Rodgers after criticism of Mike McCarthy</title>
-      <link>https://www.reuters.com/sports/rodgers-says-he-wont-return-steelers-claims-head-coach-mccarthy-fell-asleep-2026-11-25/</link>
-      <description>The Steelers released Aaron Rodgers one day after benching him, a significant escalation after the quarterback said coach Mike McCarthy fell asleep during team meetings. Rodgers, 42, had led Pittsburgh to a 5-6 record in his second season with the club. Reuters reported the dispute and the team’s decision.</description>
-      <pubDate>Wed, 25 Nov 2026 20:56:18 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-rodgers-steelers-release</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>Bass&apos; 57-yard field goal gives Bills a rainy win over Chiefs</title>
+          <link>https://www.reuters.com/sports/nfl-roundup-bills-bears-eagles-emerge-with-last-minute-wins--flm-2026-11-27/</link>
+          <description>Tyler Bass kicked a 57-yard field goal as time expired, lifting Buffalo over Kansas City 13-10 in heavy rain. The AFC-leading Bills improved to 10-1 with their seventh straight victory; James Cook III rushed for 117 yards and a touchdown, while Patrick Mahomes was held to 174 passing yards.</description>
+          <pubDate>Fri, 27 Nov 2026 05:39:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-bills-chiefs-bass</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
     <item>
-      <title>MLB sues players union as December 1 lockout approaches</title>
-      <link>https://frontofficesports.com/article/mlb-sues-players-union-to-counter-nuclear-option-as-lockout-looms/?_bhlid=5063d4a8784b796f4955b9a968ef41ae6afb6a93</link>
-      <description>Major League Baseball asked a federal court to declare its planned December 1 lockout lawful under antitrust law, seeking to head off a possible union challenge. The unusual preemptive suit underscores how far owners and players remain apart as the collective bargaining agreement nears expiration.</description>
-      <pubDate>Wed, 25 Nov 2026 18:35:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-mlb-union-lockout-lawsuit</guid>
-      <source url="https://frontofficesports.com/">Front Office Sports</source>
-    </item>
+          <title>Jeff Petry retires after 1,048 NHL games</title>
+          <link>https://www.reuters.com/sports/d-jeff-petry-retires-after-1048-games-with-six-teams--flm-2026-11-26/</link>
+          <description>Defenseman Jeff Petry retired after 16 NHL seasons and 1,048 games with Edmonton, Montreal, Pittsburgh, Detroit, Florida and Minnesota. The 38-year-old finished with 102 goals and 394 points, reached the 2021 Stanley Cup Final with the Canadiens and represented the United States internationally.</description>
+          <pubDate>Thu, 26 Nov 2026 18:27:57 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-jeff-petry-retires</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
     <item>
-      <title>NBA unveils €10 billion arena plan for European league</title>
-      <link>https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe</link>
-      <description>The NBA announced a plan backed by global investors to commit at least €10 billion to new and renovated arenas and entertainment districts across Europe. The initiative would support the NBA-FIBA professional league ecosystem targeted for 2027, a major step toward the league’s long-discussed European expansion.</description>
-      <pubDate>Wed, 25 Nov 2026 18:24:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-nba-europe-arena-plan</guid>
-      <source url="https://www.nba.com/">NBA</source>
-    </item>
+          <title>Rams win first Thanksgiving Eve game behind Blake Corum</title>
+          <link>https://www.reuters.com/sports/nfl/blake-corum-runs-184-yards-rams-dump-packers-extend-win-streak--flm-2026-11-26/</link>
+          <description>Blake Corum ran for a career-high 184 yards as the Rams beat Green Bay 26-13 in the NFL&apos;s first Thanksgiving Eve game. Los Angeles won its sixth straight, moved to 9-2 and strengthened its NFC position while holding the Packers without a touchdown until the fourth quarter.</description>
+          <pubDate>Thu, 26 Nov 2026 04:54:17 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:sports-rams-packers-corum</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
     <item>
-      <title>Steelers bench Aaron Rodgers and turn to Mason Rudolph</title>
-      <link>https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</link>
-      <description>Pittsburgh will make Aaron Rodgers inactive and start Mason Rudolph against Denver on Friday, Reuters reported. The 6-4 Steelers remain in playoff contention, but Rodgers has completed 60.9% of his passes with an 86.6 rating. The move puts a decorated veteran on the sideline at a pivotal point in the season.</description>
-      <pubDate>Wed, 25 Nov 2026 06:08:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>Steelers release Aaron Rodgers after criticism of Mike McCarthy</title>
+          <link>https://www.reuters.com/sports/rodgers-says-he-wont-return-steelers-claims-head-coach-mccarthy-fell-asleep-2026-11-25/</link>
+          <description>The Steelers released Aaron Rodgers one day after benching him, a significant escalation after the quarterback said coach Mike McCarthy fell asleep during team meetings. Rodgers, 42, had led Pittsburgh to a 5-6 record in his second season with the club. Reuters reported the dispute and the team’s decision.</description>
+          <pubDate>Wed, 25 Nov 2026 20:56:18 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-rodgers-steelers-release</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
     <item>
-      <title>Jannik Sinner faces extended layoff after knee surgery</title>
-      <link>https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</link>
-      <description>Jannik Sinner underwent surgery in Finland on the iliotibial band in his right knee and could miss up to four months, putting his Australian Open participation in doubt. The procedure followed a persistent problem that had limited the former world No. 1 and reshapes the opening stretch of the 2027 tennis season.</description>
-      <pubDate>Tue, 24 Nov 2026 17:11:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>MLB sues players union as December 1 lockout approaches</title>
+          <link>https://frontofficesports.com/article/mlb-sues-players-union-to-counter-nuclear-option-as-lockout-looms/?_bhlid=5063d4a8784b796f4955b9a968ef41ae6afb6a93</link>
+          <description>Major League Baseball asked a federal court to declare its planned December 1 lockout lawful under antitrust law, seeking to head off a possible union challenge. The unusual preemptive suit underscores how far owners and players remain apart as the collective bargaining agreement nears expiration.</description>
+          <pubDate>Wed, 25 Nov 2026 18:35:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-mlb-union-lockout-lawsuit</guid>
+          <source url="https://frontofficesports.com/">Front Office Sports</source>
+        </item>
     <item>
-      <title>United States will host the 2028 Copa América</title>
-      <link>https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</link>
-      <description>CONMEBOL and Concacaf confirmed that the United States will stage the 2028 Copa América from June 9 through July 9. The 16-team field will include all 10 South American associations and six Concacaf qualifiers. Host cities and stadiums will be announced later.</description>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</guid>
-      <source url="https://copaamerica.com/">CONMEBOL Copa América</source>
-    </item>
+          <title>NBA unveils €10 billion arena plan for European league</title>
+          <link>https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe</link>
+          <description>The NBA announced a plan backed by global investors to commit at least €10 billion to new and renovated arenas and entertainment districts across Europe. The initiative would support the NBA-FIBA professional league ecosystem targeted for 2027, a major step toward the league’s long-discussed European expansion.</description>
+          <pubDate>Wed, 25 Nov 2026 18:24:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:sports-nba-europe-arena-plan</guid>
+          <source url="https://www.nba.com/">NBA</source>
+        </item>
     <item>
-      <title>FIFA confirms hosts for the 2031 and 2035 Women’s World Cups</title>
-      <link>https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</link>
-      <description>FIFA appointed the United States, Mexico, Costa Rica and Jamaica to host the expanded 48-team Women’s World Cup in 2031. England, Northern Ireland, Scotland and Wales will stage the 2035 tournament. Both unopposed bids were approved by acclamation at an extraordinary congress.</description>
-      <pubDate>Mon, 23 Nov 2026 15:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</guid>
-      <source url="https://www.fifa.com/">FIFA</source>
-    </item>
+          <title>Steelers bench Aaron Rodgers and turn to Mason Rudolph</title>
+          <link>https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</link>
+          <description>Pittsburgh will make Aaron Rodgers inactive and start Mason Rudolph against Denver on Friday, Reuters reported. The 6-4 Steelers remain in playoff contention, but Rodgers has completed 60.9% of his passes with an 86.6 rating. The move puts a decorated veteran on the sideline at a pivotal point in the season.</description>
+          <pubDate>Wed, 25 Nov 2026 06:08:53 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/sports/steelers-bench-aaron-rodgers-start-mason-rudolph--flm-2026-11-25/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
     <item>
-      <title>Players answer MLB’s salary-cap demand with full media-revenue sharing</title>
-      <link>https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</link>
-      <description>One week before an expected lockout, the players’ union proposed equal sharing of all media revenue among MLB’s 30 clubs without a salary cap. AP’s Ronald Blum reports owners countered with a $1 million minimum salary for 2027 and bonuses, but the central dispute remains unresolved.</description>
-      <pubDate>Mon, 23 Nov 2026 19:33:47 GMT</pubDate>
-      <guid isPermaLink="true">https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
+          <title>Jannik Sinner faces extended layoff after knee surgery</title>
+          <link>https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</link>
+          <description>Jannik Sinner underwent surgery in Finland on the iliotibial band in his right knee and could miss up to four months, putting his Australian Open participation in doubt. The procedure followed a persistent problem that had limited the former world No. 1 and reshapes the opening stretch of the 2027 tennis season.</description>
+          <pubDate>Tue, 24 Nov 2026 17:11:22 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/sports/tennis/sinner-set-extended-spell-sidelines-after-knee-surgery-2026-11-24/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
     <item>
-      <title>Commanders stun Bengals with last-second field goal</title>
-      <link>https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</link>
-      <description>Jayden Daniels hit rookie Antonio Williams for gains of 22 and 42 yards in the final minute, setting up Drew Stevens’ 26-yard field goal as time expired in Washington’s 22-20 upset of Cincinnati. Stevens made five field goals, and the 4-5-1 Commanders kept their season alive.</description>
-      <pubDate>Tue, 24 Nov 2026 05:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>United States will host the 2028 Copa América</title>
+          <link>https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</link>
+          <description>CONMEBOL and Concacaf confirmed that the United States will stage the 2028 Copa América from June 9 through July 9. The 16-team field will include all 10 South American associations and six Concacaf qualifiers. Host cities and stadiums will be announced later.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://copaamerica.com/en/news/united-states-host-conmebol-copa-america-2028</guid>
+          <source url="https://copaamerica.com/">CONMEBOL Copa América</source>
+        </item>
     <item>
-      <title>Mets agree to record $450 million deal with Tarik Skubal</title>
-      <link>https://apnews.com/article/f4cd370e5bc2e048f7e823b4bb5bf008</link>
-      <description>Two-time Cy Young winner Tarik Skubal agreed to a nine-year, $450 million contract with the Mets, an AP source said. The deal, pending a physical, would set pitcher records for total value and $50 million average salary. AP reported a full no-trade clause and a $45 million signing bonus.</description>
-      <pubDate>Sun, 22 Nov 2026 22:16:57 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/f4cd370e5bc2e048f7e823b4bb5bf008</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
+          <title>FIFA confirms hosts for the 2031 and 2035 Women’s World Cups</title>
+          <link>https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</link>
+          <description>FIFA appointed the United States, Mexico, Costa Rica and Jamaica to host the expanded 48-team Women’s World Cup in 2031. England, Northern Ireland, Scotland and Wales will stage the 2035 tournament. Both unopposed bids were approved by acclamation at an extraordinary congress.</description>
+          <pubDate>Mon, 23 Nov 2026 15:15:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.fifa.com/en/tournaments/womens/womensworldcup/articles/2031-2035-hosts-announced</guid>
+          <source url="https://www.fifa.com/">FIFA</source>
+        </item>
     <item>
-      <title>Tom Jackson, Broncos great and ESPN mainstay, dies at 75</title>
-      <link>https://apnews.com/article/bba71b580bd5120afcbad215af5b9f72</link>
-      <description>Tom Jackson, a leader of Denver’s Orange Crush defense and Chris Berman’s longtime partner on ESPN’s NFL Primetime, died Friday at 75. The three-time Pro Bowler played 14 seasons for the Broncos, then spent 32 years at ESPN helping define how a generation watched Sunday highlights.</description>
-      <pubDate>Sun, 22 Nov 2026 16:17:57 GMT</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/bba71b580bd5120afcbad215af5b9f72</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
+          <title>Players answer MLB’s salary-cap demand with full media-revenue sharing</title>
+          <link>https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</link>
+          <description>One week before an expected lockout, the players’ union proposed equal sharing of all media revenue among MLB’s 30 clubs without a salary cap. AP’s Ronald Blum reports owners countered with a $1 million minimum salary for 2027 and bonuses, but the central dispute remains unresolved.</description>
+          <pubDate>Mon, 23 Nov 2026 19:33:47 GMT</pubDate>
+          <guid isPermaLink="true">https://sports.yahoo.com/articles/mlb-sticking-salary-cap-players-193347659.html</guid>
+          <source url="https://apnews.com/">Associated Press</source>
+        </item>
     <item>
-      <title>Russia’s return to international sports meets European resistance</title>
-      <link>https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</link>
-      <description>Russia’s push to re-enter international competition is colliding with visa denials, boycotts and legal challenges across Europe. Reuters reports a December 15 CAS ruling could shape participation ahead of the 2027 European Games, a key qualifying route for the 2028 Los Angeles Olympics.</description>
-      <pubDate>Mon, 23 Nov 2026 12:40:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/sports/russias-sports-comeback-hits-european-wall-2026-11-23/</guid>
-      <source url="https://www.reuters.com/">Reuters</source>
-    </item>
+          <title>Commanders stun Bengals with last-second field goal</title>
+          <link>https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</link>
+          <description>Jayden Daniels hit rookie Antonio Williams for gains of 22 and 42 yards in the final minute, setting up Drew Stevens’ 26-yard field goal as time expired in Washington’s 22-20 upset of Cincinnati. Stevens made five field goals, and the 4-5-1 Commanders kept their season alive.</description>
+          <pubDate>Tue, 24 Nov 2026 05:31:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.reuters.com/sports/nfl/commanders-rally-past-bengals-last-minute-drive-produces-winning-fg--flm-2026-11-24/</guid>
+          <source url="https://www.reuters.com/">Reuters</source>
+        </item>
   </channel>
 </rss>

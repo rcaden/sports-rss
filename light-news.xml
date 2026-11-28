@@ -5,129 +5,128 @@
     <link>https://rcaden.github.io/sports-rss/light-news.xml</link>
     <description>Positive, lighthearted and unusual current news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:27:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:30:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/light-news.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
-
+      <item>
+      <title>New Antarctic worm is named for Dolly Parton</title>
+      <link>https://www.nhm.ac.uk/press-office/press-releases/new-deep-sea-antarctic-worm-named-after-legendary-musician-dolly.html</link>
+      <description>Scientists named a newly described deep-sea worm Bathyadmetella dollypartonae after Dolly Parton. The 14-millimeter animal, purple when collected, was found 1,020 meters below the Amundsen Sea and is only the second species added to its genus since 1967.</description>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:light-dolly-parton-worm</guid>
+      <source url="https://www.nhm.ac.uk/">Natural History Museum</source>
+    </item>
     <item>
-      <title>Virginia&apos;s network of Bee Cities grows to 21</title>
-      <link>https://www.goodnewsgoodvibes.com/en/article/virginia-21-bee-cities-second-most-in-us-lynchburg-pollinators</link>
-      <description>Virginia now has 21 certified Bee Cities, the second-highest state total in the country. Participating communities commit to planting native flowers, reducing pesticide use and teaching residents how to support bees and other pollinators; Lynchburg is among the latest to join.</description>
+      <title>London museum gardens turn up 92 newly identified species</title>
+      <link>https://www.nhm.ac.uk/press-office/press-releases/new-technologies-help-natural-history-museum-uncover-92-species-.html</link>
+      <description>Sensors and old-fashioned fieldwork have identified 92 species not previously recorded in the Natural History Museum&apos;s five-acre London gardens since they reopened. New arrivals include an emperor moth and a small red-eyed damselfly; more than 3,500 species have now been logged there since 1995.</description>
       <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-virginia-bee-cities</guid>
-      <source url="https://www.goodnewsgoodvibes.com/">Good News Good Vibes</source>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:light-museum-gardens-species</guid>
+      <source url="https://www.nhm.ac.uk/">Natural History Museum</source>
     </item>
     <item>
-      <title>One-in-a-million yellow burbot turns up in New York harbor</title>
-      <link>https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/</link>
-      <description>Biologists surveying Lake Ontario&apos;s Oswego Harbor found a burbot with vivid yellow-orange coloring caused by xanthochromism, a rare pigment condition estimated at roughly one in a million. The striking fish gave researchers an unusually visible example of a phenomenon seldom documented in the species.</description>
+      <title>Potatoes thrive in simulated lunar soil</title>
+      <link>https://www.smithsonianmag.com/smart-news/astronauts-living-at-nasas-planned-future-lunar-base-might-one-day-snack-on-moon-grown-potatoes-180989918/</link>
+      <description>Researchers grew edible, nutritious potatoes in simulated lunar regolith mixed with 30 percent vermicompost. The plants performed about as well as potatoes in ordinary soil, suggesting that future moon crews might turn local material and composted waste into a useful growing medium.</description>
       <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-yellow-burbot-oswego</guid>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:light-moon-potatoes</guid>
       <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
     </item>
     <item>
-      <title>Coyotes are already using California&apos;s giant wildlife crossing</title>
-      <link>https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</link>
-      <description>Wildlife cameras have recorded coyotes crossing the nearly completed Wallis Annenberg Wildlife Crossing over U.S. 101 near Los Angeles. The landscaped bridge, billed as the world&apos;s largest wildlife crossing, is designed to reconnect habitat split by the freeway and is due to open December 2.</description>
-      <pubDate>Wed, 18 Nov 2026 09:09:04 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-wildlife-crossing-coyotes</guid>
-      <source url="https://apnews.com/">Associated Press</source>
-    </item>
+          <title>Virginia&apos;s network of Bee Cities grows to 21</title>
+          <link>https://www.goodnewsgoodvibes.com/en/article/virginia-21-bee-cities-second-most-in-us-lynchburg-pollinators</link>
+          <description>Virginia now has 21 certified Bee Cities, the second-highest state total in the country. Participating communities commit to planting native flowers, reducing pesticide use and teaching residents how to support bees and other pollinators; Lynchburg is among the latest to join.</description>
+          <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-virginia-bee-cities</guid>
+          <source url="https://www.goodnewsgoodvibes.com/">Good News Good Vibes</source>
+        </item>
     <item>
-      <title>Medieval chain mail surfaces from a 1495 royal shipwreck</title>
-      <link>https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/</link>
-      <description>Divers exploring Denmark’s royal flagship Gribshunden, which sank in 1495 off Sweden, recovered fragments of copper-alloy chain mail. Researchers think the armor may have belonged to German mercenaries traveling with King Hans, adding a tactile clue to life aboard a Renaissance warship.</description>
-      <pubDate>Wed, 25 Nov 2026 20:44:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-gribshunden-chain-mail</guid>
-      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
-    </item>
+          <title>One-in-a-million yellow burbot turns up in New York harbor</title>
+          <link>https://www.smithsonianmag.com/smart-news/biologists-discovere-a-one-in-a-million-bright-yellow-burbot-fish-in-new-yorks-oswego-harbor-180989928/</link>
+          <description>Biologists surveying Lake Ontario&apos;s Oswego Harbor found a burbot with vivid yellow-orange coloring caused by xanthochromism, a rare pigment condition estimated at roughly one in a million. The striking fish gave researchers an unusually visible example of a phenomenon seldom documented in the species.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-yellow-burbot-oswego</guid>
+          <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+        </item>
     <item>
-      <title>Teachers discover Texas’ second known buffalo jump</title>
-      <link>https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/</link>
-      <description>A group of science teachers hiking in Caprock Canyons found hundreds of bison bones below a cliff, leading archaeologists to identify only the second buffalo jump documented in Texas. Evidence suggests Indigenous hunters used the site for roughly 3,000 years.</description>
-      <pubDate>Wed, 25 Nov 2026 13:10:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-texas-buffalo-jump</guid>
-      <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
-    </item>
+          <title>Coyotes are already using California&apos;s giant wildlife crossing</title>
+          <link>https://apnews.com/article/af2a0788528d85d6624c5b78b0fe427c</link>
+          <description>Wildlife cameras have recorded coyotes crossing the nearly completed Wallis Annenberg Wildlife Crossing over U.S. 101 near Los Angeles. The landscaped bridge, billed as the world&apos;s largest wildlife crossing, is designed to reconnect habitat split by the freeway and is due to open December 2.</description>
+          <pubDate>Wed, 18 Nov 2026 09:09:04 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:light-wildlife-crossing-coyotes</guid>
+          <source url="https://apnews.com/">Associated Press</source>
+        </item>
     <item>
-      <title>New book introduces 60 of New York’s bodega cats</title>
-      <link>https://www.quarto.com/books/9798317901585/bodega-cats-of-new-york</link>
-      <description>Bodega Cats of New York collects portraits and stories of 60 shop cats from all five boroughs. Dan Rimada’s profiles and Gulce Kilkis’ 150 photographs turn the familiar counter-top guardians into neighborhood characters, with 240 pages devoted to cats, stores and the people who care for them.</description>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-bodega-cats-book</guid>
-      <source url="https://www.quarto.com/">Quarto</source>
-    </item>
+          <title>Medieval chain mail surfaces from a 1495 royal shipwreck</title>
+          <link>https://www.smithsonianmag.com/smart-news/while-exploring-a-500-year-old-shipwreck-off-the-coast-of-sweden-underwater-archaeologists-discovered-medieval-chain-mail-that-may-have-belonged-to-german-mercenaries-180989944/</link>
+          <description>Divers exploring Denmark’s royal flagship Gribshunden, which sank in 1495 off Sweden, recovered fragments of copper-alloy chain mail. Researchers think the armor may have belonged to German mercenaries traveling with King Hans, adding a tactile clue to life aboard a Renaissance warship.</description>
+          <pubDate>Wed, 25 Nov 2026 20:44:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-gribshunden-chain-mail</guid>
+          <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+        </item>
     <item>
-      <title>Kiwi return to Wellington’s hills after more than 150 years</title>
-      <link>https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</link>
-      <description>More than 250 kiwi now roam the hills around New Zealand’s capital after a Māori-led project deployed 5,300 traps across nearly 60,000 acres to control stoats. Capital Kiwi says chick survival has topped 90% under the program, restoring the flightless birds to a landscape where they had been absent for more than 150 years.</description>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</guid>
-      <source url="https://news.mongabay.com/">Mongabay</source>
-    </item>
+          <title>Teachers discover Texas’ second known buffalo jump</title>
+          <link>https://www.smithsonianmag.com/smart-news/indigenous-hunters-drove-bison-off-a-cliff-for-3000-years-its-only-the-second-buffalo-jump-ever-discovered-in-texas-180989941/</link>
+          <description>A group of science teachers hiking in Caprock Canyons found hundreds of bison bones below a cliff, leading archaeologists to identify only the second buffalo jump documented in Texas. Evidence suggests Indigenous hunters used the site for roughly 3,000 years.</description>
+          <pubDate>Wed, 25 Nov 2026 13:10:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-texas-buffalo-jump</guid>
+          <source url="https://www.smithsonianmag.com/">Smithsonian Magazine</source>
+        </item>
     <item>
-      <title>‘Retired’ parakeet pair surprise keepers with a new family</title>
-      <link>https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</link>
-      <description>Sophia and Prince Polo, two orange-fronted parakeets thought to be past breeding age, produced chicks at Christchurch’s Orana Wildlife Park—and Sophia laid another clutch a month later. The critically endangered New Zealand species has twice been declared extinct and numbers only about 450 birds.</description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</guid>
-      <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
-    </item>
+          <title>New book introduces 60 of New York’s bodega cats</title>
+          <link>https://www.quarto.com/books/9798317901585/bodega-cats-of-new-york</link>
+          <description>Bodega Cats of New York collects portraits and stories of 60 shop cats from all five boroughs. Dan Rimada’s profiles and Gulce Kilkis’ 150 photographs turn the familiar counter-top guardians into neighborhood characters, with 240 pages devoted to cats, stores and the people who care for them.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:light-bodega-cats-book</guid>
+          <source url="https://www.quarto.com/">Quarto</source>
+        </item>
     <item>
-      <title>Volunteers turn difficult cursive letters into searchable history</title>
-      <link>https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</link>
-      <description>Volunteers at Bowling Green State University are deciphering handwritten letters and converting them into searchable text. The project makes fragile records easier for researchers and the public to discover while giving people who still read cursive a practical way to preserve women’s history and other stories locked in archives.</description>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</guid>
-      <source url="https://www.goodgoodgood.co/">Good Good Good</source>
-    </item>
+          <title>Kiwi return to Wellington’s hills after more than 150 years</title>
+          <link>https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</link>
+          <description>More than 250 kiwi now roam the hills around New Zealand’s capital after a Māori-led project deployed 5,300 traps across nearly 60,000 acres to control stoats. Capital Kiwi says chick survival has topped 90% under the program, restoring the flightless birds to a landscape where they had been absent for more than 150 years.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://news.mongabay.com/short-article/2026/11/kiwi-return-to-wellington-hills-after-150-years-in-maori-led-conservation-milestone/</guid>
+          <source url="https://news.mongabay.com/">Mongabay</source>
+        </item>
     <item>
-      <title>Bagot goats take on a steep conservation job in Greenwich Park</title>
-      <link>https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</link>
-      <description>Britain’s oldest native goat breed is spending November 23–27 browsing thorny growth below the Royal Observatory. The small, sure-footed Bagot goats can reach Castle Hill Bank where machines and volunteers struggle, helping protect a famous view while making room for more plant life.</description>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</guid>
-      <source url="https://www.royalparks.org.uk/">The Royal Parks</source>
-    </item>
+          <title>‘Retired’ parakeet pair surprise keepers with a new family</title>
+          <link>https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</link>
+          <description>Sophia and Prince Polo, two orange-fronted parakeets thought to be past breeding age, produced chicks at Christchurch’s Orana Wildlife Park—and Sophia laid another clutch a month later. The critically endangered New Zealand species has twice been declared extinct and numbers only about 450 birds.</description>
+          <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://dxcprod.doc.govt.nz/news/media-releases/2026-media-releases/retired-bird-couple-become-parents-again/</guid>
+          <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
+        </item>
     <item>
-      <title>Conservation partners return the 1,000th Jamaican rock iguana to the wild</title>
-      <link>https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</link>
-      <description>A November 14 release of 33 iguanas in Jamaica’s Hellshire Hills pushed a decades-long recovery program past 1,000 animals returned to the wild. The species was thought extinct until 1990. Head-starting now gives hatchlings time to grow before they face predators in their native dry forest.</description>
-      <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</guid>
-      <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
-    </item>
+          <title>Volunteers turn difficult cursive letters into searchable history</title>
+          <link>https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</link>
+          <description>Volunteers at Bowling Green State University are deciphering handwritten letters and converting them into searchable text. The project makes fragile records easier for researchers and the public to discover while giving people who still read cursive a practical way to preserve women’s history and other stories locked in archives.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.goodgoodgood.co/articles/cursive-dying-art-form-volunteers-letters</guid>
+          <source url="https://www.goodgoodgood.co/">Good Good Good</source>
+        </item>
     <item>
-      <title>Four rescued manatees head back to Florida for the final leg of rehabilitation</title>
-      <link>https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</link>
-      <description>Redrock, Rosalyn, Erie and Hundo traveled safely from Ohio zoos to Florida rehabilitation centers, bringing each closer to a winter release in native waters. Custom foam-lined crates, blankets, misting and careful air-and-road coordination kept the large passengers comfortable along the way.</description>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</guid>
-      <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
-    </item>
+          <title>Bagot goats take on a steep conservation job in Greenwich Park</title>
+          <link>https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</link>
+          <description>Britain’s oldest native goat breed is spending November 23–27 browsing thorny growth below the Royal Observatory. The small, sure-footed Bagot goats can reach Castle Hill Bank where machines and volunteers struggle, helping protect a famous view while making room for more plant life.</description>
+          <pubDate>Mon, 23 Nov 2026 09:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.royalparks.org.uk/get-in-touch/media-centre/news-press-releases/goats-job-meet-greenwich-parks-newest-conservation-helpers</guid>
+          <source url="https://www.royalparks.org.uk/">The Royal Parks</source>
+        </item>
     <item>
-      <title>New Zealand’s longest lizards return home after 30 years</title>
-      <link>https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-zealands-longest-lizard-returned-to-wild/</link>
-      <description>Eleven threatened niho taniwha, or chevron skinks, have returned to Aotea/Great Barrier Island after three decades at Auckland Zoo. The 30-centimeter lizards were released into predator-controlled forest with bamboo refuges and tiny radio transmitters, joining ten others returned in July.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.doc.govt.nz/news/media-releases/2026-media-releases/new-zealands-longest-lizard-returned-to-wild/</guid>
-      <source url="https://www.doc.govt.nz/">New Zealand Department of Conservation</source>
-    </item>
+          <title>Conservation partners return the 1,000th Jamaican rock iguana to the wild</title>
+          <link>https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</link>
+          <description>A November 14 release of 33 iguanas in Jamaica’s Hellshire Hills pushed a decades-long recovery program past 1,000 animals returned to the wild. The species was thought extinct until 1990. Head-starting now gives hatchlings time to grow before they face predators in their native dry forest.</description>
+          <pubDate>Mon, 23 Nov 2026 14:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/1000th-jamaican-rock-iguana</guid>
+          <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
+        </item>
     <item>
-      <title>Zeus the cat commutes 37 miles to London and back</title>
-      <link>https://www.bbc.com/news/articles/c6x2exd5ee4ro</link>
-      <description>Four-year-old Zeus boarded an evening train in Braintree and rode 37 miles to London Liverpool Street. Station staff kept the seasoned traveler safe in their office, then a Greater Anglia employee escorted him home. His owner says the sociable cat wears two trackers and has caught trains before.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6x2exd5ee4ro</guid>
-      <source url="https://www.bbc.com/news">BBC News</source>
-    </item>
-    <item>
-      <title>Otters bring hope to Kuala Lumpur’s once-filthy river</title>
-      <link>https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</link>
-      <description>Families of vulnerable smooth-coated otters are turning up along Kuala Lumpur’s Klang River, once rated in Malaysia’s worst pollution class. Years of cleanup have improved the river to moderately polluted, and conservationists hope the playful fish-eaters will rally support for cleaner water and restored banks.</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/</guid>
-      <source url="https://news.mongabay.com/">Mongabay</source>
-    </item>
+          <title>Four rescued manatees head back to Florida for the final leg of rehabilitation</title>
+          <link>https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</link>
+          <description>Redrock, Rosalyn, Erie and Hundo traveled safely from Ohio zoos to Florida rehabilitation centers, bringing each closer to a winter release in native waters. Custom foam-lined crates, blankets, misting and careful air-and-road coordination kept the large passengers comfortable along the way.</description>
+          <pubDate>Fri, 20 Nov 2026 14:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.aza.org/connect-stories/stories/four-manatees-journey-to-florida</guid>
+          <source url="https://www.aza.org/">Association of Zoos and Aquariums</source>
+        </item>
   </channel>
 </rss>

@@ -5,129 +5,128 @@
     <link>https://rcaden.github.io/sports-rss/personal.xml</link>
     <description>Noteworthy articles from across the web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:30:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/personal.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
-
-    <item>
-      <title>The current Del Rey edition of On a Pale Horse</title>
-      <link>https://www.penguinrandomhouse.com/books/4316/on-a-pale-horse-by-piers-anthony/</link>
-      <description>Penguin Random House&apos;s catalog page confirms that Piers Anthony&apos;s On a Pale Horse remains active as a Del Rey mass-market paperback under ISBN 9780345338587, with the edition dated September 12, 1986. The listing supplies a useful primary record for tracing why this particular package has stayed in circulation.</description>
-      <pubDate>Fri, 12 Sep 1986 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-on-a-pale-horse-edition</guid>
-      <source url="https://www.penguinrandomhouse.com/">Penguin Random House</source>
+      <item>
+      <title>CBS publishes live fantasy-football roster trends</title>
+      <link>https://www.cbssports.com/fantasy/football/trends/added/all/</link>
+      <description>CBS Sports provides a public, league-wide view of fantasy-football roster movement, including prior-week and current-week ownership percentages and the size of each change. The sortable most-added list offers a direct way to compare broad CBS manager behavior without joining a league.</description>
+      <pubDate>Sat, 28 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:personal-cbs-roster-trends</guid>
+      <source url="https://www.cbssports.com/">CBS Sports</source>
     </item>
     <item>
-      <title>Why publishers keep dependable backlist editions in print</title>
-      <link>https://www2.publishersweekly.com/pw/print/20170417/73335-always-in-season-backlist-backbones-2017.html</link>
-      <description>Publishers Weekly examines how steady backlist sales support publishers for years, often without a redesign. Editors describe covers that keep working in niche channels and titles whose demand continues long after launch, useful context for investigating why a decades-old paperback edition can remain the market standard.</description>
-      <pubDate>Mon, 17 Apr 2017 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-backlist-editions</guid>
-      <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
+      <title>A first look at books, films and music entering the public domain in 2027</title>
+      <link>https://www.mentalfloss.com/entertainment/books-movies-music-entering-public-domain-2027</link>
+      <description>Mental Floss surveys U.S. works from 1931 scheduled to enter the public domain on January 1, 2027. The roundup includes Charlie Chaplin&apos;s City Lights, Pearl S. Buck&apos;s The Good Earth, the song As Time Goes By and Cab Calloway&apos;s Minnie the Moocher, with context on the underlying copyright dates.</description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:personal-public-domain-2027</guid>
+      <source url="https://www.mentalfloss.com/">Mental Floss</source>
     </item>
     <item>
-      <title>St. Augustine prepares to swear in its first Black mayor</title>
-      <link>https://sjcitizen.com/history-in-the-making-st-augustines-first-black-mayor-to-be-sworn-in-at-lightner-museum/</link>
-      <description>Cynthia Garris will become St. Augustine&apos;s first Black mayor on December 7. Anticipated attendance moved the ceremony to the Lightner Museum&apos;s Historic Pool. Garris, elected as the city&apos;s first Black woman commissioner in 2022, succeeds Nancy Sikes-Kline after 18 years in elected office.</description>
-      <pubDate>Tue, 24 Nov 2026 15:52:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-st-augustine-garris-mayor</guid>
-      <source url="https://sjcitizen.com/">St. Johns Citizen</source>
-    </item>
-    <item>
-      <title>WordPress 7.2 reaches full PHP 8.6 compatibility</title>
-      <link>https://make.wordpress.org/core/2026/11/23/wordpress-and-php-8-6/</link>
-      <description>WordPress core contributors say every known PHP 8.6 compatibility issue is resolved in WordPress 7.2 Beta 5. The developer note explains the fixes and flags changes plugin and theme authors should test, including font MIME detection, image handling and deprecated functions.</description>
-      <pubDate>Mon, 23 Nov 2026 22:25:11 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-wordpress-php-86</guid>
-      <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
-    </item>
-    <item>
-      <title>How two world wars made Jacksonville a Navy town</title>
-      <link>https://jaxhistory.org/a-navy-town-past-and-present/</link>
-      <description>Jacksonville History Center CEO Alan Bliss connects the city’s wartime shipbuilding booms to its modern identity. World War I drove industrial growth and migration; World War II cemented the military presence that now includes Mayport, NAS Jacksonville and nearby Kings Bay.</description>
+      <title>WordPress 7.1.5 fixes a multisite privilege-escalation flaw</title>
+      <link>https://wordpress.org/news/2026/11/wordpress-7-1-5-release/</link>
+      <description>WordPress 7.1.5 is a security release that fixes multiple issues, including a multisite flaw that could let a site Administrator take over a Super Admin account through Customizer menu previews. WordPress recommends updating immediately; the release also hardens JSON media-type matching.</description>
       <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-jacksonville-navy-town</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:personal-wordpress-7-1-5</guid>
+      <source url="https://wordpress.org/news/">WordPress News</source>
     </item>
     <item>
-      <title>A practical guide to 2.5 million pages of vintage media history</title>
-      <link>https://casrai.org/guides/media-history-digital-library</link>
-      <description>This guide maps the Media History Digital Library’s free collection of more than 2.5 million digitized pages from film, broadcasting and recorded-sound trade papers, fan magazines and yearbooks. It explains Lantern full-text search, copyright context and the best collections for research.</description>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-media-history-digital-library</guid>
-      <source url="https://casrai.org/">CASRAI</source>
-    </item>
+          <title>The current Del Rey edition of On a Pale Horse</title>
+          <link>https://www.penguinrandomhouse.com/books/4316/on-a-pale-horse-by-piers-anthony/</link>
+          <description>Penguin Random House&apos;s catalog page confirms that Piers Anthony&apos;s On a Pale Horse remains active as a Del Rey mass-market paperback under ISBN 9780345338587, with the edition dated September 12, 1986. The listing supplies a useful primary record for tracing why this particular package has stayed in circulation.</description>
+          <pubDate>Fri, 12 Sep 1986 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-on-a-pale-horse-edition</guid>
+          <source url="https://www.penguinrandomhouse.com/">Penguin Random House</source>
+        </item>
     <item>
-      <title>Copyright Office finishes digitizing 25,238 historical record books</title>
-      <link>https://www.copyright.gov/newsnet/2026/1099.html</link>
-      <description>The U.S. Copyright Office has completed digitization of 25,238 bound record books containing more than 21.7 million images of registrations and other filings from 1870 through 1977. The collection is already browsable online, with plans to make individual records easier to search through the Copyright Public Records System.</description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1099.html</guid>
-      <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
-    </item>
+          <title>Why publishers keep dependable backlist editions in print</title>
+          <link>https://www2.publishersweekly.com/pw/print/20170417/73335-always-in-season-backlist-backbones-2017.html</link>
+          <description>Publishers Weekly examines how steady backlist sales support publishers for years, often without a redesign. Editors describe covers that keep working in niche channels and titles whose demand continues long after launch, useful context for investigating why a decades-old paperback edition can remain the market standard.</description>
+          <pubDate>Mon, 17 Apr 2017 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-backlist-editions</guid>
+          <source url="https://www.publishersweekly.com/">Publishers Weekly</source>
+        </item>
     <item>
-      <title>SPSFC 6 entry window closes November 29</title>
-      <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
-      <description>The sixth Self-Published Science Fiction Competition is accepting new entries and eligible resubmissions through November 29. Qualifying novels must be self-published science fiction of at least 40,000 words and released by December 7. Judge teams will be finalized in early December, with the winner scheduled for October 2027.</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
-      <source url="https://spsfc.space/">Self-Published Science Fiction Competition</source>
-    </item>
+          <title>St. Augustine prepares to swear in its first Black mayor</title>
+          <link>https://sjcitizen.com/history-in-the-making-st-augustines-first-black-mayor-to-be-sworn-in-at-lightner-museum/</link>
+          <description>Cynthia Garris will become St. Augustine&apos;s first Black mayor on December 7. Anticipated attendance moved the ceremony to the Lightner Museum&apos;s Historic Pool. Garris, elected as the city&apos;s first Black woman commissioner in 2022, succeeds Nancy Sikes-Kline after 18 years in elected office.</description>
+          <pubDate>Tue, 24 Nov 2026 15:52:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:personal-st-augustine-garris-mayor</guid>
+          <source url="https://sjcitizen.com/">St. Johns Citizen</source>
+        </item>
     <item>
-      <title>The odd hotel-room origins of fantasy football</title>
-      <link>https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</link>
-      <description>The Pro Football Hall of Fame traces fantasy football to an October 1962 Raiders road trip, when Bill Winkenbach, Bill Tunnell and Scotty Stirling sketched rules in a Manhattan hotel. The first GOPPPL draft followed in August 1963, with George Blanda as the first selection; a public league arrived in 1969.</description>
-      <pubDate>Mon, 07 Sep 2020 20:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</guid>
-      <source url="https://www.profootballhof.com/">Pro Football Hall of Fame</source>
-    </item>
+          <title>WordPress 7.2 reaches full PHP 8.6 compatibility</title>
+          <link>https://make.wordpress.org/core/2026/11/23/wordpress-and-php-8-6/</link>
+          <description>WordPress core contributors say every known PHP 8.6 compatibility issue is resolved in WordPress 7.2 Beta 5. The developer note explains the fixes and flags changes plugin and theme authors should test, including font MIME detection, image handling and deprecated functions.</description>
+          <pubDate>Mon, 23 Nov 2026 22:25:11 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-wordpress-php-86</guid>
+          <source url="https://make.wordpress.org/core/">Make WordPress Core</source>
+        </item>
     <item>
-      <title>Inside the Jacksonville History Center’s 2,000-foot archive</title>
-      <link>https://jaxhistory.org/meet-the-archives-staff/</link>
-      <description>Jacksonville’s historical archive holds more than 2,000 linear feet of letters, manuscripts and ephemera, plus over 100,000 photographs and negatives, maps, films, books and artifacts. Archivist Erin Mustard explains how preservation storage and catalog descriptions keep 200 years of local records usable for researchers.</description>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jaxhistory.org/meet-the-archives-staff/</guid>
-      <source url="https://jaxhistory.org/">Jacksonville History Center</source>
-    </item>
+          <title>How two world wars made Jacksonville a Navy town</title>
+          <link>https://jaxhistory.org/a-navy-town-past-and-present/</link>
+          <description>Jacksonville History Center CEO Alan Bliss connects the city’s wartime shipbuilding booms to its modern identity. World War I drove industrial growth and migration; World War II cemented the military presence that now includes Mayport, NAS Jacksonville and nearby Kings Bay.</description>
+          <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-jacksonville-navy-town</guid>
+          <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+        </item>
     <item>
-      <title>ServiceNow’s module system brings imports, TypeScript and npm dependencies to scoped apps</title>
-      <link>https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</link>
-      <description>ServiceNow’s Zurich documentation explains how scoped applications can organize reusable JavaScript or TypeScript modules with named and default exports, import server APIs explicitly, and declare third-party packages in package.json. It also documents important limits: no global apps, Node.js APIs or undeclared cross-scope access.</description>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</guid>
-      <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
-    </item>
+          <title>A practical guide to 2.5 million pages of vintage media history</title>
+          <link>https://casrai.org/guides/media-history-digital-library</link>
+          <description>This guide maps the Media History Digital Library’s free collection of more than 2.5 million digitized pages from film, broadcasting and recorded-sound trade papers, fan magazines and yearbooks. It explains Lantern full-text search, copyright context and the best collections for research.</description>
+          <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:personal-media-history-digital-library</guid>
+          <source url="https://casrai.org/">CASRAI</source>
+        </item>
     <item>
-      <title>Tracing Lovecraft’s one-week stay in New Orleans</title>
-      <link>https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</link>
-      <description>This compact research note reconstructs H.P. Lovecraft’s June 1932 week in New Orleans with fellow Weird Tales writer E. Hoffmann Price. It identifies Price’s apartment at 305 Royal Street, Lovecraft’s inexpensive St. Charles Street hotel, their long conversations and the surviving memoir and correspondence that document the visit.</description>
-      <pubDate>Thu, 02 Feb 2012 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</guid>
-      <source url="https://jurn.link/tentaclii/">Tentaclii</source>
-    </item>
+          <title>Copyright Office finishes digitizing 25,238 historical record books</title>
+          <link>https://www.copyright.gov/newsnet/2026/1099.html</link>
+          <description>The U.S. Copyright Office has completed digitization of 25,238 bound record books containing more than 21.7 million images of registrations and other filings from 1870 through 1977. The collection is already browsable online, with plans to make individual records easier to search through the Copyright Public Records System.</description>
+          <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.copyright.gov/newsnet/2026/1099.html</guid>
+          <source url="https://www.copyright.gov/">U.S. Copyright Office</source>
+        </item>
     <item>
-      <title>How Poydras Market shaped a lost New Orleans neighborhood</title>
-      <link>https://prcno.org/new-district-enlivens-historic-neighborhood/</link>
-      <description>Before parking lots hollowed out the blocks above Lafayette Square, the bustling Poydras Market supported restaurants, shops, saloons, stables and industry for nearly a century. This illustrated history connects the market’s vanished commercial ecosystem to the modern South Market District and includes an 1864–65 photograph.</description>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://prcno.org/new-district-enlivens-historic-neighborhood/</guid>
-      <source url="https://prcno.org/">Preservation Resource Center of New Orleans</source>
-    </item>
+          <title>SPSFC 6 entry window closes November 29</title>
+          <link>https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</link>
+          <description>The sixth Self-Published Science Fiction Competition is accepting new entries and eligible resubmissions through November 29. Qualifying novels must be self-published science fiction of at least 40,000 words and released by December 7. Judge teams will be finalized in early December, with the winner scheduled for October 2027.</description>
+          <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://spsfc.space/2026/11/02/spsfc-6-now-accepting-entries/</guid>
+          <source url="https://spsfc.space/">Self-Published Science Fiction Competition</source>
+        </item>
     <item>
-      <title>What ServiceNow Zurich’s modern JavaScript engine actually supports</title>
-      <link>https://www.servicenow.com/docs/r/zurich/api-reference/scripts/c_JS_engine_upgrade.html</link>
-      <description>ServiceNow’s Zurich documentation explains where server-side scripts can use ECMAScript 2021 features such as optional chaining, destructuring, const, let and arrow functions. It also distinguishes modern, ES5 Standards and Compatibility modes—useful when upgrading scoped applications without unexpectedly changing older script behavior.</description>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/api-reference/scripts/c_JS_engine_upgrade.html</guid>
-      <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
-    </item>
+          <title>The odd hotel-room origins of fantasy football</title>
+          <link>https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</link>
+          <description>The Pro Football Hall of Fame traces fantasy football to an October 1962 Raiders road trip, when Bill Winkenbach, Bill Tunnell and Scotty Stirling sketched rules in a Manhattan hotel. The first GOPPPL draft followed in August 1963, with George Blanda as the first selection; a public league arrived in 1969.</description>
+          <pubDate>Mon, 07 Sep 2020 20:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.profootballhof.com/news/fantasy-football-originates-in-unlikely-fashion</guid>
+          <source url="https://www.profootballhof.com/">Pro Football Hall of Fame</source>
+        </item>
     <item>
-      <title>Why library ebooks can have waiting lists</title>
-      <link>https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</link>
-      <description>OverDrive’s concise explanation of digital lending answers a deceptively thorny question: libraries buy individual ebook or audiobook copies, and most publisher licenses permit only one borrower per copy at a time. Collection budgets determine how many copies are available, so a file that is easy to duplicate can still produce a long hold queue.</description>
-      <pubDate>Tue, 18 Aug 2026 15:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://help.overdrive.com/en-us/0720.html?Highlight=holds+list</guid>
-      <source url="https://help.overdrive.com/">OverDrive Help</source>
-    </item>
+          <title>Inside the Jacksonville History Center’s 2,000-foot archive</title>
+          <link>https://jaxhistory.org/meet-the-archives-staff/</link>
+          <description>Jacksonville’s historical archive holds more than 2,000 linear feet of letters, manuscripts and ephemera, plus over 100,000 photographs and negatives, maps, films, books and artifacts. Archivist Erin Mustard explains how preservation storage and catalog descriptions keep 200 years of local records usable for researchers.</description>
+          <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://jaxhistory.org/meet-the-archives-staff/</guid>
+          <source url="https://jaxhistory.org/">Jacksonville History Center</source>
+        </item>
+    <item>
+          <title>ServiceNow’s module system brings imports, TypeScript and npm dependencies to scoped apps</title>
+          <link>https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</link>
+          <description>ServiceNow’s Zurich documentation explains how scoped applications can organize reusable JavaScript or TypeScript modules with named and default exports, import server APIs explicitly, and declare third-party packages in package.json. It also documents important limits: no global apps, Node.js APIs or undeclared cross-scope access.</description>
+          <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.servicenow.com/docs/r/zurich/application-development/javascript-modules-third-party-libraries.html</guid>
+          <source url="https://www.servicenow.com/docs/">ServiceNow Documentation</source>
+        </item>
+    <item>
+          <title>Tracing Lovecraft’s one-week stay in New Orleans</title>
+          <link>https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</link>
+          <description>This compact research note reconstructs H.P. Lovecraft’s June 1932 week in New Orleans with fellow Weird Tales writer E. Hoffmann Price. It identifies Price’s apartment at 305 Royal Street, Lovecraft’s inexpensive St. Charles Street hotel, their long conversations and the surviving memoir and correspondence that document the visit.</description>
+          <pubDate>Thu, 02 Feb 2012 00:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://jurn.link/tentaclii/index.php/2012/02/02/lovecraft-and-new-orleans/</guid>
+          <source url="https://jurn.link/tentaclii/">Tentaclii</source>
+        </item>
   </channel>
 </rss>

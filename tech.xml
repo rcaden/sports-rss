@@ -5,129 +5,128 @@
     <link>https://rcaden.github.io/sports-rss/tech.xml</link>
     <description>Articles about software, publishing and the open web.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 13:28:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 17:30:00 GMT</lastBuildDate>
     <atom:link href="https://rcaden.github.io/sports-rss/tech.xml" rel="self" type="application/rss+xml" />
     <docs>https://www.rssboard.org/rss-specification</docs>
-
-    <item>
-      <title>Fake podcast interview invitations are charging would-be guests</title>
-      <link>https://podnews.net/update/fake-interviews-scam</link>
-      <description>Podnews warns of scam invitations that impersonate prominent podcast or radio hosts and then demand fees as high as $260. Bo Bennett documented repeated approaches and the checks that exposed them, offering practical defenses for independent publishers whose names and audiences make plausible bait.</description>
-      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-podcast-interview-scams</guid>
+      <item>
+      <title>Podcast ad targeting is losing city-level IP precision</title>
+      <link>https://podnews.net/update/ip-addresses-targeting</link>
+      <description>Podnews reports that only 6.5 percent of U.S. IP addresses can now be placed at city level, roughly half the share a year ago; in Europe, 56 percent resolve only to a country. The erosion matters for local podcast advertising and exposes the limits of location claims built on listener IP data.</description>
+      <pubDate>Fri, 27 Nov 2026 07:45:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:tech-podcast-ip-targeting</guid>
       <source url="https://podnews.net/">Podnews</source>
     </item>
     <item>
-      <title>Cloudflare releases Kitesurf browser engine under Apache 2.0</title>
-      <link>https://blog.cloudflare.com/kitesurf-open-source</link>
-      <description>Cloudflare has opened Kitesurf, a stateless browser engine built to run on Workers. It parses HTML, CSS and JavaScript, can render screenshots and exposes Chrome DevTools Protocol and Puppeteer interfaces. The Apache 2.0 release lets developers inspect, modify and self-host the stack.</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-cloudflare-kitesurf</guid>
-      <source url="https://blog.cloudflare.com/">Cloudflare Blog</source>
-    </item>
-    <item>
-      <title>W3C says user agents owe users protection, honesty and loyalty</title>
-      <link>https://www.w3.org/blog/2026/tag-note-explained-user-agents/</link>
-      <description>A new W3C Technical Architecture Group note argues that software acting for people on the web should prioritize their interests, protect privacy, explain consequential actions and support portability. The guidance applies beyond browsers to search tools, email clients, credential managers and digital wallets.</description>
+      <title>W3C adds a practical societal-impact check for web standards</title>
+      <link>https://www.w3.org/blog/2026/tag-note-explained-user-agents-2/</link>
+      <description>A new W3C note gives standards authors, reviewers and implementers a compact set of questions about who a technology serves or excludes, how it might be misused, and its effects on privacy, well-being, power and the environment. The goal is to surface consequences early enough to change a design.</description>
       <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-w3c-user-agents</guid>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:tech-w3c-societal-impact</guid>
       <source url="https://www.w3.org/">W3C</source>
     </item>
     <item>
-      <title>Podcast trade group backs migration safeguards and measurement standards</title>
-      <link>https://podnews.net/press-release/ppa-advocacy-2026</link>
-      <description>The Podcast Professionals Association endorsed the Podcast Migration Code of Practice and called for transparent, consistent audience measurement. It also urged player developers to weigh the economic effects of easier ad skipping while preserving listener choice—a useful attempt to put shared rules around an interoperable medium.</description>
-      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-podcast-ppa-advocacy</guid>
-      <source url="https://podnews.net/">Podcast Professionals Association</source>
+      <title>Nudeps brings bare npm imports to the browser without a bundler</title>
+      <link>https://lea.verou.me/blog/2026/nudeps/</link>
+      <description>Lea Verou introduces Nudeps, a lightweight tool that keeps npm for dependency management, vendors packages locally and generates import maps so browser code can use bare package names. It preserves a build-free development loop while avoiding remote CDN imports and a traditional bundling pipeline.</description>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-28:tech-nudeps-import-maps</guid>
+      <source url="https://lea.verou.me/">Lea Verou</source>
     </item>
     <item>
-      <title>Wall Street Journal shifts to a bot whitelist</title>
-      <link>https://www.niemanlab.org/2026/11/the-wall-street-journal-joins-growing-list-of-publishers-disallowing-bots-by-default/</link>
-      <description>Dow Jones now disallows bots by default across the Wall Street Journal, Barron’s and MarketWatch, permitting selected crawlers through a whitelist. Nieman Lab reports that publishers are using robots.txt restrictions to reduce bandwidth costs, seek licensing agreements and respond to falling human referrals.</description>
-      <pubDate>Tue, 24 Nov 2026 19:27:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-wsj-bot-whitelist</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
+          <title>Fake podcast interview invitations are charging would-be guests</title>
+          <link>https://podnews.net/update/fake-interviews-scam</link>
+          <description>Podnews warns of scam invitations that impersonate prominent podcast or radio hosts and then demand fees as high as $260. Bo Bennett documented repeated approaches and the checks that exposed them, offering practical defenses for independent publishers whose names and audiences make plausible bait.</description>
+          <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-podcast-interview-scams</guid>
+          <source url="https://podnews.net/">Podnews</source>
+        </item>
     <item>
-      <title>W3C advances WebAssembly 3.0 candidate drafts</title>
-      <link>https://www.w3.org/standards/history/wasm-core-2/</link>
-      <description>The W3C published another Candidate Recommendation Draft of the WebAssembly core specification on November 24. The continuing 3.0 work matters to independent web developers because it strengthens a portable, open low-level code format that can run across browsers and other interoperable environments.</description>
-      <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-wasm-3-candidate-draft</guid>
-      <source url="https://www.w3.org/">World Wide Web Consortium</source>
-    </item>
+          <title>Cloudflare releases Kitesurf browser engine under Apache 2.0</title>
+          <link>https://blog.cloudflare.com/kitesurf-open-source</link>
+          <description>Cloudflare has opened Kitesurf, a stateless browser engine built to run on Workers. It parses HTML, CSS and JavaScript, can render screenshots and exposes Chrome DevTools Protocol and Puppeteer interfaces. The Apache 2.0 release lets developers inspect, modify and self-host the stack.</description>
+          <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-cloudflare-kitesurf</guid>
+          <source url="https://blog.cloudflare.com/">Cloudflare Blog</source>
+        </item>
     <item>
-      <title>Small local news sites find traffic gains in newsletters, obits and service journalism</title>
-      <link>https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</link>
-      <description>Nieman Lab’s latest ranking of local for-profit news sites shows that useful, distinctive coverage can still travel. Big gainers drew readers through obituary follow-ups, newsletter distribution and service pieces such as a guide to the 690-mile World’s Longest Yard Sale—practical evidence that small publishers can win attention without chasing national scale.</description>
-      <pubDate>Mon, 23 Nov 2026 17:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
+          <title>W3C says user agents owe users protection, honesty and loyalty</title>
+          <link>https://www.w3.org/blog/2026/tag-note-explained-user-agents/</link>
+          <description>A new W3C Technical Architecture Group note argues that software acting for people on the web should prioritize their interests, protect privacy, explain consequential actions and support portability. The guidance applies beyond browsers to search tools, email clients, credential managers and digital wallets.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-27:tech-w3c-user-agents</guid>
+          <source url="https://www.w3.org/">W3C</source>
+        </item>
     <item>
-      <title>WebKit adds an interface for Global Privacy Control</title>
-      <link>https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</link>
-      <description>WebKit now lets apps built with WKWebView or WebPage for SwiftUI expose a user setting for Global Privacy Control, the emerging signal for opting out of data sale, sharing and cross-context targeted advertising. The change gives independent browser and app developers a standards-based privacy control across Apple’s current operating systems.</description>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</guid>
-      <source url="https://webkit.org/">WebKit</source>
-    </item>
+          <title>Podcast trade group backs migration safeguards and measurement standards</title>
+          <link>https://podnews.net/press-release/ppa-advocacy-2026</link>
+          <description>The Podcast Professionals Association endorsed the Podcast Migration Code of Practice and called for transparent, consistent audience measurement. It also urged player developers to weigh the economic effects of easier ad skipping while preserving listener choice—a useful attempt to put shared rules around an interoperable medium.</description>
+          <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-podcast-ppa-advocacy</guid>
+          <source url="https://podnews.net/">Podcast Professionals Association</source>
+        </item>
     <item>
-      <title>San Jose Earthquakes announce a change of ownership</title>
-      <link>https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</link>
-      <description>Heath Freeman will acquire the San Jose Earthquakes and PayPal Park from John Fisher and partners after unanimous approval by Major League Soccer’s Board of Governors. The deal, whose financial terms were not disclosed, is expected to close in the coming weeks and gives a founding MLS club new stewardship in Silicon Valley.</description>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
-      <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
-    </item>
+          <title>Wall Street Journal shifts to a bot whitelist</title>
+          <link>https://www.niemanlab.org/2026/11/the-wall-street-journal-joins-growing-list-of-publishers-disallowing-bots-by-default/</link>
+          <description>Dow Jones now disallows bots by default across the Wall Street Journal, Barron’s and MarketWatch, permitting selected crawlers through a whitelist. Nieman Lab reports that publishers are using robots.txt restrictions to reduce bandwidth costs, seek licensing agreements and respond to falling human referrals.</description>
+          <pubDate>Tue, 24 Nov 2026 19:27:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-wsj-bot-whitelist</guid>
+          <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+        </item>
     <item>
-      <title>A one-person tech newsroom reaches an $800,000 run rate</title>
-      <link>https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</link>
-      <description>Inc. profiles Alex Konrad’s bootstrapped Upstarts Media, a newsletter, podcast and events business launched after he left Forbes. With about 13,000 newsletter subscribers, roughly 1,000 paying readers and sponsorships supplying most revenue, the operation is on pace for about $800,000 this year—but its dependence on one reporter is also its central risk.</description>
-      <pubDate>Mon, 23 Nov 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</guid>
-      <source url="https://www.inc.com/">Inc.</source>
-    </item>
+          <title>W3C advances WebAssembly 3.0 candidate drafts</title>
+          <link>https://www.w3.org/standards/history/wasm-core-2/</link>
+          <description>The W3C published another Candidate Recommendation Draft of the WebAssembly core specification on November 24. The continuing 3.0 work matters to independent web developers because it strengthens a portable, open low-level code format that can run across browsers and other interoperable environments.</description>
+          <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="false">tag:rcaden.github.io,2026-11-26:tech-wasm-3-candidate-draft</guid>
+          <source url="https://www.w3.org/">World Wide Web Consortium</source>
+        </item>
     <item>
-      <title>Firefox cuts Android app-link startup time by about 20 percent</title>
-      <link>https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</link>
-      <description>Mozilla says Firefox for Android now opens links from other apps about 20% faster than in January. The browser begins network work earlier, delays most extension startup and replaces an animated splash screen. On a Samsung A55 reference phone, one news-site launch fell from 2,054 milliseconds to 1,597.</description>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</guid>
-      <source url="https://blog.mozilla.org/">Mozilla</source>
-    </item>
+          <title>Small local news sites find traffic gains in newsletters, obits and service journalism</title>
+          <link>https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</link>
+          <description>Nieman Lab’s latest ranking of local for-profit news sites shows that useful, distinctive coverage can still travel. Big gainers drew readers through obituary follow-ups, newsletter distribution and service pieces such as a guide to the 690-mile World’s Longest Yard Sale—practical evidence that small publishers can win attention without chasing national scale.</description>
+          <pubDate>Mon, 23 Nov 2026 17:14:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/</guid>
+          <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
+        </item>
     <item>
-      <title>Firefox reduces the identifying details exposed to fingerprinting scripts</title>
-      <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
-      <description>Mozilla’s study of measurements from nearly 25 million Firefox users found that protecting a small set of browser features can sharply weaken fingerprinting. Firefox now obscures details such as exact processor counts and desktop layout information, while Mozilla published its methods and a browser test suite for independent scrutiny.</description>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</guid>
-      <source url="https://blog.mozilla.org/security/">Mozilla Security Blog</source>
-    </item>
+          <title>WebKit adds an interface for Global Privacy Control</title>
+          <link>https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</link>
+          <description>WebKit now lets apps built with WKWebView or WebPage for SwiftUI expose a user setting for Global Privacy Control, the emerging signal for opting out of data sale, sharing and cross-context targeted advertising. The change gives independent browser and app developers a standards-based privacy control across Apple’s current operating systems.</description>
+          <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://webkit.org/blog/18646/global-privacy-control-gpc-webkit-api/</guid>
+          <source url="https://webkit.org/">WebKit</source>
+        </item>
     <item>
-      <title>AT Protocol prepares permissioned Spaces for a December 1 beta</title>
-      <link>https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</link>
-      <description>AT Protocol says its Spaces extension will enter public beta December 1, adding permissioned data for private groups, newsletters and other shared applications. Reference servers will gain support through an update, while new documentation and an SDK aim to let independent developers build interoperable social tools for millions of accounts.</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://atproto.com/blog/getting-ready-for-the-spaces-public-beta</guid>
-      <source url="https://atproto.com/">AT Protocol</source>
-    </item>
+          <title>San Jose Earthquakes announce a change of ownership</title>
+          <link>https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</link>
+          <description>Heath Freeman will acquire the San Jose Earthquakes and PayPal Park from John Fisher and partners after unanimous approval by Major League Soccer’s Board of Governors. The deal, whose financial terms were not disclosed, is expected to close in the coming weeks and gives a founding MLS club new stewardship in Silicon Valley.</description>
+          <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.sjearthquakes.com/news/san-jose-earthquakes-announce-new-ownership</guid>
+          <source url="https://www.sjearthquakes.com/">San Jose Earthquakes</source>
+        </item>
     <item>
-      <title>WordPress.com documents an open-feed path to podcast distribution</title>
-      <link>https://wordpress.com/support/audio/podcast/</link>
-      <description>WordPress.com’s newly reviewed podcast guide shows how even a free site can publish a submission-ready RSS feed while hosting audio elsewhere, then distribute episodes to Apple, Spotify, YouTube Music, Pocket Casts and Podcast Index. It is a practical example of the open feed remaining the portable spine beneath many listening apps.</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://wordpress.com/support/audio/podcast/</guid>
-      <source url="https://wordpress.com/support/">WordPress.com Support</source>
-    </item>
+          <title>A one-person tech newsroom reaches an $800,000 run rate</title>
+          <link>https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</link>
+          <description>Inc. profiles Alex Konrad’s bootstrapped Upstarts Media, a newsletter, podcast and events business launched after he left Forbes. With about 13,000 newsletter subscribers, roughly 1,000 paying readers and sponsorships supplying most revenue, the operation is on pace for about $800,000 this year—but its dependence on one reporter is also its central risk.</description>
+          <pubDate>Mon, 23 Nov 2026 13:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://www.inc.com/mike-hogan/how-alex-konrad-upstarts-media-is-winning-the-new-media-game/91433903</guid>
+          <source url="https://www.inc.com/">Inc.</source>
+        </item>
     <item>
-      <title>NPR makes rebuilding its app central to its next strategy</title>
-      <link>https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</link>
-      <description>NPR’s 2027–2029 plan calls for a service-first, app-first destination, targeting five million weekly platform users and a 40 million monthly digital audience by 2029. The shift reflects a public media network trying to preserve radio while building direct digital relationships and giving member stations a better place in the product.</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/</guid>
-      <source url="https://www.niemanlab.org/">Nieman Journalism Lab</source>
-    </item>
+          <title>Firefox cuts Android app-link startup time by about 20 percent</title>
+          <link>https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</link>
+          <description>Mozilla says Firefox for Android now opens links from other apps about 20% faster than in January. The browser begins network work earlier, delays most extension startup and replaces an animated splash screen. On a Samsung A55 reference phone, one news-site launch fell from 2,054 milliseconds to 1,597.</description>
+          <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://blog.mozilla.org/performance/2026/11/17/making-firefox-on-android-faster-when-opening-links-from-other-apps/</guid>
+          <source url="https://blog.mozilla.org/">Mozilla</source>
+        </item>
+    <item>
+          <title>Firefox reduces the identifying details exposed to fingerprinting scripts</title>
+          <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
+          <description>Mozilla’s study of measurements from nearly 25 million Firefox users found that protecting a small set of browser features can sharply weaken fingerprinting. Firefox now obscures details such as exact processor counts and desktop layout information, while Mozilla published its methods and a browser test suite for independent scrutiny.</description>
+          <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+          <guid isPermaLink="true">https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</guid>
+          <source url="https://blog.mozilla.org/security/">Mozilla Security Blog</source>
+        </item>
   </channel>
 </rss>
